@@ -1,0 +1,3269 @@
+#version: 0.2
+e r
+e n
+  s
+a r
+a n
+i n
+e t
+  d
+  f
+. 
+
+  a
+l l
+t t
+  o
+  m
+ö r
+t i
+ä r
+  v
+  h
+o m
+  k
+s t
+  b
+c h
+  p
+i g
+o n
+ f ör
+ o ch
+o r
+ a tt
+d e
+in g
+n a
+k a
+  i
+ä n
+r a
+e d
+  en
+  är
+  in
+a g
+  g
+  l
+  t
+ a v
+  ti
+  u
+ s om
+e l
+  n
+i s
+t a
+ ti ll
+t er
+t e
+r e
+ d et
+c k
+ p å
+  e
+l ig
+ m ed
+r o
+p p
+ d e
+n ing
+d er
+å n
+ v i
+a s
+  an
+a m
+a l
+v er
+ d en
+ v ar
+u n
+å r
+  j
+a t
+k t
+r i
+ o m
+ s t
+ in te
+s s
+ h ar
+ti on
+i l
+et t
+d a
+ll er
+e m
+ä l
+an d
+l i
+ d u
+s k
+  r
+ä tt
+ u t
+a de
+ k an
+an de
+  ett
+u r
+ b e
+ll a
+å g
+ar e
+h et
+ f r
+i t
+a d
+om m
+d en
+D et
+o l
+ s k
+  ö
+f ör
+ j ag
+s ka
+  S
+st a
+ä g
+? 
+
+ u pp
+o t
+ån g
+ k omm
+ e ller
+ s å
+s i
+  re
+u t
+ s ka
+ fr ån
+än d
+e s
+a k
+i tt
+or t
+ä m
+en t
+ u n
+ p ro
+m a
+e k
+in n
+  A
+an s
+u m
+ s p
+  M
+  (
+en s
+u s
+ n åg
+l a
+f ter
+is k
+J ag
+i v
+y ck
+ komm er
+lig t
+ ö ver
+u d
+er a
+ s am
+v ar
+v a
+d ra
+in a
+ä ll
+ n är
+ a ll
+lig a
+o g
+än n
+ g ör
+  C
+ra m
+ b ar
+st er
+ k on
+s a
+  B
+f f
+u l
+j äl
+s er
+! 
+
+i k
+l e
+e ll
+  ar
+st e
+s p
+  E
+b et
+  P
+V i
+ s ig
+s l
+än g
+is ka
+  T
+r ä
+ m in
+ var a
+k ti
+k er
+d ig
+  G
+de l
+  å
+ an v
+ un der
+ m an
+2 0
+ d ig
+s å
+u ll
+  H
+  F
+v en
+ h an
+a tt
+  D
+ar na
+y g
+er s
+j e
+u k
+  år
+ be h
+ m å
+b b
+ m en
+ g en
+  I
+f t
+ h är
+p a
+s e
+ h el
+ d är
+v e
+c i
+ta l
+inn s
+ n y
+ a lla
+g i
+g a
+g er
+n e
+ e fter
+  L
+o d
+ v är
+ar t
+ k un
+ o ck
+er na
+ b li
+a ll
+ t r
+ ock så
+at s
+o k
+s am
+ h a
+i ll
+D e
+ v er
+ f inns
+F ör
+ f l
+ an dra
+i c
+ vi ll
+ning en
+  K
+  R
+ d el
+D en
+ g r
+l ing
+ d in
+yck et
+f or
+  än
+ m ig
+  N
+ö j
+  c
+ o r
+ m er
+il j
+k l
+ s l
+ v is
+ gen om
+ s e
+  ä
+ö d
+o s
+ e x
+ning ar
+i d
+  er
+ det ta
+ de ss
+ d ag
+ de m
+it et
+ b ör
+. .
+ h on
+ed an
+or d
+ m ycket
+ter na
+ f ram
+lig en
+ers on
+  na
+y n
+ bar a
+un d
+i st
+E n
+ar k
+ti v
+h å
+s ö
+ v äl
+p er
+ vi d
+g en
+l and
+ång a
+c e
+j a
+ f å
+m er
+ t v
+ v ad
+ vi l
+  "
+  ing
+r å
+ m ot
+ ver k
+v is
+0 0
+ gör a
+ någ on
+  J
+ ar bet
+ s in
+ t a
+tion er
+e st
+er as
+M en
+O m
+e lla
+än der
+j u
+ull e
+ p l
+ s jäl
+ p erson
+ h ur
+c ka
+r ing
+s en
+ p o
+l em
+o pp
+l d
+ den na
+ o ss
+ sp el
+ b et
+lig het
+s om
+ b er
+ l iv
+r u
+ k l
+s ti
+ s äg
+y r
+ sk ulle
+  W
+ v år
+an t
+ l i
+d ag
+ r ätt
+ h ö
+ska p
+  -
+ s ätt
+n an
+ all t
+ta t
+ anv änd
+r ig
+ n u
+b er
+ä k
+ m änn
+p l
+ st or
+ beh ö
+ k v
+na d
+ k om
+en de
+ö l
+ar en
+k en
+  V
+k et
+ö n
+y d
+i er
+ b r
+O ch
+D u
+ ä ven
+st äll
+ f or
+  U
+1 9
+  ”
+o ck
+ v et
+ må ste
+t s
+ m ånga
+ö m
+ f år
+et ag
+re ss
+I n
+ti d
+ h ade
+20 1
+ar a
+s m
+ ut an
+k el
+ någ ot
+d u
+ bar n
+  –
+ d å
+ve ck
+ h jäl
+ä st
+ männ isk
+b il
+ b il
+ b ra
+å ra
+de s
+v är
+ för sta
+y st
+g t
+er ing
+d et
+ ti d
+ dess a
+ l e
+o st
+r ar
+an n
+a v
+än da
+i ck
+i m
+i on
+ä ker
+er ade
+tion en
+ b l
+ in ne
+al a
+li ka
+s ätt
+o p
+ä sta
+ in om
+ g ång
+ s er
+ver k
+u ro
+ tv å
+i a
+ s ina
+ själ v
+  O
+het er
+ m öj
+u pp
+o tt
+ f ort
+ för st
+as s
+m an
+ o f
+hå ll
+ j u
+Det ta
+st r
+i ka
+å t
+ell an
+ h å
+j än
+ människ or
+o v
+et s
+na t
+l den
+ h em
+a st
+  ri
+t ro
+dig t
+si on
+ s m
+yst em
+N är
+el se
+k on
+ ut veck
+ å t
+öl j
+ h and
+ri v
+ n i
+ fr åg
+ ny a
+or g
+g ång
+ s ta
+ f un
+a ck
+ d itt
+le v
+y tt
+ m ellan
+H an
+ning s
+ig a
+n ar
+ s ak
+  ra
+ behö ver
+y m
+ m a
+for ma
+ bör j
+ v åra
+ o lika
+  w
+ s äker
+e f
+H ur
+” 
+
+j är
+ p re
+ för etag
+äg g
+ti s
+i en
+ l ed
+f r
+ m ilj
+ v ä
+d uk
+h e
+m ar
+V ad
+ hel a
+ l äng
+) .
+
+ k a
+o ll
+ hö g
+ vär lden
+ vi kti
+V ar
+ d ina
+ l ag
+ s itt
+ g j
+ säg er
+ in t
+l ar
+het en
+: 
+
+ m o
+ s edan
+p el
+ å ter
+ någ ra
+ st ör
+ d eras
+f att
+u b
+ var je
+and et
+ g å
+är a
+g r
+ d i
+ I n
+) 
+
+ s en
+ p r
+" 
+
+m en
+er ar
+ för b
+an ska
+ k än
+g ram
+sö k
+ p er
+ g l
+t ur
+ bli r
+e kt
+o b
+e del
+d an
+20 0
+ k ö
+ t e
+ en da
+yg g
+ t y
+i r
+forma tion
+ s v
+ter a
+m in
+ ska ll
+ re s
+  ro
+ hon om
+an g
+  ig
+e g
+er ad
+änn er
+ h itt
+d om
+p ar
+na s
+n et
+ all tid
+u si
+ö s
+ f in
+ s j
+.. .
+
+s var
+v et
+ sl ut
+p ro
+  äl
+d i
+y s
+ar bet
+t or
+ g år
+å l
+  el
+ m ark
+ sam ma
+ p ar
+al t
+ä s
+a tion
+ b å
+ti ska
+ v äg
+an k
+ä d
+ t ro
+sk e
+p e
+s b
+ig t
+, 
+
+ h en
+ v än
+ol k
+ hel t
+ h ans
+S å
+u v
+  änd
+g ar
+1 0
+ gr und
+f ar
+na der
+b lem
+ä ller
+ var it
+sk ar
+d re
+ä t
+ vil ket
+e bb
+l in
+b a
+ G ud
+ l ång
+ u r
+c ent
+ell t
+sk il
+ätt re
+ be st
+ in formation
+A n
+st en
+ut om
+or de
+ l äm
+ing en
+ sam t
+ kun na
+k omm
+ anv ända
+o w
+ä ck
+ e g
+ l äg
+a kt
+ m itt
+A tt
+ s o
+b ar
+v änd
+ b ästa
+ t re
+ g er
+ ing en
+ s var
+ p en
+ r el
+ä lla
+ b ättre
+and en
+ f il
+ t rä
+a b
+an is
+g ör
+gi fter
+ing ar
+ g e
+ f ölj
+ an nan
+i e
+ t jän
+ k r
+ t än
+ er b
+ti va
+ld rig
+e ci
+ ar ti
+ek n
+ pro duk
+t en
+ l y
+em pel
+is kt
+ för s
+ a l
+t ar
+kt en
+sl ut
+ ig en
+ k ra
+ol og
+ re g
+ist or
+ an nat
+ b i
+u g
+ m est
+l ek
+and ling
+ li te
+ för v
+t ra
+än s
+ v in
+at or
+v s
+ a ldrig
+un g
+ w ebb
+ v an
+na den
+en ter
+ s ö
+tal et
+ E uro
+ e ff
+na bb
+tion ella
+ h os
+tt a
+ g ra
+ sp eci
+tis kt
+m et
+ o n
+ or d
+ a kti
+l ed
+u ta
+ade s
+ f all
+ för l
+ s i
+or na
+t ag
+m ans
+ pro du
+ må l
+an ta
+r ätt
+ t ar
+er at
+ komm a
+uv ud
+  ch
+ fl era
+o ka
+n en
+e ller
+ f är
+j er
+ le ver
+je kt
+ro pp
+M ed
+te g
+ stor a
+b r
+ b ort
+De ss
+g är
+ kv inn
+ s nabb
+ba ka
+ efter som
+ d om
+ e gen
+ med lem
+ ö pp
+t u
+ pro blem
+k om
+S A
+o te
+k e
+ b lev
+ar d
+o bb
+ pl an
+ v e
+f l
+ v al
+k ta
+ p a
+ of ta
+un t
+ ex empel
+ A n
+e x
+k or
+ m is
+p t
+r um
+. ”
+
+Ä r
+y l
+U n
+ån d
+ or g
+ verk ligen
+m ed
+y ra
+ tr or
+ en ligt
+ sk ri
+ till baka
+ ti dig
+p en
+ k rä
+o li
+ek tiv
+am ilj
+on er
+ g äller
+E tt
+h an
+ in nan
+ s n
+ t ekn
+är skil
+el ser
+ l är
+ kom p
+H ar
+ m at
+s för
+ k all
+ h jär
+ h äl
+ o ff
+ p ra
+P å
+u st
+at ser
+ul tat
+ri d
+ h ör
+å ende
+far ande
+ f ull
+ l ig
+ f ick
+ sj uk
+ na tur
+ s yn
+ v att
+ti g
+f in
+ om rå
+a ta
+s ak
+e ss
+e h
+r en
+ n er
+i ver
+ m än
+ r ö
+ di re
+n es
+j ud
+l ägg
+pl ats
+ int ress
+sam mans
+der na
+ce ss
+ pl ats
+l as
+ b ok
+l er
+na de
+ r å
+D är
+. "
+
+i f
+ ber ätt
+e b
+ kun de
+ter i
+bil d
+ för änd
+ kan ske
+o ch
+n er
+ h uvud
+s h
+ g od
+ l and
+A lla
+ så dan
+ na m
+ vä x
+k ar
+K an
+m är
+s in
+ka de
+H on
+äl j
+ t ra
+ C h
+ m ö
+ for sk
+rä ck
+i o
+ k är
+ bå de
+kon om
+ st öd
+ anv änder
+ möj lighet
+s n
+en der
+ s y
+ s ärskil
+ hjäl p
+al itet
+ pro gram
+ utveck ling
+ h istor
+ k ropp
+ e m
+ri st
+ l å
+ d ra
+ b land
+ erb ju
+ arti kel
+ f le
+ sak er
+ m et
+ l ä
+ f amilj
+g iv
+ for m
+ l ätt
+p an
+sam het
+ l ik
+T ill
+) ,
+ r edan
+yck er
+1 5
+ säg a
+ m ina
+ j obb
+år t
+” .
+
+ po li
+ g am
+  .
+
+i ster
+ i dag
+ e konom
+ re gi
+ h än
+ d ö
+S om
+ person er
+r y
+ fort farande
+en skap
+ min dre
+ r isk
+ be k
+for m
+ter ar
+ d ock
+ tidig are
+s f
+ä v
+ S t
+ gj ort
+ in terna
+H är
+r et
+sl ag
+1 8
+ti k
+t et
+ en kel
+ lig ger
+r ed
+ till sammans
+a ste
+ l ö
+ f ri
+ kon tro
+ väl digt
+ st äll
+ vis sa
+ enda st
+ r ed
+or m
+sp ro
+st ånd
+ t al
+ sk yd
+g on
+E fter
+l ag
+ s ystem
+ i m
+o h
+ o b
+ in kl
+iv å
+ hå ll
+ so ci
+ro tt
+um ent
+ pro cent
+  Vi
+am ma
+ först å
+ r ör
+ E U
+Den na
+ inne b
+ f ast
+h äll
+iver s
+g äng
+ d r
+Var för
+ hjäl pa
+ möj ligt
+in d
+ läng re
+ in ter
+ f ak
+ f olk
+ U SA
+  ytt
+j ur
+ fort sätt
+N u
+ b ak
+S k
+ k or
+m än
+ h us
+00 0
+ s a
+ pen gar
+fr ån
+  Y
+A ll
+  [
+ org anis
+ ti den
+ stör sta
+äm p
+ an d
+kl ar
+b art
+ l äk
+sp el
+ för sö
+ t ag
+ kon s
+f i
+ vär ld
+an c
+ pr is
+ f el
+r is
+ar i
+ol ag
+yn dig
+ d ata
+  äg
+år d
+ vatt en
+lig are
+dra g
+ best äm
+ produk ter
+ k ost
+ fl er
+hå ller
+v äg
+ där för
+m e
+F r
+ k änner
+ k li
+p s
+ se x
+ kvinn or
+o ende
+3 0
+u ter
+ vår t
+ fl yg
+ för m
+ an svar
+ res ultat
+ f em
+ en er
+ti sk
+ bet y
+1 2
+" .
+
+ fr äm
+ä pp
+ t o
+ be slut
+ ska pa
+b land
+ k ul
+ig e
+a y
+ hen ne
+ E n
+S t
+ub li
+ använd s
+ti ll
+ ti m
+b o
+ för e
+ s id
+ un d
+al is
+ u tt
+ förb ätt
+äst an
+p i
+än k
+ fun k
+Un der
+e j
+ter ing
+ dag ar
+s o
+ fle sta
+ n og
+a c
+f ri
+.. .
+ st ud
+h a
+e v
+ vikti gt
+ ri kti
+p ort
+ j äm
+ ve ck
+ när a
+ r äd
+c is
+on e
+U t
+ säker het
+ st u
+ r unt
+k an
+ b ygg
+v it
+ f ot
+ ö ka
+ p la
+ hitt a
+ till gäng
+ k ort
+ gj orde
+åg a
+ vis ar
+v an
+ d öd
+ stör re
+ft en
+ta s
+för a
+ li ka
+y t
+5 0
+v ent
+ l änder
+ st ar
+ själ va
+änn u
+b ara
+ sam häll
+: s
+s ig
+ k var
+ tr ans
+is sion
+and ra
+ä der
+V il
+ande l
+ s tat
+s st
+v al
+ all män
+ g em
+  ännu
+lin e
+ nam n
+ i h
+on s
+e w
+ gr upp
+d ar
+ inneb är
+ d ri
+ h änder
+ff är
+ter ade
+a tioner
+ börj ar
+ hen nes
+ sen aste
+ta de
+ tr ed
+ kon ta
+v ä
+an si
+ un g
+ vil ken
+ om fatt
+el sen
+mer ik
+ote ll
+ b or
+ s ti
+ig heter
+M an
+g el
+ ö n
+j us
+b el
+var ande
+v i
+ komm un
+ vikti ga
+f är
+ mark nad
+ enkel t
+ring ar
+ b as
+  “
+ st yr
+t r
+y ll
+on g
+ sam arbet
+ hå lla
+ra s
+ l ös
+ h opp
+ F ör
+re v
+ dire kt
+ti digt
+ var för
+ver ka
+ S ver
+ fråg a
+h ör
+gr äns
+teri al
+ akti v
+ n ed
+p or
+it y
+sa tt
+x t
+ n öd
+tiv t
+ a d
+da de
+ör er
+ få tt
+ bli vit
+Dess a
+ sm å
+ bet al
+f er
+ t ycker
+ erbju der
+or i
+un k
+g e
+ in för
+ n ästan
+inn er
+ äl skar
+ st ra
+et er
+ sk ol
+ b yg
+ck e
+ ty p
+ pro f
+ åt gär
+ b ed
+sk ri
+ in ve
+ill ar
+ vil ka
+ pro jekt
+ beh andling
+ ny tt
+rå k
+pe iska
+ tjän ster
+ic e
+it en
+ särskil t
+o ur
+ st år
+ in d
+ n ät
+den s
+ ing et
+ar s
+un kt
+ U n
+ liv et
+ T he
+ l oka
+ ra pp
+ för h
+ arbet e
+ o p
+ ska p
+ ytt er
+ be f
+ ö gon
+st änd
+ r um
+l an
+ t er
+ läng e
+ k am
+y k
+u ella
+ sen are
+ö ver
+h us
+ kon st
+ till gång
+ ener gi
+  et
+in er
+1 6
+on en
+  &
+P ro
+ upp f
+ ju st
+re s
+sam ma
+ m as
+ Euro pa
+ b el
+ milj oner
+1 00
+ sam man
+ gång er
+ a merik
+ fun ger
+ligt vis
+ e uro
+s ett
+ m usi
+ri k
+t o
+Ä ven
+ vi a
+ i cke
+ra f
+ra l
+ upp t
+ö st
+den t
+ webb plats
+ol en
+ f yra
+sätt ning
+o der
+r an
+ a ffär
+19 9
+sk riv
+ kär lek
+  Det
+ ut bild
+ milj ö
+or n
+ i d
+ k ör
+un da
+ f anta
+1 1
+r on
+ dag en
+ spel a
+ok us
+All t
+f aren
+m at
+ru kt
+ p art
+ck er
+ förl or
+ tred je
+in s
+ fak tiskt
+den ti
+ c ent
+  ci
+en om
+ g ick
+in na
+för s
+ vet a
+ fråg or
+ beh ov
+M in
+ö tt
+ l u
+ nöd vänd
+ k ri
+c en
+ig het
+t on
+si kt
+usi ve
+In te
+ t og
+u ss
+ kun der
+ börj ade
+] 
+
+st älla
+el s
+ st ort
+ s åg
+der a
+ t ur
+ po si
+ s ade
+ f ar
+ru pp
+ tekn ik
+1 7
+V is
+f äll
+ Sver ige
+ st r
+it u
+f all
+n o
+ s teg
+- p
+ re komm
+ eff ektiv
+li ck
+ del ar
+ re p
+1 4
+ l ära
+y p
+ R e
+ eg na
+v id
+ A r
+ var andra
+ra tion
+ upp gifter
+ fin ansi
+u x
+c o
+ sjuk dom
+ M ar
+ gång en
+ f ann
+ för ut
+terna tiv
+c y
+on d
+sp r
+ fram ti
+ till ämp
+ bå da
+fr åg
+ing s
+ n ästa
+  Jag
+ med an
+ kö pa
+ arbet ar
+ trä ff
+ må nader
+ snabb t
+ em ot
+tion ell
+n ande
+g et
+or er
+ väl ja
+en ti
+ m yndig
+ inve ster
+o u
+st ad
+ beh and
+N åg
+as in
+ l iten
+D å
+del se
+ hå ller
+ v änner
+or k
+ män sk
+ be sök
+ o l
+ be g
+ sv årt
+ min ska
+1 3
+ till räck
+l am
+ v ack
+un der
+ pre cis
+s es
+ning arna
+ bl od
+ic ka
+ hjäl per
+ n å
+ fram gång
+k te
+der n
+v ik
+ p ri
+en het
+ d isk
+hå lla
+ förv än
+ er faren
+ för äl
+a p
+ tim mar
+i ta
+ hand lar
+l ad
+el ef
+ d jur
+K omm
+ f okus
+kti v
+p ul
+ inne håller
+ rikti gt
+k ur
+ re ger
+ h al
+ra t
+in e
+ ytter ligare
+i te
+ n äm
+ d ator
+al en
+ sta d
+M ånga
+y ss
+it s
+ on line
+” ,
+ p ubli
+ sk ill
+ p ass
+ pro cess
+ a pp
+el n
+ l jus
+un den
+kt yg
+ börj an
+ t he
+ ly cka
+r or
+ s ett
+ fanta sti
+ gl ob
+ n e
+ce p
+ ing a
+ för del
+ sådan a
+2 5
+ år et
+  /
+em ber
+ol u
+ till s
+ n ivå
+ter as
+ funger ar
+ kv alitet
+ pa ti
+ inkl usive
+ de sig
+ bil d
+s ra
+öl ja
+S am
+v än
+ P ro
+ in f
+k än
+ö v
+ följ ande
+upp gifter
+" ,
+ b ud
+ kän na
+u p
+or den
+an a
+ f i
+ forsk ning
+i et
+ produ kt
+ a b
+ använd ning
+f ik
+ b y
+ si sta
+sn itt
+ förbätt ra
+ ö v
+ an n
+ be gräns
+ lång t
+ an tal
+ off ent
+o x
+ bety der
+g år
+ i denti
+ kra ft
+. .
+
+ u te
+ a c
+ b orde
+ kö p
+  :
+b org
+ m äng
+ min uter
+ hel st
+s sta
+ för håll
+ M a
+ F r
+ använd as
+ vid are
+ ro ll
+ en s
+rä d
+ per f
+ av sl
+ världen s
+ m il
+ä ss
+ö sa
+ed er
+ f akt
+ri t
+ åtgär der
+te s
+ gam la
+ g illar
+ r en
+ verk samhet
+ sam tidigt
+S e
+ol is
+ic in
+ sid an
+in t
+han da
+ min st
+ ha ft
+sp ek
+j uk
+ an g
+rukt ur
+ö k
+us e
+ interna tionella
+ s ym
+J a
+ k rig
+ in b
+ an al
+ g o
+ ta ck
+tion s
+ un ivers
+ vär de
+l ade
+sti tu
+  äm
+ f as
+b as
+ ma terial
+u bb
+ sl äpp
+ lä sa
+ställ et
+ gem ens
+es us
+l en
+ f a
+ N ew
+spr ung
+ till fäll
+te m
+ord ning
+dag en
+s ystem
+ fr u
+ bör ja
+ fl ytt
+ t yd
+ verk ar
+ hög re
+ vikti g
+an na
+ m är
+ission en
+ na tt
+ kontro ller
+ti m
+or e
+av sett
+ Gud s
+ f att
+ någon sin
+ v em
+g rupp
+ t ank
+ G o
+ D e
+b y
+s ol
+Vi d
+ el ekt
+y a
+ m ag
+ vis a
+ inne håll
+ gen er
+änn ande
+ s itu
+ fann s
+ H er
+d rar
+ g anska
+ an ställ
+un n
+itet en
+ rekomm ender
+l ats
+ en lighet
+ ci r
+  %
+ bl og
+ k ar
+n s
+ sk icka
+ bil der
+ till handa
+e ster
+ de fin
+Där för
+a ter
+k n
+ så som
+ s ag
+ m ör
+ al ternativ
+st å
+ b o
+ rå d
+k v
+… 
+
+sta ur
+ ind iv
+dig a
+ or sak
+- talet
+f il
+ soci ala
+  y
+ g ar
+ t em
+ upp n
+mär k
+ ut man
+ genom för
+f te
+c er
+  Z
+L äs
+U pp
+ fil m
+ kall as
+4 0
+ s ven
+ läm na
+a tionen
+E ller
+l o
+na m
+ kun skap
+ kom b
+t ing
+tal s
+R e
+S edan
+ru st
+ tän ka
+ fram för
+ k ol
+u ti
+ allt så
+ hem ma
+ in v
+ S h
+ spel ar
+ histor ia
+ra de
+ s ol
+an sk
+ å l
+k ter
+ regi str
+ dr öm
+b i
+i um
+ k opp
+ ex tra
+ t est
+em ang
+le x
+ sk riv
+u i
+ krä ver
+at ur
+sö ka
+ l åg
+ re sa
+ utbild ning
+der ar
+us en
+is m
+ j ord
+ l andet
+gi ft
+lam ent
+g å
+ h otell
+ id é
+ h eller
+ med del
+verk ar
+ musi k
+ig h
+am p
+ vil ja
+m ark
+ l åt
+ krä vs
+ v å
+ utan för
+ trä d
+s la
+ f öd
+ k oll
+ anv än
+ po pul
+ sta den
+ mark naden
+ ur sprung
+ tillräck ligt
+in ci
+um mer
+ arbet a
+li en
+ss ystem
+lighet en
+ kontro ll
+ s ek
+ jäm för
+ i bland
+p h
+r yck
+in dra
+ o van
+ försö ker
+A v
+ skyd d
+b and
+un dra
+ S k
+ h år
+ k änn
+is s
+ F a
+ kän sl
+Var je
+u lla
+ an led
+Vi ll
+no va
+ika tion
+ mo de
+st ag
+ R o
+fer ens
+ med vet
+ uppn å
+ tra di
+S ka
+ s u
+ L e
+ utveck la
+A r
+ arbet s
+ rapp or
+ätt a
+t re
+K on
+ ä ta
+ mo bil
+ vi de
+er i
+ kon kur
+ områ den
+d or
+ rätt igheter
+ vill e
+ A l
+ ma j
+kom st
+l ut
+ti gt
+ pre sen
+ in sta
+ änd å
+ h und
+sm edel
+ k o
+pp a
+ch en
+ska per
+s kt
+ k yr
+ in s
+G enom
+ r äk
+6 0
+ ut om
+pl an
+ion en
+v ice
+ l o
+ vill kor
+ te ck
+ väg en
+2 4
+V em
+var a
+ C o
+Dess utom
+ läm p
+q u
+ le va
+ M o
+ fortsätt a
+ti ga
+ år en
+e ver
+ le v
+ äl ska
+ M an
+ spel are
+ vet enskap
+ fortsätt er
+ sag t
+ prof ess
+st ri
+ eff ek
+ S tor
+rå det
+ ih åg
+ upp lev
+ gr än
+ska tt
+b l
+ul d
+öj d
+In gen
+ van liga
+ sn art
+ an t
+inn e
+ kv äll
+ si da
+ sl ag
+f ier
+ f ölja
+ h andel
+ skri ver
+ pra kti
+ funk tion
+ d ok
+ tr än
+tig het
+h er
+ ex per
+i ch
+olog i
+b u
+ b äst
+ n orm
+ med icin
+m al
+ d ju
+org on
+ slut et
+og le
+ skri va
+ läk em
+ kul tur
+ all var
+ läg ga
+ent ligen
+ öpp na
+c era
+ö cker
+ur ser
+si kti
+rä ff
+t an
+ ve cka
+ amerik anska
+v äm
+ d ör
+ tän ker
+d ant
+ hitt ar
+ t elef
+ inkl u
+b e
+å ter
+ för klar
+ st and
+ reg el
+ m edel
+ sp råk
+ling ar
+  ers
+ f ys
+ k n
+ fr ed
+pro gram
+  ,
+anc er
+st ans
+ ly ss
+v äl
+na pp
+ red o
+ för en
+ på verka
+k ra
+l äg
+l ös
+ eg et
+ g är
+ komm it
+om en
+L åt
+ kl ass
+ aktiv itet
+ag e
+m are
+or s
+og raf
+e y
+  X
+ö ll
+ e vent
+ ver ktyg
+t jän
+ D en
+yd d
+ gl öm
+pl atser
+ in nova
+ in du
+st år
+ ti tt
+E R
+ kl ar
+ a kt
+re pp
+ e v
+k la
+ a p
+se ende
+ sl uta
+ änd ra
+! !
+
+et ter
+ D u
+19 8
+ hopp as
+ s äl
+el a
+ c o
+gör a
+ering en
+v in
+ A d
+y cka
+vis a
+Fr ån
+ä cka
+ör j
+ gra tis
+ö t
+ för sök
+ag a
+ ut för
+ s an
+ förs v
+p ass
+ kropp en
+vä xt
+min ist
+b ud
+g ra
+ö p
+ bak om
+ ska tt
+ konta kt
+ pl atser
+te gi
+ väl jer
+ häl sa
+ b rott
+ upp da
+n är
+ g av
+ot enti
+ F in
+e c
+p o
+em ent
+ använd are
+En ligt
+ år s
+ ekonom iska
+  ...
+
+ fär g
+i da
+ p s
+för etag
+ må nad
+ behö vs
+ef är
+ byg ga
+ områ det
+h am
+ J esus
+ erfaren het
+f ölj
+ ver sion
+ ty per
+ v ux
+on t
+ ål der
+  Ö
+i ti
+r än
+s ed
+ eg entligen
+ medlem ssta
+T a
+k ring
+an da
+sti ft
+br uk
+ol m
+ott er
+äk ring
+ uppt äck
+ defin i
+d de
+f ull
+o ci
+ s h
+äk ra
+ tjän st
+ri p
+ f av
+ ber oende
+ säker t
+ J oh
+T ack
+e fter
+ b olag
+le ver
+ar der
+ p unkt
+ g ott
+ rel ig
+m i
+l y
+f ika
+ ri kt
+oll ar
+e a
+ p as
+li t
+ o ro
+or it
+ sk yl
+del ser
+ö g
+ka s
+e ck
+ kv inna
+i es
+k in
+y sk
+ d ist
+ m or
+ för n
+ i stället
+ fin nas
+ förs älj
+E N
+kl art
+ tillgäng liga
+p on
+ över t
+ äl dre
+ gå tt
+ erb jud
+ s ju
+g era
+ följ er
+ m ä
+ j orden
+sk ning
+ bet ala
+K om
+i p
+ na tionella
+ju ta
+l at
+ok ra
+on om
+si dent
+E G
+i an
+arna s
+ ch ans
+ling en
+utom a
+ för ordning
+ st äng
+u sk
+ go da
+ gar an
+ h am
+ m amma
+st ra
+ st ark
+ sö k
+ desig n
+ läkem edel
+re a
+un i
+sam t
+ först år
+ fråg an
+ f isk
+är t
+ t j
+pi tal
+sra el
+I dag
+ a m
+ upp märk
+ta la
+ när heten
+ställ ning
+ veck an
+ par ti
+bo ok
+ en gel
+ lå ter
+l änd
+ stu den
+ läk are
+i ci
+ S a
+ rö st
+ skyd da
+ d o
+ bet yd
+ kra v
+asin o
+  Q
+i z
+ ti o
+i der
+ c a
+ b en
+ b ri
+ent ing
+ av tal
+lägg ande
+r om
+ b an
+f ta
+ tro ts
+N i
+ s ann
+ k ring
+te ck
+ person uppgifter
+m ent
+ sk e
+ se p
+ för ber
+li v
+ce pt
+ till verk
+ j a
+ del tag
+k ort
+ hal v
+i b
+ in sp
+ häl so
+v å
+ det al
+ vis s
+ viktiga ste
+-p ost
+ univers itet
+u e
+ m ar
+ igen om
+b eh
+u la
+ p otenti
+ri är
+a pp
+ T h
+ kli mat
+kt or
+ kl art
+ sv år
+ vi kt
+ br uk
+Ä n
+ för fatt
+al d
+g ag
+n ytt
+v ika
+ t opp
+pro duk
+ loka la
+ vå ld
+m t
+ g ud
+ br ed
+ ra d
+ ac cep
+ v a
+tion al
+ ska par
+rig a
+ framti den
+An vänd
+ till stånd
+2 1
+T ro
+ f ord
+ h im
+ l og
+ut veck
+ kun d
+all t
+ör en
+ säker ställa
+ k änd
+as h
+ E x
+p å
+ publi c
+st ol
+ i från
+ cir ka
+ ti tta
+ow s
+ m on
+ön ster
+ser ver
+ P ar
+ gam mal
+ upp h
+erade s
+ p riv
+ st art
+ del en
+ företag et
+Kan ske
+ försö ka
+ sy fte
+ perf ekt
+land s
+ marknad sför
+ nät verk
+ del a
+re kt
+ak et
+og en
+ d at
+ l äs
+ veck or
+Vis sa
+é n
+ Euro peiska
+j ut
+ pr inci
+ l ad
+al er
+Vil ka
+ri kt
+ kr ed
+i tal
+ på verkar
+ männ iska
+u ell
+ behö va
+ lik nande
+ ps yk
+ n or
+ss k
+19 7
+verk an
+ områ de
+ nödvänd igt
+. ex
+r ym
+re sen
+ om kring
+ han tera
+ or sa
+ sätt et
+ part ner
+T he
+ en het
+tion ellt
+ ska da
+c om
+ för es
+ sven ska
+ ut mär
+ K ina
+ ma kt
+ reg l
+ poli tiska
+äl t
+äm pa
+ sam band
+ce book
+ tag it
+  ram
+; 
+
+m as
+ an ti
+ be vis
+ lu ft
+y lla
+ b är
+ känn s
+h o
+ grund läggande
+ så dant
+ samarbet e
+h olm
+p as
+em ål
+ ka lla
+ vin na
+ und vika
+ föräl drar
+m o
+ be gär
+ räd d
+ä kt
+ent ar
+le va
+ skill nad
+T änk
+tion erna
+si da
+ lå ta
+ag n
+ under sök
+V år
+ti ker
+ ung efär
+c t
+k ning
+m elser
+u ellt
+ komm issionen
+ led er
+ hög sta
+ mänsk liga
+ led a
+ hjär ta
+ kons um
+ ber äk
+o den
+ti t
+ B ar
+ H ar
+b und
+ a utoma
+j en
+ en gag
+ t u
+al ans
+ be skriv
+ dö da
+ sk är
+ best år
+ erbju da
+olu tion
+ gär na
+ för slag
+ sätt a
+ rel a
+  Om
+ s att
+ l in
+ek omm
+ eff ekt
+staur an
+en ta
+ o s
+ Go ogle
+ när varande
+ J a
+ o avsett
+ h äm
+ k al
+ l ek
+ sk er
+änn isk
+ster na
+ t or
+um är
+ an talet
+sk ol
+ m ass
+l et
+on a
+ ang es
+ st ol
+2 2
+ in fl
+rå den
+ håll bar
+ till hör
+o ber
+ s em
+ti ve
+ind ows
+ ih op
+ mil it
+  $
+c ember
+ C ar
+ Un ivers
+b olag
+ a t
+ ber ör
+ stor lek
+ M ed
+i ens
+Ö ver
+ra k
+ d ollar
+E U
+ berätt a
+ ställ et
+ inter net
+ upp rätt
+ mäng d
+ en skil
+ loka l
+för ande
+ pra ta
+ bok en
+ p olis
+ g iv
+ ut gör
+ sö ker
+ blog g
+' s
+ m ott
+ b ad
+ rel ev
+ föränd ring
+ profess ion
+sa v
+olog iska
+ vack ra
+S en
+r ande
+an u
+ b öcker
+sk ott
+ upp en
+ P a
+ kl as
+ k em
+ fl y
+ dok ument
+ om edel
+ist an
+ euro peiska
+l å
+ möjlighet er
+Å r
+ l ön
+ n r
+ dra bb
+ t as
+ reg ler
+sl uta
+ speci ellt
+ A pp
+ c y
+ hö ga
+ ri k
+ e j
+het erna
+ bek väm
+w e
+å de
+ med borg
+ In ter
+ hör a
+ organis ation
+Komm er
+ in str
+19 6
+ fast ställ
+ m ån
+ri ke
+sk on
+f li
+ s äs
+ skol an
+ till växt
+si dan
+ kon t
+ock holm
+rit ann
+ag en
+ t on
+bet al
+ara kt
+ produk tion
+ telef on
+sk ra
+M er
+st ående
+ol v
+ re v
+ re spek
+ bek rä
+7 0
+R es
+o ut
+in es
+b ritann
+ v ak
+arakt är
+p ress
+ S ch
+ nu varande
+ lik som
+ pati enter
+o f
+ s äll
+ intress e
+ op era
+v ill
+ö der
+an vänd
+ l jud
+vis ning
+ber oende
+ br y
+b ord
+ för svar
+il d
+ dess utom
+ lever ant
+ framgång s
+ all s
+l unda
+ s ön
+ f jär
+ g re
+ l ån
+ funk tioner
+ anställ da
+ l ug
+ ut rust
+ mat ch
+Efter som
+ k napp
+ st opp
+ sk äl
+ un ga
+ ch ef
+ ad minist
+ för ra
+ h äst
+ hö gt
+skap et
+ Y ork
+ samhäll et
+tem ber
+ ers ätt
+  yr
+i från
+v ens
+ r ing
+ beh ör
+ kred it
+s äg
+ t je
+ta lien
+ konkur r
+  era
+ J o
+org anis
+g ård
+in k
+ de cember
+par lament
+  »
+F inns
+b oll
+ö ts
+ fav orit
+ st änd
+ina tion
+ pre sident
+ ing enting
+ led ande
+spro gram
+b ok
+ rå det
+ god k
+ kommun ikation
+ ne ga
+c a
+ liv smedel
+st one
+ en kla
+am en
+iv il
+ utt ryck
+anu ari
+- år
+jär n
+ r om
+ ut form
+ ö kar
+ stud ie
+ro g
+ var umär
+ j uni
+ sk ön
+ full t
+2 3
+ C on
+ under håll
+ft et
+ pla tt
+s liga
+ en sam
+ri l
+ bed öm
+ak e
+t h
+er ande
+na l
+at en
+ mot svar
+ant ag
+ föränd ra
+ engel ska
+k ul
+o od
+ var e
+ to tal
+ Fr ank
+E uro
+äck er
+8 0
+ h er
+sk ydd
+ stud ier
+ priv at
+F l
+p la
+s ch
+öj a
+ fär dig
+ medlem mar
+et a
+ ut nytt
+ räd da
+k es
+u re
+ur s
+ ant ingen
+ vis as
+j or
+ m ars
+ för vär
+ dag s
+D in
+ ing år
+ någon ting
+ fru kt
+g l
+ f ö
+ vi tt
+ över ens
+20 2
+att er
+ ber or
+ kar riär
+ st å
+ barn en
+äker het
+ bef olk
+am er
+ indiv id
+ l yck
+ men ar
+nader na
+i od
+ k äll
+ an pass
+ föränd ringar
+G ör
+H opp
+ W indows
+ lös ningar
+r ör
+tt er
+ h um
+ glob ala
+ t äv
+em ot
+ ab sol
+en den
+ol ket
+ vis ste
+ ka pital
+ dire ktiv
+ tal ar
+f a
+v ak
+en si
+ i de
+ur g
+ full ständ
+ utveckling en
+ stand ard
+d at
+m un
+ beh å
+ gl ad
+5 00
+E x
+ vi ta
+ an ser
+ komm entar
+ ex akt
+ ford on
+ek tion
+ tekn iska
+r ans
+B ar
+ m orgon
+ L a
+ person liga
+lighet er
+G ud
+ ar k
+ j anuari
+ Stor britann
+h ar
+z a
+ spel et
+av id
+ indu stri
+ä na
+ra d
+ ser vice
+ soci al
+ insta ller
+ti c
+ sk ilj
+ S ta
+del ar
+ li lla
+ö ter
+ G re
+B eh
+ B er
+ person al
+ behö v
+ond on
+ förhåll ande
+ sep tember
+b an
+l are
+s yn
+ t usen
+ ex tre
+ bet e
+ort en
+ kom pl
+s ats
+ter ad
+ an ses
+ du bb
+ sk rev
+kl ag
+ först ör
+n t
+v ård
+ kr on
+ produ c
+ medlemssta terna
+A R
+or lunda
+kl ara
+Vil ken
+ d y
+min stone
+  '
+art yg
+ic ro
+ vack er
+ off ici
+ gemens am
+ysk land
+O r
+ti sti
+änder na
+9 0
+m on
+ b ost
+ t ala
+vär d
+ nam net
+ anled ning
+T i
+ d otter
+ r ym
+ upp drag
+itt er
+ gen era
+str in
+ gem enskap
+ h ot
+pp er
+sp ekt
+ sm är
+g ress
+ vis ade
+vär r
+b ygg
+y ller
+et ens
+ O r
+s an
+en n
+ D an
+ft ar
+ arbet et
+tr yck
+ k araktär
+ av ses
+kt ober
+ st ress
+ lag stift
+ mo dern
+stauran ger
+x i
+sl äpp
+ anal ys
+ s on
+ gemens amma
+ skyl dig
+b lick
+am a
+li c
+sa tta
+jäl v
+ teck en
+u den
+ o tro
+ m y
+li cka
+ över för
+ studen ter
+ an sök
+ upp fatt
+ag er
+ n juta
+is tiska
+ pro te
+ff a
+ men ing
+ van ligt
+ tillgäng lig
+2 8
+V åra
+ fram tid
+ab l
+ kons ek
+F or
+I S
+ j ul
+ stra tegi
+am ål
+ff e
+2 7
+st äm
+ in lägg
+ ka p
+ system et
+i x
+s or
+in der
+ var s
+ po st
+ gl as
+yss land
+ s älj
+ t yck
+ n o
+k oh
+ k ända
+ vår d
+ fort satt
+ läm nar
+ berätt ar
+ St ockholm
+ elekt ron
+j an
+p oli
+ in re
+ T V
+ rep resen
+r arna
+ ut ö
+giv are
+Någ ra
+ reger ingen
+. com
+ s ov
+ N ord
+tu re
+spro cess
+ främ st
+I N
+I bland
+- k
+H ans
+am m
+per atur
+ milj arder
+ förm åga
+ö na
+ll en
+ m ång
+ti ver
+ av gör
+ org an
+d s
+ j ätt
+ak er
+ kon tor
+ tro dde
+ ön skar

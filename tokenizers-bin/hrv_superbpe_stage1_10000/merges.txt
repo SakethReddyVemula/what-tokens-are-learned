@@ -1,0 +1,9610 @@
+#version: 0.2
+j e
+  s
+  p
+n a
+r a
+  i
+k o
+n i
+t i
+  d
+  o
+  u
+l i
+n o
+. 
+
+  je
+r e
+r o
+t a
+l a
+v a
+r i
+j a
+  na
+k a
+n e
+ p o
+t e
+m a
+v i
+t o
+  z
+v o
+  b
+c a
+  m
+j u
+d i
+v e
+j i
+ z a
+  ko
+c i
+d a
+l o
+g o
+ s e
+ d a
+ s u
+  a
+ d o
+s t
+r u
+m o
+l e
+  ne
+k i
+n je
+ o d
+  ka
+n u
+k u
+ i z
+ b i
+m e
+  t
+ p ro
+s ta
+g a
+k e
+ s a
+ć e
+s ti
+ro n
+ca ron
+  ra
+ p re
+m i
+ p ri
+l u
+b i
+z i
+l je
+n ja
+č i
+d e
+č e
+ m o
+p o
+  š
+p a
+  g
+  k
+t u
+c u
+c e
+b a
+b o
+s i
+  to
+  go
+  S
+  te
+  ni
+  M
+  re
+s ko
+ž e
+  v
+z a
+č a
+s a
+ ko ji
+s ki
+ć i
+š e
+c caron
+  B
+ž i
+d u
+l ja
+d o
+s to
+p i
+  P
+g u
+  će
+  H
+g ra
+j o
+  D
+ m i
+  no
+l ju
+n ji
+  ve
+s e
+& ccaron
+; e
+  vi
+  e
+cu te
+ca cute
+no m
+" ,
+ p a
+ć a
+r va
+ri je
+ š to
+no g
+  ta
+  -
+ go di
+ni h
+ž a
+  K
+  f
+š a
+t ra
+v je
+ni m
+  "
+ci je
+l ji
+p u
+s u
+ o b
+  A
+  ma
+s ke
+  R
+v r
+& cacute
+  li
+N a
+  h
+b e
+š i
+ci ja
+g i
+p e
+z caron
+  V
+ s vo
+s o
+ m e
+g e
+n ju
+rva t
+v u
+ t re
+  (
+ i ma
+d ni
+2 0
+o r
+; i
+  vo
+l j
+ ka ko
+z e
+s je
+đ e
+  T
+ d i
+ p u
+ ko je
+vi je
+ d ru
+d je
+ ra z
+  =
+  G
+ = >
+Z a
+ na j
+ s ta
+ko m
+  L
+& zcaron
+ b o
+ M a
+  ti
+m je
+  I
+ ni je
+ko n
+ i n
+  &
+  va
+ pre d
+  ja
+s ka
+  nje
+ s i
+ s ve
+v no
+z o
+h o
+ ka o
+m u
+  [
+ a li
+ta k
+; a
+  O
+  J
+d no
+p re
+  E
+ p r
+  N
+st u
+ sa m
+p ra
+ d e
+ i s
+ra n
+  če
+  C
+ra ti
+ g ra
+ni je
+ godi ne
+  ku
+ m je
+ s t
+v ni
+z u
+ po s
+z na
+r ža
+P o
+a r
+ s mo
+ z na
+b u
+t ni
+vi ć
+ po d
+ bi ti
+ po t
+ p i
+ ko ja
+đ u
+  jo
+sko g
+ d je
+ H rvat
+t no
+go vo
+n ta
+č u
+di o
+li ko
+  F
+v lja
+ na kon
+ o t
+đ a
+i na
+ p la
+ sa mo
+ i li
+ da na
+ vi še
+0 0
+ s tra
+ p ra
+" ",
+  lju
+  U
+s ni
+s no
+ ko n
+r no
+" :
+ka o
+ u s
+ pri je
+a n
+": "
+ g la
+ m u
+ bi o
+  nji
+ t u
+ u z
+ t ra
+ e u
+š ta
+s te
+ je d
+da n
+ i gra
+a ko
+ s vi
+č ki
+i je
+r t
+  ga
+va nje
+ti v
+g re
+  Za
+ ta ko
+  '
+ M i
+ o vo
+ p e
+  ži
+bo g
+sko j
+ k ra
+ć u
+g le
+t je
+ mo že
+va ti
+ je r
+a l
+ b e
+ jo š
+ d u
+sko m
+d st
+  ru
+ski h
+ po li
+d ra
+- a
+ b a
+ni ci
+  že
+g la
+ž u
+ o sta
+f i
+vi o
+. .
+n da
+n ti
+b ro
+s ku
+te lji
+b je
+ re kao
+h a
+ tre ba
+h e
+mi je
+ mo gu
+n t
+ci ju
+ godi na
+r ni
+ z bog
+va li
+ po sto
+ s po
+go di
+f e
+š te
+2 7
+ro k
+  či
+ s lu
+š t
+N e
+o na
+o n
+20 2
+ s va
+va nja
+st ra
+  Š
+? 
+
+ bi lo
+o m
+1 9
+v lje
+li je
+no sti
+l ni
+ b u
+sje dni
+st va
+ v r
+  lo
+ b ro
+ v rije
+ ob ja
+i n
+k la
+vo m
+1 0
+ri ja
+k ra
+ o so
+č ko
+ o s
+ ve li
+re me
+ v je
+  ro
+ o ko
+ eu ra
+tak mi
+ o bi
+re d
+to m
+dst rok
+e r
+  cije
+& dstrok
+ do bi
+ do k
+p li
+ h rvat
+ v la
+j p
+č no
+jo m
+ u takmi
+t ro
+k ri
+ do da
+te lj
+ ve ć
+; u
+ a u
+. jp
+.jp g
+u ro
+vo ri
+jo j
+š to
+k lju
+ bi la
+ t ri
+va n
+ po sta
+k re
+li m
+4 0
+ro m
+ ra di
+i l
+ni ka
+l no
+ iz bo
+p ri
+ni ca
+  c
+ ži vo
+ ka da
+vi ti
+ o p
+  Z
+n ci
+ mo ra
+ na s
+ ti je
+t ko
+b li
+ni ma
+ pred sjedni
+K a
+ nje go
+te r
+  ju
+ski m
+va ra
+vi ma
+ s to
+ iz a
+vi h
+e l
+k ti
+  č
+ lju di
+ P o
+ pre ma
+ri sti
+š ti
+T o
+š ko
+ne r
+ svo je
+a li
+p ro
+D o
+ od lu
+vo j
+s la
+ d rža
+ ne ko
+ju ći
+h i
+no st
+1 2
+ od no
+s po
+ra ni
+la zi
+ve n
+" .
+
+ d va
+ E uro
+st vo
+  la
+ i h
+vi m
+ pro tiv
+ k ri
+ z e
+č ke
+i z
+ B o
+pi sa
+ o va
+ au to
+b le
+ nji ho
+ be z
+ na sta
+ na m
+! 
+
+ci ma
+ je dan
+) ,
+ po če
+ dru gi
+ci ji
+ta r
+ g dje
+  rije
+ ne go
+ s re
+me t
+ k re
+ru č
+ Za gre
+ra o
+godi š
+N o
+nje m
+t ka
+n di
+ k lu
+nu ti
+ s la
+lo m
+p je
+ ka d
+ mi li
+s re
+ sa da
+ P e
+vi la
+ku p
+j te
+n g
+ m la
+  ce
+ ne ma
+ po mo
+f or
+t vr
+va o
+ pi ta
+a j
+d ne
+ša o
+n d
+ di je
+ t r
+ R e
+ po bje
+  ki
+ to ga
+ s vje
+d na
+p la
+ i m
+ ni su
+ s je
+ tre nu
+ po ve
+stu p
+gle da
+va ju
+b no
+je k
+ P a
+ p je
+do m
+ bro j
+nu o
+ vrije me
+ do bro
+ pri ja
+D a
+ t vr
+ si gu
+ B a
+ J a
+ s ma
+ po ka
+ u pra
+ K o
+  ci
+ s vije
+ li je
+ S a
+ me đu
+pa da
+ti m
+r ga
+s li
+  ča
+re n
+ s tu
+ o ve
+ po pu
+ri ma
+M o
+ dru št
+lo va
+ pred sta
+ pro ble
+n ski
+vo g
+ K a
+ po zi
+ni ce
+ M o
+je m
+ji m
+ f ina
+me ta
+ poli ti
+3 0
+ o n
+ š e
+ no vi
+ ta j
+  W
+ a ko
+i t
+ s ti
+ R a
+sta r
+ se zo
+ri o
+ ob ra
+P ro
+lo g
+ za je
+b ra
+.. .
+
+1 5
+ di o
+ ko d
+vije k
+tje ca
+ o z
+ pro š
+M i
+r ta
+ D a
+ona l
+ni k
+ i de
+te m
+ pa r
+š ka
+ B e
+ z dra
+ V a
+zi ra
+ ko ju
+ D u
+di ti
+ga o
+no j
+ mje se
+sa m
+ L i
+ neko liko
+k to
+ u po
+ st va
+ pot re
+ni ji
+ f o
+bi je
+ pro iz
+  le
+vi ja
+la n
+ za h
+ dana s
+ s o
+ni ra
+ za vr
+ Ma r
+ dru go
+ci j
+ t je
+ po ru
+ me di
+8 0
+ sa ti
+vo ji
+ s na
+ po se
+či o
+da r
+ š ko
+ naj bo
+ ne ki
+či n
+v ne
+ mili ju
+la no
+va la
+ ze m
+k lo
+ bi li
+ us pje
+me ri
+ o ba
+ R u
+ pos lje
+P re
+ D o
+h u
+pa n
+v na
+ s te
+st ve
+ ot kri
+t ku
+ o si
+d nji
+č ka
+zu l
+kra ji
+ h o
+ pri li
+đe r
+ N e
+le k
+no si
+ k ro
+ o rga
+ iz ra
+v ši
+ ka že
+ s r
+ f a
+ ko ri
+sje ti
+  lje
+ i sto
+r ne
+ž be
+vo re
+Na kon
+ je dno
+ to me
+ Hrvat ske
+ proiz vo
+ od govo
+ pr vi
+ tije kom
+ i sti
+ ne što
+ra k
+ v reme
+B i
+J e
+za o
+ do ma
+te lja
+ za po
+ i stra
+ po zna
+v nog
+ta n
+ku pi
+ no go
+ J o
+ pu no
+ T o
+ sigu rno
+ni ja
+20 1
+ Hrvat skoj
+ u mje
+me nta
+S a
+ ko m
+I z
+ ma lo
+vo lj
+ko vić
+ u vijek
+vi li
+  žu
+v la
+ p rva
+ d vije
+ iz me
+ D ina
+ G ra
+ma n
+ pu t
+M e
+ M e
+o p
+ vo zi
+ orga ni
+5 0
+ s lo
+ in te
+di n
+ni star
+zul ta
+ po no
+ G o
+d ru
+ na d
+ po ja
+ koji ma
+ nje zi
+u r
+ga đa
+R a
+le n
+1 1
+do va
+ni o
+ V e
+g li
+te d
+ miliju na
+ve r
+ ni ka
+ B i
+ L u
+t ne
+ od rža
+b ri
+bi o
+pu bli
+l ne
+O d
+ sa d
+  Na
+tu a
+ koje m
+v nom
+š u
+ b r
+ti ri
+e n
+ni ti
+v reme
+ po go
+ d r
+ R o
+ o na
+ze nta
+na ma
+d nje
+r je
+ jed na
+aj du
+ na pra
+  ri
+vi še
+đ i
+ N i
+ o če
+vo di
+ re kla
+st ru
+pa k
+ ne će
+- u
+k r
+ t ro
+ ima ju
+ f il
+K o
+ pod ruč
+c om
+ re zulta
+27 2
+čko g
+t re
+ naj ve
+ u klju
+ ko joj
+ d vo
+k li
+ S pli
+s mo
+) .
+
+ra na
+ J u
+ da lje
+I ma
+to vo
+ slu ča
+ o nda
+ go vori
+le da
+ svo j
+ vr lo
+ u vje
+i me
+for ma
+ izme đu
+pre zenta
+ N o
+ eu ro
+N i
+ko vi
+ o pe
+ ja ko
+ si tua
+ bu du
+t ri
+ja n
+ m re
+ L a
+1 4
+ da n
+i d
+č ne
+ pe t
+- godiš
+ o sje
+M a
+z ne
+ te k
+ de se
+ re prezenta
+ V i
+ va m
+ će mo
+ vo j
+ raz li
+ do gađa
+ pro sto
+t ke
+ž no
+ V la
+' 
+
+1 8
+ ve ći
+ svo jim
+d ri
+st ri
+ B u
+ su sta
+ s mje
+ne ra
+ji h
+ pro jek
+ svo ju
+ kro z
+' ,
+i m
+k le
+č ni
+1 6
+R e
+K ako
+ nji h
+ ča k
+n j
+ na še
+s s
+27 1
+ o ni
+ jo j
+ do la
+ po ku
+ pro gra
+ro ja
+ri ti
+sta k
+ pos lo
+r bi
+ mo m
+c o
+ra li
+va nju
+n ske
+  ču
+ ta k
+. ,
+ predsjedni k
+š ki
+ če tvr
+ra ž
+či ć
+ k vali
+ tako đer
+1 3
+ g u
+ lo ka
+va c
+ a k
+ mje sto
+ g leda
+n k
+ pu ta
+ veli ki
+vno sti
+ popu t
+ mi nu
+ u la
+A ko
+ o no
+V e
+ po ra
+ ra s
+ pri pre
+š li
+ zaje dni
+ Euro p
+vo r
+ H ajdu
+ po z
+  Ž
+ pr ven
+P ri
+ v ra
+na če
+či ti
+ oso ba
+1 7
+n ka
+ za šti
+ svje t
+ gla z
+r y
+di je
+ u da
+ gra đa
+u t
+ pro na
+ L e
+ osi gu
+u ze
+n cija
+vije sti
+ jed nom
+00 0
+ ko liko
+ iz ja
+ R ije
+ ka ndi
+či li
+ vo di
+k s
+mo vi
+ na pa
+: 
+
+ g e
+ve de
+ gra d
+bo ra
+ društ ve
+ A n
+go vara
+12 8
+ b ra
+ S e
+V i
+š tu
+nu la
+ kon ce
+ m nog
+čki h
+ ova j
+ na čin
+ utakmi ce
+g ro
+ če tiri
+ s li
+ za t
+ ta da
+10 2
+c t
+ ti su
+ i me
+ pre t
+ dru ge
+ du go
+ sma tra
+š nje
+2 20
+T ako
+r na
+ je di
+ na stu
+će m
+cija ma
+ L o
+ os voji
+ odno sno
+ ne ka
+h va
+k si
+n ke
+sa o
+m pa
+D Z
+na li
+ ra dio
+ I n
+4 80
+ euro p
+3 40
+no va
+ i stak
+ G a
+ vi dje
+20 0
+ slu žbe
+6 40
+ti ma
+ pre ko
+ na ja
+ v rati
+ S u
+s le
+ra c
+ s pa
+s ne
+st vu
+ š i
+ti o
+ u re
+ve sti
+ri ca
+s lu
+ su ra
+p lo
+me nti
+t na
+pe r
+o j
+si je
+ pi še
+  lu
+ z ra
+ g lu
+ fo to
+ poku ša
+ kandi da
+ obi telji
+to r
+v nih
+nja k
+ ra zi
+ b li
+ do godi
+ U kraji
+š nji
+J a
+pu sti
+č kom
+ sezo ne
+te c
+ci onal
+ ima o
+ t ko
+ma ti
+ po kre
+ u lo
+ to m
+mo bi
+a s
+čko j
+ že li
+ pro mje
+ra nje
+l tu
+ a kti
+ zdra v
+da m
+ f i
+ stra ne
+ s pre
+po zna
+lji vo
+ ma nje
+  nu
+ s kupi
+ ( [
+ su sre
+ c r
+lje de
+v ra
+li ma
+ pri mje
+ mla di
+ po ne
+gla si
+ na tjeca
+tec ted
+ re gi
+: pro
+ P u
+:pro tected
+di la
+š ke
+ vreme na
+ra la
+c h
+ za klju
+me n
+ vi je
+ b or
+ žu pa
+ poka za
+s na
+2 4
+đe n
+ živo t
+ vla sti
+2 5
+ zavr ši
+če r
+ va s
+ž da
+ e ner
+ od re
+ mje sta
+ pot vr
+ ko risti
+ pove ća
+p ru
+ na vija
+ a l
+ in ter
+di li
+S ve
+2 6
+ V u
+ svi h
+mi r
+ pra vo
+ca ma
+te ta
+lje m
+ ima ti
+ ne o
+ po te
+je di
+ sa sta
+ sva ko
+I D
+ u nu
+mo gu
+ H a
+ kra ju
+ nje ga
+ Va raž
+S u
+š la
+m r
+ H DZ
+ auto mobi
+ E U
+ ra d
+ k ru
+ go tovo
+ro d
+o vje
+ foto gra
+ in forma
+Na j
+ o stva
+ lju ba
+ po da
+  Č
+ te re
+ra ju
+ I va
+ b ri
+ te ško
+.. .
+č na
+ o da
+ vo de
+ F ran
+ su dje
+ pot pu
+f a
+ča j
+ča n
+ vi so
+ci o
+O vo
+p nja
+ro vi
+ bu de
+je mo
+pra vo
+s nije
+ra ne
+ k r
+n skog
+ bi t
+ Zagre bu
+- o
+ ka zao
+z ni
+do vi
+ K u
+ su da
+lo gi
+ko va
+ ovo m
+je ma
+ pro da
+O va
+ od u
+r ka
+ši ć
+ na ši
+ u či
+  rje
+ mo gao
+ te h
+ p rati
+ O bje
+ is ku
+ Obje ct
+T a
+ po lu
+h vati
+ ku ltu
+ koje g
+ pose bno
+ Hrvat ska
+H rvat
+k ve
+ ne sre
+ su pru
+ na gra
+ te me
+ mom ča
+no vi
+ D e
+ ko lo
+ a meri
+p p
+ godi nu
+ organi za
+p rije
+ ka zne
+ka v
+ri ji
+pre d
+ obi telj
+P a
+i tem
+bo r
+c k
+2 1
+š nja
+ go spo
+ pa rt
+vi ca
+ pre mije
+ iz gu
+ k nji
+ glaz be
+b lje
+ f e
+ri ć
+ pod r
+ ovo g
+ od ma
+ stu de
+s lim
+ta ra
+ ne dje
+ vi de
+I ako
+ ti m
+ d ra
+ pr vo
+ dje la
+ o ne
+ sre di
+ o bo
+ ni šta
+ Dina mo
+E O
+ti ti
+ na pisa
+m pe
+pan jo
+ po du
+m p
+ ka rije
+ svo m
+ Mi lano
+ na pada
+ mo de
+č ku
+Š to
+ mje stu
+li o
+za k
+go vi
+ no si
+c je
+ ba š
+ A l
+j ka
+ spo rt
+ ne ke
+c he
+v nim
+ o k
+j ske
+t y
+ di re
+ta li
+ za do
+ID EO
+ p ru
+ pos la
+ pita nje
+ mu ška
+ fina nci
+ se be
+A li
+Me đu
+n zi
+ po sti
+ od ra
+ upo zo
+ vi di
+ A r
+lo ga
+ S i
+ va ž
+f o
+l na
+ k lju
+ osje ća
+te t
+ pri zna
+či ma
+ A u
+ t ran
+ dese t
+ su bo
+t kom
+ u li
+t ki
+so m
+g lo
+mi na
+ži ti
+go m
+ us po
+čki m
+ še st
+e le
+roja tno
+ pje s
+ slo bo
+panjo l
+ni cu
+ če ka
+D P
+me nt
+ iz da
+ no ve
+ mi nuti
+ če sto
+lja k
+T O
+ iz gleda
+ba r
+ku je
+ stva ri
+na ta
+ o po
+ ot vore
+ re a
+ o sno
+li ć
+d nja
+ na š
+ ro di
+ pri ča
+T re
+ pomo ć
+ najbo lji
+ ra spo
+ P len
+ Š i
+va lu
+ bi h
+2 3
+ o ti
+lni k
+ svi m
+ pro met
+ ob zi
+ po nu
+ nje govo
+ kra ja
+u p
+ I z
+ći h
+f ina
+govo r
+ nji ma
+ N jema
+ s pe
+š lja
+ novi na
+di gra
+ do sta
+ ni sam
+lim pi
+b re
+n de
+ na po
+ ima li
+ predsjedni ka
+ dobi o
+vje tni
+gre ba
+ Du bro
+ vla sni
+ svije tu
+ g ru
+ bo lje
+ vozi la
+n joj
+ u tjeca
+ gra do
+st ro
+ mi nistar
+nji ma
+ minu ta
+ istra ži
+ po bije
+ živo ta
+ op tu
+T e
+to n
+C la
+ u o
+ T u
+ st ru
+Pre ma
+ utakmi ca
+G o
+l nih
+ upra vo
+ po ma
+na me
+ doda o
+ri li
+ f u
+2 8
+ na vo
+te go
+k va
+nu li
+ uklju ču
+re m
+li na
+ dje ce
+i ma
+j ski
+1 00
+vni ka
+ kra j
+9 0
+ dru ga
+ F i
+s pe
+ji ma
+go va
+ sva ki
+A D
+ mo žda
+ bo le
+Cla ss
+ po na
+ra nja
+ o pa
+ve d
+ ra ču
+ D ra
+ b la
+ njego v
+ka ko
+pi o
+bi li
+či la
+ st d
+vni k
+ njego va
+n ca
+ri ce
+n ga
+v ca
+op će
+ tisu ća
+po ru
+ tr ži
+ zaje dno
+2 2
+s lo
+t nih
+ci ona
+O si
+U z
+j na
+r vi
+ i pak
+ri na
+sa n
+ I van
+ na lazi
+ prva ka
+ te le
+ č ovje
+n ča
+la z
+š ku
+ predsta vlja
+ra tu
+ po či
+ra va
+ o mogu
+ u če
+no vić
+mo m
+si ja
+ S o
+dni ka
+ u ži
+ sta no
+k tu
+ proble m
+ ne za
+ st ruč
+ vrije dno
+ ka snije
+ T ru
+ži o
+š lo
+ D i
+ odma h
+ s mi
+ hrvat ski
+ze m
+zi ma
+; no
+ u kup
+ iz vo
+ ka za
+Ka d
+ i du
+v dje
+ do lazi
+ nogo met
+ s klo
+ ko le
+ s red
+ područ ju
+ po l
+ e lek
+ utakmi cu
+ pono vno
+r ke
+l l
+ka ma
+ ne do
+ve z
+ jed nu
+ k la
+ kon tro
+ o digra
+ pro ce
+ F a
+L E
+3 6
+to ri
+ proš le
+ne na
+ mo gli
+š će
+ve o
+lo ve
+ zna či
+va ja
+kto r
+P O
+ za pa
+zu je
+ i ako
+ kvali te
+ svo g
+č nih
+ u sta
+telji ma
+ su d
+ od je
+ može te
+volj no
+vje t
+ h i
+đe na
+la ze
+ oso be
+r ma
+ in f
+ Zagre ba
+N ije
+m be
+ ima mo
+ pla ća
+ za greba
+dnji h
+ o su
+ ni ti
+ka za
+s he
+ s ljede
+ ja vno
+ od li
+ ko mu
+ vo za
+ s ce
+ dje lo
+ jed nog
+ trenu tku
+bo m
+mpe ratu
+Na ime
+pli t
+ či ni
+ ki lo
+ upra vlja
+ z lo
+ ne u
+ A nd
+ Re publi
+lo vi
+pi ti
+; ki
+ra vno
+li h
+ C a
+N je
+h r
+ naj više
+đe nje
+ T a
+je va
+  Y
+li ti
+ e ki
+ no vo
+  ž
+b r
+ za to
+sti tu
+re nje
+ri la
+di na
+ iz gra
+ po sao
+ tre ner
+ to liko
+ J e
+k su
+ gra da
+sti ma
+Osi m
+ posto ji
+ ka r
+ pro fe
+ ener gi
+de ri
+ri s
+ pu bli
+ni ke
+ obzi rom
+ za ko
+ koji m
+ mogu ć
+vi zi
+ H o
+ Zagre b
+te lje
+ f or
+ ra nije
+ pra va
+ zah tje
+ P ri
+n ce
+na c
+ T i
+ re ći
+ pomo ći
+n ska
+ pone dje
+2 9
+še nje
+ oz bi
+ klu ba
+ unu tar
+ ta mo
+li ca
+ poli cija
+bi ja
+ mjese ci
+ za što
+ go l
+ igra ča
+ iza zo
+ mnog i
+she d
+ ma nda
+telji ca
+ m no
+ iz nena
+publi shed
+J o
+či ca
+ S la
+ pe tak
+ su m
+ i sko
+ali as
+ svije ta
+V o
+ ne da
+ pro du
+ rije č
+ jedno sta
+. hr
+l nim
+z da
+la r
+d rža
+ u na
+ če ga
+vi ća
+ za pravo
+ svo joj
+ oz lije
+d nju
+ti n
+ve li
+mo r
+l nog
+ oso b
+ u tvr
+ obja vio
+ci jom
+đe no
+ka d
+će g
+ S ve
+ tra di
+ zah va
+ proble ma
+sta va
+ za u
+19 9
+ s mr
+na k
+ B ar
+ Hrvat sku
+ radi ti
+V a
+ ne tko
+ de ta
+tro ga
+ klu b
+ br zo
+ u pu
+ te mperatu
+na d
+ V o
+ zdrav stve
+ o vi
+ H N
+ R i
+ fotogra fi
+P red
+ ko la
+lo st
+ s rije
+ca t
+mi ra
+ po re
+ ima la
+  ću
+ pre da
+ bo lni
+s pi
+š ću
+ sve ga
+v nu
+rni k
+ vidje ti
+ o pre
+ ko menti
+ mre ža
+ ne po
+ može mo
+ zem lje
+ o to
+ š a
+ veli ka
+v re
+ na vodi
+O n
+ gospo dar
+ to g
+ pro mije
+di ja
+ ne sta
+ mo gla
+ mi sli
+ se dam
+ č lano
+s fe
+ subo tu
+s ci
+t nu
+ kori sni
+nici ma
+ti ć
+ ve za
+ pr vom
+ s ja
+ z gra
+ za stup
+ pra vi
+z ma
+ e ks
+ inte re
+ vje rojatno
+Ka da
+ o či
+ dje voj
+ pje va
+ najbo lje
+gle d
+tni ka
+ sluča ju
+ o vdje
+ o sam
+ iz no
+ raz vo
+ a r
+dni k
+ de mo
+6 0
+ b rani
+ po sjeti
+r tu
+ e mi
+ iz van
+ raz do
+ podu ze
+vo je
+ ve liko
+ me ne
+' .
+
+n skih
+ vje ru
+T u
+ po di
+de n
+ S AD
+ st vara
+ fil m
+ni n
+T E
+pi su
+ društve nim
+te rija
+ li sto
+ fu nk
+no ve
+ po la
+ ko menta
+ e ko
+ tra v
+ prili ku
+r ba
+ s ko
+bo j
+kup lja
+ pri va
+ ra da
+ is po
+ potpu no
+ pri ro
+nda r
+ ope t
+fi ka
+deri ng
+ Z o
+ od vjetni
+ Gra d
+mi šlja
+ drugi h
+ta ka
+ vla da
+gro up
+ sudje lo
+i sta
+ u dru
+ iz vje
+vr še
+ oče ki
+ nedje lju
+t h
+ P i
+ svo jih
+ C o
+ t ru
+ ge nera
+ ozbi lj
+ bo ga
+ drugo m
+ po gleda
+ša va
+ bi v
+ra nu
+ pu to
+ Mi nistar
+ža va
+ spre m
+Među tim
+ za ba
+ge n
+ vr hu
+di ć
+ bi le
+to g
+ži ć
+B o
+ O p
+ tje dna
+ do ku
+ doma ći
+ po dije
+ty pe
+ s mije
+ do sa
+ odno su
+ Varaž din
+so n
+ sto ji
+ti ca
+;i vo
+ste r
+ po vje
+ u to
+ na mje
+stu pa
+ istak nuo
+ s nim
+ tu rni
+ par la
+ S rbi
+ S DP
+pi ta
+Po d
+ma nje
+S va
+ je zi
+ po vije
+vo za
+o sta
+č nu
+ grado nače
+ po vra
+ hrvat ske
+ M u
+ T e
+ igra ti
+ ko na
+bi ti
+ obja sni
+Ka o
+) 
+
+ us lu
+ do voljno
+ pro sje
+ mi ni
+or dering
+ nogo meta
+ ponedje ljak
+li n
+valu e
+j no
+da na
+ Ma ri
+ do nije
+ Ši be
+  /
+ u go
+k sa
+n te
+ o gra
+ Ni ko
+ treba o
+ mi je
+z or
+ pro je
+ godi ni
+ pi sa
+A J
+D e
+vr ši
+ F e
+r ži
+ č la
+ va troga
+ti on
+si ma
+ča r
+đe nja
+;e r
+ Jo si
+ o vu
+ tu risti
+ že na
+  ža
+L ju
+ nastu pa
+ ka tego
+ zapo sle
+ti ne
+ s kla
+sla v
+t nog
+ A meri
+ Iz ra
+ po tom
+ K i
+š no
+di te
+ obi lje
+ pro me
+sta vlja
+ sa mi
+de se
+ dje cu
+ š te
+ pos ve
+ iz nosi
+ h la
+v lju
+ bi je
+ ra ta
+ P re
+dni ci
+ is pri
+ izbo ra
+ Spli t
+ si je
+ pr ve
+đe ni
+ lo p
+ srije du
+ bi ra
+ kri ti
+  Đ
+ dije te
+l nu
+ ku će
+n skom
+ja r
+o to
+ za ra
+mi sli
+ Dina ma
+ no va
+" 
+
+ d ne
+go r
+so b
+ tu ri
+ ni smo
+ osi m
+;i o
+ pret ho
+ mno go
+ka ta
+ ja sno
+ pla nira
+ akti vnosti
+3 2
+ pote ncija
+d nom
+nje g
+ bi vši
+ pu tem
+ pove za
+d nu
+t t
+da k
+glasi o
+ budu ć
+n jom
+ pre ki
+ D al
+ bo dova
+š lje
+ra no
+ po jedi
+ P ro
+ sa ta
+ zna m
+ ve če
+l nosti
+r p
+ka r
+ži li
+vlje n
+ upo zna
+tu al
+ ma j
+Hrvat ska
+bi la
+P u
+ e mo
+ pro te
+3 5
+Z bog
+č nim
+re a
+ b an
+govo ra
+nica ma
+ dije lu
+ nika d
+ pre pozna
+B a
+ stra nke
+ posto je
+na s
+ po sje
+P rije
+bi na
+ ob u
+vanje m
+R ije
+či ta
+ će te
+N A
+Z na
+ti c
+ na ma
+ fe sti
+ koji h
+ rezulta t
+ me tara
+ do šao
+ iz bje
+ s lije
+ve za
+ is pu
+ veli ke
+k na
+n tra
+o gra
+t nom
+ po vijesti
+ raz u
+ sr p
+ po tra
+ is pred
+ pose b
+li ja
+ do ži
+ zna čaj
+va ma
+ zem lji
+ti na
+S vi
+re na
+ dobi ti
+p le
+ do ći
+ pot ro
+št va
+ utakmi ci
+ na zi
+ ka mpa
+še nja
+k vi
+4 5
+di ma
+ za mje
+ K ri
+ mogu će
+zi ja
+ Hajdu k
+vreme no
+P e
+ pripre ma
+ uto rak
+ Gra da
+ Fran cu
+ de ve
+ razi ni
+ teh no
+vo ra
+za m
+sa k
+je dno
+ki ć
+ s plit
+ na do
+ spo me
+ H rva
+nci ji
+ sje ve
+ Republi ke
+i s
+ti vno
+de r
+le s
+ svi ma
+v ci
+ a t
+pi s
+ mi rovi
+ni ć
+ svi b
+ Plen ković
+ o ru
+vi te
+ z o
+ h a
+ drugi m
+ mjese ca
+ Iva na
+ in stitu
+ ku p
+lo ba
+ cije ne
+ ško le
+ Milano vić
+ z la
+ u hi
+ pos lije
+rno j
+tno j
+ Spli tu
+lji va
+ho w
+ osvoji o
+ i g
+ ti me
+ H e
+ in vesti
+ obra zo
+g h
+ko r
+ oso bi
+ momča d
+re nja
+ za nim
+kre tni
+ do nosi
+ K ra
+ š u
+ gla so
+ Š panjol
+g nu
+ či ta
+ pa k
+ gla sa
+ ob li
+rno st
+ godina ma
+ župa nije
+đe ne
+ ot vori
+ a nali
+ža n
+;e te
+ isti če
+l nom
+ ri zi
+l le
+limpi j
+lo v
+že n
+ poz or
+ š o
+ gra du
+ mreža ma
+ iz lo
+ pro si
+ uključu jući
+ su ko
+ p si
+ši ti
+ cije na
+lno j
+ nedo sta
+ V IDEO
+ na cional
+ izbo r
+3 4
+ do bar
+ ra de
+tno sti
+ dola ra
+ lju de
+ pobje du
+ tvr tke
+Tako đer
+to ra
+ z vije
+ ni z
+ ti h
+li ne
+la k
+ mo ći
+ Hajdu ka
+mi o
+ tra ja
+ mora ju
+s vje
+ mo glo
+ nje mu
+ gla vni
+ mili jar
+7 9
+; ko
+ projek t
+ ok ru
+ pobje de
+ među na
+ sna ge
+ susta v
+d nih
+ na ro
+S i
+ njego ve
+ tvr di
+ neda vno
+8 8
+če nje
+ li pnja
+t nim
+po m
+ hrvat skih
+ č lan
+ž nje
+ti h
+ba n
+ napra viti
+n gle
+ ja vnosti
+ u t
+3 1
+ ko li
+št vo
+lje na
+ In sta
+ sa vje
+že nje
+G ra
+ za tim
+ medi ci
+ nje ma
+ če mu
+D ru
+to č
+ poru čio
+F F
+ no vih
+ ovo j
+ri ju
+ pr vog
+V je
+ se bi
+ dobi li
+ iza z
+vlje na
+ posta o
+jo pri
+ obja vila
+ tr govi
+ And re
+B e
+re ni
+ po ža
+ pr vu
+ že le
+ ho te
+ Vla de
+ g r
+nta r
+ progra m
+R o
+ za slu
+zu ju
+ hrvat skog
+vla da
+Do da
+ o vih
+ to j
+;e mo
+ vide o
+g dje
+k cije
+ve la
+zi je
+ ob je
+cij ski
+ dogodi lo
+LE D
+ a d
+ ci lj
+f ije
+lo ški
+v ku
+ra m
+ na da
+po rt
+ni ju
+ bi ste
+ k va
+ di za
+ C e
+ ot vara
+tiv ne
+u čili
+ no vog
+gla vnom
+ži la
+ že lje
+ situa cija
+R u
+ po stup
+ trenu tno
+J E
+ni la
+ na si
+ do šlo
+mi ja
+do ve
+ pod rža
+ nika da
+Ova j
+ Mar ko
+ti nu
+ treba lo
+ proš lo
+lja n
+ran cu
+ di ja
+ izja vio
+ Z e
+ svije t
+ iz vr
+ča k
+pu šta
+ svje do
+č nom
+si ji
+kr ša
+PO G
+ pro sla
+ ni tko
+-godiš nja
+ fi zi
+ trav nja
+ s ku
+ra mo
+ no vu
+ G r
+ va še
+ sije č
+lo bo
+ susta va
+ sre dst
+AJ TE
+z vo
+č nog
+ p lo
+ po gi
+ popu la
+ otkri la
+li la
+la ga
+ h e
+ O FF
+d ro
+to va
+ pos lu
+ oče kuje
+ ispo d
+ Insta gra
+POG LED
+R T
+ bi smo
+ mi slim
+ či nje
+ zapo če
+ su o
+st re
+sta n
+ me da
+ zem lja
+ otkri o
+POGLED AJTE
+ za bio
+mi ni
+ B ra
+ ma nji
+ organi zira
+ C h
+vlja ju
+ma tra
+le ko
+či na
+7 0
+ izbo rima
+  w
+j ne
+ h it
+vno j
+ stra na
+kto ra
+ pona ša
+ po bo
+te ra
+ ra vna
+ raz voj
+ va nj
+ spo rta
+ potre b
+ muška r
+n sko
+ te ni
+ dje ca
+ njiho ve
+lje ća
+Mi slim
+ž ba
+ o nih
+ tere nu
+B u
+i gra
+ga ma
+ is klju
+I tem
+ ka k
+v ka
+ s nima
+o d
+mi ca
+vni ci
+ momča di
+b lja
+la c
+ raz mišlja
+ drža ve
+6 8
+ i gre
+ pro vo
+lje n
+ba ci
+ S ta
+ igra č
+će n
+ pla t
+vi ce
+ći ne
+19 2
+ cr ve
+ bo lji
+ in du
+j ni
+ž ni
+ part ne
+ pol jopri
+ ko jom
+pisa o
+ odu še
+ti li
+ K e
+ kon fe
+ treba li
+ Do movi
+k cija
+zo m
+ k li
+r ve
+ pri su
+ ku ći
+ potre bno
+ na tje
+ jed ne
+ u kraji
+dno j
+ njiho v
+Ž e
+ no vac
+ pos lova
+ bole sti
+n jo
+lni ka
+n stve
+ce m
+đu je
+vlje ni
+ živo tu
+ promje ne
+š ća
+ pre nosi
+ u ni
+sjedni k
+ ljudi ma
+ stva r
+ lju d
+ ru jna
+d nog
+ poslje dnjih
+s nu
+Č e
+ š an
+I pak
+te re
+ pro vje
+ la ko
+niji h
+ ope ra
+ svako dne
+ ško la
+ prili kom
+ br zi
+ najve ći
+; ,
+O TO
+ ka me
+ S r
+ sma nji
+ mije nja
+v ča
+ sta dio
+ poli cije
+sjeti mo
+o u
+ d ro
+ zado volj
+O ni
+ pita nja
+ prosto r
+ četvr tak
+li ce
+ iz vijesti
+ odgovo r
+ ka žu
+ ula ga
+ premije r
+ na pre
+ re kli
+ sma nje
+ projek ta
+j skog
+ pa da
+ kon ku
+meta ra
+l y
+ treba la
+ Pa ri
+cij ske
+ raz loga
+ is pla
+ ze ma
+ga n
+ umje tni
+ Lu ka
+3 3
+g ne
+ni te
+ da o
+ od govara
+ H ar
+ K ar
+r ske
+ra y
+ do če
+ poslje di
+ cije li
+ Euro pe
+ stva rno
+ Ne w
+ o žu
+sje ća
+Bi lo
+ iz nim
+ raču na
+ ukup no
+T ije
+ c je
+b la
+ uz ro
+8 5
+ pro ra
+ par ki
+ sr pnja
+ ži vi
+ so cija
+ napisa o
+ prije d
+ pe r
+ kori šte
+ pobo lj
+ta c
+ elek tri
+ ne kretni
+Po li
+ne se
+mi ti
+ doda tno
+ Mo dri
+ sklo pu
+ listo pada
+ ma terija
+ drža va
+Ima ge
+ pru ža
+ Fi li
+ ispri ča
+u pa
+ N A
+la zak
+ mo j
+ be s
+F oto
+ pre mi
+":" "",
+ že ne
+li ka
+ pri pa
+ K on
+ G u
+ču je
+ vra ta
+ u mi
+ st re
+Da nas
+ ne vje
+ ku pa
+ mla de
+ da ti
+ ra st
+ ti če
+ra ma
+ u vo
+ re da
+ reprezenta cije
+q u
+ s how
+ a m
+-godiš nji
+ li ge
+ mora mo
+ tje dan
+ra ca
+ko ho
+ poče tka
+ opa sno
+ra s
+ e pi
+ sad rža
+ Ma rija
+ Dal ma
+ H er
+ raz govara
+ osta ti
+ građa na
+ mladi h
+ o vim
+ do zna
+ pre više
+ u glavnom
+ ko lu
+ D an
+ pred vi
+y a
+ ob e
+ To mi
+ Ukraji ni
+ podr šku
+ jednosta vno
+ pa cije
+pu šte
+P i
+r vo
+lje ni
+ go d
+ši o
+ Euro pi
+ ho će
+l nici
+ra zu
+V IDEO
+ p le
+ za da
+ ko ša
+ pre uze
+ re kor
+ R T
+ ba rem
+ automobi la
+F OTO
+ do zvo
+mi li
+ S love
+Bi o
+ tran s
+ zema lja
+be r
+ prija telj
+ drugo g
+stru ktu
+ vo dst
+ neki m
+ ulo gu
+k lu
+mo sfe
+ va žno
+ doda je
+S ta
+ veli ku
+ B ri
+ stra te
+ sigurno sti
+ kolo voza
+ P or
+ vrijedno sti
+ pri ti
+ prven stva
+ ogra ni
+ni ku
+ S vjet
+vje ti
+ de fi
+ naj manje
+ odlu ku
+ po lo
+ ku ća
+vreme nu
+4 7
+vi na
+ su sje
+t ske
+ dobi la
+ju tro
+ zavr še
+ gu bi
+f u
+s nih
+ pri ma
+ no rma
+ti va
+že na
+ vi ke
+ u opće
+sko ro
+ proje kti
+t ski
+ na vede
+ čovje k
+ isko risti
+ Rije ke
+s lje
+vi d
+mi la
+ mo bi
+; .
+
+ o šte
+li ke
+ da lj
+;e na
+ oko li
+ poči nje
+D u
+bi lje
+ ve lja
+- i
+g no
+ umje sto
+C a
+ B er
+ do ka
+ di ljem
+ progra ma
+ polu fina
+s kr
+ku l
+ h u
+ tre ni
+J u
+b y
+ro va
+pa d
+ odlu ka
+ broj ne
+ izra el
+š kom
+ njezi n
+ Europ ske
+D i
+l la
+ pro fi
+;e n
+ tro ško
+Jo š
+5 5
+ lo še
+ razli či
+ Rije ka
+jedi nje
+ dire ktor
+ svib nja
+ u ze
+ do govo
+sti na
+lu je
+če n
+ g ro
+ kom pa
+ pri la
+ pu tu
+ sta ri
+ la k
+ njiho va
+ tele vizi
+  X
+5 00
+S e
+v lji
+te o
+ pri opće
+ re ali
+;i ti
+ko ve
+t ru
+ni li
+ na ša
+ mjese c
+ do pri
+ sa zna
+ biv še
+ na ba
+će ni
+ša ti
+ me ni
+va na
+ izbo re
+ nasta viti
+ ras pra
+ s hvati
+ pre su
+ područ ja
+ natjeca nja
+ rea gi
+; ke
+R I
+s nim
+ći na
+ D rža
+št vu
+ al koho
+ naši h
+n s
+n skim
+ti ja
+če ni
+me r
+s nog
+ti je
+ tra ži
+ profe si
+ o zna
+ b lo
+da l
+mi ma
+ poslje dnje
+ ž rt
+ S te
+ zra ko
+ zau sta
+ tehno logi
+va l
+Ne ma
+ oru ž
+ki nja
+ pro svje
+ra struktu
+ na gla
+ na pusti
+lje v
+Je dan
+ deve t
+ o ku
+ u govor
+ pri ka
+ go la
+in g
+ ljuba v
+ G or
+k ro
+ je din
+nju je
+ obra ne
+ struč nja
+t lji
+š ni
+ pre krša
+ h ra
+ pita nju
+Tije kom
+ S an
+s pje
+ za bra
+ zna ju
+ du ž
+ do stup
+že mo
+m bo
+ti la
+po dne
+ napa d
+ at mosfe
+ RT L
+ se ku
+ re du
+for mi
+B C
+đ ar
+bo o
+tno st
+ igra o
+ cije lo
+ ju go
+Do k
+k ta
+ma na
+sto m
+ tije lo
+godiš nji
+ sa t
+e la
+ d re
+ o kre
+ za drža
+C caron
+va r
+ pre h
+če nja
+ lije č
+sta o
+ go sti
+ ce nt
+L i
+ zdra vlje
+ iz nad
+ ru ko
+b lju
+ a si
+či ne
+ prora ču
+ma ni
+ pri op
+ događa ja
+ža lost
+ vra ća
+ce lo
+ odlu ke
+m po
+m pi
+ p li
+ tije la
+ njego vu
+ isku stvo
+čita jte
+d ran
+va k
+ sigurno st
+ vrati ti
+ ener ge
+ B ru
+ vo li
+ sti gao
+ za bora
+ f rancu
+ osta o
+ Ja dra
+Sa mo
+ s prije
+ je st
+ su tra
+ce boo
+Ra z
+ inf rastruktu
+L a
+j ska
+ u jutro
+vi lo
+ ko rak
+ tra že
+ osta li
+ ce sta
+ izra zi
+;a k
+ ku ha
+ kon tak
+ poče tkom
+ž ne
+ fina la
+Pod sjetimo
+ za kon
+ pr voj
+ ma jka
+či ća
+ kori ste
+Tre ba
+ko v
+ za nima
+ su dio
+ naj va
+ bo da
+ Hrvat skog
+fi ci
+ Ar ray
+ smr ti
+ medi ji
+ energi je
+ na z
+ stra ni
+ ze le
+ informa cije
+i r
+ma c
+ T V
+ ide nti
+ Li ge
+L e
+ S to
+ te ma
+ u pa
+da ma
+ pri stup
+po r
+ Za dar
+ bor be
+ navo dno
+  ca
+  ke
+p s
+ na ve
+či ce
+ sta nje
+ is pa
+ us pio
+ či me
+ bli zi
+ siječ nja
+ u br
+ O sije
+Sa da
+ prven stvu
+ naja vio
+ inter ne
+ z vu
+si o
+ G e
+ Njema čkoj
+A u
+ u čin
+ g loba
+ završi o
+ do šli
+ h rane
+ći m
+ prije t
+vlje no
+ klu bo
+ prosi nca
+ s ki
+nje n
+ skupi ne
+m nji
+o l
+ po su
+ H RT
+ dola ze
+ ak tual
+ Ž e
+ći ma
+gi ta
+ sve mu
+ HN L
+v rije
+ po h
+ a nti
+;e m
+ proizvo da
+  nju
+ na u
+ da leko
+ iz mje
+ ce ntra
+j nu
+ se ksu
+ re sto
+ no vim
+ e vo
+ če t
+ teh ni
+va le
+ a ge
+ pro tu
+ ra do
+g na
+tni ci
+ doda la
+ja m
+ pro ti
+ Z la
+ demo kra
+ri te
+ce p
+ sezo nu
+ pro cje
+ mi šlje
+ odlu čio
+ nasta vlja
+r ku
+ni na
+ m r
+ pre poru
+ tvr tka
+ zahva lju
+s h
+lje ne
+tni k
+ omogu ći
+ri n
+ ra t
+če vić
+ is te
+ Vla di
+ uo či
+ no ći
+ le ge
+ lje ta
+ sluča j
+ supru ga
+D ina
+ć oj
+;i n
+ zna nstve
+bu r
+ či ji
+M ar
+ž bi
+ku ju
+ os vaja
+kovi ća
+G la
+re nciji
+le ga
+ ka pe
+ ra dova
+ sta ndar
+ kre a
+ prosto ra
+li li
+ na če
+ za bri
+ ma ni
+ vje ro
+  #
+ o f
+ R H
+ poli ca
+ kaza li
+ri ne
+če no
+ NA TO
+ B je
+ U sta
+ posta la
+ situa ciju
+ć om
+ sa vrše
+ T he
+čno j
+ kandida ta
+ komu nika
+ do ba
+ pro ši
+se r
+ ob zira
+ spo sob
+ osobi to
+j skih
+vi ci
+ut h
+- om
+ na stup
+ pri dru
+gra ma
+ ko ali
+sto ji
+ mje re
+ U pra
+ poka zuje
+ upra ve
+že ni
+;e nje
+ pla će
+79 5
+n sku
+r ska
+ s ni
+ro vić
+va mo
+ od go
+ kra tko
+3 9
+no s
+di nu
+ su nča
+ pre sta
+ ve zi
+ Ma dri
+ Be ogra
+ moguć nost
+J A
+ sa vez
+ is pra
+ ru ke
+ kaza la
+n cu
+me na
+ B ro
+ ma ksi
+ jedno j
+cio nira
+ ok vi
+ druga či
+ parla menta
+6 5
+ sva kom
+ živo ti
+ nad le
+ primje r
+ u pi
+ z i
+ pro meta
+ pri hvati
+zi ju
+ raz govo
+ prili ka
+ naši m
+a na
+ e k
+ gradonače lnik
+R A
+ ko ma
+3 8
+ za bilje
+ pri če
+ svo jom
+ L ju
+ O d
+ nogo me
+O na
+r ski
+ u skoro
+ od rži
+si ju
+ rije či
+it y
+ima ge
+ Sr bije
+ni cija
+ na kna
+ s kup
+va lo
+ na ravno
+ ima m
+ tra je
+ društ va
+ smje ru
+; ni
+ ve se
+ spe cija
+3 7
+Z caron
+je dna
+ P ar
+ ju čer
+šti ne
+sti ti
+za cije
+ lju bi
+ dije la
+ zaklju čio
+S to
+d nim
+ i nače
+ po klo
+ sje ća
+Pro čitajte
+ fil ma
+ minu te
+; ne
+n ku
+ su pro
+ sa bor
+se n
+ viso ko
+je ve
+ i no
+ i movi
+ pa la
+ Š u
+ društ vo
+ pokaza la
+ napisa la
+c ha
+ra z
+ oz lje
+ fotogra fije
+ doku menta
+4 8
+ po vrši
+ pre u
+ sta bi
+19 8
+ klu bu
+ susre t
+ koristi ti
+I n
+P rvi
+ za ista
+ ve ze
+ st vori
+ nema ju
+ poka zao
+ fo ku
+ zado vo
+ pjes me
+ a p
+ od o
+zi rati
+za n
+ vr ti
+ drža vlja
+ inte nzi
+r nih
+li sti
+re no
+če na
+ pobje da
+ stu di
+ neki h
+ susre ta
+ Fa ceboo
+ poljopri vre
+ dru gu
+ in ci
+b ru
+će nja
+ pri ho
+de o
+ v ru
+ča ra
+t le
+y o
+ o tac
+ sta ti
+Da kle
+O t
+u m
+ž nju
+ka de
+;i li
+ poče tku
+ kvali fika
+ ra dni
+ njezi na
+ no vca
+ du bo
+ građa ni
+ rje šenje
+ kla si
+ umi ro
+;a n
+rno sti
+L u
+u l
+ti ra
+ u gro
+ a nga
+ k će
+ ta kav
+lj ka
+ posta je
+ pri mije
+ posta ti
+ i ći
+ do bri
+de ra
+ tre nera
+;a va
+Vi še
+ Izra el
+Dina mo
+S t
+z bo
+ u boj
+ iz d
+ ma li
+ ro đen
+ ova k
+ mo je
+ću je
+ško g
+ napra vio
+ naše g
+šnja va
+ kilo metara
+gen cije
+ po gre
+ sa ma
+ oz ljede
+Hrvat ski
+ karije re
+ o kupi
+ no vom
+E vo
+M nog
+ do đe
+ B el
+ pro vodi
+mi n
+ pri hva
+ sta nju
+ veliki m
+ al bu
+ ljuba vi
+ javno st
+T i
+ tre ći
+Za to
+tiv na
+ uspje š
+4 2
+\ /
+la ska
+ G la
+O no
+ja ti
+ Po lju
+ poja ča
+ navo de
+ s ka
+ do bra
+pli ka
+no se
+z nu
+;e ni
+ pa ra
+ osta je
+đe nih
+ obe ća
+ka da
+ sva kako
+ cije lu
+ drugo j
+ mnog e
+ stano vni
+tu ga
+ potre be
+ konce rt
+ bla g
+Poli cija
+w a
+te k
+ T r
+ I tali
+ u tje
+di lo
+ iz uze
+Ne ki
+ pogo tovo
+ profe so
+ na ru
+lje no
+ ožu jka
+ blizi ni
+H o
+v ju
+ve ze
+nu lo
+mi ru
+;i la
+;a j
+ ško l
+ko la
+ d voji
+ po tica
+ ta li
+ promje na
+ Tru mp
+ moguć nosti
+3 00
+C ije
+ D ali
+ nji m
+b rani
+ p lu
+dni je
+ us lije
+ Š a
+ poče o
+ sna ga
+ rezulta te
+ kultu re
+ izgu bio
+t he
+ na glasio
+Na ravno
+ C ar
+ igra li
+ ova ko
+ fa kul
+ jedi ni
+ Her ce
+ seksu al
+K O
+e st
+ s kri
+na l
+te ri
+le r
+ D ru
+ di gita
+ uspje li
+ ure đa
+ pjes mu
+ eks plo
+y e
+ na o
+ no ć
+ge r
+ politi ke
+ prona ći
+ pokre ta
+ do šla
+ba ma
+ re do
+sto j
+ si na
+ ovo ga
+ proble me
+ si n
+ sezo ni
+V la
+ asi ste
+ po vo
+ pla n
+ bro ja
+ ce ntar
+ go sto
+nji h
+ kra jem
+gh t
+; be
+ke r
+ ra du
+zi n
+ de rbi
+ sredst va
+ Pari zu
+c ka
+j skom
+ u bije
+ sva ke
+ Re al
+ fina le
+ lje to
+4 4
+v da
+ po rta
+ zna mo
+dra v
+ medi ja
+ vrati o
+ dosa d
+rni ca
+ buduć nosti
+ri e
+ na se
+ h tje
+ st ro
+ kom bina
+ pora za
+ Ž upa
+ inter vju
+to st
+ ka ta
+će na
+ ob no
+ C ity
+ pod ru
+ us mje
+ nas lov
+ stu p
+ najva ž
+L o
+T aj
+ o kuplja
+ to pli
+ re ži
+ veći na
+ment s
+s nom
+ru p
+ pri ču
+ manda ta
+ o cje
+lje p
+sa d
+ši ća
+ pr vih
+ če sti
+šta j
+ automobi l
+ raspo re
+ zanim lji
+ s vlada
+ u dar
+ treba ju
+lno st
+ La sa
+ja ma
+ iz ved
+ prven stvo
+ objasni o
+ epi zo
+bo ru
+ re dovi
+ nu di
+m la
+mi nali
+ gra đe
+ rodi telji
+ eki pa
+g ri
+ po stu
+vo ru
+ ima te
+ L on
+ F o
+ hrvat skom
+ u kra
+ si mbo
+ trenu tak
+ Ko va
+ društ vu
+ iznim no
+B A
+s k
+ mo ja
+;e li
+vno st
+ stra nka
+ zavr š
+ ula z
+ najbolji h
+ Ministar stva
+ tali jan
+dje la
+đu ju
+gleda jte
+ zat vore
+ u nije
+vi le
+ za vo
+ G ru
+ poka zuju
+Ni sam
+P la
+la cije
+ na šu
+ koje mu
+ prije vo
+ vje nča
+ pozi va
+ uspje h
+ zajedni ce
+ Su per
+ glaso va
+vi t
+ kon zu
+ uz bu
+ Spli ta
+žno sni
+ sura dnji
+ uči niti
+S re
+v cu
+ti ve
+ is kre
+ dje č
+p r
+ po vu
+ za mije
+po ra
+sko ga
+še vić
+ e le
+ ci lje
+šnje g
+ temperatu ra
+V D
+na ca
+ ne ga
+nje na
+zo zem
+ fina lu
+ inte li
+ osigu ra
+ nesre će
+D je
+d s
+m rt
+t fina
+ž na
+ a gre
+ a vio
+ do se
+ vi d
+ sta tu
+ lop tu
+O ve
+ igra či
+ dvo je
+ situa cije
+ne c
+ki m
+ pre di
+zi rao
+ re gu
+ va š
+ pot pisa
+19 6
+r ci
+r nu
+ t he
+ mi gra
+ pa m
+ raz log
+tko vić
+ trenu ta
+ informa cija
+ s vr
+ po ko
+ da je
+ča je
+ T ur
+ G i
+ Ma ksi
+ zna ti
+Je dna
+mo va
+nji m
+ i nicija
+ lije po
+ zašti te
+ ime na
+men tu
+ isku stva
+ Josi p
+ jedin stve
+6 7
+T ko
+ bo lnici
+ auto bu
+ reprezenta cija
+ Jadra nu
+n skoj
+ H u
+ K la
+ ce ste
+ oči to
+ka ti
+ve c
+zi va
+ vi si
+ di plo
+ J an
+-godiš njak
+ oti šao
+ po pra
+ odno s
+0 90
+ ob jek
+ poslje dnji
+ uli ci
+ trži štu
+ lak še
+I sto
+ i ska
+ ve le
+pu t
+ C i
+ tvr de
+ lje st
+ zra ka
+ Č e
+0 36
+a k
+ o pra
+ po e
+ci kli
+ to čno
+ go vore
+ pozna ti
+ ob la
+19 7
+ zvije zda
+ na vi
+ li st
+ osvoji la
+ potvr dio
+va ni
+ S in
+ pra kti
+ ru ku
+ oko lnosti
+ kandida t
+ Dubro vnik
+Pred sjednik
+ Instagra mu
+5 7
+s c
+ su per
+ B re
+ [ _
+ karije ri
+ razu mije
+ pobolj ša
+ ja vlja
+ odno si
+ se d
+ kre ta
+ ino zem
+5 8
+9 1
+ li ce
+lj ko
+ sva ka
+ Sa ra
+ prila go
+ho m
+ proizvo đa
+vlju je
+ priopće nju
+to na
+ ko mi
+za ciju
+rni ce
+ unu tra
+ razdo blju
+ko mo
+la že
+ V r
+ ku po
+gova rati
+ razvo ja
+T ra
+ ne pri
+ ob rani
+ du žnosni
+ sce na
+ inci de
+9 88
+f f
+j sku
+si gu
+ me ta
+tiv nih
+nti ma
+ posta vlja
+pro da
+ istraži vanje
+ Zo ran
+I s
+S S
+t te
+y er
+nu ta
+ sto ga
+sla va
+ pora z
+s si
+ D P
+ Ma te
+ U dru
+ osta le
+ hrvat ska
+ ona j
+ zrako plo
+O R
+ za d
+ ka pa
+ga ra
+ g re
+nije g
+bro va
+ vidje li
+ povije st
+ za tra
+ ko ra
+ ka rak
+ iz vor
+ mo ru
+za cija
+ vi dio
+ raz o
+ bo ra
+vni ku
+ že lim
+ razli čiti
+ dogodi la
+6 9
+r nog
+di t
+ mo to
+ te ren
+so lu
+27 0
+ teni sa
+  njoj
+ o sjeti
+ ra dnika
+že no
+gi je
+ sti gla
+ komenti rao
+P rvo
+ go ri
+ stra da
+rni ka
+ veli kom
+ko liko
+ u pisa
+ se rije
+ k lima
+ča ri
+ e du
+ sta lno
+ govori o
+ part ner
+ ra ste
+ ve će
+;e nja
+dni ca
+ prija telji
+ sezo na
+ zat vora
+ neka da
+ bor bi
+ poh vali
+u s
+re da
+ po pla
+ pri vla
+ mo re
+ba v
+ li sti
+ održa ti
+4 9
+N I
+n che
+ri ra
+vi ne
+pi si
+ E u
+ Po li
+ odgovo rio
+ svako g
+ zako na
+ una toč
+ Niko la
+ psi ho
+ s kr
+ D on
+ rje šenja
+ naš oj
+Rije č
+lje nje
+ sve ča
+ razli ku
+ naše m
+ zgra de
+ sprem ni
+ Por tuga
+R O
+k ciju
+s ca
+st vom
+ to p
+ vi na
+ nastu pi
+I nače
+ja na
+ ka kav
+ š panjol
+;e ne
+ odu sta
+ vrijedno st
+ osu mnji
+ umiro vlje
+0 5
+i sto
+ma cija
+ bes pla
+O b
+a m
+na j
+ti ce
+ od mo
+ te r
+ ti tu
+ va tre
+ ki ne
+ pozna to
+ kilo grama
+ž nja
+ s ru
+ go lova
+ ško lu
+ An to
+ nagra du
+ teme lju
+ Sve učili
+ turni ra
+ milijar di
+6 6
+w e
+z no
+le sti
+ Tu ru
+T A
+ko na
+re ne
+te tu
+ cije le
+ Y or
+ Sla vo
+ međuna ro
+ cent ru
+n tu
+ do m
+pi ć
+ P la
+;e tiri
+ tre će
+ kri minali
+ njiho vu
+ sr ca
+ vreme nu
+ progra mu
+ Bar celo
+ ugo sti
+ O limpij
+ poče la
+ zašti tu
+ priop ći
+ta ma
+pa r
+ Š e
+ skupi na
+. o
+y ja
+ do nio
+ An te
+ navija ča
+ karije ru
+z mu
+di mo
+;a ti
+ osta la
+ ha lji
+ pri bli
+ A lek
+vlje ne
+15 0
+F i
+ji ca
+ C ro
+ gleda ti
+ciona lno
+ nave čer
+ba cio
+ča va
+;e tvr
+ poli cij
+ premije ra
+ katego riji
+  Ć
+5 2
+; ka
+G A
+li ga
+ do vesti
+ pri sta
+Bi la
+ osjeća j
+ izno s
+ buduć nost
+M la
+ te ri
+;u je
+ so li
+ tak ve
+Ve ć
+ vije st
+re t
+ki n
+nje va
+će nje
+ k m
+ ob rati
+ h tio
+ nesre ća
+ proce s
+ o mi
+ iz jedna
+že nja
+ B ran
+ godi šnje
+;a ju
+ st rije
+ sto ljeća
+ mla do
+ poru ku
+ europ skih
+Č i
+š le
+ o g
+ u ka
+ ne iz
+ bi tno
+ ra sta
+ tre ne
+ izbo ri
+ međuna rod
+Mnog i
+ti mi
+ po što
+ mi nima
+ igra ju
+ osta lim
+ poče tak
+ uvje tima
+ pogleda jte
+ mobi te
+ do bre
+sto je
+ raz vija
+ O si
+Po se
+ pozi v
+Ko liko
+ kapa ci
+C i
+ no vča
+ ško li
+ zapo vje
+ Herce govi
+1 30
+D ra
+h ar
+še n
+ ju tro
+ medi je
+N ji
+U na
+ ra vno
+ ma le
+ To ma
+ dr ži
+ smatra ju
+ poda taka
+ gru pe
+ odigra o
+ člano va
+ donije ti
+ni sti
+ pro vede
+ sta ja
+ pla s
+ mu ze
+ či ne
+19 5
+ Ko pri
+ zahvalju jući
+uth or
+7 5
+ u govo
+no v
+ bo je
+ poveća nje
+K u
+r nim
+ u lazi
+ na glasi
+ ko me
+mi ce
+ša n
+ V in
+ zah vali
+ Rije ci
+ ad re
+ indu stri
+ni rati
+la cija
+ki h
+ od r
+ pozna t
+ njezi ne
+ veliki h
+ Tomi slav
+ u jedno
+ na laze
+go dio
+ te ra
+ M la
+ di na
+ obja šnjava
+ budu ći
+ sred stava
+tt ps
+j skim
+ po tak
+ za dnje
+nu t
+si ti
+ P r
+be rt
+ in spi
+ njego vim
+ raspo lo
+Ž i
+ T ra
+ha m
+ četvr tfina
+ maksi ma
+K ra
+i ne
+vi mo
+ tu ži
+ter na
+ stude nog
+l li
+š o
+li nk
+ pre o
+ S tu
+ e ngle
+ ta le
+No vi
+kle ar
+ Ukraji ne
+ završi la
+ uslu ga
+to vi
+gra f
+nije ti
+ la ni
+ la ga
+ istak nula
+ bli zu
+ ig ru
+m lja
+p rija
+li zira
+lo n
+mo ć
+ ne pozna
+dni ce
+ pred nost
+nci ma
+ Pe ri
+ oba vlja
+M u
+no ga
+ S ti
+ poru ka
+ uda rac
+ skla du
+ pro mo
+ ra ke
+ li sta
+ ja ča
+ ži ve
+ izbo rnik
+ auto ce
+ pravo su
+ poda cima
+ njegovo m
+ bolni ce
+ udru ge
+Nji ho
+ od bora
+ pa pi
+ A na
+ proš log
+ čovje ka
+O p
+O sta
+s vim
+ pro pusti
+ sta na
+ spo mi
+ istraži vanja
+ pobije dio
+ veliko g
+če ki
+;a o
+ dje ci
+ nasta vku
+Ima mo
+ promije niti
+- e
+š njem
+ra nju
+ti vi
+;i ma
+žu je
+ vr sta
+Mo žda
+ neo vi
+ dosa da
+; na
+ p lju
+ ko šta
+bi čaje
+pi je
+ ku ću
+ člano vi
+ koša rka
+ti vni
+ri gi
+ na ju
+vo ren
+ V ije
+nije la
+ samo sta
+sno govo
+il li
+ Vla da
+ rje ša
+ nagra de
+/ /
+J er
+bi ce
+lji vi
+ zna k
+ prija telja
+ B an
+ ba ze
+ medi jima
+ fil mu
+ Andre j
+4 6
+l d
+š njoj
+ na ći
+to sti
+ se rvi
+ iz vu
+ vo lje
+ sta ro
+ odno se
+Iz ra
+ prosto ru
+Vi deo
+ pa o
+šte n
+ pozna ta
+l jom
+ u m
+ne s
+ pro gno
+ vo da
+ pred lo
+ pred nosti
+ pra vila
+ igra če
+ rije čima
+ novina r
+ isklju či
+na ro
+ v u
+ B al
+ tije ku
+ manda t
+ ar hi
+d be
+š ne
+ po stupa
+ pri do
+ H r
+ Po lj
+ nad zor
+ eko nom
+Lju bav
+ stup njeva
+  °
+A R
+ b re
+lo vima
+;i ni
+ O pe
+ kon kre
+ vla de
+ jedi no
+ Ukraji nu
+tic le
+š na
+ ra tu
+za ma
+ smi slu
+ Ameri ka
+K on
+Q u
+ a plika
+ pri o
+ re ze
+ in di
+ sli ka
+ dogodi ti
+ suda c
+ organiza cije
+ opo ra
+ u šao
+li ci
+ b ru
+ mo rati
+ ja vnog
+tni ce
+sno st
+ ba ca
+;u ju
+ pozi ciju
+ poz vao
+ nevje roja
+ Osi jek
+: //
+s lije
+li ki
+to j
+st rije
+ ra stu
+ ma sli
+ bro ju
+ najve ćih
+ situa ciji
+ muška rac
+. )
+n do
+ za dnjih
+ od vija
+ pro gla
+ pri go
+ Ma rio
+ mje ra
+ napa du
+ Varaž dina
+Ta da
+ funk cionira
+ Domovi nskog
+f ri
+r be
+li t
+Mi nistar
+ izbje ga
+4 00
+ K ali
+ ru ske
+ osta lo
+ slu ša
+ ro ku
+ Ja dran
+ uspje šno
+ isto m
+ mre že
+ skupi ni
+ obo žava
+Be z
+ diza j
+ si no
+fe sta
+ Lo komo
+ spre man
+ nu klear
+ susre tu
+ rizi k
+ postu pak
+U pravo
+li ra
+ z bi
+ pro šao
+ P er
+ godi šnji
+ Ma đar
+ de stina
+ zna tno
+it le
+ Be n
+ odgovo rnost
+ jedna ko
+ tisu će
+ temperatu re
+ ( )
+ zna nja
+ veli k
+ c o
+ mora o
+ odlu či
+ Ha ma
+ posti gao
+pisu je
+Lju di
+ kriminali sti
+J ako
+ da li
+ su du
+ pre ži
+ A le
+ pu ca
+ raz mje
+zo ra
+Po slje
+ njiho vim
+ Jo h
+ pokaza ti
+ potpu nosti
+tinu i
+B it
+ž nom
+ o lak
+ro v
+ do godio
+za pa
+tiv nim
+ rije šiti
+Ra di
+ uvje te
+ bla go
+B ra
+ u ki
+ na pla
+ pri vu
+mu nj
+tni ca
+ sje ver
+ regi ji
+ pokaza li
+li nu
+ro ma
+ na mi
+zi o
+gi ja
+ G re
+ pe rio
+ Pe tro
+ lje po
+Ko d
+ pone kad
+ Ti k
+ različiti h
+5 4
+ s mrt
+ po vr
+ m rt
+ e li
+ is pita
+vni ca
+ spo razu
+ vozi lo
+ uslu ge
+c tion
+f t
+na r
+ pro ba
+sto ja
+ša k
+pe ri
+ vo lim
+ kon tinui
+ gla vu
+ igra ma
+ kre će
+ broj ni
+ fa vori
+ prva k
+ pogo dio
+ elek tro
+ prijed log
+ alkoho la
+ seku ndi
+š njo
+go v
+ ne ku
+vje la
+;i na
+ du brova
+ Ba by
+Mo že
+ W a
+ W e
+ zahtje v
+ deta lj
+ Srbi ji
+u zda
+ o limpij
+ ko ga
+ pre gleda
+ go stu
+in tere
+ njiho vih
+ isti ču
+ građa ne
+ Milano vi
+sci pli
+ zvije z
+ šan se
+s ve
+lo vić
+ se rija
+ da kle
+st rija
+ jed nim
+ proš li
+B ro
+I gra
+r skoj
+w i
+z me
+ o sni
+lu m
+ B ije
+ K r
+ sta rije
+ gra nice
+ odlu čili
+ No ve
+ vije ća
+ kona čno
+ i nova
+ po lovi
+ pro lazi
+ te ške
+ D onal
+Sa d
+ akti vi
+ gru pa
+ for mi
+Vje ru
+I stra
+la nd
+ b ron
+mo rac
+ D ne
+ tra ge
+-a k
+ sr ce
+ napra vili
+đi mu
+li mo
+ od mor
+ bi lje
+do bno
+ vo dio
+ Za dru
+ os vr
+ vje tar
+ Europ skog
+ sudje lova
+ pjes ma
+ sum nja
+ Kri že
+ naro da
+4 3
+C I
+E uro
+y s
+ u ma
+ sa svim
+mi ju
+ otkri va
+ knji ge
+ rođen dan
+ do ista
+nje ni
+ te ški
+ča ja
+ši h
+ naj vi
+ F u
+ samo m
+ ovo godiš
+raž din
+ uključu je
+-i h
+r ti
+to ve
+ za g
+ do kaza
+mi nira
+ba no
+si ra
+ ni ko
+gra m
+ha t
+ prven stve
+dese t
+ konfe ren
+Sto ga
+je vima
+ju će
+ do ga
+zi ti
+ de sni
+ C el
+vni ce
+ U S
+ neko g
+ Pe tra
+ tvr tki
+ među tim
+ Varaž dinu
+ poda tke
+ kr vi
+Dru gi
+ zemlja ma
+že m
+ v re
+ me nta
+ posto ja
+ reprezenta ciju
+ Tru mpa
+ sko ro
+ prome tu
+ konfe renciji
+ bivše g
+ redovi to
+d y
+t ti
+ni or
+ ko p
+ si mp
+ tri bi
+ četvr ti
+ dugo ro
+ primje rice
+rava k
+ u govora
+ka la
+ po kri
+ a kade
+ do dje
+ f on
+ U N
+ dije lom
+ sna gu
+ nagra da
+f ti
+ u pla
+li ni
+ in spe
+ zna nosti
+al no
+ politi čki
+ Go ri
+ bolni cu
+ razvo ju
+ velja če
+ učin kovi
+M A
+ o nima
+ro r
+ po vla
+ši li
+ N or
+ uče nika
+j skoj
+ra ta
+ a nke
+tu re
+ E P
+ gra di
+ pot pred
+ Mi r
+ osta lih
+ glu mica
+Naj bo
+ izno su
+U mje
+ B la
+ ve čer
+ pla nu
+ Š ko
+ pret po
+ pore z
+ zastup nika
+ Hrva ta
+6 4
+p t
+nje no
+ ra ka
+ li gi
+ču ju
+sno sti
+ nasta vio
+ Europ skom
+ prizna o
+ profesi onal
+ pre kra
+že ne
+gra fi
+ K or
+ naj po
+ sta mbe
+ ku pu
+ gla s
+ razi nu
+ proda je
+prije d
+ na rod
+ po godi
+ re la
+ vo du
+ T re
+ E l
+ gla vnog
+ prili ke
+sjeti o
+ proizvo dnje
+ kvalite te
+ fotografi ju
+ festi vala
+ S port
+ši m
+ poru ke
+ Ru sija
+ sum nje
+ Bri ta
+V r
+t tu
+ pri tom
+lu ju
+de mo
+ f ar
+ vo le
+ obja ve
+ odlu čila
+ po ni
+ ko rup
+ pro cije
+;e no
+;i ca
+ F or
+ Ž i
+ želi mo
+ trži šte
+ stano vnika
+ potro ša
+ ap solu
+; da
+ no voj
+ stra nici
+ Ju go
+ govori ti
+ teme lj
+ intere sa
+ polo ža
+U P
+ va ma
+ lo gi
+ zdra vlja
+ part nera
+ Au stra
+ intere s
+ plat formi
+RI JA
+lje nja
+ S er
+ re cep
+do volj
+ h ttps
+ naj ljep
+ oso bno
+čno st
+ poz dra
+ građa nima
+slo bo
+ hu mani
+H e
+H ajdu
+ do bru
+le t
+ te ži
+ pot po
+ sva ku
+ tele f
+ fotografi ja
+Una toč
+ za dnji
+ ne kom
+ š ta
+ pa d
+ samo g
+ha ni
+ vr ste
+ sati ma
+ miliju n
+ utjeca j
+ simp to
+k t
+je te
+ o ču
+ su pa
+sti o
+Za što
+ zna o
+ pra vu
+ op ro
+ op skr
+ područ je
+ oda bra
+ raču n
+A meri
+R E
+ž nog
+sta ra
+či nu
+ mo ć
+ pi šu
+ os lobo
+ kri mina
+ voza č
+;ko g
+A n
+ sa nk
+ go r
+ mi r
+;i ne
+ pot poru
+ ide ja
+ lu ksu
+ mode l
+ deta lje
+lle ry
+ ulaga nja
+ Fili p
+S la
+ o te
+ je la
+lo gu
+ V ar
+ vo do
+fe re
+ obi čno
+ sto pa
+ tr gova
+ obra nu
+ zem lju
+ rezulta ti
+ loka lne
+ navija či
+ veče ri
+ veče ras
+4 1
+8 9
+g nuti
+ u klo
+va ca
+di ne
+zi l
+ či ja
+Mo gu
+ dire kto
+ uli ce
+ promet ne
+ nekretni ne
+s hi
+ s v
+ni lo
+va č
+ma nti
+le ti
+ Ba yer
+ tje le
+ najve ća
+;ivo t
+ slije di
+5 1
+še va
+ K BC
+ naj če
+ bo ji
+ du ho
+ še će
+ svjet ski
+ tradi cional
+ Ch ar
+ti van
+ po ti
+ po stro
+bi t
+ re ci
+ pa ke
+ K re
+ cije nu
+ ce sti
+ tran sfe
+ čla nica
+ sjeve ro
+ vanj skih
+3 20
+S port
+v ce
+ po sa
+ P ra
+pu la
+ Mi lo
+šti ma
+ odno sa
+ broj nim
+ ci ljem
+ njegovo g
+ njegovo j
+ puto vanja
+ šte tu
+ o cije
+ je su
+ te o
+ te ro
+Po če
+ hrvat skim
+ župa nija
+ završi ti
+ dra go
+ Dubro vnika
+Gra d
+ izuze tno
+ s vu
+će no
+ča ka
+ ve ća
+nta sti
+ Za dra
+sku p
+ nika k
+ bor bu
+ ostva ri
+... '
+
+LE RIJA
+ mani festa
+ isključi vo
+_ ar
+p to
+ u red
+ na pu
+ b je
+ve ro
+ pri pada
+ pri stupa
+ izja vila
+ciona lni
+ ozbilj no
+ povra tak
+ s me
+ na veo
+ za lju
+đe nju
+ I ndi
+ ku hi
+pri like
+ drža vnog
+ Li gi
+ sura dnju
+ razi ne
+ Vu kova
+ prati ti
+ Ministar stvo
+ konku ren
+GA LERIJA
+1 20
+5 3
+F e
+e t
+ m lije
+ za osta
+ pro pisa
+ pre se
+;e sto
+ iza b
+ drugi ma
+ sti že
+ knji že
+ obrazo vanja
+- po
+ka li
+ ni ste
+ B li
+ predsjedni ca
+ poče li
+ kre nuo
+ europ ske
+ muška raca
+ vjeru jem
+ udru ga
+ genera cije
+ građe vi
+S matra
+c y
+k te
+m da
+s r
+ji ć
+ pogo dak
+ spe k
+ boga t
+ vike nda
+d že
+ž bu
+ na žalost
+ci fi
+le tio
+ sa veza
+ho to
+ E ngle
+al le
+ njego vih
+ for ma
+ Op ćine
+ Župa ni
+ edu ka
+G a
+L ije
+ po dno
+di šte
+ ko r
+ do j
+ ka na
+pa du
+sni ka
+ Re a
+ osoba ma
+ osigu rati
+ proda ju
+ sljede će
+ šo ki
+E F
+ za intere
+ a tra
+ pre ci
+nja ka
+če ne
+za nje
+ sta n
+ O r
+ ho da
+ ono ga
+ zajedni ca
+ neo bi
+ kvalite tu
+ razdo blje
+ Lon do
+S tra
+t skih
+va jući
+ na dam
+ se kto
+de ći
+ ci lja
+ rezulta ta
+ oruž ja
+ age ncija
+r skog
+va no
+vo t
+ a pa
+ pro pa
+mi ć
+lji v
+;i m
+ Ru sije
+ dvo bo
+ dvo stru
+ uvje r
+ Dubro vniku
+ Josi pa
+ pozor nost
+ trenuta čno
+s se
+v ski
+ za o
+ te ku
+ M er
+ pa žnju
+ h ranu
+ dje teta
+sni k
+19 0
+im na
+ vije sti
+7 8
+ti rati
+ da la
+sa ma
+ va n
+ Š vica
+šti na
+ politi čke
+ umje tnosti
+ An ge
+ natjeca nje
+ ovi si
+6 00
+P rva
+h an
+ za uze
+mo ve
+ pri stu
+ D je
+ ot pada
+ posta ne
+ nasta vak
+ upo tre
+ doma će
+ tro fe
+ pripre me
+hva ća
+ službe no
+ Milano vića
+ vlasni k
+ suko ba
+ Modri ć
+ Polju du
+N K
+i sti
+ u lja
+ u zima
+ri j
+lje nih
+ svo ja
+ sta vlja
+gle du
+ spo r
+ vr h
+ radi li
+ njego vi
+niti vno
+vreme na
+ zdrav stva
+ Op ći
+ festi val
+ w e
+ lege nda
+T he
+n y
+ po red
+ od lazi
+ S re
+ naj pozna
+sni o
+ mora li
+ najve će
+ uklju či
+ utjeca ti
+ korisni ka
+ mini stra
+ značaj no
+ činje nica
+6 3
+c ho
+ o pisa
+ z im
+ ko lek
+ is ho
+ Mar tin
+ neu go
+ premi nuo
+ različi te
+ ubr zo
+ og rom
+S je
+ u ru
+ma nu
+ poli ciji
+ kom bi
+ glu m
+ bri ga
+ očeki vati
+ proje kata
+dal macija
+5 9
+t ska
+w it
+ž nim
+ i te
+ o lu
+me nu
+ pre govo
+ B or
+nju ju
+ U ni
+ kre ve
+ ki ša
+ sigu ran
+ tje dana
+ fa zi
+ organiza ciji
+ vodst vo
+" .
+S o
+j ku
+n du
+ na cija
+ ta m
+su r
+ va žan
+ ja vne
+ C en
+ pla sti
+sno j
+ drža vni
+ Ka te
+ Mo žemo
+ vodi telj
+pusti ti
+ Č a
+ rodi telja
+ nasi lja
+ unutra šnjo
+{ "
+š nju
+ž nih
+ za dar
+st vr
+ š pi
+ vo diti
+ bo žić
+ I I
+10 8
+ stu dija
+ najbo lja
+ regi onal
+ pogleda ti
+  rok
+A T
+ti vac
+ na šao
+da vno
+ go re
+ te sti
+ša jte
+ in vali
+ gra dova
+ ot ka
+ ba vi
+ Do ma
+ dese tak
+ uo bičaje
+ poe na
+U kraji
+a ti
+v red
+ ne prija
+ k lije
+19 4
+ os mi
+ c he
+ op timi
+ Z ele
+ među vremenu
+ poku šao
+ sura dnje
+ turi zma
+ ite kako
+  cu
+P ra
+T itle
+ ne to
+mi t
+ ve r
+Po zna
+ mora m
+ pobje dom
+ lije čni
+ Ka ta
+ politi ka
+ Du bra
+ Me đu
+ teme lji
+teo ro
+ Beogra du
+č nije
+je vi
+ t vo
+ go stima
+ bo ri
+ pred vo
+ gla snogovo
+ obja vi
+ Bo žić
+ pje ša
+ so bom
+ pose bice
+ kazne nog
+ Plen kovi
+6 1
+C M
+O če
+U vijek
+la ma
+nu le
+ I vica
+ O limpi
+liko p
+Re kao
+ jedi na
+ posla o
+ emi siji
+ i gara
+la ted
+le na
+ ka kve
+ pro veo
+ pri kaza
+ vla st
+ komenta ra
+ podije lila
+ korište nje
+ polica j
+č nosti
+li e
+ a la
+ do mu
+lu e
+ nas lova
+ proizvo de
+ europ skim
+ supru gom
+ uspo sta
+ vlasni štvu
+ stru ktu
+ izvo đa
+ gospodar stva
+ Lasa gna
+ plas man
+b lji
+c hi
+p lek
+la na
+mo jte
+ pro ved
+ mora te
+ poslje d
+ ši be
+ ostva riti
+ podr ške
+ kole ge
+; ku
+S plit
+ po dnije
+ ko ševa
+lo zi
+le a
+ B r
+ li ste
+ naj te
+ stra nu
+ drža vi
+ Ko re
+meta ši
+ No vi
+ supru g
+ vjeru je
+ Šibe nik
+ kampa nje
+ muškar ca
+ stadio nu
+ mišlje nje
+ povo dom
+" }
+li te
+la ca
+ do vo
+ ma la
+ I ta
+ pod sjeća
+ter po
+ njiho vo
+ oba vijesti
+ Na cional
+ ameri čki
+ publi ka
+ kva dra
+I P
+I za
+ na mije
+ve na
+ za du
+ pre va
+že nju
+;a ja
+ dana šnji
+ sto že
+ vidi mo
+ odli čno
+ pjeva čica
+ nagla šava
+8 7
+T ri
+u di
+ro ve
+ži te
+ T ali
+ raz no
+ či je
+ obja vili
+ tak va
+ tak vih
+ svjet skog
+ bra ku
+ ši ro
+tki nja
+ gr mlja
+ cje lo
+ Jugo sla
+O S
+_ in
+ s c
+ka n
+ do dije
+ ra dovi
+;i h
+ vo žnje
+ ku piti
+ oso bu
+ prija teljima
+ Ve čer
+ dola zak
+ Ga zi
+ sport ski
+ jezi ka
+ psi hi
+ ispriča o
+A uthor
+d bi
+Č ak
+go ri
+ ru ski
+šte na
+ Da ni
+kli h
+ Pri morac
+ kape tan
+ti te
+ d vori
+ pro ći
+ ma rke
+ li ca
+Na žalost
+ me to
+ Hrvat skom
+ ča st
+ Da mir
+ izgu bili
+ poma že
+ mini stri
+ dubo ko
+7 7
+k ru
+ u bo
+ta m
+di ća
+ pre tra
+ pri si
+po sla
+ re d
+ bo m
+ pla titi
+telji ce
+ Ne t
+ isto ku
+ uda ra
+as h
+ bri tan
+ izgu bila
+ Al ba
+ dire k
+ važ nost
+Nje gova
+ energi ju
+ Instagra m
+K A
+a d
+ti ji
+ ne gdje
+;i te
+ bo d
+ bo ja
+ si ndi
+ Mi ro
+ Mo s
+ uspje la
+ slo ven
+ reprezenta tivac
+ informa cijama
+logi je
+ poslije podne
+ svakodne vno
+ smanji ti
+ zadovolj ni
+s pa
+no vo
+ po reme
+ da tu
+le sa
+vje li
+pre si
+ C r
+ ot prilike
+dra vlje
+ ba na
+ ši re
+ pokre t
+ oti ći
+ eki pe
+ izvje šta
+ kompa nija
+vrije me
+h d
+p rje
+š om
+ po lju
+ ne pre
+ ka znu
+ iz lazi
+ pri rod
+ raz ne
+ is pi
+ pra ve
+ drža vne
+ mla đi
+ pobje dni
+ Ni zozem
+ uspo re
+Bu du
+ opra vda
+k se
+o kola
+ pre osta
+mje se
+ C rve
+ ži vjeti
+Do bro
+ neka d
+ poda ci
+ vidi m
+spe kti
+ uži va
+ poduze tni
+ ban ke
+qu e
+ preu zima
+slobo dna
+ Ita lije
+x t
+ra vaju
+ u ći
+ta nje
+va ne
+ iz re
+ pre te
+ G ar
+ nas lo
+ Ja ki
+ voj ske
+ projek te
+ ime no
+ am bi
+image s
+ kata stro
+slobodna dalmacija
+7 6
+o t
+gra d
+ ma r
+ fa ntasti
+ susta vu
+ svjet lo
+ konce rta
+ nosi ti
+ publi ku
+ domaći n
+ Osije ka
+ preo kre
+ na pe
+ na ime
+me nata
+ pro laz
+bi ć
+zi v
+ g i
+ P U
+su b
+ge nti
+đe nim
+ di scipli
+ us kla
+ č vr
+ njiho vi
+ klu pi
+ pote z
+ovje k
+ upozo rava
+ otvore no
+ eko no
+Sva ki
+Si gu
+ započe o
+ da ju
+nja ci
+ ve zu
+ pu tnika
+ ti ma
+ zna li
+ vrije di
+kla nja
+ ide mo
+ oče kuju
+ viso ke
+ kontro lu
+ institu cije
+ obli ku
+ Har ris
+ Upra ve
+ razgovo ru
+Izra el
+l ti
+ i stu
+ o gla
+ u do
+ na f
+ ka kva
+tu ra
+ S tra
+ča ni
+Za hva
+ ru kama
+ cije ni
+ kri v
+ razli ke
+ ak cije
+ zat vor
+Naj ve
+-o v
+ nesre ći
+ pona vlja
+ kontro li
+ zdravstve ne
+ statu s
+OR H
+7 1
+t la
+ta o
+ po je
+ a n
+ce nt
+lji ve
+ is poru
+ F er
+ško j
+cij skih
+ glu mac
+ pobije diti
+ zlo stavlja
+ sja j
+ posljedi ca
+Umje sto
+A l
+I van
+S po
+p ti
+ra t
+ je lo
+di m
+ is piti
+ broj nih
+ pose ban
+ zapo šlja
+ inter ven
+ poma lo
+tego ry
+ kole ga
+ norma lno
+ životi nja
+z v
+ o ca
+ je se
+ su z
+ do nese
+ ne mogu
+tiv nu
+No go
+ ki še
+ Ru siji
+ anali ti
+ trgovi ne
+ potreb na
+ profesi ona
+ ozlje da
+ blag dan
+  ,
+ S je
+ža vaju
+pli ci
+ voj nika
+ veći nom
+ ula zak
+ neka ko
+ kru gu
+logi ju
+ nedje lje
+ deset ljeća
+ upravlja nja
+ hote la
+ diplo ma
+' s
+2 50
+n si
+če m
+;a ma
+ pra te
+ Za kona
+ os voje
+ kre di
+ proizvo dnju
+ održa va
+ pokuša va
+ ulo zi
+ Varaždin ske
+ posljedi ce
+ cesta ma
+ prijevo z
+P ar
+ o rigi
+ z u
+ b ar
+ od uze
+ iz la
+ pri nce
+ mo gle
+ re zul
+do vima
+ mi sle
+ samo u
+ cije log
+ Bo ži
+ sigu rni
+ Bi de
+ voj ska
+ fe no
+ trži šta
+ pore za
+ proraču na
+ stati sti
+f al
+na rod
+ti vu
+ za te
+za ti
+ bo lja
+Po sao
+ Hrvat ski
+ pra v
+ ce nti
+ ci vi
+ še f
+ le tje
+en ce
+ deset lje
+ gradonače lnika
+ Ki ne
+ zanim ljivo
+ priti sak
+ Osije ku
+Hajdu k
+c ke
+t ta
+re k
+ za sta
+go re
+po vić
+ M c
+ raz govarati
+ J ako
+tar nji
+ Go ran
+ europ ski
+ podr ška
+ priro de
+ He zbo
+i ght
+ž nji
+ti ng
+li ća
+ osta vio
+ iza bra
+ kre nuli
+ pozi ciji
+Od lu
+ događa j
+ uda rio
+ tere na
+ nado kna
+ja ca
+ po to
+vi ju
+si ć
+ T on
+ kra ljev
+ posti gnu
+ nogomet nog
+ zgra da
+ Fe sti
+ vatroga sci
+ sku pa
+ smanje nje
+VD JE
+_ar ticle
+O V
+ta la
+ pro matra
+ P red
+ f ron
+ ja vni
+ar d
+ pi s
+tiv nog
+kla dno
+ prili čno
+ Ro bert
+ osvoji li
+ polu vremenu
+ otvore na
+ snim ke
+ o št
+ u ku
+će ne
+ š tra
+ S jedinje
+Po gledajte
+ stra nicama
+ jed va
+ prija ve
+ Me đimu
+men te
+ turni r
+ opasno sti
+ raspore du
+Ci lj
+T ru
+n cije
+ po že
+lo ge
+ a gencije
+će va
+ pred me
+ ku pi
+ op ći
+ ci klu
+ W illi
+ sti gli
+ vreme nom
+ pokaza lo
+ nogomet ne
+ objasni la
+;ko j
+ sunča no
+ drugači je
+ Maksi miru
+ najče šće
+; nost
+s pu
+ra nih
+vo da
+ ne pro
+ D ar
+Na da
+ koje ga
+kon stru
+ ku na
+red bi
+ op cija
+ istra ge
+ društve nih
+ natjeca nju
+ suda ca
+ opo rbe
+ Sla ven
+ duž nosti
+  njom
+H vala
+ u stvr
+ja ča
+di a
+ da nima
+ pro lje
+ vi no
+ če lu
+ pla si
+ ru jnu
+on te
+ Z vo
+ uspje ha
+ kom plek
+ Dina mu
+ ameri čke
+ spe cifi
+ dne vno
+ Španjol ske
+ prošlo sti
+ na čina
+vi nu
+di ni
+ru ža
+ pa met
+ radi mo
+il m
+ tro je
+ veći nu
+ gu ž
+ bra t
+ želi te
+ Njema čke
+Nje gov
+ sum nji
+ puto vanje
+ jezi k
+ he likop
+ show a
+ klubo va
+Ob ja
+; nosti
+C ro
+t ljivo
+ u g
+ja c
+ma il
+ ve z
+ dje com
+nt ro
+ hrvat sku
+ neko ga
+ klu p
+sli ke
+ politi ku
+ Be lu
+ optu ž
+ publi ke
+ oto ku
+ emi sije
+ plat for
+ kće ri
+sigu rno
+ sino ć
+L I
+O bi
+č nici
+ s k
+li čno
+ do slo
+ do jam
+ pri t
+ S tje
+ S lobo
+ ma so
+ T or
+Za nim
+ du ga
+ posta li
+ otkri li
+ napo kon
+ uži vati
+ sce ne
+ odvjetni k
+ ispriča la
+F a
+li k
+ne ma
+ve ni
+lo ri
+ sa ve
+ pre ra
+lu b
+ no ge
+vje šta
+ naj mla
+ sta nja
+ ja ja
+ bro d
+No va
+ prekrša ja
+ sposob nosti
+9 8
+E P
+L A
+j sko
+li za
+va ča
+lo ške
+ se riji
+ š teta
+;e ki
+ f ri
+ O VDJE
+ kon tek
+ službe nici
+ pobije dila
+ izvo ra
+ voza ča
+ Pri mor
+D va
+r skom
+ni s
+ o rke
+li cu
+ ka zna
+ T ro
+ raz govor
+ bo ksa
+ E r
+ stra nih
+ Bo g
+ Va le
+ dvo rani
+ mre ži
+-godiš njeg
+ Bu di
+ poslo da
+ Plen kovića
+ izazo v
+ oto ka
+ram s
+ različi tim
+ gosti ju
+alle ry
+  +
+0 28
+ na ra
+ma r
+ma in
+ se g
+ iz naj
+ga llery
+so bno
+ Ma nche
+ U jedinje
+fe r
+ njiho vom
+ ši ri
+ prote klih
+ zo ve
+ poža ra
+ uni šti
+bur g
+ Sveučili šta
+ash ing
+6 2
+N jema
+T vr
+ u hvati
+ po ča
+vo lu
+ do movi
+st vima
+ku la
+ t zv
+ rije tko
+ kom ple
+ ope rati
+ konce ntra
+ Ga ttu
+ vide u
+ napo mi
+ Mari n
+ poža r
+ Faceboo ku
+ porta l
+l ski
+ i sta
+ se lu
+nu m
+ bi lj
+ T ele
+ O li
+ os la
+ svje sni
+Je dno
+ No va
+ ponu du
+ spome nuti
+ defi nitivno
+ žrt ve
+KO K
+2 80
+t r
+ po pis
+ma lo
+vi da
+ sa me
+ te mu
+ te ška
+ Ma ro
+ igra čima
+tiv nom
+ cije la
+ au stri
+ osvoji ti
+ cr kve
+ regi je
+ bor ba
+novi ća
+ knji ga
+ sudjelo vati
+ nado laze
+Doda o
+ dina mi
+ unutrašnjo sti
+2 27
+ti nj
+ ne pra
+si ze
+ši la
+ ku ć
+ dje luje
+ ru ka
+ nas lje
+ poče ti
+ upra va
+ njezi nu
+ rea kcije
+ napo me
+ opera cije
+O s
+v ke
+na va
+va ri
+ri sa
+te ro
+lo j
+ a nd
+ pro f
+ go ste
+ go lom
+sa ta
+tni ji
+ Pa u
+ mre žu
+ događa ju
+ prona šli
+ parla ment
+ nogometa š
+ opasno st
+ okoli ša
+ tehnologi je
+Pose bno
+; kom
+ u za
+ po šte
+ iz baci
+ sa n
+ pre tje
+ P an
+ ma gi
+ li nije
+ vo dom
+ C he
+ mje stima
+ Z ri
+ tije lu
+godiš nje
+ rezulta tom
+ ge o
+-o va
+ kazne no
+vlju ju
+ ponaša nje
+ ravna telj
+ vrti ća
+M je
+h la
+r nom
+va t
+ po pri
+ do no
+ I gor
+ zna te
+ Mi ha
+ že lja
+ auto r
+ sla vi
+ nema mo
+ proizvo di
+14 7
+ Pu tin
+ otvori o
+ izvijesti o
+N E
+m pu
+to v
+ ko ta
+ ko sti
+zi ji
+ S lova
+ A reni
+ pot pisao
+ Mar ka
+ kori st
+ društve ne
+ važ na
+ slobo dno
+ rodi teljima
+ poči ni
+dese tak
+ i mu
+ o vla
+ta ba
+ po gled
+ pri klju
+ gla vna
+jek t
+Ma lo
+slu žbe
+ organiza cija
+ mode la
+ vjero vati
+ anga ži
+ko vima
+ne l
+go j
+ od lazak
+ š ali
+si la
+ re al
+ži m
+dno st
+fe ren
+ Da vor
+vede n
+ župa ni
+ oda bi
+ novina rima
+ zahtje va
+ ovi sno
+ katego rije
+ mirovi nu
+ ut rke
+ savje to
+ meda lje
+ Že ljko
+ ugosti telj
+5 6
+ o kri
+ se stra
+ do ja
+ru s
+ pro vesti
+ sa vjetni
+ mi ra
+se t
+ va raždin
+ sve učili
+ ku l
+ mje ri
+ vije ć
+fina nci
+ komu na
+ razdo blja
+ sudjelo vao
+ povje renje
+ titu lu
+ we b
+ Cen tra
+u ter
+me ni
+ va terpo
+ c rije
+ško vić
+ Va tre
+ Bi den
+ izja ve
+ zat vara
+šnji h
+ sce ni
+ zastup nik
+ ad mini
+ nekretni na
+ napusti o
+; nih
+\ u
+ra te
+ra nom
+ i kad
+ je fti
+ro z
+ na re
+ve nt
+ji ce
+ mo z
+ g imna
+ li nija
+ J ele
+ us red
+ Ra fa
+ zat vori
+ Dubro va
+ donije la
+ izvijesti la
+dal mati
+ Udru ge
+e d
+j mo
+ž nu
+le ta
+ pro u
+ S P
+ me hani
+ pr vim
+ gra ni
+ dobi va
+Mo ramo
+ predsta vnika
+ Ra do
+ malo lje
+ uvje ti
+Re lated
+ poslo ve
+Tre nu
+ proce su
+;ki h
+ doži vlja
+ nazi va
+ Sara je
+ plju sko
+ humani tar
+9 9
+V rije
+c ki
+t sku
+ u ža
+to vima
+ iz o
+či ni
+po ne
+ S al
+;e ka
+ze rva
+ sta viti
+ sta nova
+kra j
+ radi la
+ fina ncija
+ doma ćih
+Ni smo
+ tak vim
+ osigu ranje
+ europ skog
+ Ukraji na
+ idu će
+ sja jno
+ ig ri
+ Alek sa
+ Joh n
+P len
+g ni
+vi de
+ su vreme
+ke do
+ li p
+ raz nih
+ ja k
+ sva tko
+zira li
+16 2
+ uli ca
+ publi ci
+ turni ru
+ vatroga sa
+Rije ka
+68 3
+ preuze o
+i ner
+l ci
+ za sad
+ su ge
+ pro ma
+či to
+ S jeve
+sto p
+ ob ve
+ tra žiti
+ću ju
+ ba ci
+ sad r
+ napra vila
+đi vati
+ obzi r
+ izgra dnju
+ zvijez de
+- dalmati
+S ti
+S lu
+m y
+ o glasi
+ri ta
+ri ća
+to rija
+ za igra
+ ko or
+lo r
+ a pe
+ pre sti
+du še
+ ve ću
+ K ije
+ ob lje
+ raz govora
+đa ni
+ c rno
+ pobje dnik
+ ki se
+cij skog
+ Ve liko
+ razli ka
+ sli čno
+26 9
+ Izra ela
+85 4
+ vike nd
+taba se
+4 27
+ž o
+ro na
+ve ne
+nje ne
+ S D
+ vi ta
+ me nad
+ va lja
+ ja vnom
+ pe tka
+ Š o
+ op ćine
+ sluča jeva
+ voj ne
+ sasta v
+ ponu de
+ pobije dili
+ institu cija
+ milijar de
+ predvi đa
+ Faceboo k
+U takmi
+Z dravlje
+t skog
+ i kada
+ti ke
+ iz gle
+ re konstru
+du go
+ pa nde
+ža k
+pe ra
+đe nog
+stu pan
+ njiho voj
+ on line
+ obra mbe
+ vozi lom
+ poslo vanja
+ župa niji
+ HN S
+ spome nu
+ albu m
+ Olimpij skim
+ iznaj m
+g nosti
+x a
+to li
+le y
+ ra dom
+ mi kro
+Na dam
+ dije li
+ predsta vio
+ proble mima
+cij ska
+ pret vori
+ neo d
+ kru g
+ neza dovolj
+ Srbi ja
+ bira ča
+ Hrva ti
+ iskoristi ti
+ troško va
+ regu la
+D an
+t rije
+va njima
+ do na
+ to na
+ ni zu
+ H i
+ A d
+ raz nim
+ sta v
+ N ije
+ uz ne
+ osta ne
+ ju tar
+ kre nuti
+rta va
+ oba vije
+ Ru si
+ poslje dnja
+ nika kve
+publi ka
+ Lo v
+ izda nje
+ sudjelo vali
+ nedosta je
+ blo ki
+ čet vero
+ zadovo ljan
+d bu
+r s
+v rati
+ po štu
+ za misli
+ od bio
+ bi cikli
+ K risti
+ h rana
+ me č
+ naj ma
+;a nje
+ ot pa
+fe nzi
+ hrvat skoj
+ obra na
+ Ru munj
+ Se ve
+ mnog im
+ novina ra
+ Dalma ciji
+ nače lnik
+ priho da
+ Poli cijske
+ tjele sne
+re nt
+ ka ma
+ga na
+ pre gled
+zi la
+ K li
+ša vaju
+ R ima
+ G ran
+ glu ma
+ ostva rio
+ utjeca jem
+ deta lji
+ obrazo vanje
+ trans pa
+ strije lac
+ Sje ver
+8 00
+; nu
+H DZ
+n stva
+st rem
+ iz gled
+ mo tivi
+ no v
+ A ra
+ Ma l
+ ju gu
+ W ashing
+ zašti ti
+ bra ka
+ upozo renje
+ oti šla
+ ministar stvo
+ Y ou
+ pojedi na
+ ple sa
+ lip nju
+" U
+ po za
+to rica
+me tra
+lu s
+ k ći
+tu ru
+ ve te
+ me n
+ pla ni
+ č okola
+ kre nula
+ Be ro
+ istak nuti
+ Vu ko
+ oda b
+ Šibe niku
+ hote l
+ oruž je
+ zabri nu
+S tu
+ra jući
+ri rati
+di ng
+ ka pita
+ba la
+ e ven
+ša vanja
+ li mu
+ in sta
+ dje tinj
+ ba k
+ Š ved
+ sto lje
+Pro ble
+ neće mo
+ projek tu
+Pri mje
+ vlasti te
+ postup ka
+ treni ng
+ dvoji ca
+ htje li
+ vele posla
+ sekto ru
+4 32
+o gle
+t skom
+t skim
+ p lina
+ti tle
+zi na
+za li
+do w
+ li ga
+ I vo
+dno sti
+ ga stro
+Mo j
+ pozi cije
+ Li bano
+ Zo rana
+ pretho dno
+ nacional ne
+ rekor d
+ stručnja ci
+ Madri d
+ uboj stvo
+! '
+
+8 14
+e lu
+s sa
+ se n
+še na
+gra da
+ža vanja
+ kon tine
+ tra gi
+ osta vlja
+ sla vio
+ isti na
+Bi vši
+ smje štaj
+ ameri čkog
+ otvore nom
+ bole st
+ struč njak
+ djevoj ka
+ šte te
+ zla to
+ potreb ne
+ uzro ko
+ zada tak
+ polufina lu
+ kompa nije
+Euro p
+ telef on
+ zaintere si
+ Manche ster
+b ne
+ o r
+vo sti
+ ne s
+ ta kti
+Na ša
+ on dje
+ Li va
+ umje ren
+ Ju tarnji
+ kvali tet
+ želi o
+ brani telja
+ pisa li
+ maj ke
+ mirovi ne
+ infrastruktu re
+ imovi ne
+sc ri
+6 11
+a u
+ na i
+ na red
+ do veo
+mo ra
+ pri kuplja
+ ma lih
+ bo riti
+ be nzi
+ bu r
+ Lu ke
+ zaklju čila
+ prizna la
+ eks peri
+ svib nju
+ kak vu
+ intervju u
+0 10
+7 2
+M Z
+ti ka
+te lju
+ iz osta
+će v
+či cu
+ go le
+ no se
+ pa s
+ pa lesti
+ bo re
+ in fe
+ osta vku
+ doda tne
+ iza šao
+ sre tan
+ dola ska
+ glu mi
+ regi stri
+ upozo rio
+Te k
+ upravlja nje
+ komenta rima
+ meda lju
+ cijelo j
+Lu ka
+ kće r
+Ho će
+t nije
+je g
+ na zo
+sti li
+ ra no
+ ta d
+ši ca
+ G rbi
+ ti p
+ sla b
+ oba li
+ški h
+ odre đene
+ sasta nak
+ sredi štu
+ gospodar stvo
+Pu no
+ partne ri
+ poljopri vred
+ uze ti
+ vid ljivo
+ ljest vici
+D rža
+ i se
+ i lega
+ri tet
+ H an
+ša vanje
+ ma ma
+so na
+ tre n
+ di s
+ I su
+ du g
+ poli cijski
+šte ni
+ či šće
+lni ca
+ izbo rnoj
+ mla đe
+ predsta vni
+ ide al
+ Do mi
+ Jo e
+ ak cija
+ al terna
+ poma ga
+ Andre ja
+ dre su
+ nogome tni
+ inteli ge
+ agre si
+ gori va
+7 4
+ti rao
+ u pita
+ u pisao
+no vima
+ za pri
+lu ence
+ ot voren
+ste ro
+ dobi t
+ područ jima
+ vodi teljica
+ Ga ze
+Ta mo
+ Au stri
+Te ško
+ biv ša
+ Šibe nika
+ suko b
+ meda lja
+ okvi ru
+Ot kri
+ spek tak
+K re
+T I
+_ c
+vi cu
+ a van
+ h id
+gi ć
+dni cima
+ naj sta
+ ot kako
+ posta ju
+ taj nik
+ Da na
+ srp nju
+ atmosfe ru
+ Itali ji
+Vjeru jem
+c ̌
+re mo
+va jte
+ po vremeno
+ za mo
+ do vodi
+ ka fi
+ S ch
+še nju
+ ma ne
+ pred met
+ J en
+ radi m
+ Sa bora
+ proble mi
+ poveća ti
+ kr šća
+ rea kcija
+ maj sto
+ trans forma
+ nogome tu
+Zahva lju
+G allery
+H a
+T V
+ i na
+ko g
+te h
+ su igra
+ mo g
+ k g
+se a
+;e g
+so va
+;a li
+;a la
+nta n
+ gla vi
+ ba viti
+ osta log
+ op tere
+ sre ću
+ poru čila
+đi vanje
+ pokuša j
+ Ku pa
+ stude noga
+ raspo laga
+ grado vima
+ hra bro
+ arhi te
+ta nja
+ za re
+ za ro
+ H A
+tra g
+ sta re
+;a na
+Po t
+Po tre
+;u pa
+ Ra spu
+ isto j
+ oče ku
+ ču ti
+ glaz bu
+ grad ske
+ ulo ge
+ dire ktora
+ kole gi
+ listo padu
+ odvjetni ka
+ Đ o
+ profi lu
+ duž nost
+ najvaž nije
+ osumnji če
+ o glasio
+ja k
+ma h
+ S pa
+ tre nd
+ gla ve
+ gla vom
+ slu žbi
+ Pa v
+Mo ja
+ tak vu
+ Hajdu ku
+ slobo du
+ unutar njih
+ natje čaj
+ škola ma
+ Slove nije
+ liječ nika
+ htje la
+O vi
+R i
+j nog
+ra lo
+ je dana
+ta na
+ od bija
+ bi ci
+ e ska
+dje lo
+ sta nu
+ ja m
+ O l
+ gra nica
+rija ma
+il y
+ Euro pu
+ auto ma
+ mjese cima
+ isto vremeno
+ poja vila
+ jedi nici
+ potvr dila
+ čeka ju
+ omogu ćuje
+ sred nje
+ Francu ske
+ potpo re
+W id
+Š i
+ pro bu
+zi vanje
+ K ur
+ J ur
+ sla vlje
+ pobje di
+ trenu cima
+ trenu tka
+ par ti
+ Mar ti
+ pogo r
+ pripre m
+menti ma
+Su per
+ utjeca ja
+ kampa nju
+ prosi ncu
+ sprije čiti
+Wid th
+. slobodnadalmacija
+9 5
+9 47
+r ca
+ra ka
+di le
+ do pu
+zi ran
+ li cu
+;i nje
+đe nom
+Za gre
+ in stru
+;a ni
+Po bje
+ Pe tar
+ pogo tka
+ napa de
+šnji m
+ napada č
+ subo te
+ upu tio
+ nazi vom
+ izlo žbe
+-godišnja ka
+ ponaša nja
+ sjeća nja
+ uboj stva
+ ska nda
+ asiste ncija
+ti t
+ u lje
+lo škog
+go vić
+ki nje
+ re sur
+Na š
+ T ri
+dje li
+Po ku
+ pje sama
+ ču li
+ jedi nica
+ stru je
+ zagreba čkom
+ neu spje
+ utvr đeno
+ komenti rala
+ veliko j
+is pla
+ zadovolj stvo
+ jutro s
+š nog
+ S il
+du je
+se ction
+ ob veza
+ A dri
+ A ir
+ V an
+ I sla
+ I stre
+ ot po
+ pra z
+žu ju
+ lo ši
+ ro manti
+ doda jući
+ nasta la
+ predsta vnici
+ pono vo
+ smje šta
+ ak ciju
+ ulo ga
+ navija čima
+ kolo vo
+ uče nici
+;ki m
+ opre me
+;ivo ta
+ hit ne
+ stadio na
+ razgovara li
+ Ge or
+ teri tori
+j ma
+z ra
+no sa
+ je ze
+te nti
+ se la
+ su financi
+ do govor
+še m
+pi ja
+be rta
+ ima t
+ pu tni
+;a d
+ uz rok
+ drža vnom
+ prija va
+ proizvo d
+ Ve le
+ nika ko
+ ona ko
+Naj više
+ neza vi
+ sred njo
+ komu nici
+ izvan red
+ uhi ćen
+ korište nja
+ ski ja
+St ruč
+ skr b
+l s
+ o kon
+to vić
+ve s
+ od laska
+ pre pu
+če nju
+ mo tor
+tu je
+do v
+ e g
+ ob vez
+Na po
+ T aj
+ stra h
+kup no
+ nema m
+ upo ra
+ loka cija
+ svjet ske
+ financi jski
+ uli cama
+ ponu da
+ eki pu
+ prome tnoj
+ izaz vao
+ obje kti
+ napre dak
+por ter
+ staja li
+ origi na
+G u
+K i
+d bre
+w o
+ra le
+li ju
+li ng
+ za brani
+ da ne
+le su
+ča ju
+sto jan
+ T ho
+ pu n
+ va ša
+ samo po
+ du lje
+ os vje
+ mla da
+ loka lnih
+ zajedni čki
+ konce r
+ HN K
+ naz vao
+ati a
+c m
+n stvo
+t s
+ i ka
+sti ca
+ pri kupi
+ g ri
+ča na
+ gla si
+ tu rne
+ vrije dan
+in s
+ proš la
+ poja vio
+ pokuša ti
+ sadrža ja
+ preuze ti
+ troško ve
+ apsolu tno
+isti nu
+; nim
+n c
+ni nu
+ o limpi
+ta ti
+ po pisu
+da nje
+ da l
+ pre ven
+ba ra
+ te že
+ li stu
+ tre nin
+nt na
+ slu žba
+ obja vlje
+ško l
+ njiho vog
+ pita o
+ ide o
+ žu p
+ održa vanje
+ rezulta tima
+ pora st
+ akti vno
+vra ta
+ uži vo
+ Tru mpo
+ anga ž
+ uređa ja
+ razo ča
+ prvenstve no
+Budu ći
+Zanim ljivo
+; ju
+P jeva
+c on
+e fi
+ s kre
+ u šli
+va či
+lje nog
+nja va
+pi x
+ no gu
+ Mi a
+ ru skog
+ cije lom
+ posta vio
+ predsjedni kom
+ vra tar
+ lu ka
+ spre ma
+ nu de
+ izazo ve
+ podije lio
+ podrža va
+ defi nira
+G leda
+c ́
+t mu
+ka na
+ do mina
+mi d
+po rta
+ in va
+ kon tra
+ treba mo
+ vje žba
+ Z u
+ ide je
+Me ni
+ Europ ski
+ zat voru
+ dra mati
+ proce sa
+ doka z
+ omogući ti
+ Eu ru
+ Nor ve
+ apa rt
+. com
+; nom
+T ime
+lo zo
+po va
+so r
+;a nja
+Po tom
+ izbo rni
+ pobje dnika
+ Sa boru
+ poru čili
+pan j
+ Me d
+ radio nice
+ pote ško
+ kontro le
+ trav nju
+ povje ren
+ zaposle nika
+ vodst vom
+var dio
+ savrše no
+ sposob nost
+8 6
+; nog
+U R
+d rije
+z lo
+ i š
+ u klanja
+ja ni
+te ru
+ma ra
+vo d
+ b al
+ru je
+me s
+do nače
+gu ra
+;e š
+ raz reda
+ uz or
+ pe ti
+ sre će
+ Re uter
+ popu lar
+ Ka šte
+ Go re
+ situa cijama
+Ve liki
+ predstavlja ju
+ upravlja o
+ turi sta
+ festi valu
+ crve ni
+ postro j
+8 3
+G e
+G lu
+S A
+li p
+li kom
+ve no
+ za sigurno
+ vi zu
+dje ti
+ va ni
+ si roma
+ pi lo
+ poli ciju
+ mora la
+ tr go
+ Ru je
+ isto g
+ istra gu
+ održa na
+mpa ti
+ kandida ti
+ izgra dnje
+ sudjelo vanje
+ izd voji
+ Dali ć
+ even tual
+. ),
+8 1
+ u veli
+la s
+ za nema
+ ko rije
+ D r
+vje roja
+ A nu
+pe n
+ I ran
+vlje nje
+ pita li
+smo m
+Ni tko
+ dugo tra
+ svako j
+ ostva rili
+ stude nt
+ osno vne
+ izazo vima
+ upozna ti
+ mijenja ti
+ materija la
+ velja či
+ćeni to
+ sudio nika
+Gla vni
+ stanovni štva
+ Ale x
+ potpred sjedni
+, {"
+/ images
+O vdje
+P rija
+b na
+h ra
+n gu
+ s prje
+ni com
+ se ks
+ su b
+ a fe
+ do đu
+ do nose
+mo vima
+ ne rije
+ ne ću
+;e vi
+ sta riji
+pre ma
+ že lju
+Ne ka
+ Po d
+ še t
+ potre bu
+ izra vno
+ promje nu
+ Č i
+ vaše m
+ konku renciji
+ dalj nje
+ Eu ra
+ Ser ge
+"} ,{"
+ Rima c
+0 4
+P r
+ž ja
+ o kup
+ u ga
+va ku
+ na t
+ pri vreme
+zi vanja
+po liti
+ce a
+še no
+;e nju
+ tre ćem
+ C ha
+sni ci
+fi el
+nt ne
+ vje tro
+ svoje m
+ odgovo rnosti
+ osigu rava
+ kultu ru
+ važ nosti
+ vlasni ka
+ Je la
+ očeki vanja
+ iznosi la
+ ke mi
+ US KOK
+ grmlja vi
+Plen ković
+- s
+O NA
+m ske
+ p sa
+ko s
+ko ni
+ t la
+ S ha
+ K ne
+ši ce
+ C hi
+ gra ma
+ mje šta
+ ga r
+ kra lji
+ či m
+ bro da
+ doda jte
+ver po
+ voj ni
+ tak vo
+ djela tnosti
+ sport ske
+ vidi te
+ važ ne
+ sko kova
+ kampa nji
+ fizi čki
+ siječ nju
+ per spekti
+ Dalma cije
+ dopri nos
+ površi ne
+ odo bre
+ inozem stvu
+ zapovje dnik
+ sjever nom
+Najbo lji
+ glasnogovo rnik
+7 3
+I li
+k ciji
+u ra
+š nih
+ je dni
+re s
+me ra
+ pre pre
+pa na
+ S he
+ Ma rina
+zo lu
+ la nsi
+ kre i
+ sje dnici
+ žu pan
+ gleda telja
+Ve lika
+ prizna nje
+ Pre mi
+ dija gnosti
+ provo de
+ nevje rojatno
+ sadrža j
+ Vladi mir
+ Hercegovi ne
+p lova
+š ći
+ž om
+ na jo
+ne la
+ ko že
+go ra
+ su kladno
+sta tic
+lje nim
+ ma te
+ naj bli
+ tu r
+ obja vu
+ dobi je
+ Po gledajte
+Ima li
+ slobo de
+ novina re
+ parla mentu
+ zaposle nih
+ parki rali
+ tehnologi ja
+ zag rija
+ doslo vno
+. /
+7 00
+9 6
+n ter
+ u bio
+ri šta
+ C rne
+ pot pi
+ kon stru
+er ror
+Do ma
+ prija vu
+ le đa
+ Gra du
+ pripre mi
+ Le i
+ supru gu
+ tran zi
+ djevoj ke
+ muškar ci
+ atmosfe ra
+ ubr za
+ prijet nje
+Mar ko
+ utje če
+" Ne
+& Ccaron
+9 2
+H MZ
+K ri
+ko viti
+va te
+ z rak
+po sle
+tu ri
+ go vor
+do n
+do vić
+ ob r
+ h vala
+ bo l
+ is c
+ kon zerva
+;u tim
+ Bo sne
+ nasta vila
+ Ra ki
+ pozna te
+ njezi no
+ održa t
+ svjet skih
+ odigra li
+ Španjol ska
+ indu strije
+ zrakoplo v
+ moto ci
+ skr bi
+pula rni
+ dal mati
+O bo
+ d voj
+ o ra
+re nju
+ po podne
+te me
+ ko no
+ ko re
+ pro to
+ pro govo
+zi te
+ š ut
+ e kra
+ pa u
+ A fri
+ E m
+ is pro
+ pi je
+ uz vra
+ iza ći
+rga ni
+ Du go
+ Li gu
+lano vi
+ mnog ima
+ ure da
+ sredi nom
+ klju čni
+ promet na
+ Njema čka
+ jezi ku
+ preki da
+ Turu dić
+zapa dni
+ direkto rica
+_ co
+ri raju
+ po bu
+ do pušte
+le tje
+ ka mi
+ pro če
+sta v
+mi šlje
+ tre nira
+Ne davno
+ c vije
+ W al
+ dvo boj
+ lu ke
+ knji ž
+ ponu di
+ mnogi h
+ čla na
+ potencija l
+ polufina le
+ ek strem
+ kapaci teta
+ kontek stu
+I N
+K roz
+w s
+ i st
+li ku
+ na vrata
+ka t
+vi ji
+vi du
+da la
+mo n
+će voj
+bi ji
+ša li
+ is pada
+Po no
+nta iner
+ pla na
+ tra m
+ ru skih
+telj stvo
+Da tabase
+ zah vati
+ fil mova
+ uvje ta
+Ni kad
+ događa nja
+ vrati la
+ posti ći
+ turi zam
+dro li
+ pacije nata
+ zrako plova
+ zausta viti
+Mu ška
+Vr lo
+Č u
+ne a
+ pri vremeno
+zi sti
+ O Š
+nije li
+ zna la
+ prije ti
+ hrvat sko
+ nas mija
+ dije lovima
+ tr gu
+ dobro m
+ reprezenta tiv
+ Ž u
+ zaklju čuje
+ rad nih
+ vjeru ju
+ prosje ku
+ otvori ti
+ započe la
+klu zi
+ uzbu d
+ ljest vice
+Trenu tno
+! ",
+/ slike
+E T
+Z O
+ o pisu
+li st
+re e
+ju m
+ pro pu
+ S tar
+ A I
+ R onal
+ naj ja
+ in de
+ dana šnje
+ pra vom
+ Za je
+ bu ra
+el l
+ kri ža
+ dio nica
+ istra ga
+ No vom
+ veći ni
+ loka lnim
+ sli ke
+ korisni ci
+ doži vio
+Dru ga
+ prisu stvo
+ završe tka
+ karak te
+ Olimpi jske
+ Vuko vara
+  Qu
+w ar
+ u gra
+re nu
+re do
+ta ri
+ne j
+ se stre
+ ne službe
+ ra dne
+de kva
+cu sto
+ ob na
+ ob nove
+gi ju
+ O sca
+ st je
+ču na
+ že nama
+ živo te
+ tr bu
+ otkri ti
+ Spli ća
+ veći ne
+ poslo vanje
+mpa rams
+ neo čeki
+ kru mpi
+ stude nti
+ usta nova
+Sva ka
+ zamje nik
+ želje zni
+ ukraji nske
+Au to
+ stvori ti
+ nase lja
+ incide nt
+ osvr nuo
+ Križe vci
+fere nci
+custo mparams
+a t
+ o nim
+ta ciju
+ci da
+ ne z
+ ra dno
+zi rani
+pa ti
+ tre ća
+đe nu
+ bo li
+ nje n
+ če šće
+ mje sti
+ stra nci
+ gla vnom
+ tra ga
+ Mi le
+ že sto
+spo rt
+ sla bo
+pla si
+ sma njuje
+Bi li
+ reprezenta ciji
+ll y
+ ž rtava
+ hla dno
+ izbje gli
+ Svjet skom
+ zadrža ti
+ zabora viti
+ resto rana
+ proizvođa ča
+Istra ži
+ys q
+I de
+I stak
+S pa
+m no
+ u rba
+ po p
+ma k
+ se ktora
+bi jan
+že va
+ K ru
+pe t
+ si lo
+ E x
+nta ins
+ osta viti
+ ova kve
+ Ra dić
+ potre ba
+ oba vješta
+tan ya
+ Europ sko
+Pri tom
+ društve noj
+ nastu piti
+ mode rni
+ proce du
+ nogometa ša
+ traja ti
+ zalju blje
+ Veliko j
+ zare dom
+tanya hu
+I sti
+O CM
+Z e
+la ciju
+ po mi
+ po dje
+ pri re
+do r
+Za tim
+ Ma kedo
+Po stoji
+ ča so
+ Ka na
+ politi čkih
+ obra ća
+ potre sa
+ osigu ranja
+ pone gdje
+ potvr dili
+ navija če
+ klju čnih
+ izda nju
+ ministar stva
+ sljede ći
+ zlo čina
+ turisti čke
+ kup nju
+ zla ta
+mer cija
+ stručnja ka
+ profeso r
+ Toma šević
+ vatrogasa ca
+A r
+D ispla
+V u
+Š panjol
+ je sti
+ po ha
+ pre zi
+ re volu
+ča o
+ D ORH
+ G ri
+ ja vnim
+ O re
+ N BA
+ tra žio
+ rije ke
+ spa ja
+ rad nog
+ poma žu
+ for mu
+ slije de
+ njema čki
+ izaz vala
+ neiz vje
+Displa y
+M O
+p tion
+v ko
+ž noj
+ i t
+ o fenzi
+ u istinu
+li ji
+va ru
+di ca
+ga ni
+ sa stoj
+za ciji
+ D VD
+ pa me
+lj da
+ svi đa
+nci jom
+ poče lo
+godiš nja
+ Re d
+ poslo vne
+ prona šao
+ poveća va
+ financi jske
+ oti šli
+ciona lnoj
+loški h
+ šan su
+ prika zuje
+ infrastruktu ru
+ foku si
+Vla da
+CI ONA
+ poreme ća
+ Hezbo la
+Cro pix
+C e
+k vu
+x el
+ s meta
+ s vla
+ s kuplja
+ra nog
+ i ran
+ o nog
+ta cije
+va j
+ a e
+ki ng
+ pre gle
+ S rp
+ re publika
+ v rt
+;e ga
+;i nu
+ sta rtu
+ ot kaza
+mije r
+;u na
+ drža vu
+ Euro pa
+ proble mati
+ zavr šava
+Iz bo
+ tek st
+ vidje la
+ prvo liga
+ odje la
+ Ministar stvu
+ Kra ljev
+ rizi ka
+ postup ku
+ stadio n
+ Har ry
+ dozna jemo
+ ruko met
+bur gu
+ cilje ve
+ inteli gencije
+ Yor k
+0 27
+F rancu
+O ko
+a ra
+l jo
+ s nijeg
+na mje
+ u bla
+ri t
+ su ca
+ iz vla
+si li
+ re čeno
+ ta ble
+ f ra
+ naj dra
+ran j
+ pla ne
+ du gi
+ treba te
+ predsjedni ku
+ trenu tke
+ še sto
+ Ve ne
+ održa o
+ Ju ri
+Ve ćina
+ sli ku
+ nepo sre
+ korisni cima
+ Francu ska
+ nasi lje
+ strana ka
+ ožu jku
+ prihvati ti
+ komi sije
+ reze rvi
+, 
+
+B ar
+d r
+k rati
+to nu
+ do ve
+ od e
+če ra
+ e vaku
+ st rp
+ pla ću
+ pla nove
+telj stva
+ au tenti
+ ono me
+ Europ skoj
+ prona šla
+ In stitu
+ vrati li
+ uči nio
+ knji gu
+ kole gama
+ stvara nje
+ izvje šću
+ kame re
+ razgovara o
+ projekti ma
+ plu s
+ ulaz nice
+ cilje va
+ Kre ši
+ tero risti
+CIONA L
+A nd
+D r
+K e
+S vje
+S lobo
+T P
+_ id
+l tra
+r skih
+ po misli
+te rije
+ iz vori
+me ne
+ pri mi
+ T ime
+ raz vije
+ pod ne
+sni ji
+ bro jem
+ pozi tivno
+ osigu rao
+ Vu čić
+ obitelj ske
+ odigra ti
+ emi sija
+rea ted
+ poseb nu
+ napre do
+; om
+C o
+c hu
+k nuti
+r d
+u se
+z z
+ti jeva
+ po ro
+ ne re
+ t j
+sti la
+ pre govara
+še ni
+ dru k
+ C or
+šti nu
+ Sa bor
+ stu dije
+ Mar tina
+ oba le
+ pokuša vaju
+ izgu bi
+ klju čna
+ pola ko
+ aktivnosti ma
+ Svjet skog
+ dre s
+ albu ma
+ derbi ju
+1 80
+S in
+Z o
+ri zo
+vi n
+vo st
+ su ve
+ su govo
+že nih
+gu r
+ e fe
+ža vanje
+ vo lio
+ G ro
+ pr ste
+ de r
+ pra t
+om ments
+ ro ka
+ odlu kom
+ ova kav
+ nasta vi
+ pje smom
+ Bu ga
+ Lo s
+ natjeca njima
+ sasta vu
+ uči nak
+ djela tnika
+ sport skih
+Vo za
+ tradi cionalno
+Ba š
+ srp ski
+ treni nga
+ uze o
+ ozna ka
+ liječ nici
+ Usta vnog
+ Yor ku
+ Gattu so
+Primje rice
+- ne
+C ou
+d le
+p h
+u ta
+u šti
+Š e
+ni a
+li an
+di ce
+ve ća
+ su gla
+ru r
+ B DP
+sto n
+ in tim
+ Mi lan
+ ba ve
+ osta tak
+ op se
+ svoje vr
+ dije le
+ predsta viti
+ pozi tivan
+ Do di
+ konce rtu
+ vrati ma
+ pokuša ja
+ omogu ća
+ neza bora
+ usta nove
+ hi tno
+ zagreba čkoj
+ djelo vanja
+ sredst vima
+ Dalma cija
+ Slove niji
+ uslije d
+ Willi am
+O ba
+O nda
+b lo
+e s
+š oj
+ a spe
+ od la
+ pre mda
+bi ne
+gra fije
+ mi ro
+se zo
+ša nje
+ svo ga
+ us pi
+ cije nama
+ doda tnih
+ Mo sta
+ Da vid
+sjeti la
+Ima m
+ mladi ma
+ sasta nka
+ kazne na
+ obo je
+ uspo redbi
+ spe kta
+ Tu risti
+ kontro ver
+ kar te
+ čla nice
+ ut rci
+ ravna telja
+ brzi ne
+ okoli š
+ reagi rao
+Mla di
+ Donal da
+ invali dite
+ posljed njem
+% ,
+I S
+r sko
+ko re
+da ka
+ a te
+ mo ji
+ mo tiva
+po vi
+se l
+ pa t
+ ma đar
+ V oj
+ naj za
+ Ma kar
+ in zisti
+ Mi cha
+ utakmi cama
+ kri pto
+ Ka ra
+ politi čka
+ sti l
+ kaže m
+ sr cu
+ loka cije
+ loka ciji
+ istak nu
+ izgu blje
+ upozo ravaju
+ zdravstve nih
+ nesta bi
+ posjeti telje
+ kona čnici
+ Ameri ci
+NA CIONAL
+ koli čine
+ dozna je
+ Zla tko
+ zabrinu tost
+j nim
+k ne
+k lom
+z nim
+ su gra
+ do stojan
+ pro movi
+ sa nja
+ ni za
+ M je
+še vi
+ H G
+ ta bli
+ A f
+sje da
+;a vaju
+ E vo
+šte no
+vlje nih
+ odno sima
+ sti žu
+Re zulta
+ osigu rali
+ kazne ni
+ opo ravak
+Tre ner
+ kraj nje
+ veza no
+ posjeti telja
+ nacional nih
+ pobolj šati
+ elektri čne
+ ulaz nica
+ iskre no
+ prakti čki
+ teri torija
+ maksima lno
+ invalidite tom
+' :
+8 4
+V A
+t skoj
+ s ke
+ u ra
+ na šli
+ na pušta
+te n
+to rima
+ a s
+ pri mio
+pi sima
+ mi rno
+ši ma
+ sta vio
+ ja vio
+ ja vila
+ de ba
+ zna nje
+ tu ma
+ mogu ći
+ vr tić
+ sto tine
+ kre ne
+Pro šle
+Mi sli
+ zah tijeva
+ sna zi
+ To ni
+ umje tne
+ govori li
+ razi na
+ napada ča
+ inf luence
+ iznena đenje
+ genera cija
+ Ke kin
+ Bje lo
+ser ver
+ dobri h
+ zamije niti
+ Cro atia
+ teški m
+ u dio
+ je de
+vi to
+ ko mo
+lo na
+bo lje
+ M ur
+za nja
+ča jan
+lja ka
+so v
+ G vardio
+ Ma c
+ Ka ma
+ mjese čno
+ izja va
+ Ha m
+ viso kim
+ Ar genti
+ obli k
+ provo diti
+ izvijesti li
+ socija lne
+ izrazi o
+ prihva ća
+rie s
+ odmo ra
+ spomi nje
+ elektro ni
+ rela tivno
+ direk tno
+ Pred sjedni
+Tru mp
+ Raspu dić
+O K
+g r
+ž ljivo
+ u šla
+ u mr
+ri lo
+ na šla
+ po volj
+le ct
+ pre veze
+ k rva
+ te žak
+ ni že
+ re mi
+ me so
+ me teoro
+đe njem
+ sta vo
+ Ma ja
+ va l
+;a r
+ O vo
+19 3
+ vje šta
+ doda tni
+šti ni
+ rije tki
+ kre ću
+ Ko la
+Je ste
+ br že
+ pripre miti
+pusti o
+ oda kle
+ ameri čkih
+ nosi la
+ upozo renja
+ domaći na
+ otvori la
+ obje kata
+ partne rima
+ foku s
+ tale nti
+ Lokomo tive
+ niko ga
+ konferen cije
+ kolovo zu
+S rbi
+z nih
+ve ra
+ iz laz
+će ve
+mi ne
+de nt
+;e la
+;e le
+ pa le
+ ma ri
+ ma lim
+ li gu
+ h rani
+pe ndi
+ va gi
+ ja vnih
+ stra nice
+ Za pa
+ du že
+ os loba
+Da te
+ ci lju
+ lije čenje
+ politi ci
+ Go ogle
+ poslo vni
+ loka lno
+ kandi di
+ In ter
+ sudje luju
+ rodi telje
+ oto k
+ povra tka
+ pogi nuli
+ zavo da
+ indi vidu
+ reci mo
+ Zele nski
+f fe
+ b rak
+ pro mica
+ sa la
+ pre kri
+či nje
+ B BC
+pi la
+se na
+ li k
+ me d
+ prije la
+ pe to
+ že nu
+ obja vljena
+ Ko mi
+ W i
+ inte gra
+ izja vi
+ izja vu
+ Se lak
+ sport skog
+ izgleda ti
+ uključu ju
+ Dra gan
+ ša lje
+ Split sko
+ investi cije
+ ut rka
+ Kon ferenci
+qu i
+razu mije
+ Bru xel
+ fakul teta
+Či ni
+ prav de
+onte nt
+ hid ro
+D V
+ i šao
+ni jom
+ta l
+ na vela
+ na prijed
+di ci
+ ko su
+ ra dnici
+de x
+ g rija
+ me mo
+;i ta
+ pu šta
+ J Database
+pre m
+tni cu
+Ne koliko
+in c
+ doda vši
+ sto je
+ sto pe
+ Pe tri
+ Da ily
+ Li verpo
+ uspje ti
+ odgovo rila
+vili ma
+ poja snio
+ govori mo
+ naja m
+ Ta y
+ una prijed
+ Grad skog
+ nazi v
+ provje riti
+ napusti ti
+ korup cije
+! "
+* *
+E S
+S lije
+U D
+ iz gla
+ pro čita
+sta la
+mi ng
+ča vaju
+ P S
+ ob veze
+Na vo
+ T om
+ T im
+ ja bu
+ de bi
+il le
+ kri ze
+ Bo ris
+ auto ra
+ sje dnice
+ upra vi
+ sti lu
+lano vić
+ održa vanja
+ smje ra
+ zra čne
+ informa ciju
+ bri ne
+ supru ge
+ elek tra
+Va žno
+ deta lja
+ najbolje g
+ Francu skoj
+ sjeve ru
+ dija gno
+ plat forma
+ ukraji nski
+ gubi tak
+ kontak t
+ koma da
+ nakna de
+ izd vaja
+ um ro
+ EP PO
+sr c
+0 9
+_ the
+ s nije
+ri šte
+ji cu
+ ko mercija
+ pro veli
+ ra j
+ ra dove
+ pre do
+de l
+ M or
+ re porter
+ži le
+;e tka
+gi o
+20 3
+ naj no
+ naj prije
+ Ma j
+ pi što
+ tra g
+ može š
+he r
+ spo rtu
+lni ku
+ os mije
+ ro bo
+jp rije
+ op će
+ op ćenito
+ Euro so
+ prija viti
+ među sob
+ predsta vnik
+ ide ju
+ Lu dbre
+ Rije ku
+ bra ta
+ tisu ću
+ pret r
+ sura dnja
+ regi star
+ stude nom
+ smi sla
+ ozlije đen
+ sprem na
+ potencija lno
+ potra zi
+ Domovi nski
+ dozvo le
+ francu ski
+ destina cija
+efi cije
+ karakte risti
+  €
+0 1
+8 2
+; nja
+V I
+j nih
+ o jača
+ u mo
+ci a
+ iz laga
+sta vno
+ ra sko
+ pre ve
+ pre baci
+ba cu
+sa da
+ me sa
+ bo ravak
+ ti nej
+ F in
+ mu lti
+ ga le
+ osta ju
+kre a
+Ka snije
+ Ja droli
+ še fa
+ potre ban
+ tek stu
+ški m
+ jedi nice
+ akti vnost
+ sasta nku
+ tere t
+ sredi ne
+ snim ka
+ prepozna ti
+ hote lu
+ Ce ntar
+ber g
+ iskoristi o
+ proraču n
+ uka zuje
+EF A
+ koor dina
+Utakmi ca
+ jedana e
+ Ruje vici
+; &
+C A
+E N
+F o
+M aj
+k l
+ra nim
+ o pušte
+no vu
+ri a
+ri cu
+ na go
+ po rt
+ ko se
+ do di
+ iz va
+ pro vela
+ pre lazi
+ pre vlada
+Na vija
+il l
+Ka že
+ sre tni
+ Zagre p
+godiš njeg
+ broj ke
+ fo l
+ najbo lju
+ odgovo riti
+ napa o
+ skupi nu
+ završi li
+ ostva rila
+ kolo d
+ Au tor
+ člano vima
+ emo cije
+Zna m
+ Hr voje
+ ustvr dio
+ Zvo ni
+ ug lji
+ admini stra
+donače lnik
+9 3
+E R
+U o
+d ža
+ i lu
+lo sti
+ ka mo
+ sa vjet
+ pri ušti
+ S lo
+za na
+do sta
+ H R
+ D or
+ mi ru
+lju je
+ ta lija
+lji ti
+ ima lo
+dni cu
+ L in
+ I stri
+ va rija
+ ja vljaju
+ C la
+ dje čaka
+ stra nica
+ Mi d
+pro du
+ Ka ro
+ sti pendi
+ kro ni
+ Go rice
+đi vanja
+Ni su
+Ni šta
+ ču o
+ ak ciji
+ nastu pio
+ spa va
+menti rao
+ pokre nuo
+ nu žno
+ poveća nja
+ promet nih
+ osu đen
+ prosje ka
+ pozor nici
+ Ze m
+ reda telj
+ show u
+ pacije nti
+ projekti la
+ shvati o
+ dobri m
+ sed mo
+ favori t
+ Londo nu
+Zagre b
+ samopo uzda
+D S
+z nom
+z mom
+ p lovi
+ na du
+ na veli
+lo ška
+ su spe
+ od vo
+ M ü
+gra ni
+ naj novi
+ drža ti
+ pove o
+ Sa mo
+ zah tije
+Od mah
+ poslo vnih
+ Pu ti
+ vlasti tu
+ potvr đuje
+ EU R
+-o ve
+ pru žiti
+ izda nja
+ nogomet na
+ poduze ća
+ ugo dno
+ lop ta
+ izaz vati
+ činje nice
+ opera cija
+ nao ruža
+ svlada o
+ Portuga l
+ kontinui rano
+ fon dova
+i ć
+v cima
+ko nom
+ na ji
+ po gla
+ma s
+ za vi
+go rje
+ pro glasi
+će nih
+ to plo
+ S tan
+ M UP
+lja na
+ ob ro
+ A S
+lj no
+ C om
+ ba štine
+ treba le
+ sto l
+ iza ziva
+ im presi
+cij skom
+ dr že
+ prosto rima
+ gleda li
+ lu ci
+ Pu li
+ vije će
+ vide a
+ prizna ti
+ smi ju
+ lop te
+ izrazi to
+ fakul tetu
+ visi ni
+ pravosu đa
+ crije va
+ Jele na
+P or
+i ra
+j k
+o ni
+ u vr
+ca ti
+ su n
+ su ci
+ ra dnje
+lje nom
+če vi
+sko p
+ži h
+ ma lu
+ V er
+zo ri
+ N ina
+ C u
+ Hrvat skih
+ spo ji
+stra na
+ obja vljeno
+ vje štine
+ nas lije
+ven tu
+ pove zuje
+ ri ba
+ sluča ja
+ tek sto
+ pret vara
+ Lo vre
+ sudje luje
+ posla ti
+nde r
+ inf lacije
+ odli čan
+ kar ton
+ Vo yo
+ split skog
+ ljud ska
+ proti vnika
+ Madri da
+ naglasi la
+ industri ji
+ nami rnice
+ Var te
+Nogo metaši
+ napomi nje
+ uzroko vati
+% .
+
+/ h
+3 19
+O ne
+_ ca
+r ko
+z vao
+ni ta
+ti jih
+li com
+ po lj
+ po gledu
+ ra k
+ S pe
+ča vanje
+ H it
+;e ri
+be ra
+;i va
+vije t
+ L an
+ Ma n
+;a di
+ C on
+ prije laz
+ gla vne
+ tra žili
+.. .,
+ vje tra
+ posta lo
+ posta viti
+ izbo ru
+ Po dra
+ Po drav
+ sje dište
+ No vo
+ kvali teta
+ osigu rala
+ Su n
+ sklo ni
+ sce nu
+ Y a
+Jo si
+ promije nio
+ mirovi na
+ ut rku
+ sku po
+ pogi nuo
+ životi nje
+ perio du
+ Dne vnik
+ Jaki rović
+ raspolaga nju
+ isc rp
+P lus
+m bi
+n kom
+p hi
+ž nosti
+ u šte
+ca o
+ m ra
+di šta
+di mir
+ su ho
+če k
+ ni malo
+ re f
+ tre t
+ pred meta
+ sve će
+ gla vnih
+ igra la
+ treba ti
+ odlu čiti
+ sla vili
+ tje dno
+ ho ro
+ Ne tanyahu
+ To ki
+ održa n
+stri bu
+ zajedni ci
+ poda tak
+cio ni
+ glazbe ne
+ napisa li
+ nosi o
+ klju čne
+ rodi telj
+ Republi ci
+ osob ni
+ Đ u
+ upozna li
+ split ski
+ kak vo
+ snima nja
+ dozvo la
+ prila godi
+ simbo l
+ sru šio
+ potak nuti
+ platfor me
+ Vale nti
+  Q
+- in
+L je
+w w
+ d viju
+ u gleda
+ a ma
+ do volj
+ ka vu
+ iz vrši
+mi nu
+nja ma
+ š titi
+ S ko
+;e nih
+ bo lju
+ Ma mi
+ N u
+ ku pio
+vni ji
+ kon cu
+ be spo
+ Z drav
+Mi lanović
+ poru čuje
+ sna žno
+ vozi o
+ Go spi
+ progra me
+ ge no
+ ge ne
+gro man
+ službe ne
+ Fran jo
+ sredi ni
+ ponedje ljka
+ ban ka
+ ravna teljica
+ odgovara ju
+ aktual ni
+ Bje lica
+ Jan dro
+ zad r
+ Anto nio
+ ministri ca
+ pande mije
+ talija nski
+B ut
+T ali
+b l
+s ma
+ni t
+ni ne
+ u su
+li sta
+ za mr
+ za dnja
+lo škom
+ su nca
+ od bor
+ sa ču
+sti te
+ k vi
+si te
+ M ona
+ M uze
+ re for
+pi li
+pe la
+ => 
+
+ ja ka
+pra ve
+Po stoje
+ F lori
+ pla nina
+ U skr
+ auto ri
+ potre bi
+ pozna tog
+vede na
+ naja vila
+ pokre nula
+ Č ako
+ organiza tori
+san dra
+ plaća nja
+ kar ti
+ komenti rati
+ komenta r
+ Srbi ju
+ Đ ur
+ poseb na
+ brzi nu
+ Gu ar
+Ca t
+ interne tu
+ poljoprivre de
+ obno vu
+ muze ja
+ Hama sa
+ puca o
+ sudjelova la
+ poti če
+ prete žno
+9 66
+p pe
+š nim
+ž je
+ s ramo
+vi ta
+ za vje
+ do ne
+či te
+ mo lit
+ te be
+ pu ni
+ O pa
+ više stru
+in k
+ neko me
+ Ba tu
+ među sobno
+ predsta ve
+ par k
+Sa m
+13 8
+ zdrav stvo
+ mladi m
+ izgu biti

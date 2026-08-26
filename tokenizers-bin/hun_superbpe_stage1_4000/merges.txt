@@ -1,0 +1,3804 @@
+#version: 0.2
+  a
+s z
+e l
+e t
+e n
+  m
+g y
+  k
+e r
+. 
+
+a t
+a n
+  h
+a l
+  t
+  v
+é s
+e k
+o r
+  sz
+ a z
+á r
+i n
+e m
+o n
+  f
+o l
+á l
+a k
+  n
+á s
+e g
+e s
+á n
+e z
+i s
+t t
+é r
+o k
+  l
+i k
+é n
+  el
+a r
+  b
+é g
+c s
+o s
+e gy
+  p
+b b
+á t
+  és
+ü l
+et t
+o z
+í t
+á g
+  s
+é l
+i l
+a p
+  j
+é t
+  egy
+  r
+ k ö
+ m eg
+o gy
+in t
+b an
+e d
+é k
+o tt
+  is
+ h ogy
+b en
+i t
+a gy
+  d
+sz t
+a d
+u t
+o m
+  -
+ n em
+a m
+a s
+ó l
+s ég
+i g
+u l
+n i
+ sz er
+  cs
+j a
+r a
+t a
+á k
+o g
+án y
+r e
+ál l
+én y
+é p
+  M
+a j
+á z
+a i
+ kö z
+ f el
+a z
+ k i
+el y
+é v
+n ak
+i z
+ér t
+o t
+en t
+é sz
+a g
+ö r
+s ág
+i d
+ l e
+n k
+ a m
+á m
+h et
+n y
+ol t
+  B
+n ek
+ő l
+  S
+en d
+ a l
+A z
+ a k
+c i
+el l
+  ez
+in d
+  (
+ál t
+ö n
+ö k
+u s
+  K
+h at
+ b e
+il l
+o d
+  A
+ n y
+sz er
+í r
+ar t
+  ú
+ö l
+on d
+on t
+  g
+u d
+l en
+  gy
+  év
+  áll
+u r
+e v
+u k
+a b
+ő k
+u nk
+b er
+a v
+ol y
+  F
+ szer int
+t e
+ö s
+ó k
+ d e
+ez et
+  ut
+ f or
+ö tt
+ v olt
+2 0
+sz ág
+  P
+agy ar
+  c
+v et
+o v
+ k or
+at t
+ l eg
+ j el
+á ban
+  G
+  T
+ö bb
+or szág
+e sz
+e p
+ m ár
+ el ő
+e j
+es t
+ r end
+  E
+ő s
+i v
+ö z
+i r
+er ül
+á bb
+ü k
+  id
+k or
+  N
+er t
+én t
+ m ind
+  ér
+  H
+b a
+ a d
+em ber
+at ás
+  L
+ t öbb
+ú l
+ h ely
+é ben
+ v al
+  C
+k al
+ol g
+ü gy
+a szt
+ n agy
+v al
+z et
+í v
+ m ég
+m ány
+ek et
+á j
+  er
+el m
+ m i
+é d
+a sz
+ó s
+ az t
+ál y
+ár t
+ sz ám
+ett e
+u m
+  R
+  "
+  V
+el ő
+o bb
+ár a
+ cs ak
+ k ell
+i a
+ő r
+e szt
+e bb
+ le het
+k ez
+ sz áz
+k oz
+ k ap
+ok at
+é z
+  D
+ít ás
+ö v
+ t ud
+ am ely
+ v an
+ m int
+ t ör
+ös sz
+i sz
+i szt
+ t art
+ó t
+ m ás
+ v agy
+és e
+or t
+b ól
+  es
+on y
+ s em
+ t er
+ k ét
+b e
+  I
+ m ag
+ill i
+aj d
+ó d
+al m
+s ő
+al ék
+ v ég
+h oz
+  J
+ v ál
+i m
+t et
+él y
+c h
+ a r
+  össz
+m ény
+  él
+ el len
+án ak
+v e
+ f og
+í n
+ ú j
+ m ond
+j ák
+at ó
+ b iz
+ S z
+ száz alék
+é m
+ p r
+és t
+ k ép
+z ő
+ít ott
+ m agyar
+e h
+n ök
+r ól
+u g
+  át
+ul t
+í z
+  z
+o p
+ed ig
+e i
+el t
+  u
+ás t
+n a
+n ál
+ér e
+  O
+ó r
+l eg
+er es
+hat ó
+ sz em
+en y
+ár os
+ p edig
+j e
+ik ai
+  ért
+ m illi
+én ek
+ jel ent
+ t el
+ k ül
+ h a
+20 0
+ ut án
+il ág
+  ig
+as ág
+a bb
+  ol
+es en
+v ény
+ r ész
+és i
+en n
+ az on
+ü nk
+ for int
+ás a
+os t
+ h at
+ h oz
+an i
+ m ű
+t ak
+ m unk
+á d
+á ci
+ kö r
+v a
+ n ap
+ül t
+ k ez
+á val
+gy an
+ mind en
+ v is
+ m ajd
+k ö
+  í
+k ed
+l et
+ár s
+  e
+ál is
+o b
+l an
+em ény
+ur ó
+ kor mány
+ le sz
+v ezet
+ás ok
+1 9
+j án
+ő z
+ő t
+n ap
+  ember
+az d
+j el
+  ü
+ön t
+  em
+ a n
+an g
+ el ső
+ v ezet
+ al ap
+h áz
+b ől
+én z
+ mi att
+d és
+ t al
+ kö vet
+E z
+en g
+k öz
+  in
+il y
+ sz ak
+h ez
+á b
+r ől
+  ill
+oly an
+et len
+ köz ött
+ ú gy
+öl t
+  ö
+ b el
+  ország
+ik us
+ vis sz
+f or
+ u gyan
+f i
+m ű
+ h ét
+ ak i
+ áll am
+f el
+ í gy
+  ok
+l ó
+) ,
+ f i
+ el m
+  Z
+ tör t
+ m ert
+erül t
+  ügy
+ j át
+ n é
+ k is
+an y
+ily en
+er s
+ f oly
+ mond ta
+  olyan
+ s ok
+és ek
+os an
+  ind
+ m in
+ez ett
+S z
+i c
+ed d
+ás i
+ v ilág
+ ak kor
+á sz
+at ok
+t ák
+ét el
+öl d
+at al
+ M agyar
+  ír
+ő v
+aj t
+ov ább
+ s or
+ált al
+t at
+ l át
+k el
+ó z
+ár om
+ny i
+  int
+k ént
+0 0
+e b
+et i
+  ép
+k i
+í j
+os sz
+ egy ik
+á cs
+ol it
+ k ész
+ ig az
+m er
+ azon ban
+ár d
+u n
+o sz
+ k ér
+20 1
+ v ált
+t el
+aj n
+ vál aszt
+ a h
+ t ovább
+év el
+ t ám
+al l
+s t
+? 
+
+  ár
+ut ó
+en i
+ am i
+o szt
+ biz t
+ m ell
+  i
+ j og
+ sz ab
+sz ak
+ val am
+azd aság
+p ont
+at koz
+á v
+ f ér
+ű n
+ül et
+ik or
+ez ő
+ kez d
+p r
+ p énz
+  W
+ t an
+ hoz z
+ id ő
+uró p
+het ő
+l t
+áll al
+ es et
+ ér d
+ m ost
+  ir
+ü n
+ val ó
+ cs ap
+r an
+v án
+  által
+ol d
+ j ó
+ar ad
+ el nök
+ ill et
+j át
+iz s
+ör t
+ tel j
+f og
+at i
+es ít
+j t
+j ár
+iz et
+ v ár
+- ben
+eg ész
+l ő
+ek ed
+at a
+ A n
+ h árom
+h ely
+- es
+cs ol
+ d önt
+ n ev
+an d
+ f ej
+in g
+  ó
+ rend őr
+ h i
+in cs
+ kül ön
+ j ár
+el em
+ ar ra
+ít ó
+ár m
+p ort
+ kor ább
+f ő
+v éd
+en ek
+j uk
+ v isz
+elm i
+ol l
+ er ed
+ol ó
+ elő tt
+v is
+ p ont
+ él et
+ s ik
+S Z
+t ek
+u p
+r i
+ jel en
+at ot
+ad ás
+al om
+és ét
+k ép
+ p er
+z el
+k ül
+ ny il
+ö g
+t er
+iv el
+ k er
+ c í
+c k
+  egész
+ szer ep
+ d olg
+ol na
+t atás
+E gy
+1 0
+ p olit
+ milli ó
+ sz int
+él d
+izs g
+d íj
+oz ó
+úl t
+l e
+- t
+oz ott
+ be sz
+s al
+ c ég
+ év es
+ut at
+k od
+ v olna
+ kap csol
+el i
+ít ett
+ök k
+szer ű
+ét er
+ g ond
+ar m
+om b
+l am
+e f
+ü t
+ek t
+l al
+ gy er
+at lan
+ tört én
+r end
+il m
+úl y
+á ba
+ m ér
+ ez t
+ tal ál
+en c
+ő ség
+v el
+ érd ek
+ k on
+ illet ve
+ f ő
+oz ás
+ al att
+ajn ok
+ más od
+ f él
+es ség
+ár i
+ ö t
+ő je
+o h
+ h al
+in ek
+ ter m
+ír ó
+ ez er
+k ol
+. .
+ l ak
+og at
+ci ó
+ kö lt
+jel ent
+ p éld
+ mell ett
+u sz
+ü tt
+á ból
+g g
+ O r
+ t ag
+ ak ik
+ad ó
+asz nál
+ p árt
+ milli árd
+v as
+i ai
+ut án
+ k om
+r am
+ez te
+id esz
+1 5
+ t árs
+ sz ó
+os ság
+ am ikor
+o f
+or v
+d ul
+ h ó
+ vissz a
+er ikai
+ s eg
+ ny ug
+sz ín
+ers eny
+el et
+ ját ék
+ j öv
+i p
+or s
+ né gy
+an t
+erül et
+áci ó
+ rend szer
+é szt
+ v on
+N em
+ ért ék
+enn e
+e c
+  en
+for m
+g el
+ köz l
+ h ang
+ár ól
+ G y
+  Á
+z s
+iszt er
+ m en
+k ot
+izsg ál
+ém et
+ h az
+él kül
+ nem zet
+u ár
+ sz ól
+  ott
+ud ap
+udap est
+e x
+s el
+ g azdaság
+ tör vény
+ m ód
+an em
+  ő
+ t ár
+í g
+án t
+n él
+ egy ütt
+ fér fi
+öl te
+in k
+ p ar
+om ány
+t ék
+at on
+est er
+ bizt os
+u b
+ v állal
+ al kal
+ül és
+an ak
+alm az
+  U
+uróp ai
+ n ő
+o cs
+ t av
+ j av
+v ez
+ kép vis
+ás át
+as s
+z és
+ ü z
+ k il
+ l ett
+ követ kez
+ség es
+ nagy on
+ am erikai
+t al
+ ny om
+áb or
+ m arad
+ cs ökk
+av az
+ t úl
+ h áz
+ n incs
+ k eres
+ A l
+ v esz
+ h anem
+ j obb
+ügy i
+ b et
+n e
+ cs al
+l at
+ p ály
+ Magyar ország
+g ató
+i ó
+ün tet
+ d él
+ c él
+ek en
+kö d
+v ány
+  ilyen
+ó b
+t art
+og ram
+op ort
+ ered mény
+oz at
+ek ben
+ h isz
+al y
+ett ék
+ szem ély
+ er ős
+ v él
+p en
+ők et
+" .
+
+is t
+ fi gy
+ össz e
+as on
+- e
+á ja
+ be f
+ v éd
+3 0
+ü gg
+ h iv
+ m egy
+ az ért
+ köz ölte
+edd ig
+an k
+ r á
+á ul
+ k erül
+  ór
+t on
+ h ír
+ is m
+ l ép
+r it
+el és
+ v erseny
+ n ek
+ sz ük
+ a utó
+ k ív
+ hely zet
+h on
+ér i
+ott ság
+ sz ín
+aj át
+u szt
+ez és
+é b
+ seg ít
+ö m
+! 
+
+ek kel
+ kör ül
+ő d
+ k ev
+1 8
+en ni
+ít és
+H a
+s ó
+sz ám
+er n
+ít ani
+ sz olg
+l át
+ k ar
+ak or
+ú z
+er g
+ v as
+ másod ik
+ i tt
+ ah ol
+arm ad
+ n öv
+ visz ont
+f él
+ F idesz
+1 2
+d al
+ el v
+ ak ar
+ C s
+ k és
+ont os
+l ék
+ szer ző
+  eddig
+ ez ért
+ csap at
+es s
+ l ét
+ok ban
+N O
+t ól
+ költ ség
+es ebb
+is ta
+ an nak
+ m ent
+h a
+ v áros
+ö vet
+ék oz
+ n élkül
+z ett
+ k am
+ f ilm
+ s t
+ny v
+ kapcsol at
+ ki v
+ö t
+ fel t
+ hó nap
+ jöv ő
+ hozz á
+ E gy
+n agy
+ szer et
+ő en
+ fog lal
+ biz ony
+M NO
+ köz el
+ett ek
+sz ör
+ész et
+or d
+ százalék kal
+ú t
+ik a
+sz ab
+ péld ául
+a c
+el nök
+ hat ár
+f öld
+író ság
+ított a
+ jelen leg
+ s aját
+ for g
+ ar ról
+e it
+ vezet ő
+ t e
+ alkal m
+áj ékoz
+ar c
+ s ajt
+ ugyan is
+og atás
+ valam int
+bb i
+ség i
+ szer d
+h ány
+ r eg
+ tav aly
+el ked
+ min iszter
+ N em
+ int éz
+ér ől
+ meg h
+al ak
+ am it
+ ó ta
+ci a
+ég i
+ j ut
+ért ék
+ v izsgál
+ n egy
+ ol vas
+ört ök
+üt örtök
+ás ár
+ elm ond
+ szab ad
+ csal ád
+l eszt
+köz i
+o ci
+ t áv
+v er
+ k erült
+ alap ján
+ott a
+ar k
+ kér dés
+ott ak
+ul ajd
+ al ak
+1 6
+ p ár
+s or
+ a ny
+ m ely
+ t iszt
+ú jt
+2 5
+ is mer
+ ját sz
+ulajd on
+oz z
+ b al
+ korább an
+ k it
+oló g
+ köz ös
+) .
+
+ más ik
+it k
+ szám ára
+ség et
+ t ér
+ hisz en
+ h ason
+ia c
+r ó
+ besz él
+ meg sz
+ség e
+ hét fő
+- ban
+ok kal
+t ár
+l ás
+in ak
+j obb
+ű z
+- k
+ k edd
+ I n
+1 1
+es sz
+ú s
+tt al
+ l ap
+ol c
+z al
+  á
+tel en
+it el
+őv áros
+ gy őz
+ k ed
+ j ól
+ meg v
+ m a
+ per c
+m i
+ ú t
+l ag
+ p ént
+ t erület
+ar i
+ cs ütörtök
+ cí mű
+ szab ály
+) 
+
+ h át
+ köz ül
+ e uró
+ fel h
+ pr ogram
+ n éz
+ el t
+gy ű
+ sz avaz
+ j egy
+f ej
+ h ossz
+ gond ol
+ mű köd
+ lehet őség
+ százalék os
+h u
+ képvis elő
+  ör
+ n eh
+ ol dal
+nagy obb
+ h agy
+ ir ány
+ Nem zet
+án d
+a y
+m ér
+i b
+ d oll
+ l enne
+v étel
+ar d
+ h asznál
+  or
+ g ól
+as sz
+ nyil atkoz
+ az ok
+ít él
+ ö nk
+r on
+á hoz
+ú j
+ for dul
+ tár gy
+cs ak
+ ak ár
+ kés ő
+ foly am
+ B udapest
+ h armad
+1 7
+i cs
+s úly
+eng ed
+ek int
+ás sal
+ n e
+ók at
+ j an
+elő tt
+1 4
+ig az
+ul l
+v on
+ csökk ent
+ leg nagyobb
+ leg jobb
+  ön
+j ük
+t or
+ k ut
+ sz áll
+ k l
+ tört ént
+z i
+ fi atal
+ m íg
+lam ent
+ nyil ván
+r ás
+ f izet
+M ind
+ né hány
+és re
+ kell ett
+ de c
+ egy m
+ ut ol
+a cs
+ t ulajdon
+n ő
+ b űn
+ ér kez
+ hiv atal
+ sor án
+m ent
+ szem ben
+ja bb
+ nyug díj
+  oszt
+ elm últ
+ dec ember
+ál ó
+i ch
+ mag as
+alm as
+ al kot
+ rend el
+ cs oport
+ab d
+ meg áll
+ a ján
+ez tet
+ jelent ős
+t ó
+ár nap
+ n émet
+ t est
+ rendőr ség
+l y
+ás ra
+ t íz
+ meg t
+ a ut
+ob l
+ amely ek
+ej én
+ nagy obb
+5 0
+ szer vezet
+ gyer ek
+ság i
+b án
+ az zal
+ l egy
+ v íz
+ó i
+er m
+l ik
+es et
+r el
+ foglal koz
+  ebb
+ cí m
+ m oz
+ el em
+n é
+on g
+1 3
+ el ég
+. ,
+ t ett
+ egy éb
+ elmond ta
+ korább i
+ n ép
+ meg k
+ meg fel
+a h
+ h aj
+en e
+ h atás
+ köz t
+ kör ny
+eg et
+án os
+ el fog
+ítás a
+l és
+C s
+z ék
+ász ló
+obl ém
+b ajnok
+it ány
+ el s
+n em
+lan d
+al t
+ m utat
+ negy ed
+or mány
+ r észt
+ hason ló
+ gy ors
+b iz
+ sz él
+ ez zel
+r t
+ö d
+ munk a
+E l
+ f ut
+i h
+ f ontos
+- én
+ gazdaság i
+ec cs
+et em
+  ál
+ t esz
+el te
+n ny
+ van nak
+ez ni
+ s p
+ r e
+j ában
+ z s
+ vált oz
+ ter v
+m a
+ b ár
+ m ivel
+ít ja
+ dolg oz
+ gy akor
+is ég
+ sz oci
+ mind ig
+2 7
+ormány z
+ok r
+od a
+ hi ány
+l in
+ id én
+M eg
+v en
+k őz
+ r om
+ par lament
+  ám
+r o
+ t ájékoz
+ K öz
+ F er
+ An d
+ jan uár
+ tám ogatás
+SZ P
+ ér int
+tal an
+ a bb
+ f öld
+ov ember
+ költség vet
+s sz
+ el jár
+ t eh
+es ült
+és sel
+ p olg
+ k ín
+ in k
+- f
+l ov
+ s port
+ek nek
+ f ran
+ák at
+ al á
+ elnök e
+ b ank
+t am
+ telj esít
+ pr oblém
+ r ossz
+o ck
+ haz ai
+ü r
+ ad ó
+  ész
+á tt
+19 9
+ r ep
+ tan ul
+ü z
+ ki d
+ volt ak
+ em lék
+ in form
+ jav as
+ gy an
+ sz en
+év ő
+ telj es
+áj át
+ ad ott
+ vas árnap
+l ap
+ s ér
+ ny olc
+ M T
+ kap ott
+et e
+im p
+ t ekint
+ L ászló
+ köz ép
+ I st
+ utol só
+ rendel kez
+ej t
+ ink ább
+ v el
+ meg b
+  É
+- as
+ C h
+ított ák
+ú sz
+al i
+ób ál
+ cs at
+ar át
+l i
+j ának
+v iv
+ M SZP
+ ad at
+ni a
+ külön b
+ó ta
+ok on
+ fel el
+ak i
+ leg al
+sz e
+leg es
+ foly tat
+eh ér
+ ker eszt
+s on
+é j
+szín ű
+ja i
+ tovább i
+gy el
+ít ette
+m in
+ol ta
+D e
+ f őváros
+  őket
+ít ő
+  esz
+ú r
+2 4
+kö vet
+a it
+ v ád
+s ér
+ t ette
+ kö nny
+ f ogy
+ nemzet közi
+ egy es
+" ,
+ vár ható
+ sik erült
+ gyer m
+ogat ott
+m el
+éri um
+at os
+ek re
+ kö t
+ önk ormányz
+is mer
+ mag át
+ p iac
+ kö tel
+u h
+ n ovember
+ új ra
+ figy elm
+ok nak
+é hez
+i on
+l ak
+ b ajnok
+is s
+ sz omb
+orv os
+m al
+ s úly
+ó n
+ül ő
+ f r
+h e
+en s
+elő re
+ en nek
+ polit ikai
+ harmad ik
+ t ény
+ mag án
+ k at
+ad t
+er c
+ ked v
+ el k
+ h all
+ talál koz
+i tt
+j egy
+áci ós
+ megfel elő
+alm i
+ m ilyen
+ S t
+ság ot
+t ató
+ v it
+ állam i
+ kész ült
+ sajt ó
+ or osz
+ megáll ap
+ m eccs
+ fel ad
+ ut ó
+ v ez
+ el h
+ ép pen
+ g ép
+ b er
+ ism ert
+ P éter
+árm ester
+ alkalm az
+any ol
+oz ta
+ot or
+ át lag
+ m éd
+sz ik
+ z ár
+ szolg ált
+eb r
+j ét
+mény ek
+ kis ebb
+ m ik
+ak kor
+2 6
+ik l
+e w
+ ez ek
+ ut c
+vezet ő
+ következ ő
+ű r
+sz olg
+es ég
+es ek
+ h ol
+ f ügg
+  enged
+ áll ap
+ bel ül
+en z
+ sz ület
+ak at
+ ki h
+ le v
+ f ok
+á p
+uk at
+ rend ez
+n n
+ tal ált
+e cs
+ kö nyv
+ polit ikus
+ e urópai
+u tt
+or n
+ szük ség
+m illi
+any ag
+ Ist ván
+t ől
+ol ni
+ ind ul
+ mint egy
+ em elked
+f oly
+os ítás
+ év e
+ játék os
+é be
+el ni
+el ek
+áll ítás
+ Á l
+ közl eked
+ed ett
+ell em
+ch n
+m us
+ú g
+ d r
+d ő
+Sz er
+sz or
+er ős
+at ív
+ h on
+g at
+k a
+ közl emény
+4 0
+ mér kőz
+í m
+és ére
+ b íróság
+ Z s
+ott ák
+ci us
+ szól ó
+in ál
+  ítél
+ kép est
+ any ag
+er j
+Az t
+ legal ább
+ N agy
+ tel ep
+ m od
+ ny ert
+ er re
+  őr
+án k
+ek tet
+n al
+ növ eked
+hat nak
+het i
+ gyerm ek
+öv id
+ forint ot
+ t űn
+2 2
+ vesz ély
+ór ház
+ bizt on
+ kív ül
+ szerd án
+ bet eg
+ h ív
+ meg l
+ miniszter elnök
+g al
+ l évő
+ N y
+ vég én
+o w
+ hely en
+ késő bb
+ ú jabb
+ amely et
+ h ató
+ ír ja
+ hely i
+ hely ett
+ h itel
+l om
+ meg old
+ felel ős
+a f
+ év vel
+ tárgy al
+ hal ál
+ m últ
+ nek i
+ ellen ére
+iszt érium
+m ond
+em okr
+ hétfő n
+n ev
+u c
+ szám ít
+ való színű
+ sok kal
+ t ap
+n ok
+l ott
+p énz
+I tt
+ el ér
+ b ír
+véd elmi
+ ellen i
+  én
+ó gy
+ igaz gató
+cs i
+j on
+cs ap
+en k
+2 1
+al ap
+ b üntet
+öz ben
+ f öl
+ E uróp
+ez ték
+ez t
+ kedd en
+ t iz
+ v ásár
+ik k
+het etlen
+asz n
+n d
+ ember ek
+en nyi
+u ház
+kor i
+ ü t
+ f enn
+ egy re
+ doll ár
+ap itány
+öz ő
+ny it
+o j
+ B al
+ E r
+föld i
+ MT I
+ for m
+A m
+p olg
+é ből
+. hu
+ál aszt
+ Ál lam
+ vál asz
+ term észet
+- re
+ fej leszt
+et es
+  Y
+es e
+ ah ogy
+2 3
+ es te
+ t űz
+hat ja
+ össz eg
+v áros
+ett el
+ üz let
+ebr uár
+g ép
+ egy etlen
+ egy előre
+s ék
+en cs
+ez er
+óz s
+ idő szak
+ üz em
+ év ben
+ folyam at
+1 00
+ utó bbi
+or ban
+ől eg
+ Or szág
+ szó viv
+nn ep
+ b em
+ tan ács
+f izet
+ egyéb ként
+ k ény
+tó ber
+ be jelent
+ már cius
+aszt al
+id e
+ok ra
+ország ban
+ vál ság
+ rész let
+ szint én
+- kor
+ is kol
+ ism ét
+hat ár
+ ig en
+v ári
+ int ern
+ú cs
+ u ni
+ követ ően
+ Fer enc
+ország i
+á ig
+ lét re
+ társ ad
+ kív án
+ ig ény
+ csütörtök ön
+ l et
+ neh éz
+in c
+N agy
+eg ed
+ fogy aszt
+et et
+ E urópai
+t r
+sz ön
+ sz ív
+ék eny
+ ü nnep
+p ály
+ pént eken
+- v
+ta g
+ r ég
+ G ábor
+áz s
+ fog ad
+övet ség
+án i
+ Or bán
+ vállal koz
+ör gy
+ k ik
+ hely szín
+ kész ül
+ biz ottság
+d ig
+v ár
+r ány
+ít eni
+il is
+ v et
+ny ug
+ er ő
+f t
+ol ás
+end ég
+ for d
+ sz ig
+ egy szer
+ h am
+ g áz
+ jelent ette
+ k í
+ m érték
+end ő
+M i
+ t ölt
+el v
+ ny er
+ vég ül
+r al
+  iz
+ r övid
+ mű v
+ egy en
+ an nyi
+ f in
+ megy ei
+ t il
+ d íj
+ szint e
+ társ aság
+ fordul ó
+ abb an
+ít vány
+- i
+m ag
+ b arát
+ T am
+ács ony
+ v er
+ d i
+ hossz ú
+ von atkoz
+- s
+f r
+ elő ször
+ tud ja
+ r aj
+ amely nek
+mű v
+ar ab
+ teh át
+ t év
+é zet
+ k órház
+ es ély
+ ebb en
+- K
+ fog almaz
+ egy szerű
+h ogy
+ b or
+lov ák
+ k ett
+iz mus
+ év ek
+ás ban
+ut ató
+ ható ság
+j ából
+on i
+ áll ó
+obb ik
+- m
+ id e
+ szer v
+árs aság
+ b rit
+ő i
+sz áz
+ber t
+ mi után
+ vég re
+ visz ony
+het nek
+ szak ember
+ ny újt
+ hi b
+ szerző dés
+ű jt
+ B r
+ir d
+ kormány z
+- án
+r ész
+ m it
+ur g
+ dél után
+p al
+v ált
+  ed
+er e
+ ny it
+ ki r
+és eket
+ul ás
+lin e
+ f ény
+E n
+ f ebruár
+ál ni
+ ellen őr
+.. .
+t öbb
+ vél emény
+is ták
+kö dés
+ alkot mány
+M int
+l a
+ v eszt
+ ok tóber
+d önt
+ő ben
+ál at
+ bal eset
+  X
+an n
+fél e
+il ag
+ mag a
+ sz ép
+ fel k
+ több i
+ük et
+2 8
+ elő ző
+ felt étel
+ k ért
+és ben
+ vezet ője
+ v endég
+ pr óbál
+  éj
+m un
+ szak ért
+ ki fej
+ A r
+ ut as
+ tovább ra
+ Gy örgy
+  orvos
+kez d
+up án
+ hang súly
+ l ány
+ J obbik
+ kapcsolat ban
+M agyar
+et ében
+ k éz
+ telj esen
+p ány
+u z
+ p art
+ még is
+ Magyarország on
+adás ul
+ ar ány
+ id ei
+ egész ség
+ ott hon
+Ú j
+ t öm
+ l em
+ elfog ad
+ék ony
+ep t
+hető en
+ V ik
+am a
+ mű sor
+ világ bajnok
+ rész e
+ol ja
+ áll ít
+ kev és
+ legy en
+át ól
+ ál d
+ bef ektet
+ J ános
+or k
+ el követ
+av ar
+ érd em
+szab ad
+ ki cs
+él i
+igaz gató
+ l abd
+ jelenleg i
+p olit
+ p ort
+ gy eng
+E r
+ügy min
+ kon c
+ kom oly
+ reg gel
+sz k
+- B
+ E U
+ ért elm
+pr ilis
+ vel e
+ szoci al
+er ek
+ kér d
+ás okat
+d ött
+ polg ármester
+z a
+ér d
+il k
+ szük séges
+ szen v
+ k ult
+ rendőr ök
+ h aszn
+os abb
+ köz ben
+von al
+ ki em
+ kell ene
+em p
+ Z rt
+ fér f
+ ki ad
+ tart ott
+ en erg
+ Sz ab
+ l el
+ Nemzet i
+ eset ben
+  ci
+h ajt
+ánd or
+g atás
+ m otor
+ ut az
+ szám a
+É s
+ ez en
+ sem m
+ szerep el
+acs ony
+o c
+ mi ért
+ef on
+ sz ok
+ kev esebb
+ per sze
+ Z olt
+  ül
+ forint os
+ méd i
+eng er
+et ek
+ elő re
+ b enne
+áll ó
+ős orban
+ keres ked
+ t ev
+ás ára
+ség ek
+ság a
+ c ikk
+ pály áz
+ körny ezet
+K V
+ vál ogatott
+g a
+ni e
+ p oz
+- nek
+6 0
+ ér vény
+ív ül
+ í g
+ész ség
+ segít ség
+n ék
+ur cs
+ jel ölt
+ tám ogat
+ al ig
+att al
+ in g
+ ugyan akkor
+oz ni
+ sem mi
+ r em
+m ai
+r án
+ p l
+ g azd
+ ol imp
+orv át
+ít i
+ cs upán
+ör ög
+apitány ság
+o u
+ ki alak
+n á
+ köz vet
+att ák
+ kö szön
+ Egy esült
+is kol
+ százalék a
+rend szer
+ kar ácsony
+ intéz mény
+ f egy
+ock áz
+ Tam ás
+ul ó
+ tag ja
+  Az
+án c
+ ak t
+ gyan ús
+ esz köz
+ új ság
+ fran cia
+ t et
+ kam pány
+k ét
+Ez t
+f er
+ pénz ügyi
+ m ög
+ B KV
+ össz esen
+ hét en
+ r ek
+ tanul mány
+ v ett
+il eg
+ külön ös
+b all
+ b ér
+hat atlan
+őv el
+i an
+or g
+ R end
+e y
+ hogy an
+ N ew
+ tal án
+in a
+ l ég
+ leg több
+ szem pont
+ad ék
+om ag
+ kezd őd
+ érdek ében
+el ők
+en ki
+és ével
+ b őv
+ Zolt án
+en ci
+ - ,
+ gy ógy
+ jobb an
+szab ály
+ el l
+ d ok
+ term ék
+ ép ület
+ sz ül
+ csökk en
+at árs
+ á prilis
+el eg
+2 9
+ k üz
+an ács
+ ind ult
+on a
+ minden ki
+ P r
+ n év
+gyű lés
+D F
+ej e
+elm ű
+ kil om
+- ig
+on n
+ ind ok
+ for r
+ ír ta
+z ők
+ köz pont
+él et
+ te chn
+ód ott
+ azt án
+.. .
+
+  est
+í p
+ór i
+árm az
+ tev ékeny
+ p ill
+oz ik
+ ez előtt
+ kl ub
+ör ös
+ sik er
+ k aton
+ el kép
+ált ák
+ dönt ött
+ megl ep
+ész eti
+ított ak
+b eli
+g ol
+en gyel
+át ette
+át or
+ gy árt
+ Vik tor
+m en
+ uni ós
+  w
+ l ény
+ mod ell
+ul at
+as t
+ M ar
+ ir od
+ró f
+k ívül
+ b árm
+ól ag
+ak t
+ áll ás
+ intéz ked
+ els ősorban
+ h et
+ f al
+ra j
+ áll t
+ J ózs
+Itt hon
+ el ején
+um ent
+g et
+ h av
+ m er
+ ki z
+ ép ít
+ f ot
+szer vezet
+ e x
+  im
+ S ch
+oh a
+ség ét
+omány os
+ez on
+ird et
+- sz
+v an
+ s őt
+ marad t
+ vagy is
+ l átt
+én i
+ tulajdon os
+g azdaság
+s e
+ése i
+ állap ot
+ fel f
+ ol asz
+v íz
+ F ran
+ között i
+r ál
+ód ik
+tatás i
+ kereszt ül
+n er
+á gy
+ vagy ok
+ sz ármaz
+3 5
+én k
+ez ik
+ év i
+ egy ed
+ különb öző
+ tap asztal
+ kí sér
+u ális
+ es emény
+ört én
+ vez ér
+i o
+ szám os
+ nemzet i
+U gyan
+év es
+ pént ek
+an sz
+ir ől
+zet es
+p ar
+ M DF
+ fel é
+ lehet ett
+ kül földi
+ k ockáz
+ét eres
+ás ával
+il a
+ moz g
+ sp anyol
+A k
+ mód on
+ Józs ef
+. ),
+ A tt
+3 1
+ó ban
+ás ú
+ ak ad
+ jut ott
+ít ják
+ munk atárs
+ And rás
+s ért
+ nem csak
+old al
+ st r
+ia ci
+ ter vez
+ők ént
+ hon lap
+ért elmű
+ocs át
+ magyar áz
+ál ta
+ap ír
+ köz é
+ ó ra
+l og
+í l
+us ok
+ K r
+ nő tt
+ör vény
+ h ad
+ el lát
+ ak art
+ eset ében
+ b ek
+udapest i
+En nek
+I I
+v áj
+és ének
+ l ist
+and ó
+j ára
+ az az
+ al acsony
+ szolgált atás
+ em l
+s em
+eres ég
+jel en
+ű t
+ a p
+em t
+ás on
+ egy kori
+re c
+ H ír
+4 5
+ek kor
+id ék
+ szak asz
+ U ni
+z ik
+ köz ep
+ozz a
+ súly os
+ó g
+olt ák
+ kut atás
+G y
+ d arab
+lő d
+ bel e
+er ő
+ teljesít mény
+ valam i
+ felh asznál
+j ut
+r om
+ pénz t
+ept ember
+Í gy
+ v ill
+ak ar
+ vissz at
+ó val
+sz int
+ val aki
+ kil enc
+ dok ument
+  ők
+ m ély
+ b udapesti
+ől e
+ történ et
+- h
+ ter j
+ Rend őr
+j ával
+ d emokr
+ent e
+nyi re
+ sz or
+ az okat
+ék es
+m eg
+o y
+at ikus
+ mérkőz és
+ szóviv ője
+ lény eg
+B ár
+ek v
+ S ándor
+ ad atok
+ kép es
+ függ etlen
+ t ém
+ egy etem
+ók nak
+ ad dig
+ lak osság
+ Európ a
+r ák
+ r égi
+olt ak
+ év ekben
+ S p
+z ó
+et eg
+ e ur
+un d
+ j ött
+ meg jelent
+s a
+el ik
+ fel v
+ kezd emény
+ kín ai
+ ok oz
+b el
+cs oport
+iv al
+8 0
+milli ó
+ l ass
+ j ellem
+ c ent
+ s e
+ vég zett
+for dul
+f ok
+ v ér
+ez tek
+ d ob
+ szín ész
+eg ény
+ egy értelmű
+ K ft
+ E l
+ ah hoz
+ fel l
+ fogalmaz ott
+l er
+sz em
+ k ár
+ m úl
+ak ció
+at okat
+ sz ezon
+ meg m
+ nev ű
+ ber uház
+ak ént
+ev ő
+ id eg
+ikl ós
+ú ra
+ n ők
+ kapcsolat os
+iv atal
+ansz ír
+  ülés
+e um
+ít ése
+össz e
+un g
+ó ja
+el en
+ szer encs
+ id ején
+I nd
+er v
+ M egy
+ rend kívül
+ tud ott
+ oszt ály
+ L e
+ töm eg
+ több ször
+ neh ez
+v ég
+ h ajt
+ gy űjt
+ an gol
+ tiz en
+ vonatkoz ó
+ férf it
+k ör
+elt ék
+i e
+19 8
+  Ö
+r id
+ny al
+at ott
+ N émet
+e ik
+e inek
+z ése
+é ig
+ B iz
+ocs i
+p árt
+ j árt
+ R e
+ tart almaz
+ tám ad
+o ur
+ol og
+ érkez ett
+l ési
+ s okat
+ rész vény
+ választ ási
+a ck
+h am
+or m
+őv é
+ valószínű leg
+ás ának
+ be cs
+jel ölt
+ mög ött
+ választ ások
+ed ik
+as h
+id eg
+elt ek
+cs elek
+ való ban
+ elkép zel
+er a
+ n ál
+ob il
+ mind ent
+M ég
+ t r
+ nap on
+t iz
+ k utat
+ós ság
+ szomb aton
+T öbb
+os s
+ r ög
+ ár foly
+ gyakor lat
+ t itk
+ j ön
+ kor lát
+ém i
+ szület ett
+- A
+ h úsz
+ar úg
+ir t
+aszt róf
+ mód os
+ sz eptember
+ es ett
+ O l
+en es
+ lát ható
+ dönt és
+ ak it
+ m ai
+ fel ett
+M ár
+us t
+áj uk
+ olvas ható
+ megb íz
+ b uk
+ meg határ
+ száz ad
+ ing atlan
+áj ában
+ ország os
+g az
+t unk
+ f ed
+ur ális
+é tt
+ forg alom
+án ál
+  oda
+aj os
+ sor ozat
+c e
+ ny elv
+ él ő
+ ellen zék
+d e
+ológ iai
+ l ő
+ tud ta
+ s enki
+ Att ila
+- ra
+ k árt
+ t eszt
+ szer k
+ ut al
+ elő ny
+ tud om
+ tart ja
+ dokument um
+öl cs
+  őt
+ Zs olt
+r észt
+ meg ny
+ nő i
+ hivatal os
+ tesz i
+ cs úcs
+us ban
+ev íz
+tat ta
+ rá adásul
+c a
+f f
+q u
+ú gy
+k eres
+O r
+f l
+s p
+v állal
+ hat almas
+Cs ak
+í ció
+ mik özben
+ Megy ei
+9 0
+ kor r
+ult ak
+ kom mun
+ parlament i
+ kid erült
+j ön
+ k elet
+at át
+ők apitányság
+st r
+ez i
+" A
+k r
+ód ó
+ét ől
+ Ország os
+7 0
+ meg szer
+ szer zett
+ B ar
+ küz d
+ál ja
+ M in
+ jelent kez
+es ül
+tt ól
+ k rit
+ p an
+ beszél t
+ fut ball
+ megállap od
+alm at
+ össz es
+gy ek
+oszt ály
+ bűn cselek
+z ott
+ az óta
+ mond ja
+ költségvet ési
+ várható an
+- n
+ ember t
+ ország ban
+i er
+é cs
+ol cs
+ell ett
+ id éz
+ú ttal
+ ter h
+ kics it
+á ért
+ v ide
+ meg jelen
+ al k
+ tud ni
+ együtt mű
+ tűn ik
+ut atás
+ eset én
+ört ön
+Ú gy
+á i
+ leg f
+ tart ó
+ ar any
+b urg
+ eljár ás
+ pill an
+b il
+l ét
+ enged ély
+an cs
+ f eny
+ több et
+ több ek
+on al
+ tel efon
+ folyamat osan
+K ét
+ak oz
+esz él
+ An t
+ített ék
+ sajt ót
+. :
+j en
+ r ól
+it ás
+lő dés
+ fel ső
+ for in
+- os
+g r
+ k oll
+ h arc
+ tér ség
+ eddig i
+nyug díj
+ alkal om
+ táv ol
+ t ur
+ mind össze
+ab a
+M ost
+ a b
+ meg elő
+ jog szabály
+ t enni
+ bef oly
+ó ra
+ít va
+ ell ent
+m ár
+ egy et
+úl i
+Ind ex
+  op
+t itk
+ M iklós
+ m éter
+ar l
+ fel mér
+ fel eség
+ M ol
+j ének
+ b r
+het ik
+ov ács
+ R om
+ vizsgál at
+ ham ar
+ek ről
+ f iz
+ábor ú
+ nyilván osság
+  ének
+ el ekt
+it y
+L e
+al k
+ v egy
+ B L
+tiz ed
+  ur
+ dolg ozó
+em et
+úz eum
+ Y ork
+j anak
+ l ez
+ap án
+ meg erős
+ ak inek
+ tájékoz tatás
+  ég
+ed t
+ munk av
+ fenn tart
+a u
+i ában
+N y
+r y
+áll am
+ a t
+elm et
+nök ség
+v á
+ m ut
+ vég ig
+ szerep lő
+szolg ált
+s en
+ egy éni
+o ta
+t uk
+ek ént
+ jelent i
+-f őkapitányság
+ forin ttal
+a x
+m an
+p ár
+ el b
+ hiv atkoz
+-t ől
+ annyi ra
+  [
+S port
+ez nek
+ill ag
+n éz
+által án
+  Új
+ebb en
+ját ék
+váj ci
+ figy elem
+ kilom éter
+ sz öv
+ra g
+ta bil
+ elő zetes
+ körny ék
+ ész ak
+ javas lat
+i f
+er eg
+év e
+polg ár
+u na
+ik at
+ált ak
+ amely ben
+ szerző d
+ inform áci
+ men ny
+ éj szak
+ mód szer
+ aján l
+ a ssz
+ sz övet
+ tud ós
+ szak mai
+ önkormányz at
+iz ál
+ pr oj
+urcs ány
+M P
+ál óz
+ s eb
+ most ani
+ rom án
+ z aj
+ nyilatkoz ta
+ költségvet és
+i j
+hat ják
+ cég ek
+ negyed ik
+i át
+ v ette
+ megh al
+H ozz
+ö nyv
+ f idesz
+ id ős
+ egym ás
+ez z
+int e
+ L ig
+ vagy on
+ vagy unk
+ontos abb
+ bizton sági
+m ód
+an ad
+ sz om
+ol ják
+ L ajos
+ igaz ság
+áz is
+len ül
+ mind két
+ azon os
+ idő ben
+ ór i
+ fin anszír
+ hatóság ok
+5 00
+ b örtön
+het ett
+j og
+ l enni
+el j
+at ban
+ b aj
+ bel ső
+i án
+v ilág
+ év tized
+- egy
+l ám
+ besz ám
+. )
+
+n line
+ h úz
+or ú
+ fel ül
+ rész ét
+ h it
+ sok an
+H ogy
+k ék
+ cs er
+ber g
+ telep ülés
+h ol
+ség gel
+ra z
+ M ad
+ ügy ben
+ érint ett
+ügymin iszter
+ íg ér
+ különös en
+or e
+ f ehér
+ s í
+Ez ek
+ munka hely
+ vissz av
+ ör ök
+nev ezett
+  ős
+k er
+é gy
+ k in
+ el ad
+ j ég
+os ok
+ N ép
+íp us
+S A
+ m áj
+ell eg
+ h ull
+ be vezet
+  eh
+3 00
+A r
+ főváros i
+ nép szerű
+Magyar ország
+ sz lovák
+ figyelm et
+3 2
+ött e
+tat ott
+t ette
+ hossz abb
+ bizton ság
+ el é
+ leg utó
+ Egy etem
+ sz ex
+ egy általán
+ánd ék
+- b
+ sz ét
+ terv ezett
+en et
+ M an
+szer ep
+ítás át
+osz k
+o x
+ m ező
+ok ból
+ d olog
+ leg k
+ állam titk
+ i gyek
+ inform áció
+ r ak
+ d í
+ Budapest en
+ intern et
+ szer vez
+szabad ság
+ a gy
+ h í
+ ki jelent
+ év re
+ szám ító
+ történ elmi
+ lak ás
+h ess
+ű k
+sz el
+Mind en
+ rendez vény
+ labd arúg
+ K ár
+ In ter
+ kat eg
+D P
+el tet
+ s ért
+ be vétel
+ic k
+hely ett
+ z árt
+ jó val
+ kon z
+ legf ontosabb
+ I m
+ hangsúly ozta
+ kísér let
+a ch
+ ember i
+ min őség
+ által ában
+ int erj
+ szocial ista
+ pont osan
+ őr izet
+ egyed ül
+E bb
+é ért
+ a gg
+ er ről
+ jövő re
+ természet esen
+ci ós
+eket e
+ ó v
+ tavaly i
+3 4
+ fel vétel
+ip lom
+ test ület
+f ér
+ r obb
+ g ar
+ lesz nek
+ bizony os
+ érdem es
+3 6
+et ett
+ad ta
+ ép p
+ te het
+ magas abb
+sz ó
+él t
+ azon nal
+h ang
+nő tt
+V ilág
+ h ideg
+val ós
+ lehet ne
+ mag uk
+for d
+ ki b
+ foly ó
+ kut ató
+ kötel ező
+z ési
+ s vájci
+ r ab
+biz t
+K i
+ö ny
+ B er
+ pont os
+ talál ható
+ kir ály
+- M
+ cs inál
+ör ök
+ kül d
+ kény szer
+ b usz
+őz s
+  ekkor
+ v árt
+ tud ják
+ össz ef
+fel é
+ jövő ben
+ Biz ottság
+ cs omag
+ le vel
+ig o
+ sik eres
+ egész en
+ink ább
+p erc
+gyű lési
+ tűz olt
+ sajtót ájékoz
+D SZ
+án s
+a inak
+ In d
+ rep ül
+ sér ült
+ csat lak
+ l it
+ kutat ók
+v il
+ü st
+oz ók
+ köz ölt
+ hely re
+ hoz ott
+ t enger
+ b íz
+ F or
+ G éz
+ jog i
+ jár mű
+b é
+o od
+t es
+ h átt
+is m
+hat ott
+fog lal
+ talált ak
+r á
+ó nak
+ t or
+in e
+ meg valós
+ ny í
+ítás i
+b íróság
+ut as
+ fel ügy
+ pr od
+ nek ik
+ít ható
+ fog ja
+ ed ző
+ét elt
+ jöv ed
+ igaz án
+h i
+ár is
+ kormány fő
+kép pen
+f ilm
+ d ev
+alm a
+ális an
+ kész ített
+ p iaci
+ad ik
+ci ót
+egy en
+v eszt
+ár on
+ s oha
+ák kal
+ be v
+ kap cs
+ igazgató ja
+ intern etes
+ sz ándék
+ ar c
+3 7
+ sz ór
+on c
+ el ismer
+ul a
+szer ző
+ ér z
+ ad ta
+ úgy nevezett
+ fr iss
+: 
+
+A n
+n ének
+ k ont
+át um
+ V al
+szak i
+ cél ja
+ alak ul
+ v ág
+il t
+ P et
+ z en
+ család i
+ Géz a
+ m es
+ gy ak
+ több ség
+ajn os
+ men et
+ negyed év
+ szenv ed
+ f est
+ p oszt
+id ő
+ min ős
+A l
+att ak
+ id ők
+ítás t
+ játsz ott
+ megv ált
+ V as
+ z öld
+ felad at
+f aj
+er i
+él emény
+ pr of
+ in fl
+ áld oz
+ m eleg
+ T im
+ tud nak
+ nap okban
+ besz éd
+ társad almi
+ú k
+il ap
+ kö ny
+ szerint e
+ T anács
+ igaz i
+ elk ész
+ekv ő
+ ér zék
+19 7
+ társad alom
+ segítség ével
+. -
+ v ad
+ egészség ügyi
+hat unk
+ tart óz
+ ról a
+od ik
+Ez zel
+ m obil
+ sz av
+ szolg ál
+ B el
+ for rás
+áj ának
+ magyar országi
+gazdaság i
+ fidesz es
+ eh hez
+h armad
+ h ő
+ l engyel
+kez ett
+ ebb ől
+ köt ött
+3 3
+S ok
+ra b
+ond oni
+ul cs
+ P ál
+ dél előtt
+ p il
+ A d
+ rész ben
+ dönt ő
+- Sz
+ás os
+ért e
+us i
+B C
+ h arm
+ meg tal
+ d iplom
+ két szer
+uszt rál
+ di ák
+bel ül
+  ára
+at ta
+it al
+old ali
+- nak
+E m
+ B ank
+old og
+M ivel
+ú ni
+ k al
+ok ról
+ választ ók
+kot mány
+ menny iség
+ a ttól
+oz ása
+ át alak
+eb rec
+r es
+ny el
+ r i
+ meg f
+it ív
+ fel d
+ T he
+ ismer etlen
+ jelentős en
+v ar
+ L MP
+ Sz er
+ min isztérium
+ Köz pont
+en er
+ít ék
+ K A
+er ed
+ K ín
+ T ib
+ Állam ok
+ köszön hetően
+ r emény
+ vég e
+ által ános
+ visszat ér
+i um
+ mű ködés
+ossz abb
+ élet ét
+ erős öd
+ létre hoz
+or igo
+ id őt
+ ker etében
+onn an
+ sajtótájékoz tató
+E lő
+a el
+c o
+k an
+t an
+el eti
+ l áb
+oz ást
+for g
+- ,
+en ként
+ sz ob
+ meg gy
+ökk ent
+z ések
+ol v
+19 5
+  eny
+ sz ék
+ el ők
+ ez eket
+enn él
+ oszt rák
+Am ikor
+  éd
+O nline
+an c
+abb an
+c om
+od ott
+ünk et
+ ci vil
+h agy
+i gy
+n ának
+ el sz
+ít an
+ők nek
+ leg inkább
+vári um
+ t éli
+on ttal
+ol f
+ ki m
+ny om
+ V ilág
+ forint ra
+ érték esít
+ megfelelő en
+ s tabil
+ kö l
+ fel sz
+ mint ha
+ád ió
+ház y
+ ered eti
+  of
+b ev
+tak ar
+ közt ük
+ hasonló an
+ el kezd
+ állam polgár
+ alkalom mal
+h aj
+r or
+at ók
+ ú ton
+of t
+v esz
+in i
+art óz
+ egy ház
+ csak nem
+ munk an
+ tény leg
+ Ant ik
+  ölt
+P er
+ p apír
+ügy nökség
+ pr ób
+kod ó
+fej leszt
+pénz t
+V al
+ v itt
+ M ich
+iv at
+ ír t
+ennyi ben
+ felk ész
+ság ban
+ T h
+ata it
+ re ag
+ re form
+t árs
+ v izsg
+hat ók
+ nap i
+ C l
+- vel
+ v ereség
+es i
+ R o
+ ország gyűlési
+up a
+ b ü
+ S h
+ Sz ent
+ százalék át
+ hét vég
+ Gy urcsány
+út i
+. B
+d ék
+s é
+ás ai
+ l ondoni
+ s incs
+ jog os
+arc el
+j ebb
+r ed
+ás nak
+ar a
+og ató
+ köz z
+ ak ció
+ Or osz
+ gól t
+ f ont
+is sz
+ b ot
+ r ang
+ meg pr
+ov a
+ hát rány
+ kat asztróf
+Hozz átette
+é csi
+el ése
+ l öv
+ c ig
+ min im
+ mérték ben
+sz ich
+ekt ől
+- p
+ k emény
+ít s
+ít ik
+ed v
+ fel nőtt
+ kez elés
+ haz a
+ Antik várium
+m unk
+ü v
+ tag jai
+3 8
+ m ikor
+ sz ár
+ meg rend
+ban k
+ szabad ság
+ működ ik
+ port ál
+ilk osság
+ szöv eg
+- d
+ö p
+ t ök
+ véd elm
+ felh ív
+ til tak
+ összef ügg
+ kapcs án
+ sz tr
+ ki sz
+öl gy
+ély es
+kö t
+ hav i
+ M il
+ önkormányz ati
+ emelked ett
+ gyógy szer
+ás ában
+eszt ő
+ szerd a
+fok ú
+ lő tt
+ kommun ik
+K öz
+ h irdet
+ F őváros
+ug uszt
+ eset leg
+ férfi ak
+ raj ta
+ assz ony
+ v örös
+ köz ön
+év én
+enc e
+ üt köz
+ ideg en
+kr ét
+d a
+ák ban
+ fel jelent
+ elt ér
+ gyak ran
+c z
+ b enn
+ kö tet
+ elő bb
+ munk át
+köz el
+h öz
+ad ók
+ítás ára
+ hozz át
+ együtt es
+ sér ül
+j én
+ sz övetség
+én nyel
+ j elleg
+ S Z
+ lehet ővé
+ z avar
+ható ság
+ Cs aba
+ kam at
+ gyors an
+ecs k
+ let artóz
+  íz
+ minden k

@@ -1,0 +1,3788 @@
+#version: 0.2
+a r
+a n
+e r
+i n
+ı n
+  b
+d e
+. 
+
+i l
+  k
+e n
+a l
+  y
+d a
+  s
+i r
+  g
+a k
+l ar
+e l
+m a
+e t
+l a
+  o
+e k
+  v
+i y
+  t
+u n
+  i
+o r
+  d
+l er
+a t
+a y
+e s
+o n
+d ı
+  h
+d i
+a s
+u r
+l e
+ v e
+a ş
+l i
+ü n
+ı l
+  de
+ b ir
+ü r
+  m
+i m
+  ç
+ı k
+i z
+u l
+e m
+ o l
+a p
+  A
+  a
+i k
+ı r
+s t
+a m
+ö r
+ın da
+e y
+in de
+  B
+d an
+ı ş
+  il
+  T
+i ş
+  da
+a z
+  ö
+  p
+ın ı
+a b
+  e
+  K
+y a
+ğ ı
+d u
+  S
+k i
+u m
+  M
+' n
+in i
+a h
+  al
+ü z
+de n
+t i
+  ş
+ y ap
+in e
+t ı
+  ar
+i t
+o l
+e c
+l ı
+s ı
+es i
+  f
+l an
+o k
+ı m
+iy e
+ i ç
+  "
+y or
+ın a
+i s
+lar ı
+ü k
+ b u
+a ğ
+  n
+iy or
+  D
+  G
+ü l
+u z
+ler i
+e v
+in in
+  H
+il er
+ğ i
+ g ör
+u ş
+  E
+c ak
+a f
+u t
+o ğ
+ b aş
+ k ar
+al ar
+ö n
+an ı
+  et
+t a
+e z
+ür k
+ iç in
+ s on
+lar ın
+ı z
+el er
+  İ
+ il e
+ü m
+u s
+ g el
+dı r
+ ol du
+ ö n
+t e
+a v
+e ç
+c a
+u k
+ v er
+ k on
+  r
+li k
+  an
+a d
+  z
+c e
+ e d
+ü ş
+  C
+ın dan
+  Y
+l en
+  P
+ma sı
+s e
+ a ç
+d ir
+y on
+ g er
+u y
+  c
+2 0
+un u
+ö y
+m ak
+m e
+  F
+ın ın
+  ay
+ö z
+ b ul
+la ş
+r a
+l u
+c ı
+la y
+o m
+ y ıl
+ü y
+  ma
+ T ürk
+e ş
+il di
+o p
+ t ar
+l ık
+i b
+i p
+ ç ık
+' da
+  en
+ y er
+as ı
+ k al
+ b el
+ b il
+ oldu ğ
+B u
+ de ğ
+m an
+  in
+t ir
+lar ak
+t an
+ s ür
+ y aş
+ i ş
+ı yor
+dı ğı
+' de
+ g ün
+ g eç
+ma s
+k en
+m ek
+ü t
+ o larak
+'n in
+ y ar
+öy le
+e h
+a de
+ i st
+  (
+ k ad
+ı s
+ o r
+r o
+aş k
+ıl an
+t ır
+e de
+iy le
+ec ek
+ ç ok
+  O
+a ma
+ n e
+en i
+e b
+al ı
+il m
+ ol an
+a da
+h a
+il i
+ğ ini
+iy et
+  üz
+ ç al
+as ında
+ay a
+ab er
+y la
+l et
+ k ay
+i st
+ m il
+  R
+l ü
+im iz
+r u
+ec e
+ k ur
+inde n
+ bul un
+i h
+m ış
+e d
+ bel ir
+il en
+ Türk iye
+c u
+ i se
+ çal ış
+ üz er
+ kar ş
+ v ar
+20 1
+la ma
+ey e
+uş t
+ de v
+ aç ık
+ da ha
+un da
+ar ı
+a ç
+ y ön
+ k ul
+ib i
+  el
+ t er
+  -
+ s or
+c i
+  ek
+' in
+ o y
+' ın
+s i
+ k en
+ t op
+ler in
+lar ını
+ğ ını
+am an
+. .
+ö l
+m alar
+ y ak
+p or
+ g ü
+er i
+le ş
+o s
+ y üz
+ b in
+  at
+' y
+ d üş
+ d ur
+ k iş
+ar a
+üy ük
+ıl dı
+  Ş
+  N
+ğ r
+ g ö
+ y an
+e p
+ d ön
+d ür
+el i
+ tar af
+er ek
+le m
+ar ak
+'n ın
+il ir
+ kul lan
+  Ç
+  uy
+er k
+u ç
+s a
+un un
+lar a
+ar k
+ıl ı
+ son ra
+ g ir
+di ği
+o y
+ kad ar
+ma ya
+ s ağ
+t en
+  L
+  Ö
+ s ah
+ g ibi
+ler ini
+m iş
+la dı
+tı ğı
+ ger ek
+ k ap
+ et ti
+m en
+m et
+ h al
+ k at
+i d
+ t ek
+ o la
+ t ak
+d ü
+o li
+ s öyle
+ m ü
+  ül
+an lı
+ E r
+0 0
+ay ı
+ h ak
+es inde
+  ü
+  ak
+ karş ı
+ de di
+aşk anı
+ ter ör
+is i
+a cak
+s an
+r e
+r an
+ y eni
+as yon
+a at
+ b öl
+ma y
+t er
+ım ız
+ ö z
+ar t
+dı m
+un a
+ il g
+ h er
+  V
+ b üyük
+ i f
+ç ek
+ e v
+o t
+i c
+ gör e
+ ül k
+? 
+
+k in
+ d üz
+  as
+et ir
+i f
+ğ u
+ il k
+ al ın
+ h ay
+v en
+h ur
+ g etir
+ d ün
+t r
+e f
+et im
+er s
+ olduğ unu
+st an
+el ik
+ if ade
+b ul
+ olduğ u
+um hur
+ A n
+ ne den
+ or t
+ p ro
+ü s
+  ör
+ d oğ
+ d o
+ z aman
+di k
+ o n
+g i
+ belir t
+lar da
+ y ol
+ al an
+ s al
+' a
+ g öz
+p er
+ yüz de
+ t ut
+ların ın
+o c
+al an
+la t
+ s ır
+ç e
+T ürk
+az et
+ca ğı
+a c
+ ö ğr
+i v
+ ma ç
+ük s
+iy i
+ H aber
+A n
+ ç ek
+t ar
+ a ma
+g u
+ ş ek
+u h
+ ön em
+ün de
+uşt ur
+  U
+  u
+ değ il
+ dev am
+ h as
+ru p
+oğ lu
+ taraf ından
+t ık
+d er
+g üt
+ ger çek
+la m
+ i h
+i ç
+st er
+in iz
+t ik
+ ar asında
+ o t
+u yor
+  uz
+ al t
+ b iz
+ s ev
+stan bul
+m esi
+ün ü
+le y
+d ından
+ A r
+ p oli
+er b
+ A l
+1 0
+ y az
+b ir
+c ü
+ yap ılan
+dı k
+en el
+  '
+ey i
+ında ki
+an s
+ak an
+ gö ster
+ ken di
+'y e
+d oğ
+ar b
+t ü
+ d iye
+ler e
+an ın
+ dur um
+al ık
+g ün
+ ar dından
+ i ki
+1 5
+d ar
+m ız
+ mil yon
+ğ er
+ düz en
+ s aat
+  Z
+  l
+ k az
+ a d
+.. .
+
+ s öz
+ ilg ili
+at ı
+ ön ce
+u b
+1 9
+  li
+ sal dır
+ baş k
+ b ek
+lar ına
+sı z
+li ği
+o b
+ ol ma
+'n de
+dı ğını
+ler inin
+ e den
+eler i
+ s av
+ böl g
+at ır
+e di
+ h ar
+ gör ev
+o z
+h an
+  es
+ ör güt
+ bulun du
+ ö l
+ğ ü
+et i
+uşt u
+us u
+es ine
+ b ağ
+ önem li
+at an
+ öz el
+ öğr en
+ı p
+s un
+ p ar
+ in san
+ B aşkanı
+Türk iye
+ y ok
+ gel en
+u p
+ gü ven
+iler i
+ı la
+r am
+ i s
+B ir
+ kar ar
+  ür
+ü p
+ h em
+ M ü
+B D
+E T
+en in
+ dön em
+ y et
+ oy un
+erk ez
+b ol
+ler de
+an k
+oc uk
+ Haber leri
+n e
+ söyle di
+' e
+ler ine
+ de n
+iy as
+ h af
+ s an
+ek t
+ de st
+ i z
+ C umhur
+ B ak
+leş tir
+iş im
+doğ an
+ Ö z
+d ur
+r ı
+il iyor
+ değ er
+n ı
+az ı
+ bir lik
+r af
+ d uy
+ar et
+ iç inde
+r ak
+c el
+es ini
+ y üks
+  iyi
+len dir
+ik a
+ul u
+ yap tığı
+ f ark
+ s ay
+ b en
+ tar ih
+s iz
+  Ü
+ k am
+per asyon
+ma z
+ hay at
+! 
+
+ d er
+ k or
+aş ı
+ t em
+ S ur
+ A v
+ A k
+ b ak
+' un
+ b as
+ d ış
+ k o
+de t
+t ür
+lar ında
+ K ur
+ ed iyor
+ o lay
+ gel di
+' ya
+il ecek
+ ş eh
+da ş
+ o k
+iy at
+lay an
+ v ur
+ü yor
+iler in
+  I
+ il iş
+' dan
+ oy n
+ y ay
+ a z
+ e de
+ca de
+ İ stanbul
+il de
+ler inde
+a ğı
+ h aber
+i g
+ kiş i
+d di
+ek i
+ z or
+ gör üş
+ ed ildi
+la h
+ çık ar
+ t es
+  J
+t aş
+as ar
+ gü ç
+ a da
+ h az
+lar la
+ bulun an
+ i m
+ıl ık
+ey en
+ k im
+ a ğ
+al i
+ tak ım
+ı sı
+ k i
+ET Ö
+es inin
+" .
+il e
+em e
+' den
+ kon uş
+ e ş
+ül en
+ açık lama
+ t üm
+ üzer ine
+iş tir
+ m es
+ B aş
+ poli s
+ d ik
+b et
+ o perasyon
+ s at
+ bil g
+ ş ey
+ l ir
+ ar k
+az la
+ ç ocuk
+anlı ğı
+ şek ilde
+k et
+ hak k
+ h av
+ğ imiz
+mas ına
+mas ını
+u v
+rup a
+ birlik te
+m eye
+ c ez
+ k es
+on om
+ut bol
+lar dan
+an an
+ G azet
+ün e
+ s er
+ da v
+i ğer
+ s eç
+ ver di
+ f azla
+ haz ır
+o v
+ekt ör
+ğ it
+ ü st
+ M ah
+ g en
+ v atan
+s el
+il ik
+ g it
+ h iç
+  em
+B iz
+ Mü dür
+k at
+ geç ir
+ u laş
+ dest ek
+m ir
+al at
+ k an
+iy on
+ ola cak
+ kon uştu
+ ol mak
+ y ür
+ist em
+i de
+ mü cade
+'n un
+b ar
+ yap tı
+ ön c
+1 2
+ k aç
+3 0
+ Er doğan
+ol o
+li ğ
+ as k
+ı cı
+ t el
+ Gazet esi
+ t ama
+ ay nı
+ade ce
+lan an
+ yap ıl
+y an
+ ek ip
+ s ayı
+ b ır
+len en
+K K
+r et
+ah çe
+us unda
+ilm esi
+ ar t
+al t
+ k ö
+ağ ını
+ul an
+ d arb
+k an
+t al
+lan dı
+es t
+inde ki
+ i ddi
+ s uç
+os y
+l uk
+ sah ip
+ saldır ı
+ kaz an
+ y a
+lik le
+ dik kat
+s am
+ğit im
+ İ s
+ har ek
+ k ab
+ bu gün
+ bır ak
+ t e
+' te
+mış tı
+ b ur
+ s ık
+ f a
+il ah
+ede f
+ m uh
+ da k
+ım ı
+A R
+il ece
+k ara
+ g ön
+alar ı
+g an
+ vatan daş
+ ve ya
+ kon u
+20 0
+ P ar
+ neden iyle
+ A BD
+h al
+k ü
+ yap an
+lı ğı
+' ta
+olo j
+) ,
+ ort aya
+ol u
+lan tı
+1 1
+m i
+ d iğer
+ s istem
+ yak ın
+ Sur iye
+eş ik
+ k ıs
+ üzer e
+b aşkanı
+ k ez
+k il
+ çık tı
+ k r
+A N
+en erb
+'n da
+ yar dım
+ G enel
+a cağı
+iyor uz
+m er
+ Av rupa
+ İ l
+eşik taş
+  uç
+malar ı
+ açık la
+lar ımız
+ h edef
+ ş u
+ tek n
+  aş
+ ş ir
+ baş ladı
+m uz
+ T L
+m eler
+as ıl
+ını z
+us ya
+üt ün
+B en
+ gerçek leştir
+A y
+  üy
+ dev let
+ Y ıl
+im i
+man ın
+ ed ilen
+b ilir
+em iz
+ B el
+ f utbol
+ m erkez
+ A y
+ is im
+ yak laş
+A l
+in g
+enerb ahçe
+r i
+ geç en
+may ı
+ G ün
+ iç er
+ y atır
+ö k
+ur t
+ların dan
+g ı
+e ğ
+ ol ur
+ kap sam
+y ar
+ y as
+ük üm
+ s adece
+: 
+
+ mil let
+An cak
+ yön elik
+ç ı
+asar ay
+ b azı
+alat asaray
+ez on
+l ak
+ s ı
+un dan
+ doğ ru
+ p ay
+ al dı
+ T em
+5 0
+ün ün
+  er
+ ken d
+ kal dır
+on s
+ O r
+ İ n
+ kad ın
+ s iyas
+ç i
+ tut uk
+g il
+ has t
+ok t
+y ı
+lü ğü
+n iyet
+ay an
+ pro j
+ son u
+o ş
+l ük
+ tama m
+ ar aç
+ K ar
+S on
+ğ ın
+osy al
+ ü ç
+'da ki
+ gün ü
+ıl ması
+' i
+an a
+eh ir
+me di
+ E m
+ F ETÖ
+ son r
+ t ab
+e den
+ p lan
+da ki
+ gön der
+g el
+1 4
+ haf ta
+ b oy
+ bil dir
+ g ol
+ab ilir
+E R
+n ak
+ P KK
+om b
+mas ının
+v et
+ gör ün
+aşk an
+ler den
+da v
+ler inden
+ü b
+ düş ün
+ada ş
+v an
+is inde
+ i k
+ yer ine
+'n e
+ uy gu
+ec i
+. .
+
+en iz
+ ih t
+" ın
+1 6
+as ına
+ gir işim
+u st
+iv ers
+ üzer inde
+ değer lendir
+ do lar
+k ı
+iyor um
+ b it
+ivers it
+A r
+ah at
+ güven lik
+ uy g
+ s ilah
+c ek
+'de ki
+m uş
+ terör ist
+ dün y
+ ay r
+g ram
+en di
+ok r
+iz met
+ n asıl
+ g id
+ t ah
+ler le
+ m ey
+ yıl ında
+iz e
+de ki
+ lir a
+ harek et
+ yön etim
+ d iy
+ ş öyle
+üp h
+ il ç
+ mil yar
+ hakk ında
+1 8
+la s
+ şir ket
+ p at
+ s ezon
+p r
+ sür e
+ k ız
+ h at
+ g azet
+b akan
+ M il
+iler e
+tr ol
+ an laş
+ın ır
+ s en
+ k il
+ k ır
+dan a
+or m
+ yüks ek
+ t al
+ iş lem
+ S por
+ece ğ
+H P
+ıla cak
+ ç ev
+ y anı
+aş tır
+1 7
+ kur ul
+ değ iş
+r ar
+m alı
+s ini
+al l
+ m ut
+ kon usunda
+ist an
+" n
+A ma
+kin ci
+le me
+un ları
+ dün ya
+ oyun cu
+ bil e
+is yon
+may an
+am p
+  W
+2 5
+ev let
+ Tem muz
+eh met
+g e
+ an cak
+ bir i
+ yatır ım
+ü ç
+ fark lı
+eb ilir
+ B ir
+ te dav
+ H as
+ilm iş
+la ya
+ün ya
+ Cumhur iyet
+ğ a
+ Ş ub
+ yay ın
+ et m
+ açıklama da
+1 3
+ kon trol
+ m et
+u ma
+al iyet
+ yaş ındaki
+ h ız
+ ol ması
+ ark adaş
+ pay laş
+İ n
+ kab ul
+ sor uştur
+az ar
+k em
+ ma h
+a j
+ül dü
+ıs ında
+iz i
+ t an
+le di
+ef on
+üz el
+ darb e
+  ey
+üm üz
+rı ca
+ t ur
+ yön et
+m in
+ S öz
+alt ına
+ i ti
+ mücade le
+ sağ lık
+af a
+ ek onom
+l k
+.. .
+İ ş
+ b öyle
+ gel iş
+ g enel
+ h izmet
+et in
+t in
+ kat ıl
+ti ği
+mek te
+ başk a
+'y i
+l um
+ ol uştur
+ An kara
+ e ğitim
+ böl üm
+ler imiz
+len di
+du ğu
+ Ü n
+ ağ ır
+f er
+ şeh it
+ iliş kin
+ ask er
+miş ti
+ğ unu
+ç a
+r ab
+v er
+ b ütün
+ h es
+üs ü
+ uz un
+ es ki
+t u
+s uz
+de m
+ b ab
+ Bak anı
+ç ok
+ f ilm
+oğ un
+A K
+ s ınır
+ m o
+oğ raf
+ ş üph
+ m i
+g in
+ş am
+ b omb
+ar i
+ t eş
+ oldu k
+ top lantı
+alar ında
+ kapsam ında
+ar ası
+ tel efon
+ t ür
+ Bel ed
+im di
+  ün
+ t eh
+ti ğini
+er ör
+t ak
+ır ken
+ b er
+ak at
+ h ep
+ m ed
+ M ehmet
+ r ağ
+es iyle
+B ur
+uy la
+ y ağ
+ b üy
+ hal k
+ çalış an
+a cı
+c an
+ E k
+al a
+ ülk eler
+ bulundu ğu
+ yüks el
+ kay bet
+ göz altına
+ rağ men
+ış ma
+'n a
+ r ak
+d in
+ belir ten
+en s
+ k oy
+ d ir
+ış ı
+' ı
+ y en
+li m
+as ını
+ et ki
+ s eb
+ çalış malar
+te p
+ K om
+de ş
+c ağını
+n et
+ D em
+m ez
+v ek
+ s u
+s ine
+ çık an
+ Par ti
+v ur
+ has tan
+ s ok
+ yaş a
+ alın an
+ kiş inin
+ Mah all
+ü c
+anı z
+an i
+ sür dür
+ Müdür lüğü
+ a it
+E r
+ örgüt ü
+ tes p
+ek li
+ğ ında
+ ç öz
+ a il
+es in
+ dak ik
+ün kü
+ kar arı
+  la
+s iniz
+ gen ç
+ R usya
+us lar
+m ı
+ or ta
+ah a
+ları yla
+ f iyat
+ et k
+ z iy
+er j
+B aş
+ karşı laş
+O n
+s al
+ h üküm
+ob il
+ m ev
+ f in
+ ist edi
+ yaklaş ık
+um u
+ t aş
+az i
+ül t
+y en
+ s un
+ baş ar
+ gel ir
+s in
+ m ı
+ s ektör
+ ç ağ
+ baş lat
+f a
+ etti ği
+dır ım
+ son uç
+ sav aş
+l o
+ı t
+ ol uş
+ ma d
+ öl dür
+ay et
+ an la
+t ay
+ t aşı
+ bağ lı
+um uz
+d ül
+ bek len
+ Mahall esi
+ B eşiktaş
+ s ab
+ Y ar
+ kon usu
+ K on
+ an lat
+C umhur
+E n
+ b ar
+ hiç bir
+i ci
+İ stanbul
+ et mek
+ma dı
+ yaş an
+ t ep
+ al dığı
+ alt ında
+s il
+ley en
+ yar alan
+ de m
+ baş vur
+es el
+ cez a
+ tesp it
+ m em
+al et
+e ği
+ k om
+ in cel
+cı sı
+ey in
+ Al man
+ i kinci
+ılı ğı
+ hav a
+ğ ına
+ p u
+ s osyal
+en k
+ E n
+ yür üt
+ pro gram
+mas ında
+em ek
+ a m
+ B ur
+ ger i
+ b unu
+unu yor
+ama z
+ iht iy
+uslar arası
+ g üzel
+ H al
+ im z
+ül tür
+ yeni den
+ıyor uz
+ yaş am
+ü f
+ Kur ulu
+la dığı
+2 4
+ap or
+lı yor
+ alın dı
+ F enerbahçe
+1 00
+as ının
+um lu
+ A h
+Ö z
+ru b
+H er
+ar p
+ A s
+ p ara
+ K o
+ot oğraf
+A BD
+ at eş
+ ber aber
+ d in
+ Bak anlığı
+un ca
+ a v
+ Söz cü
+B unun
+ bir çok
+  un
+c h
+ g rup
+ust afa
+ iti bar
+ sav un
+amp iyon
+o d
+ başk an
+ay as
+ t anı
+ biz im
+rab z
+mak ta
+ m üz
+l ek
+ G alatasaray
+ul lah
+ ür et
+ en gel
+üç ük
+ ot om
+ an lam
+ öğren c
+ Cumhur başkanı
+ B üyük
+l in
+ ar tık
+e j
+ el e
+uv vet
+ler iyle
+ s öy
+ab an
+ kay de
+ kam u
+ran s
+ y ine
+ ver en
+el im
+ kay b
+ p er
+ r es
+ m ak
+ kullan dı
+ ülk e
+o cu
+er ken
+du k
+ d ile
+t at
+ T ur
+ ok ul
+d ın
+ b or
+ geç ti
+2 2
+ A li
+ tar t
+ ö de
+ top lam
+A Ş
+ üzer inden
+laş tır
+ hal e
+ti f
+ belirt ildi
+ sor u
+ dön üş
+ şek l
+tal ya
+ y oğun
+ b ank
+ k ı
+ r ahat
+iş leri
+ M erkez
+ D evlet
+mış tır
+ h is
+ t ük
+es inden
+ sonr ası
+A L
+s man
+ or an
+ vur gu
+lü ğ
+ün den
+ kar deş
+ ar tır
+ Yıl dırım
+b r
+ h ey
+ A d
+ mey dana
+ do lay
+ti v
+ak ır
+ t am
+anı yor
+ sat ış
+ ziy aret
+ an da
+ sor un
+ f otoğraf
+ h erk
+ s ey
+p an
+ey az
+eler in
+ k av
+ kur um
+A k
+ s es
+ kıs a
+ b un
+ ma ğ
+ul du
+ kay nak
+ f or
+ m er
+ gö tür
+ belirt ti
+g en
+ bil in
+ S an
+K ar
+ a dım
+ ort ak
+4 0
+ ada m
+ur o
+a dan
+ b unun
+ K an
+ Ün iversit
+ Z aman
+ec li
+ içer isinde
+2 1
+ü ven
+ z ar
+ gerçek leş
+İ L
+ M ar
+ ar aştır
+ med ya
+as por
+ fa aliyet
+ bur ada
+o f
+ A b
+A T
+ağ a
+ yaş anan
+ak k
+n a
+ mad de
+ ver diği
+ ist em
+ ak şam
+  ul
+ seç im
+ çev r
+ma dan
+ın tı
+2 3
+in ce
+al e
+ c an
+ belirt erek
+ece ği
+ ot ur
+ n okt
+m em
+alar ın
+ mü da
+ kay det
+ ede cek
+mekte dir
+ c ev
+eler e
+ yak alan
+ M ustafa
+ ver ildi
+ sır asında
+ mes aj
+t em
+ da h
+ ekip leri
+ k it
+ h atır
+ iliş k
+ tekn ik
+uy u
+ g i
+ pu an
+İ N
+ t rans
+uk uk
+z mir
+ f ır
+ma da
+ k ol
+en ç
+ hayat ını
+ bas ın
+ör en
+ kal an
+ğ inde
+ düzen lenen
+er e
+ıl ıyor
+lan dır
+ Ah met
+' ün
+ H av
+ b oz
+g a
+r um
+ş ehir
+et r
+or t
+ futbol cu
+as t
+ gel ecek
+ D oğ
+ğ ine
+ P ro
+ b ah
+ E s
+aban cı
+ıl dığı
+ f ir
+okr as
+ B ay
+ top lum
+m ey
+ d il
+iler ine
+ uz ak
+ T ek
+ ken t
+ sonu cu
+. ,
+mız ı
+ p r
+s iyon
+ ol uyor
+eş tir
+ m u
+ul uk
+ B aşkan
+D aha
+s inin
+ kal k
+ ey lem
+E N
+G eç
+m ar
+er al
+laya cak
+ ay ında
+ m an
+ Y ön
+ Dem ir
+s por
+ Üniversit esi
+alar da
+ özel likle
+A B
+ dönem de
+ tak ip
+ gerek iyor
+ d ol
+ ür ün
+ sev k
+g ın
+ Em niyet
+ ol sun
+ M art
+t eki
+t on
+ g iy
+ yap ılacak
+me den
+ ür etim
+ov a
+i i
+ sır a
+ kap at
+ Şub at
+iv il
+ in ş
+ yap tık
+ yap ıldı
+ sır ada
+ öğren ildi
+sun uz
+s ik
+  ce
+ san at
+ ç at
+g ür
+ğ im
+da k
+ s iz
+'n ün
+ d iyor
+tı ğını
+ ü c
+ b oş
+ K ay
+m üş
+ müda hal
+ter net
+d iler
+s u
+ y or
+tı m
+ ak tar
+ kaydet ti
+iler inin
+ in dir
+ yan dan
+ dev r
+s ın
+ ola bilir
+ duy ur
+f or
+iy esi
+ uygu la
+k ün
+' u
+ y urt
+ m al
+ ih ra
+ ben z
+ ben im
+ p iyas
+ gel iyor
+ s por
+d o
+ A K
+ p azar
+ öl üm
+ g al
+ siyas i
+ Has tan
+ şekl inde
+S ur
+ S av
+el en
+ay ın
+ yıl lık
+en t
+ da ir
+F ETÖ
+Ç ünkü
+ünü yor
+erj i
+ t at
+as ım
+ A B
+Bu gün
+ r ek
+A s
+ b ay
+2 8
+ ada y
+ yap mak
+s at
+ tem sil
+un uz
+ değiş ik
+ ç ocu
+ yap ıyor
+ ter c
+ çalış ma
+ alt ına
+ Baş bakan
+e g
+ d iz
+ ç arp
+ değ iştir
+'y ı
+er im
+tak i
+ ist eyen
+dü ğ
+ kes in
+ İ ş
+ c id
+ş ı
+av ut
+ L i
+. '
+O lay
+ D er
+ ç if
+ gün de
+m esini
+y ız
+ h an
+ D eniz
+ez a
+ bul unuyor
+ S ü
+ c in
+ D r
+ ç iz
+ ön ünde
+ ed erek
+al tı
+ li der
+ğ ının
+la mak
+ S er
+Ö n
+ğ in
+ O cak
+ D ünya
+ yan a
+al ama
+ baş arı
+ılı ç
+oloj i
+ an n
+ m üm
+ yet kil
+is inin
+al im
+ uç ak
+el ç
+ın ca
+li f
+m eyi
+ sah ibi
+n ik
+o la
+ ar ac
+ tek rar
+A v
+ör t
+ d ok
+ k ir
+iler ini
+ ed il
+dik leri
+dık ları
+uz ey
+Y eni
+İ lk
+ Yar dım
+6 0
+er li
+ s ar
+iz m
+dü ğü
+ g ec
+ al ıyor
+ terc ih
+ müm kün
+l iyor
+ m ens
+u la
+ab a
+ F ran
+erb est
+2 7
+y ip
+ı da
+ bölg ede
+eş it
+ tart ış
+ek tr
+ t av
+ c en
+ kor k
+ons por
+eceğ iz
+ g ece
+ H ol
+al k
+rabz onspor
+ ş unları
+ iddi a
+ önc eki
+j an
+ dak ika
+ İn gil
+o g
+y e
+ a det
+ece ğini
+ art ış
+aş a
+ ko lay
+dik lerini
+ h ap
+ dış ında
+ poli tik
+Ay rıca
+ dakik ada
+ kal dı
+İ s
+ T ay
+Y D
+ ed ilm
+ bil gi
+ s it
+re di
+ilece ği
+ s ivil
+ gir iş
+ soruştur ma
+ sev iy
+ler ce
+d ük
+ma t
+ r apor
+ zaman da
+k ır
+ r is
+ mo de
+t im
+on e
+ E y
+ in an
+ kad ro
+ k üçük
+ el ektr
+iy arb
+iz yon
+ muh al
+ trans fer
+ A mer
+ O sman
+imiz in
+ tep ki
+ab ı
+ ar a
+ hal inde
+ ask eri
+ zar ar
+ T op
+ilece ğini
+acağı z
+eler de
+ L ig
+T erör
+al ım
+t ur
+ sayı da
+ tal ep
+ otom obil
+iyarb akır
+ ko ş
+2 6
+ i t
+ s ak
+ n et
+ gel iştir
+ or gan
+ kurul uş
+y le
+da m
+ü st
+vek ili
+du m
+ olma dığını
+em al
+ G ök
+aşk anlığı
+Cumhur başkanı
+is ini
+ getir di
+ hem en
+Ş İ
+et men
+ç esi
+ut lu
+in ci
+n ek
+ baş layan
+ aç ıl
+os u
+ gerek en
+am i
+ ş ah
+) 
+
+M il
+ C an
+ken in
+ers on
+ üc ret
+ in ternet
+m anı
+ ama cı
+ uyg un
+ E l
+ Ar alık
+c ılık
+ açık ladı
+ teh di
+ bir bir
+ k öy
+ yan ında
+ tedav i
+ yaş ayan
+ sayı sı
+r ek
+İş te
+ et tik
+ var dı
+B un
+ıs ından
+" ,
+ B il
+ Yıl maz
+n i
+han gi
+ el eştir
+at en
+ına v
+avut oğlu
+2 9
+A S
+l ül
+ ön e
+ gerek tiğini
+ o ğ
+ ş id
+ A z
+Öz el
+i j
+ t r
+I N
+iy atı
+ taraf tar
+O r
+O R
+ hes ap
+ür t
+ S on
+ baş ına
+makta dır
+m iyor
+ k ah
+ h en
+is an
+ması yla
+ cid di
+B eşiktaş
+ yap ı
+ ola b
+ durum da
+ itibar en
+F enerbahçe
+D E
+ar ken
+ tek lif
+z ı
+ D E
+ t raf
+ B ank
+ boy unca
+F A
+K on
+ad olu
+ayas a
+ sür ec
+ iz in
+P oli
+di m
+ B ar
+19 9
+ görün tü
+ dolay ı
+  erk
+ K ara
+ h ukuk
+ sab ah
+de k
+5 00
+lama ya
+ ad ına
+m esine
+ m ark
+ ol maya
+ k as
+ Alman ya
+' li
+ E uro
+ ifade lerini
+ kayde d
+ ç eşit
+ ol mayan
+ ş art
+ağ lık
+eler inin
+ ede ce
+ söyle yen
+cağı z
+ Kom ut
+ildi ği
+onom i
+le diği
+ K or
+ ist e
+G alatasaray
+ y ük
+ Mil let
+ la z
+ n er
+ fa iz
+ el de
+o h
+ s erbest
+et e
+ ad lı
+N e
+an t
+ D A
+ğ iniz
+ m ik
+ oyun c
+b a
+k aç
+m eyen
+ Hastan esi
+ün cü
+rub u
+E Ş
+ C HP
+ o ra
+ a dı
+ et kin
+ Li gi
+c at
+b ay
+ısı yla
+s ak
+ef er
+ Mah kem
+ ul uslararası
+ G ül
+ baş la
+4 5
+ ma s
+ıs ına
+okr at
+D P
+ baş ında
+ büy üm
+de si
+ düş tü
+le mek
+' tan
+ M uh
+ ay rı
+ t asar
+ cen az
+y i
+ece p
+ arasında ki
+ kar ış
+ y abancı
+ıs ını
+st a
+ y at
+ta j
+ eş i
+ F at
+ zor unda
+üven lik
+Ç ok
+ düş ünüyor
+ ver ilen
+ ş ark
+ b ana
+ ist iyor
+ter e
+dık larını
+k ur
+ ar aya
+ çöz üm
+ıl mış
+Y ap
+D ün
+ası yla
+ biz e
+ ş imdi
+alar a
+ kur tar
+ I rak
+l ilik
+ s ig
+ur at
+ şeh ir
+B öyle
+f es
+m ıyor
+ Müdür ü
+ Yön etim
+S K
+ M ecli
+ah im
+D ünya
+is ine
+ par ç
+ il et
+ gen iş
+b er
+un an
+ gör ül
+ac ağını
+h e
+ t ic
+ ay rıca
+ her hangi
+E s
+c il
+ bel li
+ab ilecek
+ ist ih
+okt or
+3 5
+ sür eç
+ Yardım cısı
+r güt
+ K asım
+ konu da
+ on un
+ p ek
+ Tay yip
+ karş ısında
+dar ma
+ de p
+iler ek
+üm an
+ h a
+li ğini
+ son unda
+ yar at
+ haf t
+ kat ıldı
+ kö tü
+ap ı
+ güç lü
+ s in
+ saat lerinde
+ ün lü
+ P er
+ F et
+i ğ
+di ş
+ il er
+ ö dül
+ R ecep
+ t ören
+ yıl dı
+ili ği
+ tarih i
+ış işleri
+ tes lim
+ k ut
+ m ült
+İ R
+ ş ik
+ sok ak
+ mil li
+ hast alık
+ İ zmir
+ sağ lan
+ laz ım
+ par ti
+' ten
+9 0
+ tal eb
+u cu
+ m ez
+ ül kenin
+ düny anın
+Ş imdi
+lü yor
+ tem iz
+ av uk
+ H ar
+ama ya
+v e
+ res mi
+ıs ının
+ Mil li
+a g
+ ş ampiyon
+ mah kem
+ cev ap
+Y ar
+ al ış
+ neden le
+ şid det
+ uyg ulan
+h ar
+ erk ek
+I R
+di ğini
+ G ülen
+ C eza
+R usya
+ay ıs
+ bel g
+ hüküm et
+t ın
+ s ol
+ durum u
+ açıkla malar
+Ş u
+ yar alı
+ ilç esinde
+ düş ür
+c isi
+İ ki
+ p oz
+ al acak
+eş il
+ kay ıt
+bir liği
+ yıl da
+ herk es
+ü cü
+' la
+ç ak
+l ında
+ma cı
+ S ar
+ yar ış
+men in
+ dah il
+rum p
+il mek
+ kur t
+l iy
+s er
+s av
+ il eri
+ maç ında
+ U z
+an tep
+ S u
+ an a
+ dur dur
+tat ürk
+ i p
+eb ek
+ tem el
+ oyn a
+ sonr asında
+ t az
+ yön tem
+l iye
+em i
+ dem okras
+Şİ D
+t o
+ Bir liği
+üy le
+ B r
+ K ılıç
+öl g
+ p art
+ iş aret
+ çif t
+t ör
+ yap acak
+' lı
+B M
+um l
+ ris k
+ r ol
+ tehdi t
+ p erson
+ dış ı
+ dur uş
+7 0
+eler inde
+art esi
+azi antep
+ u ğr
+an dır
+ k af
+ teh lik
+Bur ada
+U R
+ç ık
+for man
+ gal ib
+ yan sı
+ etti ğini
+ maç ı
+ al mak
+ mes el
+ bilg iye
+ k ans
+imiz e
+ başar ılı
+ü ğ
+ söz leş
+ab et
+ yıl ı
+ gö ç
+ev izyon
+ B akan
+ ön er
+ kil o
+ amacı yla
+k eme
+ ol m
+den iz
+ kr iz
+ gi den
+ A f
+ey le
+ ülk ede
+ade m
+o ca
+ ar ada
+ yanı t
+ tür lü
+ aç ı
+G ün
+İ T
+ h am
+ tarih inde
+ on u
+ s ınav
+l ış
+ ed er
+ getir en
+ bildir ildi
+s anız
+ k redi
+ g ez
+S T
+im e
+ E ğitim
+uv ar
+ Beled iye
+ yor um
+sız lık
+  iy
+T op
+ c anlı
+imiz i
+ hız lı
+Sur iye
+ek k
+ yap tır
+ y ık
+ R us
+ V al
+ T erör
+ kat kı
+Biz im
+A Y
+ N isan
+ düz ey
+ ülk emiz
+ü le
+An kara
+ t ed
+ hen üz
+m eleri
+ gazet ec
+ B ey
+ gör üyor
+ git ti
+ D avutoğlu
+ ort am
+ne ği
+etr ol
+ mode l
+ İl çesi
+ f ay
+ H az
+ öz gür
+ li st
+ kar t
+ y emek
+da ğ
+ g ide
+ kiş iler
+am ız
+Baş bakan
+n in
+in ç
+ k ültür
+ g iz
+ aç ısından
+ isim li
+p ek
+ma dığı
+ kendi sine
+ ihtiy aç
+ C ad
+ galib iyet
+ay la
+lay ıcı
+ s arı
+ ed iliyor
+ maç ta
+orm al
+eler ini
+ sistem i
+ per forman
+eler ine
+  ir
+ An adolu
+ diy en
+iy ah
+um suz
+ ay lık
+ em niyet
+ kil om
+ ekonom ik
+tep e
+ mem ur
+E k
+ çek en
+'n den
+lay arak
+ anlat tı
+ elektr ik
+ r ej
+ ama ç
+r ik
+ Merkez i
+ düş ük
+ seb eb
+ yıl ın
+ un ut
+T ek
+ kam er
+me d
+ n ok
+eh it
+ sı ğın
+E L
+ladı k
+lan ıyor
+ev i
+av uş
+dar oğlu
+ üy esi
+l iler
+ kul üb
+ at an
+ Mahkem esi
+ v ak
+ M ayıs
+ doğ al
+O y
+or k
+ der ece
+asyon u
+ az al
+ç ev
+E M
+lu ğu
+ sık ıntı
+ K ul
+ seb ep
+en a
+ gör en
+la cak
+doğ u
+D o
+g un
+s et
+ K uvvet
+us al
+ olma dığı
+ siyas et
+ gir en
+ anla tan
+ çeşit li
+as ından
+ K emal
+D A
+b e
+alar ının
+İ Y
+ B er
+ ist ik
+ imz a
+Y ıl
+ ön lem
+ ay ak
+8 0
+ ç er
+ a b
+ D ir
+ sı cak
+ f iyatı
+ ver iyor
+ra il
+miş tir
+ Al lah
+ Sü per
+ d ört
+ c iv
+ diy erek
+ a cı
+ağı m
+E v
+ı yla
+em in
+ konuş an
+H ay
+ey n
+ n it
+ kon ut
+ M us
+ed er
+ed iye
+ görüş meler
+y dı
+ ol sa
+E K
+E ğer
+d al
+ yer de
+ öğr etmen
+ ak ıl
+y aspor
+ yıl dır
+ k ür
+ Ş en
+ önc esi
+ İs lam
+ b es
+ Ko ç
+ söy lüyor
+ çer çev
+mas ından
+on u
+üks ek
+ uz man
+ bir az
+ M urat
+3 1
+İ K
+ağ ına
+ gerek ir
+ ik ti
+E S
+m esinin
+ fin ans
+? "
+u ar
+ bir kaç
+ad ın
+ yan i
+ ot ob
+ baş ta
+se d
+ şüph el
+ hap is
+di p
+ıldı ğını
+ mens up
+L AR
+f et
+g ör
+ B u
+ ol up
+ gün lerde
+ t ec
+ sor uml
+ çek ti
+lar ca
+ ar alarında
+ yar ın
+  aşk
+tı yor
+ b eni
+ n um
+ D ışişleri
+ İ ran
+ çalış ıyor
+b o
+lar dır
+ sür ekli
+iy eli
+s ınız
+er r
+üs l
+ b una
+ y al
+ M an
+ en erji
+ yön ünde
+r aman
+x x
+ış ık
+ e ğ
+alar ını
+ ön üne
+ doğ r
+Özel likle
+ sen e
+ir an
+pan y
+P ro
+ gid er
+ ün iversit
+n ız
+ A t
+ c ih
+ yaşa dığı
+Poli s
+c ut
+m eli
+ b akan
+ K up
+ K ürt
+ ar ama
+ gir di
+ göster di
+ T ak
+ tah min
+ beklen iyor
+ c es
+ rak am
+ etk ili
+O N
+ş em
+ir a
+ d oktor
+ yar g
+Y ani
+u di
+ k uvvet
+ hayat a
+ iş let
+ Ç in
+ümüz deki
+Av rupa
+ d al
+ yan lış
+ tutuk landı
+ ma hal
+oloj ik
+ geç miş
+ gerek li
+b aşı
+ değil dir
+v is
+ K ö
+ ek ran
+ alan da
+ar ında
+ma m
+ görev li
+ yaz ılı
+br ahim
+ han gi
+G ör
+ü ler
+ğ ur
+ yar ar
+ T ar
+ hak im
+ dönem inde
+ d ö
+o w
+ D ur
+  um
+ uy ar
+ biz i
+ey im
+oğ u
+ bomb a
+ da yan
+ tük et
+ say esinde
+ yer inde
+Ö te
+ m eş
+ Cad desi
+s on
+ ihra cat
+ gerek ç
+ kit ap
+ Ey lül
+ v az
+ il an
+len mesi
+ Ö rgüt
+ul ması
+ab iliyor
+ ser t
+ ted bir
+m eni
+ey ecek
+ nok ta
+g eç
+ karş ılık
+ var dır
+ Baş sav
+K endi
+ ö yle
+ geç iş
+'nde ki
+ dav ran
+ hal ine
+o da
+ı ma
+de mir
+ ol umsuz
+ U l
+ m üş
+ yardım cı
+ bildir di
+ ce p
+ DA EŞ
+T ar
+lu ğ
+ Or ta
+ yönet ic
+on a
+ A tatürk
+ H ak
+av aş
+ ed ilmesi
+ yer e
+Er doğan
+E l
+ak ika
+ oluş an
+ma tik
+ Ek im
+u ğ
+ li g
+ şüph eli
+ person el
+A M
+ s tr
+ma ması
+ i tir
+ay i
+ O l
+ am el
+üm ü
+ O k
+ es n
+f i
+t el
+ kendi sini
+B unu
+'n dan
+lan acak
+ Ş ah
+ söyle y
+ hast alı
+ son a
+b ama
+c ılı
+ I ŞİD
+ Pro f
+ yıldı z
+a ir
+üsl üman
+at if
+ bul uş
+s inde
+du ğunu
+ An talya
+ alt ın
+Al man
+ olma z
+ Fat ih
+ h üc
+ m en
+ D iyarbakır
+ bak ım
+ Ay dın
+l al
+ildi ğini
+ tama men
+ yaş ında
+esinde ki
+alar ına
+  ıs
+ b eri
+ gün lük
+ etki siz
+ de mek
+ Beled iyesi
+K az
+ d ers
+c ılığı
+ul tan
+an ış
+ N e
+K ur
+ ç ab
+ok ak
+ğu st
+al el
+ir ken
+ kar ak
+ r uh
+ kal p
+B el
+Ay nı
+ Ek onomi
+da sı
+ de f
+ et kil
+ kes im
+ kayded ildi
+ır ı
+B una
+ b az
+ k uş
+et ik
+ kul üp
+ cez ası
+ sonu c
+3 4
+s ında
+maya cak
+ p lak
+ K al
+lı ğını
+üs eyin
+ Gün cel
+ah ç
+u c
+ sür en
+s ur
+ P YD
+ J an
+ Bank ası
+P ar
+ Haber ler
+ incel em
+la men
+ G rubu
+ at tı
+ğ an
+ m ot
+ D akika
+ kaybet ti
+- G
+Ü lk
+ektör ü
+ekk ür
+D evlet
+lan ması
+ H ay
+ z aten
+ C h
+ yar ı
+ fin al
+y um
+an g
+ b ö
+ış malar
+z a
+ ediyor um
+d alı
+ b ede
+ yay ım
+s en
+T Ü
+ş k
+un ma
+ T rump
+ an ne
+ silah lı
+ mer ak
+ çocu ğ
+en gin
+em ez
+las yon
+ T rabzonspor
+ab ir
+ S al
+ yol cu
+ bab ası
+Geç en
+ t esi
+ da ğı
+ Kup ası
+ K ır
+ kı y
+ğust os
+ir v
+ belir lendi
+ kend ini
+V e
+t ürk
+ olduğ una
+ dav et
+ yap ıla
+m el
+ a ğr
+ yar gı
+ kap ı
+ tel evizyon
+ Der neği
+P G
+t iler
+w it
+in c
+ durum unda
+siz lik
+ hes ab
+B il
+ do st
+ dış arı
+alim anı
+ t ali
+uz ur
+ top rak
+ımız ın
+ avuk at
+ çık ış
+A D
+ yüz den
+' le
+p aşa
+ b ağım
+ kullan dığı
+ pro t
+vek il
+ot o
+  ,
+r en
+ b eş
+ma il
+es por
+ den iz
+ Gün ey
+ yaralan dı
+S por
+m ut
+ını f
+ G üvenlik
+ z am
+tr en
+Y ak
+ göster en
+ olduk ça
+ ora da
+ b undan
+ımız ı
+am ak
+K im
+g ar
+ma dığını
+et re
+ıl ır
+ p etrol
+ çalış maları
+ıldı z
+ dav a
+ bor ç
+ mik tar
+E FA
+U z
+b ak
+y alı
+ a ile
+b aşkan
+Ç ocuk
+ h ik
+ G enç
+ dünya da
+düğ ünü
+ H am
+ f ik
+b ur
+g ü
+ i dar
+ gün cel
+ teş ekkür
+lama da
+ kim s
+bar at
+ fır sat
+ ot el
+ mev cut
+ Öz el
+- b
+s üz
+ ç ey
+ ed in
+ ger il
+ n ormal
+ poz isyon
+c iler
+al lah
+ g ay
+ al arak
+ d u
+ en f
+ bit ir
+B akan
+it e
+ kr it
+ Şub e
+da t
+ o f
+ gün dem
+ san ık
+ilmiş ti
+l ılık
+ yal nız
+  j
+3 00
+ H DP
+eb ilecek
+A çık
+ başvur u
+S an
+ek siyon
+ h â
+iyet i
+ ede b
+ hazır lık
+3 6
+ B ul
+du ğ
+h am
+ ör nek
+r em
+y o
+ın an
+at ta
+ değişik lik
+ muhal if
+r es
+ baş ken
+ on a
+İ M
+ o da
+ der in
+ yapıl ması
+wit ter
+at i
+ ö den
+ B aşkanlığı
+ hak em
+H em
+eyaz lı
+ günde me
+ Mecli s
+ B in
+İn san
+ m ek
+ N ur
+ Ö mer
+ olma dı
+ DE AŞ
+ ver ilm
+ edildi ği
+ tekn oloj
+ girişim i
+b arı
+ çık ıyor
+iniz i
+ öl ç
+ hey ec
+pan ya
+S iz
+ insan ların
+ çağ rı
+P D
+S al
+an lar
+iy di
+ul uyor
+ S in
+ müdahal e
+p p
+ İ brahim
+ traf ik
+h is
+am sun
+ ek ibi
+o u
+ y um
+ ol umlu
+ ver mek
+ bar ış
+ mağ dur
+ İngil tere
+d ing
+im de
+ mü dür
+ yas ak
+ başkan lık
+ şik ayet
+ de tay
+ hat ta
+ İ st
+ iht im
+ Örgüt ü
+ k uzey
+ yer leş
+ insan lar
+T üm
+an et
+ p o
+ for ma
+y anın
+M ah
+k or
+en e
+ Osman lı
+ ner ede
+ r enk
+ iş ç
+ ist en
+ cih az
+ y ola
+ M er
+z e
+ il aç
+me diği
+ mut lu
+0 9
+b ek
+lar ım
+ Ç elik
+ımız a
+ yür üy
+liğ e
+ Hal ep
+H al
+ak a
+ur ken
+ m ar
+it ir
+cı lar
+las man
+"n ın
+ pat layıcı
+. B
+g r
+ n amaz
+ gel diği
+ sür ede
+ er ken
+ geçti ğimiz
+ Amer ika
+üst ü
+ t ip
+ d iş
+ or du
+ s akat
+19 8
+Ben im
+s iyle
+ğ inin
+ ek ib
+ mü s
+n un
+ de fa
+ H üseyin
+ et mesi
+ Büyük şehir
+A P
+b üs
+ mut lak
+F akat
+ A ğustos
+ p as
+ Y unan
+b lem
+ğ iz
+İ ç
+ır nak
+ah met
+' lik
+m ur
+ ver ecek
+ ha in
+3 2
+ K ültür
+ M üslüman
+ iç eri
+ G aziantep
+ düzen len
+ düzen lem
+ met re
+ katıl ım
+ü cu
+ bölg e
+ Millet vekili
+ Kılıç daroğlu
+A H
+g isi
+ ediyor uz
+malı dır
+S öz
+ S ağlık
+ getir ildi
+ tutuk lan
+ vurgu layan
+  le
+er in
+ g rub
+ ö ğ
+c üsü
+ s efer
+ t as
+ ş ar
+ yap ma
+ sür üyor
+ p eş
+BM M
+" .
+
+ s ınıf
+ ilg i
+ kam p
+ çev ir
+G el
+on ya
+ y itir
+ yıl larda
+ kullan ıcı
+ kaç ır
+ rej im
+G enel
+ m is
+ m aliyet
+ yap arak
+ G ür
+mas ın
+eti ci
+larımız ın
+z i
+cade le
+ede ki
+ kan al
+ am bul
+ müz ik
+ın ar
+ n eler
+ n ot
+ sah n
+b an
+ b iç
+ul muş
+ an lay
+ düş en
+ as lında
+C HP
+ k up
+ et tir
+ düş üş
+ hay al
+ ist iyorum
+ilen dir
+ kullan ılan
+m uştu
+ h uzur
+ B al
+ bil im
+c ar
+p ar
+ ola cağını
+ mücade l
+ Hav a
+ıl ım
+ul t
+ C en
+ Y eni
+ en diş
+ var sa
+n an
+at ej
+ör ü
+ n ak
+ilir ken
+liğ inde
+ rak ip
+P KK
+ kiş ilik
+ kayb eden
+B azı
+k er
+ B oz
+ ek sik
+ karşı ya
+ yol u
+İ Z
+ ö lü
+ or anı
+ b ey
+ K ap
+ İ ç
+ alt ını
+ Has an
+ taşı yan
+ un sur
+ Fran sa
+ kay ıp
+ merkez i
+kur may
+7 5
+d eri
+ek iz
+ bir im
+ S t
+ çık acak
+ kat ılan
+ I n
+ düny aya
+ kır mızı
+K ay
+k u
+ d on
+len me
+ aş ağı
+okrat ik
+ iç ine
+ gü c
+ Al bay
+ Cumhuriyet i
+ kans er
+ kür esel
+r üb
+ğ e
+an am
+ ay ır
+ Em re
+S adece
+ kiş ilerin
+' ü
+abilir siniz
+ amel iyat
+ut in
+ yol c
+ em ek
+ Fet ullah
+3 9
+b i
+ğ ır
+E D
+s lan
+ hal de
+ mü h
+ al ma
+ pro blem
+ ulaş tı
+ muh abir
+ millet vekil
+r im
+s ına
+ g az
+ T V
+ S ultan
+iler den
+ ç ap
+P eki
+m it
+ et meye
+ c am
+ civ arında
+iy el
+eler le
+ Gün eş
+lar dı
+it al
+ ç ünkü
+em esi
+ geliş meler
+E m
+k r
+ers iz
+ bağ lantı
+ im k
+medi ğini
+un c
+ yap maya
+ B as
+ gerçekleştir ilen
+ kilom etre
+ yarg ılan
+ahç eli
+s im
+y ım
+ak et
+ıyor um
+ es er
+ operasyon da
+G enç
+ğ ından
+ de pr
+ p il
+lama z
+ üç üncü
+ gerekç esiyle
+A d
+a di
+t ılı
+â r
+es ter
+ Mü cadele
+liğ ine
+ inş aat
+ İngil iz
+ s em
+ yer leştir
+ ist iyoruz
+ V ak
+ers in
+ Ar aştır
+ proj e
+İ l
+iy er
+es tiv
+ik an
+B üyük
+s as
+lan ma
+iyat ro
+ İs mail
+ dep lasman
+r al
+ al ına
+ol kan
+ li deri
+ yok tur
+ vur uş
+ş ık
+ uy arı
+ em ekli
+ dolar lık
+ yürüt ülen
+ oğ lu
+ şark ı
+Yap ılan
+ ikti dar
+D iğer
+s eri
+ağ ının
+me de
+ünde m
+ yakalan dı
+ bas k
+ hatır lat
+ tat il
+ vaz geç
+ a de
+ H akan
+İn gil
+ tur ist
+ Şah in
+h at
+ b üt
+on al
+ haf if
+ Sur iyeli
+ kamu oy
+ Haz iran
+. K
+ s oğ
+ baş lan
+ ön gör
+ V an
+gen eral
+3 3
+g ül
+ib er
+ Ç avuş
+ bas kı
+Ü n
+ y ıla
+ M es
+os k
+ sır alarında
+ başk anı
+ Hol lan
+l â
+ıl maz
+ gör üldü
+ P oli

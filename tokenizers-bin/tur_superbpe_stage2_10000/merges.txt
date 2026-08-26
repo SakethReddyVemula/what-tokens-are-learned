@@ -1,0 +1,10262 @@
+#version: 0.2
+n  
+e  
+a r
+a  
+e r
+i  
+a n
+ı  
+. 
+
+i l
+i n
+a l
+,  
+ı n
+k  
+i r
+d e
+a n 
+l ar
+e l
+a y
+e t
+e n
+i n 
+d a 
+a s
+a k
+o r
+i y
+o l
+d e 
+u  
+a t
+a m
+l er
+a ş
+d ı
+e s
+e k
+d i
+u r
+ı n 
+u n
+ı l
+i s
+o n
+e n 
+v e 
+b ir
+e m
+i m
+u l
+ü r
+i z
+e y
+i ş
+a h
+a p
+bir  
+a z
+ü n
+ı r
+a k 
+ö r
+i k
+  y
+  k
+a ğ
+a b
+d u
+a d
+ö n
+ı ş
+ı k
+u m
+ı m
+i t
+a c
+  s
+ın da 
+de n 
+' n
+  b
+i ç
+e d
+ü z
+d an 
+l e 
+in i 
+e c
+ın ı 
+ı y
+a ç
+e k 
+ı z
+di .
+
+t i
+er  
+in e 
+l an
+e v
+in de 
+l a 
+s t
+t ı
+a v
+u n 
+  g
+ü l
+e ş
+y ap
+  m
+i k 
+  d
+iy or
+ın a 
+a dı
+u z
+b aş
+il e 
+a f
+  ve 
+l i 
+o ğ
+as ı 
+u ş
+al ar
+in in 
+k ar
+u t
+v er
+l ı
+lar ı 
+e z
+ü  
+il er
+is t
+ğ ı 
+g el
+g ör
+ö z
+ğ i 
+a , 
+  t
+es i 
+u y
+iç in 
+ü m
+ü y
+u s
+o n 
+ın ın 
+b u 
+b ul
+T ür
+o k
+ol du
+e ç
+ü n 
+et  
+ı s
+ler i 
+ın dan 
+iy e 
+l am
+k i 
+i , 
+dı r
+b il
+dı .
+
+o p
+o y
+ü ş
+l ı 
+ç o
+ıy or
+ü k
+o m
+el er
+k on
+ö y
+l en
+i b
+ay a 
+m a 
+k an
+2 0
+  h
+Tür k
+t ar
+o lar
+i d
+e de
+s on
+t er
+  de
+  B
+i h
+ol m
+ç ık
+k en
+i p
+ö l
+t a 
+g er
+e ğ
+y a 
+ak i 
+t e 
+i f
+a de
+ar t
+  A
+oldu ğ
+  S
+  K
+e , 
+un u 
+ı , 
+d ir
+b el
+ço k 
+u k
+g ü
+t ir
+lar ın 
+c e 
+o t
+il m
+y ar
+e h
+k al
+B u 
+g eç
+a da 
+  T
+v ar
+l i
+'n in 
+k ad
+iy e
+olar ak 
+  M
+l em
+al ış
+m an
+e p
+ah a 
+m as
+ti .
+
+di ğ
+iyor .
+
+ac ak
+et m
+' da 
+d aki 
+ı k 
+s ür
+iy le 
+de ğ
+l e
+ü k 
+tı .
+
+at  
+d ur
+im iz
+bul un
+y an
+ç ek
+lar  
+r o
+l ik
+üz er
+t ır
+is e 
+' de 
+ç alış
+de ki 
+in den 
+l aş
+ol an 
+u p
+20 1
+A n
+uş t
+ey e 
+lı k 
+bel ir
+ıl an 
+k ay
+ön em
+il di.
+
+ab er
+al t
+as ında 
+ar  
+im  
+d oğ
+l ay
+i c
+ y ıl
+e den 
+m ası 
+or t
+ıy la 
+y on
+k ul
+en i 
+ım ız
+de v
+er k
+am  
+r a 
+o s
+l u
+. .
+' y
+s an
+Türk iye
+' ın 
+,  "
+ y ap
+kar ş
+di ği 
+E r
+aç ık
+an s
+l eş
+y aş
+di k
+' in 
+al an
+ac ağ
+m ış
+k ur
+ib i 
+g il
+B aş
+ü c
+el  
+g ün
+t r
+l ik 
+ab il
+p or
+:  
+ar k
+y ak
+ü ğ
+d i 
+es i
+d ür
+lar ını 
+  p
+d aha 
+u ç
+ler in 
+l adı
+t an
+t op
+il en 
+un da 
+is i 
+s öy
+s or
+e f
+ğ r
+y ön
+ay ı 
+  G
+iy et
+l et
+'n ın 
+e b
+ıyor .
+
+y üz
+y on 
+m ak 
+b ak
+ü t
+l at
+g ir
+ğ ını 
+d üş
+h al
+d er
+ler  
+l u 
+ec ek
+al ın
+ler ini 
+ m il
+kan ı 
+c a 
+k at
+"  
+m es
+ay r
+ü s
+am a 
+b üy
+y er
+un un 
+t al
+0 0
+t en 
+A l
+lar a 
+uy or
+y ıl
+dı ğı 
+iz  
+  D
+ir .
+
+  H
+et k
+in c
+son ra 
+kul lan
+du .
+
+s ağ
+g ö
+ar d
+t ak
+de m
+ül k
+an , 
+t an 
+z am
+m alar
+k ap
+C um
+n e 
+? 
+
+an d
+tı ğı 
+un a 
+c u
+t aş
+ın daki 
+et ir
+h ur
+  ed
+m iş
+al ı 
+A B
+ı t
+t ek
+l ey
+ter ör
+A r
+t ür
+s ah
+"  de
+e de 
+  bir 
+ger ek
+er i 
+İ st
+s al
+acak .
+
+g ul
+ö ğr
+  ile 
+g r
+c ak 
+g en
+ş ek
+il k 
+ b in 
+açık lam
+üy or
+olduğ u 
+olduğ unu 
+y ol
+  ol
+g etir
+d a, 
+v en
+az et
+ük s
+B ir
+du ğ
+ek t
+ac ak 
+tar af
+Cum hur
+ede n
+' a 
+b öl
+Ö z
+h ak
+ı p
+lar ının 
+  E
+de n
+uşt ur
+et im
+s ay
+ü p
+ar ak 
+v ur
+st er
+y a
+gü t
+d üz
+m e 
+es inde 
+il gil
+ec eğ
+büy ük 
+Türk iye 
+yap ıl
+as yon
+an bul
+m ey
+g öz
+h ay
+d ar
+g ün 
+yüz de 
+  f
+İst anbul
+c ı 
+m aya 
+iy i 
+ti ğ
+p ar
+er ek 
+oy un
+ y aş
+1 0
+k iş
+g i 
+a at
+an ı 
+uz .
+
+in iz
+u b
+lı ğ
+in , 
+m ek 
+an a 
+lar da 
+ş eh
+s un
+t em
+li ğ
+s on 
+m ak
+ü ç
+B ak
+ol ay
+en in 
+s a 
+p ol
+1 5
+e bil
+t ut
+er b
+'y e 
+ad an 
+  P
+ t ar
+ik i 
+e ği 
+h as
+l ık
+c u 
+ıs ı 
+y eni 
+dı m
+  Y
+ist em
+.. .
+
+ay an 
+ı ğ
+as k
+u .
+
+1 9
+b ağ
+ü st
+ec ek 
+el i 
+ler e 
+ilgil i 
+İ l
+o z
+ard ından 
+,  b
+ı lar
+at ır
+i ğ
+dev am 
+m et 
+ör güt
+öy le 
+o  
+S ur
+öğr en
+ay n
+ah ç
+İ n
+h ar
+ler inin 
+et ti.
+
+dı ş
+iler i 
+A y
+ön ce 
+in deki 
+n eden
+ıl dı.
+
+s av
+s ev
+ar ay
+b ol
+belir t
+yap ılan 
+E T
+p ro
+v r
+ k on
+i g
+diğ ini 
+kad ar
+y er 
+erk ez
+lar .
+
+s ır
+söy le
+y az
+" de di.
+
+b ek
+düz en
+s iz
+ip  
+g ibi 
+İ s
+"  d
+Tür k 
+t  
+ken , 
+iy at
+a de 
+değ il
+lar ına 
+ger çek
+s i 
+m al
+il iş
+iy as
+ler i
+K ar
+y as
+s at
+ın ız
+leş tir
+dur um
+a j
+ar asında 
+ar ı 
+d ü
+A k
+h er 
+ mil yon 
+ k iş
+ler ine 
+u h
+' e 
+s ız
+AB D
+p r
+d a
+ş ey
+m esi 
+ün de 
+len dir
+s il
+ü dür
+gö ster
+s er
+m et
+gör e 
+el ik 
+am am
+oy n
+du y
+s öz
+! 
+
+ah al
+lı ğı 
+in san
+ir k
+m ay
+ladı .
+
+bir lik
+ım  
+m az
+O r
+d ün
+de , 
+h em
+t es
+a il
+gör ev
+i  ve 
+an ın 
+oğ lu
+l üğ
+k or
+li ği 
+u k 
+Er doğ
+um .
+
+önem li 
+'n de 
+a '
+gel en 
+ok t
+op er
+iş im
+ecek .
+
+iş tir
+m il
+çık ar
+y al
+ler de 
+üc ade
+R us
+karş ı 
+oldu .
+
+o d
+de st
+)  
+s e 
+z or
+uyor .
+
+şek il
+v at
+u , 
+k az
+d ön
+ k ar
+' un 
+ın , 
+ön c
+m aç
+ B aş
+H aber
+t ık
+it  
+il er 
+m an 
+y üks
+al an 
+G en
+ b aş
+ak ik
+-  S
+F ET
+k aç
+sal dır
+uşt u.
+
+iler in 
+iliş k
+k em
+hay at
+var .
+
+FET Ö
+iy et 
+duğ u 
+vr up
+" .
+il i 
+h an
+az ır
+eler i 
+an k
+ b u 
+G azet
+öz el
+es t
+ı 'n
+uy gul
+b iz
+f az
+us u 
+al  
+di m
+l ir
+o ş
+o v
+adı .
+
+as ıl
+es ine 
+ti ği 
+y ay
+Türkiye 'nin 
+ut bol
+inc i 
+Cumhur baş
+i den 
+gü ven
+  (
+' den 
+k an 
+c ez
+iç inde 
+lar ında 
+ün e 
+a 'nın 
+ur ul
+u ğ
+k r
+k am
+as ına 
+r ak
+d üğ
+Y ıl
+taraf ından 
+bulun an 
+ul aş
+and aş
+t ü
+k im
+r e 
+az ı 
+ekt ör
+dı k
+u st
+ g ör
+a 'da 
+t üm
+k es
+s ın
+o c
+an da 
+lar , 
+et t
+karş ıl
+di s
+  olm
+an t
+gör üş
+r ah
+ler inde 
+şekil de 
+üzer ine 
+ak , 
+  ay
+t el
+s por
+ur um
+birlik te 
+an an 
+ıl ı 
+if ade 
+d önem
+zam an 
+de t
+ey i 
+m am
+lar la 
+-  
+ı c
+alt ına 
+yap tığı 
+İ ş
+değ er
+  örgüt
+1 2
+m er
+l ah
+b e 
+ır ak
+3 0
+s am
+o j
+ir  
+l ü 
+y en
+if ade
+düş ün
+K K
+r af
+kon uş
+gü ç
+B ur
+leri 
+
+m em
+söyle di.
+
+an lat
+ade ce 
+pol is
+p er
+ı da 
+g it
+et i 
+al at
+iç er
+lan an 
+k en 
+v ey
+er ör
+er ek
+'n un 
+kad ar 
+ec e 
+id di
+kay b
+f or
+' dan 
+ s on
+A vrup
+ayn ı 
+dı ğını 
+h azır
+dı ğ
+adı ğı 
+ek ip
+  ş
+len en 
+m en
+i ver
+ı  ve 
+geç ir
+  de 
+esi 
+
+ g ibi 
+h av
+h af
+A R
+ç ev
+h iç
+lik le 
+böl g
+A K
+A d
+F en
+doğ r
+ede f
+  O
+G ün
+d in
+d av
+u gün 
+  C
+ed il
+y ür
+t amam
+lay an 
+f ark
+vey a 
+ de ğ
+m ücade
+ y er
+vat andaş
+k a 
+s it
+20 0
+faz la 
+iy ar
+ tar af
+lar dan 
+k ıs
+ad a, 
+kar ar
+k ır
+ım ı 
+as ını 
+m e
+k ab
+) ,
+' te 
+1 1
+ort aya 
+A N
+r an
+ö k
+r es
+alar ı 
+  ver
+o b
+Gazet esi
+
+ah kem
+dü .
+
+erb ahç
+eş ik
+Fen erbahç
+t ed
+us unda 
+b ur
+b ar
+d ol
+tır .
+
+ol oj
+K on
+f a
+en t
+etk il
+  ar
+neden iyle 
+s eç
+eşik taş
+o k 
+P KK
+oper asyon
+es ini 
+i v
+' ta 
+c ü 
+  Ş
+E m
+es inin 
+a at 
+dır .
+
+il ç
+ist e
+m i 
+:  "
+ g ün
+ s ür
+kon uştu.
+
+m ut
+üyor .
+
+Baş kanı 
+kat ıl
+m en 
+r e
+it im
+ük üm
+An kar
+h aber
+ağ ır
+s in
+m eye 
+ k al
+: 
+
+ede c
+ön der
+ağ ı 
+alat as
+acağ ı 
+alatas aray
+a g
+bil g
+ev l
+tiğ ini 
+ilm esi 
+üzer e 
+ler , 
+lar ımız
+  al
+son r
+B iz
+5 0
+T r
+irk et
+k ö
+c uk
+H as
+ g el
+s en
+hak k
+h er
+har ek
+Ü n
+m uz
+iz .
+
+tak ım
+ş u 
+am p
+çalış malar
+ço cuk
+iy on
+abil ir
+os yal
+un dan 
+yak laş
+iş lem
+yön elik 
+mas ını 
+aş tır
+u c
+u v
+ih t
+B eşiktaş
+1 4
+E R
+ın da, 
+d ay
+is im
+baş ar
+Y ar
+el er 
+ y ar
+b en
+ur t
+" n
+yar dım
+M il
+H al
+" d iye 
+kal dır
+geç en 
+om b
+An cak 
+ok ul
+ h al
+l as
+acağ ını 
+. .
+
+il ik 
+kad aş
+ıl ı
+ec eği 
+1 6
+G alatasaray
+i 'nin 
+p at
+E l
+is inde 
+  F
+m ez
+ H aber
+A s
+gör e, 
+iver sit
+D ün
+gerçek leştir
+ley en 
+mas ına 
+ar a 
+al ık 
+' deki 
+r ağ
+m ek
+'n e 
+n asıl
+ok r
+et ic
+tr ol
+f utbol
+p ay
+ m aç
+tı ğ
+ıy a 
+ız .
+
+' i 
+an laş
+lar ından 
+altına  alın
+ahal l
+atır ım
+t ah
+1 8
+s el
+Cumhurbaş kanı 
+ler inden 
+m ü
+ço cu
+üp h
+.  
+ün ün 
+Baş bak
+" ın 
+l ü
+ler i, 
+ar aç
+at ış
+üt ün 
+y et
+ül en 
+tek n
+el ik
+tar ih
+ler den 
+üzer inde 
+kur ul
+c an
+H P
+Türkiye 'de 
+oğ lu 
+on om
+üdür lüğ
+ken d
+ T em
+l id
+t ek 
+iz e 
+bil dir
+b er
+ mil yar
+h edef
+tut uk
+el ed
+kaz an
+ d akik
+iyor uz.
+
+at ı 
+Bak an
+1 7
+lan dı.
+
+ler le 
+s adece 
+im i 
+gr am
+tı k 
+ yıl ında 
+  "
+  olarak 
+ey en 
+ac ı 
+  lir
+t eş
+adı r
+el e 
+t ı 
+m ayı 
+O n
+v ek
+ b ul
+an  ve 
+mak  için 
+ taraf ından 
+' ya 
+ek i 
+b as
+2 5
+s iyas
+kap sam
+t ep
+t at
+gir işim
+  ç
+ s ay
+L ig
+öl üm
+iler e 
+al ı
+gör ün
+r ol
+ad am
+ib ar
+l um
+an cak 
+eceğ ini 
+  için 
+t ur
+et tiği 
+Gen el
+1 3
+ım .
+
+ad de
+lan tı
+p lan
+ar ası 
+terör  örgüt
+am an 
+yer  al
+ s aat
+ek onom
+an lam
+am az
+b in
+i .
+
+lar ı, 
+ilm iş
+ yaş ındaki 
+g önder
+adı m
+ü ven
+s istem
+gel di.
+
+i de 
+u cu 
+s uç
+E s
+ Tem muz
+m eler
+l is
+o bil
+g id
+ün ü
+v et
+üm üz
+o f
+uz un 
+ A r
+as yon 
+  etm
+ken di 
+un ları 
+.. .
+k ez
+g an
+  n
+D em
+sil ah
+at ıl
+ed er
+A ma 
+i de
+as ının 
+ s or
+eh met 
+ler imiz
+şeh ir
+mış tı.
+
+pro j
+k .
+
+ı f
+ec i 
+man ın 
+a  ve 
+  N
+in g
+ab an
+de ş
+ıs ında 
+r ek
+im .
+
+adı ğını 
+s uz
+in s
+in ce 
+al dır
+b ırak
+ek s
+ y ön
+H ak
+az ar
+bir i 
+ıl ık 
+oğ raf
+öğren c
+kab ul
+b ey
+ d aha 
+c ih
+h at
+en , 
+mil let
+'y i 
+olm ak 
+as ı
+it ibar
+y ok
+d an
+dev let
+alar ında 
+ı cı 
+değer lendir
+m u
+it ir
+b azı 
+ kiş i 
+ün ü 
+r et
+ T L
+ tar ih
+lu ğ
+ed ilen 
+af a 
+ken dis
+terör ist
+ilişk in 
+ç i 
+çık tı.
+
+öl g
+h is
+il  
+pay laş
+İ z
+es i, 
+ Baş kanı 
+an 'ın 
+s ık
+il g
+an n
+e g
+ş irket
+is ti
+ü b
+ek li 
+değ iş
+Sur iye
+m üş
+ot om
+aç ıl
+  da 
+ted av
+ol ur
+uy la 
+tir .
+
+oğlu , 
+D E
+h iz
+baş lat
+gel iş
+d u 
+d ağ
+ k ul
+h ız
+esi 'nde 
+es ki 
+ağ r
+m uş
+n ak
+ken t
+diğ er 
+baş ka 
+ın ı, 
+ed ildi.
+
+T erör
+ver di.
+
+D oğ
+iyor um.
+
+s iniz
+belir ten 
+h ep
+b ab
+or um
+iz in 
+ün k
+ol uştur
+n et
+kon trol
+n eden 
+s ey
+ k ur
+er j
+,  bu 
+av aş
+oldu k
+ı ca 
+ş öyle 
+k at 
+h an 
+ül t
+h es
+c el
+iz i 
+D A
+gör ül
+k ız
+P ar
+g ol
+,  S
+bulun duğu 
+' ı 
+ç e 
+ar kadaş
+doğr u 
+d ün 
+güven lik 
+üy ük
+öl dür
+D en
+E n
+l ük 
+erk es
+lu k 
+s ak
+ d iye 
+,  M
+ol u 
+yüks ek 
+e di
+d olar
+P ro
+on u 
+E ğ
+ya  da 
+m ir
+in i, 
+om ut
+u 'n
+ç a 
+sür dür
+han gi 
+us lar
+B en 
+d il
+al i 
+t eh
+p an
+ç öz
+y atırım
+l ak
+sor uştur
+dir .
+
+ed i 
+uygul am
+ülk eler
+yaklaş ık 
+ek n
+fark lı 
+çık an 
+o st
+ k ad
+mas ının 
+inc el
+ıl ması 
+ç ar
+er s
+ g ö
+t ör
+kon u
+d ül
+ ed il
+tes p
+Avrup a 
+az  
+lam a 
+A h
+f ilm
+en gel
+ s ır
+ol is
+adı ğ
+İn gil
+et in 
+im z
+b ile 
+s ez
+adı n 
+at eş
+ik inci 
+ül tür
+gen ç
+iht iy
+p art
+zam an
+in an
+e  ve 
+uslar arası 
+dik kat 
+k il
+ü f
+as t
+2 4
+s eb
+' daki 
+a' ya 
+art ış
+rağ men 
+1 00
+ol uş
+ıl ığ
+ab z
+r ar
+ s ah
+z iyar
+k oy
+sın ır
+f in
+S on 
+g azet
+im di 
+öz cü 
+ot oğraf
+  R
+yüks el
+yap an 
+ler .
+
+ask er
+t ab
+adı k
+Ün iversit
+alar da 
+erk en 
+bir çok 
+s u 
+ş am
+bir  şey
+ay as
+  Ç
+dı z
+has tan
+yaş am
+lar ıyla 
+sür e 
+eğ itim
+k ol
+T ur
+di z
+s ar
+s es
+özcü  Gazetesi
+
+K ay
+- S özcü Gazetesi
+
+İ L
+ g ün 
+ic i 
+açıklam ada, 
+vur gul
+Z aman 
+i 'nde 
+bek len
+M ehmet 
+el ç
+z ar
+d ana 
+is yon
+T op
+di ş
+Yıl dır
+in de
+  V
+ak ım
+alt ında 
+al iyet
+yan ın 
+ t op
+dest ek 
+Haber leri
+
+Ö n
+bulun du.
+
+O s
+abil ir.
+
+M üdürlüğ
+tı ğını 
+b omb
+iş leri 
+ün c
+ebil ir
+  c
+A T
+e 'nin 
+n okt
+yaş an
+ust afa 
+şek l
+ya 'da 
+D av
+m erkez
+h en
+al ık
+ Haber leri
+
+ d olar
+iyor um
+2 2
+top lam
+d ı 
+A Ş
+bağ lı 
+i ği 
+m ar
+ab er 
+in de, 
+et e 
+ek , 
+um uz
+a .
+
+ad ı 
+Bak anı 
+ kar ş
+evl et 
+ı ları 
+U z
+s osyal
+ab ah
+ya 'nın 
+t as
+A L
+h üküm
+al dı.
+
+ad ay
+is ini 
+art ır
+dar be 
+in dir
+y oğ
+ü , 
+mek  için 
+hakk ında 
+g ür
+al g
+ler iyle 
+m in
+mücade le 
+C HP
+kon usunda 
+g üz
+H av
+ekt ed
+a  da 
+is inin 
+sav un
+el ek
+ h ak
+ak tar
+üzer inden 
+c ar
+m ed
+de l
+yür üt
+b ugün 
+r am
+;  
+" diye  konuştu.
+
+u ğr
+Al man
+alar ın 
+ger i 
+mer ik
+a  M
+s un 
+Türkiye 'ye 
+t ik
+kar ar 
+ b el
+gen el
+k ür
+yak ın 
+ y üz
+yen iden 
+on un 
+o ç
+ k ap
+yön etim
+ed iyor.
+
+t ük
+baş ladı.
+
+İ N
+ k ay
+göz altına alın
+ş üph
+n iyet 
+ün den 
+adır .
+
+an lar
+r ans
+ de di.
+
+4 0
+an dır
+l ul
+ s ağ
+2 1
+c ısı 
+ı .
+
+uv vet
+böl üm
+B unun 
+b et
+abz on
+ h af
+u gün
+üven lik 
+m a
+am ay
+len di.
+
+ar ac
+en el
+urul u 
+G eç
+o g
+Başbak an 
+ı 'nın 
+f iyat
+baş vur
+y em
+ile  getir
+Ö r
+ g eç
+ıyor uz.
+
+2 3
+y ada 
+m ız
+dik kat
+Y eni 
+yay ın
+Yıldır ım
+A b
+ap or
+as ındaki 
+eş it
+r en
+s ok
+iş  
+dim .
+
+ti v
+kapsam ında 
+id ir.
+
+Y ap
+kay de
+r is
+haf ta 
+ver il
+l e, 
+tel ef
+Has tan
+f er
+'  
+tan  sonra 
+es iyle 
+ladı ğı 
+tar t
+ değ il
+ Ş ub
+M ar
+n iyet
+ey lem
+c ev
+m o
+sav aş
+or an
+ülk e 
+hal k
+iyor uz
+belir ter
+  aç
+ A n
+belirt ildi.
+
+ın ca 
+lan dır
+Sur iye 
+ı'n da 
+d ah
+amp iyon
+B r
+m ev
+gö tür
+an i 
+em e 
+D aha 
+ d üz
+u f
+tiğ imiz
+tart ış
+ s ev
+laş tır
+G ül
+y ağ
+dik .
+
+ti f
+karşıl aş
+otom obil
+B un
+iz m
+ A l
+kullan dı.
+
+G az
+eş tir
+okr as
+el im
+ k az
+b öyle 
+y ine 
+ar aştır
+it ik
+s ı 
+yer ine 
+baş kan
+. ,
+son uç
+K en
+eler in 
+D evlet 
+l uk
+ yap ıl
+d ile getir
+sah ip
+içer isinde 
+ gö ster
+S an
+b ütün 
+en  büyük 
+ol um
+ar tık 
+ett ik
+y um
+siniz .
+
+  olan 
+olm ası 
+ g er
+kiş i 
+O l
+c h
+e  getir
+if t
+k av
+rah at
+Ş eh
+da .
+
+T ar
+özel likle 
+tesp it
+mey dana 
+dikkat  çek
+B il
+h atır
+miş ti.
+
+c i 
+g ar
+yap tı.
+
+d an, 
+er , 
+al am
+ s aldır
+f otoğraf
+m üz
+üç ük 
+h ey
+an ların 
+sav c
+sah ip 
+ver diği 
+etm ek 
+belirt ti.
+
+oyun cu
+iler ine 
+as ıyla 
+tek i 
+s aat
+ k il
+Rus ya 
+D er
+K an
+al im
+d ahal
+B en
+in ş
+le di.
+
+ k at
+dest ek
+ih r
+kar arı 
+gr up
+ver en 
+ m ed
+Tr abzon
+ kul lan
+E n 
+A merik
+sat ış
+düzen lenen 
+gerçek leş
+kıs a 
+öğren ildi.
+
+kon om
+ını  kayb
+B M
+ kon usu 
+ıy ı 
+ g erek
+yar alan
+B ar
+dön üş
+-  Zaman 
+- Zaman  Gazetesi
+
+kay det
+  at
+leri  - Zaman Gazetesi
+
+ d üş
+Ah met 
+par a 
+s ol
+O lay
+iler .
+
+Cumhurbaş kan
+b ayr
+f ır
+bil in
+dik leri 
+  İ
+tr ans
+has tal
+Fenerbahç e 
+lem e 
+Öz el
+ar et 
+Cumhur iyet 
+Ay r
+'n ün 
+yak alan
+ekted ir.
+
+pro gram
+Ç ünk
+  ama 
+gel er
+çocu ğ
+m adan 
+li  bir 
+H er 
+büyük  bir 
+g un 
+dı 
+
+ad aki 
+dev r
+B ey
+A li 
+2 8
+eled iy
+k om
+et ti
+Cumhur iyet
+at ik 
+F rans
+- S por
+- Spor  Haberleri
+
+iler inin 
+yer  alan 
+b or
+ı "n
+m ahkem
+ö dem
+c id
+v an
+eler e 
+il iğ
+ot ur
+şekl inde 
+. '
+c an 
+es el
+"  s
+h am
+top lantı
+sağ lık 
+e 'de 
+yar g
+' u 
+am ac
+H ay
+t aki 
+ b il
+hiz met
+h erkes
+k öy
+lı  bir 
+mak  ist
+l if
+k as
+l iy
+dış ında 
+M ustafa 
+uz ey
+ yıl  
+üs ü 
+ t erör
+en g
+gün dem
+ d önem
+ d urum
+r .
+u 'nun 
+ s an
+  var
+k ut
+a  çık
+ay et
+oyun c
+aç ık 
+maya  çalış
+A ğ
+ır .
+
+ür etim
+ör t
+iler , 
+ılı ç
+diğ imiz
+K ür
+el de 
+S on
+at ç
+uy ar
+alın an 
+en  bir 
+ d ün
+hiç bir 
+S er
+üm k
+I Ş
+m uh
+öy l
+yak ın
+fa aliyet
+duğ unu 
+T L
+n er
+kur um
+ay ın 
+ m erkez
+Erdoğ an
+in .
+
+öz el 
+çev r
+F et
+ k i 
+ları  ve 
+b it
+en s
+6 0
+Ü l
+in ter
+hem  de 
+ah s
+önc eki 
+A v
+f ir
+ b ırak
+iler ini 
+'y ı 
+2 7
+d ük
+in e, 
+iv il
+kur tar
+ k en
+ p u
+mes ini 
+c am
+g al
+bak ır
+elek tr
+m ada 
+çar p
+c en
+e di.
+
+du m
+An tal
+Al lah
+b un
+tekn ik 
+g e 
+Y D
+ de v
+dik lerini 
+A z
+  L
+ayr ıl
+U l
+tü .
+
+İz mir
+ı ların 
+in t
+du k
+b unu 
+k ı 
+g iy
+l a, 
+ede ki 
+um p
+.  dakik
+hav a 
+ı  sır
+ec lis
+d am
+kullan ıl
+yan a 
+S por
+en erj
+imiz in 
+Ankar a 
+  ise 
+H ol
+ul an 
+ür ün
+ bul un
+H ar
+h uk
+uz ak
+üy ük 
+r apor
+ y ol
+şeh it
+Den iz
+Dem ir
+es inden 
+yaş anan 
+İl k 
+y a, 
+F at
+bir  ar
+iyar bakır
+ m et
+M erkez
+alt ı 
+acağ ız.
+
+sor um
+ask eri 
+E N
+2 6
+l az
+m ağ
+etk is
+iddi a 
+ç iz
+,  K
+ler ce 
+ması  gerek
+mak t
+k ın
+ş unları 
+r i 
+sev k 
+ad ına 
+ben z
+çocu k 
+aş ır
+ön etim
+ak şam
+ y ak
+k it
+Dav ut
+  -
+M ahall
+b ank
+cez a 
+İ ç
+and ar
+ y az
+ıp  
+ten  sonra 
+F A
+sez on 
+) 
+
+  v
+el eştir
+değ iştir
+AK  P
+ı -
+ p ro
+Gen ç
+A S
+"  ifade
+ins an 
+olmak  üzere 
+as ı, 
+zam anda 
+ıs ına 
+esi 'ne 
+hayat ını kayb
+un uz
+a it
+aban cı 
+b oz
+ul lah
+İş te 
+Mil li 
+ed ilm
+sil c
+i 'n
+İ k
+E Ş
+al ım
+E v
+I N
+mes aj
+" d iy
+b oş
+" ,
+ç atış
+ön e 
+kar deş
+l ül
+İ D
+an  K
+ken in 
+ M art
+O R
+p ek 
+Ç ok 
+am ız
+mü dahal
+ı'n a 
+ır ken, 
+ t ut
+say ıda 
+2 9
+b r
+s aat 
+dönem de 
+vek ili 
+m ad
+k o
+or gan
+ y ok
+mey i 
+ok un
+önemli  bir 
+diğ er
+imiz i 
+yeni  bir 
+E ur
+de f
+top lum
+S av
+b ask
+l ek
+erb est
+l et 
+duy ur
+his s
+S ar
+art i 
+ G enel
+Trabzon spor
+an lı
+bir bir
+ile  ilgili 
+yan ı sır
+üp er 
+h a
+Yar dım
+t av
+on a 
+baş ladı
+ığ ın
+m ac
+ıs ını 
+li g
+19 9
+al et
+mu hal
+D iyarbakır
+G ök
+r ik
+ıs ından 
+ın .
+
+ön ünde 
+İl ç
+soruştur ma 
+G ör
+O y
+o h
+D ev
+P olis
+5 00
+t ay
+an lar 
+çalış ma 
+siyas i 
+dün ya 
+üdür ü 
+  iş
+İstanbul 'da 
+em iz
+sor un
+kap at
+di , 
+d iye 
+en  çok 
+hangi  bir 
+or ta 
+değil , 
+dış ı 
+Dün ya 
+K ur
+k ir
+ı ç
+ş id
+m ümk
+is ine 
+oyun ca 
+kay nak
+edec ek
+s iy
+B üyük
+ay y
+baş layan 
+acak tır.
+
+acağ ız
+el en
+son ucu 
+di 
+
+ter cih
+cid di 
+D P
+E S
+al dığı 
+an  bir 
+gel ir
+yoğ un 
+kad ın
+ h ar
+ul uslararası 
+ti car
+uy u 
+un , 
+y at
+is  
+seç im
+k olay
+et tiğini 
+4 5
+ d er
+in ç
+le diği 
+alar a 
+f es
+k adın 
+m a, 
+bil gi 
+gün ü 
+m el
+ort ak 
+İs lam
+as ından 
+yıl  
+taraf tar
+itibar en 
+ol acak.
+
+lid er
+Erdoğ an 
+Ayr ıca 
+ec ep
+ıs ının 
+dol ayı 
+iy e, 
+ lir a 
+ak at
+l o
+u  ve 
+mış tır.
+
+ele  geçir
+u bu 
+lar  ve 
+değil .
+
+uy gun 
+i i 
+il ah
+Y un
+b es
+baş ı 
+uygul an
+B er
+' li 
+ s er
+e .
+
+sonr ası 
+gir iş
+ıs ıyla 
+eler inin 
+ f iyat
+' ün 
+er li 
+H at
+K al
+l im 
+ur .
+
+r ak 
+il ik
+ıl ık
+ımız ı 
+s ektör
+ k r
+ yer ine 
+ s istem
+bas ın 
+em al
+mes ine 
+kiş inin 
+ay  
+av uk
+ür et
+ B ak
+p iyas
+M er
+malar ı 
+k s
+ay d
+yar ış
+ımız  
+k ah
+ist an
+uy a 
+oloj i 
+tal ep
+Baş kan
+hem en 
+isti h
+esi 'n
+G r
+ım a 
+cen az
+ M il
+dün y
+3 5
+ed iyor
+S öz
+S ağ
+ç oğ
+Os man
+Ör güt
+ç eşit
+ade t
+b oy
+m adı.
+
+kal an 
+erek , 
+n it
+D ış
+k üçük 
+ç ağr
+eled iye 
+İ R
+ayy ip 
+l üm
+ı 
+
+bir liği 
+Erdoğ an, 
+b unun 
+ö dül
+in  ve 
+tas ar
+baş lay
+okt or
+ıyor um.
+
+söy l
+ön lem
+ör n
+ad lı 
+vek il
+konom i 
+ş art
+ay ıs
+mas ı, 
+a it 
+şeh it 
+kır mız
+' tan 
+ön er
+öğr etm
+ver ilen 
+söy leyen 
+ar be 
+T Ü
+ist ik
+ hak k
+9 0
+ti k 
+Or t
+Üniversit esi 
+liğ ini 
+çöz üm
+A t
+y e 
+gel iştir
+tedav i 
+ade m
+tek lif
+b en 
+ar k 
+yap tık
+K az
+P er
+c il
+s a, 
+I R
+ar ak, 
+in 'in 
+ab a 
+en e 
+sağ lam
+u d
+  üy
+A Y
+üc ret
+hes ap
+ K urulu 
+l a
+ül kenin 
+ant ep
+k ıy
+u ar
+ö v
+baş ına 
+teh di
+İngil ter
+e j
+ev iz
+lerini  kullandı.
+
+i 
+
+s el 
+g ec
+l im
+y i 
+ı dır.
+
+z at
+ek l
+ek  için 
+alar ının 
+res mi 
+s ini 
+s iz 
+or mal
+alar ını 
+k ış
+ç ek 
+om et
+edec eğ
+ması  için 
+an ları 
+çok  sayıda 
+  oldu.
+
+tr af
+i ?
+
+ d oğ
+R ecep
+kar ış
+ g r
+k oş
+Bakan lığ
+t ü 
+tat ür
+terör örgüt ü 
+ş ik
+ihr ac
+B ugün 
+ak ıl
+es n
+ son r
+S am
+l ist
+yanı sır a 
+m in 
+o , 
+H DP
+g ece 
+söy lem
+" S
+n ı 
+G el
+m eden 
+ h ay
+' la 
+s em
+ç ift
+ab ilm
+ t el
+p azar
+ g ol
+U R
+l ak 
+ıl dığı 
+s ı
+z em
+darbe  girişim
+Y ak
+Z ir
+ y an
+oyun cu 
+O  
+P YD
+d al
+i j
+m ayan 
+ver ildi.
+
+par ç
+hatır lat
+7 0
+i antep
+ k an
+dem ir
+Yıl maz
+Ş u 
+IŞ İD
+An ad
+s as
+ün deki 
+ milyar  dolar
+S K
+s ivil
+y urt
+ır ken 
+on e 
+ed ir
+for man
+dı , 
+sır asında 
+harek et
+açık ladı.
+
+andar ma 
+m ı 
+al ama 
+eş i 
+eğ in 
+çalış an 
+cev ap
+K om
+Ş ub
+' ten 
+Ş imdi 
+man ı 
+A f
+l ış
+r ef
+s ig
+İ K
+ y en
+ev i 
+etm iş
+açıklam a 
+s ur
+s abah
+top lan
+değiş ik
+baş lam
+neden le 
+t üğ
+ s ın
+inter net
+o w
+am ı 
+yaş ayan 
+niyet  Müdürlüğ
+ K ar
+sür eç
+ ed ilen 
+toplam  
+ g öz
+iniz i 
+ekip leri 
+  il
+ayr ı 
+c um
+e ve 
+öz gür
+K ır
+baş ında 
+İ ki 
+etk ili 
+dar b
+ kiş inin 
+ı ğı 
+yan ında 
+oper asyon 
+düşün üyor
+bilg iye 
+y etkil
+et rol
+am aç
+konu da 
+Y üks
+a' daki 
+  olduğunu 
+s oy
+ekn ik 
+İ T
+. dakik ada 
+imiz e 
+Al t
+ kaz an
+en  önemli 
+n in 
+düğ ü 
+B iz 
+daha  fazla 
+N e 
+e -
+l etm
+n et 
+en  ve 
+mas ıyla 
+M an
+mek  ist
+san ız
+da ir
+ede bil
+,  T
+K oç
+d iy
+eler de 
+re j
+ihtiy aç
+B el
+E M
+in in, 
+yan dan 
+ hal e getir
+ş ark
+dur dur
+tutuk lan
+m ült
+s erbest
+ist an 
+il iyor.
+
+tem iz
+ül dü.
+
+ekonom ik 
+üy le 
+E L
+ek , "
+s ık 
+ö n 
+dık ları 
+ortaya  çık
+üper  Lig
+ h as
+Sur iy
+her hangi bir 
+İ Y
+ler 
+
+mil li 
+İ r
+.  D
+B ahç
+p oz
+düş ür
+İ d
+ı lar 
+un ut
+mas ında 
+tüm  
+amac ıyla 
+S t
+m er 
+or k
+am el
+ler  ve 
+dem okras
+  etti.
+
+M ur
+s an 
+ıl mış
+dün yanın 
+O t
+av uş
+Fat ih
+ay ında 
+ob üs
+a ir
+g iz
+g ül
+ak  için 
+la  ilgili 
+ de n
+ s ektör
+yar at
+can lı 
+leri  ve 
+yok .
+
+M uh
+t am 
+ k es
+b ugün
+yıl dız
+ı dan 
+ıl an
+alar ına 
+has t
+adde s
+şid det
+lık lı 
+kurul uş
+bir ar aya 
+k â
+ış tı.
+
+tes lim 
+uğ u 
+E k
+ar et
+as ın
+bu  yana 
+O b
+ k urul
+DA EŞ
+al , 
+alar ak 
+güz el
+b at
+ b ölg
+Yardım cısı 
+F utbol
+ber aber
+di p
+ik tar
+olm ayan 
+ bel ir
+Y aş
+İ tal
+ak ta 
+ A k
+yan ıt
+ Baş kan
+sık ın
+Pro f
+Gaz iantep
+ Haber leri - Zaman Gazetesi
+
+E K
+S T
+l ıyor.
+
+ılıç dar
+8 0
+f er 
+ak t
+iş i 
+kor um
+V al
+i var
+an ış
+ yap an 
+K am
+ k ez
+sağ lan
+büy üm
+ıyor uz
+üc ü 
+üs lüm
+eler ini 
+imz a 
+g iden 
+l ük
+r ail
+an ım
+ E m
+sır ada 
+em ey
+ış ı 
+D ur
+H am
+i 'ne 
+an g
+an ayas
+ s it
+kur t
+ç er
+ D ün
+Eğ itim
+teh lik
+yas por
+kor k
+ s öz
+ B elediy
+s ığın
+an  B
+ul du.
+
+art esi 
+tr en
+c es
+akik a 
+Özel likle 
+g i
+l ında 
+t ec
+us ul
+y lül
+er al
+olm ay
+iste di.
+
+gazet ec
+3 1
+eh ir
+kaydet ti.
+
+? "
+b in 
+bir kaç
+ebil ir.
+
+çeşit li 
+ey in 
+bildir ildi.
+
+ılı ğı 
+ sev iy
+Kür t
+  olduğu 
+D ir
+kon uşt
+fin ans
+ş ans
+an lığ
+u lar
+v üc
+Ö te 
+ur  
+bir  şekilde 
+ T ayyip 
+dur uş
+ milyon  dolar
+Hal ep
+futbol cu
+hen üz
+sosyal  med
+ yön etim
+kar t
+esi 'nin 
+bey az
+ti p
+an lık 
+bur ada 
+n am
+Genel  M
+y an 
+İ b
+ol acak
+im e 
+incel em
+K ul
+de y
+ön üne 
+ d iy
+bulun uyor.
+
+ifade  etti.
+
+x x
+ar asındaki 
+ver ilm
+O N
+k ov
+ün iversit
+olm adığını 
+ımız ın 
+Bir  
+Gün ey
+seb ep
+daha  önce 
+pr ot
+ N is
+kayde d
+b ay
+c ut
+kay ıt
+,  bir 
+im de 
+harek et 
+n ız
+  ifade
+A M
+r i
+lar ca 
+ağ a 
+ifade  eden 
+ziyar et 
+M eclis
+,  B
+ot or
+ y ağ
+lar  da 
+Baş kan 
+iştir .
+
+önc esi 
+K up
+ek ib
+ılar ak 
+İs rail
+ümüz deki 
+k af
+Bur ada 
+u'n da 
+ M ayıs
+ayr ıca 
+c in
+ar alarında 
+per forman
+" B
+y ur
+en f
+iyor lar.
+
+gö ç
+ma  ve 
+tal eb
+y ık
+C en
+iler ek 
+yapıl acak 
+duy g
+isim li 
+K r
+ y a da 
+mümk ün 
+i  ile 
+et tir
+mes inin 
+gen iş
+tep ki 
+S u
+T üm
+ev ine 
+kendis ine 
+L AR
+S in
+z ir
+dur .
+
+e w
+ö p
+üc r
+r uh
+ark en 
+a' dan 
+başar ılı 
+ s ez
+oğlu 'nun 
+ir ken, 
+zor un
+eler ine 
+pol itik
+Bak an 
+I n
+at if
+em  
+den iz
+ya 'ya 
+olay ısıyla 
+telef on
+söz  konusu 
+er im
+ey r
+hes ab
+ s aat 
+alan da 
+t az
+ş ah
+ik ti
+  - 
+söz leş
+y ok 
+ey le 
+iyor du.
+
+ ed ildi.
+
+sun uz
+Mil let
+h aber 
+k ültür
+s ef
+az ir
+ ger çek
+Çünk ü 
+B ölg
+ü  ve 
+as ım
+di k 
+ yıl lık 
+ G ül
+yıl ın 
+bölg ede 
+K ad
+uç ak
+yön tem
+g ez
+Ş ah
+kam u 
+G öz
+y abancı 
+ h at
+b eri 
+de  bu 
+di si 
+ıl maz
+geç miş
+per son
+a M ahkem
+dık .
+
+makt adır.
+
+Y en
+Bakan lığı 
+Suriye 'de 
+ade n
+:  B
+K ız
+m ektedir.
+
+ hakk ında 
+in iz 
+li  ve 
+ist en
+Al man 
+S osyal
+gel ecek 
+An ayas
+' s
+söy ley
+etk in
+sür ec
+Erdoğ an'ın 
+Recep  Tayyip 
+K emal
+aç ısından 
+ilç esinde 
+il et
+em ez
+eş il
+uy um
+  var.
+
+l i, 
+m ail
+ s eç
+ib iyet
+ yıl ı 
+tek rar
+-  G
+g az
+m eş
+es indeki 
+em niyet
+ t ak
+T ab
+hüküm et
+etkis iz
+en c
+di : "
+ son ra 
+çer çev
+H üs
+ü  b
+üy e 
+Ay nı 
+önetim  Kurulu 
+er  ve 
+taş ıy
+d r
+f ark 
+l an 
+ş imdi 
+as it
+hal inde 
+ilk  kez
+I rak
+d ar 
+h ap
+s ınız
+ö ğ
+en  iyi 
+um ar
+tı 
+
+ıyor um
+sür ekli 
+v az
+or m
+durum u 
+Hol lan
+ Dün ya 
+ark a 
+olum suz
+Y ani 
+y ük
+il diği 
+hayat a 
+rahat sız
+E t
+ g azet
+düş ük 
+tem el
+asyon u 
+B in
+tarih i 
+3 4
+r ed
+ları  ile 
+çık ış
+tık .
+
+anlat an 
+oloj ik 
+görün tü
+Der n
+K ap
+m enin 
+lar ın
+  Ö
+İ M
+oy u 
+y u
+an am
+id ar
+FETÖ 'nün 
+K im
+lı ğını 
+yan lış
+Y P
+Prof . D
+K ö
+n ormal
+lar  b
+ort am
+C an
+ek kür
+iler den 
+sağ lay
+ değ er
+ dakik a 
+ tarih inde 
+B una 
+g a 
+bir liğ
+for m
+s u
+an lay
+gerek tiğini 
+ bin  lir
+az al
+ABD 'nin 
+ Ar alık 
+ziyar et
+K omut
+g ın 
+is e, 
+ B ank
+enerj i 
+V at
+l iye 
+ay ır
+ k im
+im  için 
+gir en 
+gerek ç
+M ahkem
+eceğ iz.
+
+elektr ik 
+b eb
+ı lara 
+e  gel
+ab ak
+bul uş
+eler inde 
+öy le
+p las
+di  ve 
+ust os
+B unu 
+Ul uslararası 
+i a 
+m ür
+Türkiye 'yi 
+kam er
+şüph el
+er e 
+ey n
+B or
+ı "
+da  bir 
+el  Haber
+pat lay
+V e 
+ol abil
+fin al
+A .
+A tatür
+b üt
+y orum
+bildir di.
+
+Dış işleri 
+İb rah
+i,  "
+güz el 
+it ik 
+ m ens
+iyor , 
+ t em
+ülk ede 
+DE AŞ
+  arasında 
+seb eb
+k im 
+w it
+tak ip
+A P
+u di 
+il gi 
+et tiğ
+ O cak 
+ünc el Haber
+üncel Haber ler
+
+ak  ve 
+son unda 
+saldır ı 
+sor u
+zar ar
+ kil omet
+C ez
+f il
+at ör
+esi  ve 
+geç ti.
+
+Geç en 
+fır sat
+ön ül
+ları  da 
+olduğ una 
+F er
+en 'in 
+ M ahall
+ro s
+ıp , 
+ay ar
+den , 
+konuş an 
+B at
+h a 
+a,  "
+g ide
+m eleri 
+un daki 
+belirter ek, "
+silah lı 
+E FA
+g ib
+ortaya  çıktı.
+
+bilgiye  göre, 
+P ol
+S ev
+c ep
+o 'nun 
+oy un 
+kal p
+mam ız
+M üslüm
+b az
+s im
+iz , 
+öl ç
+os u 
+olduk ça 
+V ol
+k ü
+or g
+d oktor
+is m
+iş aret 
+yar ar
+es por
+ yıl dır
+Tr ump
+Cumhuriyet  Baş
+ıl ıyor.
+
+ut lu 
+leri  arasında 
+ A ğ
+ ed ilm
+  eden 
+a 'yı 
+b ana 
+i " 
+ı " 
+es el 
+üks el
+biz e 
+gid er
+beklen iyor.
+
+U y
+kal dı.
+
+arbe  girişim
+etkisiz  hale getir
+' le 
+E ş
+u g
+ay la 
+ik a 
+f ik
+de k
+is yon 
+öyl ece 
+yap tır
+sah ibi 
+ser v
+ektör ü 
+alim an
+U EFA
+l in
+bir  süre 
+b al
+h e 
+bağ lan
+ücade le 
+Dev let
+c ul
+p aş
+say ısı 
+an dı.
+
+iy on 
+ y eni 
+ t aş
+daha  sonra 
+mey en 
+m üt
+s ab
+ay et 
+devam  ediyor.
+
+ saat lerinde 
+AK P arti 
+ç ab
+lar  için 
+cez ası 
+ar am
+st r
+3 00
+C em
+s ik
+ey im
+ de st
+İn ş
+kendis ini 
+di :
+
+ede , 
+ E ylül
+P D
+al lah
+as ında, 
+ot obüs
+a 
+
+n a 
+ö den
+er t
+en ler 
+3 6
+S al
+il iği 
+ıyor lar.
+
+len mesi 
+Türk iye, 
+der s
+N ur
+Y as
+an 'da 
+bul ans
+ tel ef
+ım , 
+laz ım.
+
+K uvvet
+m adığı 
+aş am
+ h em
+ımız a 
+zor unda 
+n i 
+a  er
+ın an 
+bir az
+Ar aştır
+hak em
+A H
+C h
+v an 
+lak a 
+ Şub at 
+ A y
+görüş meler
+haf t
+A D
+yar ın 
+lik  ve 
+İs pan
+ad r
+ev inde 
+yol  aç
+en dir
+ım da 
+mış .
+
+say g
+başka  bir 
+id ir
+yan s
+yaptığı  açıklamada, 
+güç lü 
+iht im
+eğ ini 
+kur may
+PKK '
+ s avaş
+A ş
+A çık
+O ğ
+ d ön
+ G r
+  üst
+b a 
+k uzey
+İ h
+as la 
+ıl aş
+mam ası 
+C am
+e 'ye 
+r ar 
+Ç alış
+ g üç
+İn san
+oluş an 
+H üküm
+J andarma 
+en lerin 
+am adı.
+
+ul t
+ b ek
+luğ u 
+ haf ta 
+( T
+ M erkez
+ mil yon
+gerek li 
+Anad olu 
+teş ekkür
+al d
+us al
+on  D
+ A vrup
+İstanbul  
+ı ?
+
+ger çek 
+yapıl dı.
+
+c ü
+ m ü
+tal im
+ş ampiyon
+ t akım
+e diği 
+ot o
+yay ım
+S ul
+b ah
+bek l
+her  şey
+Cumhurbaşkanı  Recep Tayyip 
+ haf t
+avuk at
+G er
+et im 
+tamam en 
+cih az
+0 9
+d on
+un u, 
+is i, 
+dav ran
+f a 
+ b ölüm
+alar  
+ıyor , 
+bel ed
+İs mail
+din g
+ m uh
+sonr asında 
+ris k
+en ler
+t i 
+v ak
+y okt
+ s uç
+av a 
+gör üyor
+oyn ay
+diğ inde 
+insan ların 
+oc uk
+c ak
+böl geler
+19 8
+kend ini 
+Ül k
+'  de
+M es
+ıyor du.
+
+düğ ünü
+e : 
+ t an
+kal k
+devam  eden 
+katıl ım
+trans fer 
+ile  birlikte 
+ort ak
+iyi  bir 
+F il
+G ür
+M u
+b lem
+p as
+bağ ım
+ilmiş ti.
+
+imza  at
+M HP
+d ost
+n ot
+n ef
+büy ük
+hız lı 
+eğ it
+bel li 
+yaz ılı 
+tığ ımız
+kit ap
+kayded ildi.
+
+ın dan, 
+ baş kan
+ düz en
+ dev am 
+3 2
+k ın 
+p p
+Ö mer 
+ul l
+kay n
+ol up
+em ur
+iz ley
+iş ç
+baş ta 
+gün ü
+on ların 
+ah at
+baş lan
+tan ım
+polis  
+B ayr
+İ Z
+Ş en
+ve  bu 
+Türkiye 'deki 
+hiz met 
+mo del
+' lik 
+S el
+ip tal
+vurgul ayan 
+elediye  Başkanı 
+n es
+dah il
+BM M
+Cumhuriyet Baş savc
+ G ün
+hazır lan
+çev ir
+il an 
+ak ar
+ kay b
+" .
+
+k , 
+k uş
+ak tör
+ol un
+var dı.
+
+P h
+iler le 
+leri  ile 
+- S on D
+rej im
+- Son D akika 
+ h ap
+rak am
+dav a 
+me di.
+
+siyas et
+an ne 
+ün lü 
+ b in
+iç i 
+ne  kadar
+R e
+yardım cı 
+tah min 
+g ur
+h ik
+t am
+iy at 
+bomb a 
+Eur o
+sun uz.
+
+muhal if
+- G üncel Haberler
+
+il aç
+in  bir 
+un ma 
+um  
+ m es
+ h er 
+li .
+
+aynı  zamanda 
+O per
+d akik
+ih l
+sür ede 
+şunları  söyle
+ikti dar
+Y ol
+d ört
+İ ran
+olm az
+ ol ay
+biz im
+abilir siniz.
+
+Hav a 
+ Şub at
+ düz ey
+ yok .
+
+e  Müdürlüğ
+ d il
+çok  daha 
+mak  üzere 
+cez a
+Suriy eli 
+at ın 
+tem silc
+düzen len
+ kar ar
+ortaya  koy
+m üs
+açık lan
+İngil iz
+ yüz de 
+performan s
+YP G
+K ültür
+ak la 
+kon ut
+n e
+at ej
+ s öy
+İs v
+H em
+ K on
+belir lendi.
+
+Rus ya'nın 
+ C ez
+PKK 'nın 
+S ah
+a ile 
+t e, 
+Ç ocuk
+Ü st
+el , 
+de  bir 
+düğ ü
+Öte  yandan 
+  U
+F ır
+ b ur
+ B ir
+terör  saldır
+a bir
+h â
+al et 
+alt ın 
+yön etic
+D iğ
+m iktar
+7 5
+o cu
+p etrol
+el iğ
+or ada 
+uz ur
+alt ını 
+görev l
+mücade l
+dum .
+
+un sur
+kul üb
+abil ecek 
+daha  da 
+düzen lem
+Ab d
+)  ve 
+t er 
+İ H
+en diş
+ması  ve 
+hal ine 
+oğlu , "
+I M
+ul muş
+uz man
+iler i, 
+kat ıldı.
+
+edil iyor.
+
+an tren
+etm eye 
+mak , 
+dık tan sonra 
+S ayın 
+am bulans
+yaş adığı 
+karar  ver
+I rak 
+b eş
+f ayd
+Ş im
+an ak
+ k ız
+imiz  
+kul üp
+kr iz
+mev cut
+3 9
+üs ü
+gerek iyor.
+
+p ek
+ti h
+ ol ur
+hat ta 
+meydana  geldi.
+
+Yun an
+amel iyat
+geç tiğimiz
+Ar ab
+  r
+u 
+
+im , 
+iç ine 
+gün cel
+kam u
+olum lu 
+es er
+yal nız
+serbest  bırak
+U N
+b una 
+an lara 
+ p ar
+d os
+ed erek 
+ m ağ
+ülk em
+M ücadele 
+ b ağ
+ S ur
+Bu  ar
+ p olis
+I K
+T em
+y itir
+z eng
+iş e 
+ınız ı 
+mam ış
+l in 
+ d ur
+yan i 
+açıklam ada 
+liğ e 
+ekip leri, 
+S or
+t ım.
+
+A pp
+K at
+Haber 
+
+ünc ü
+L i
+c ılar
+k uvvet
+as ın 
+irk en 
+karşı  karş
+bir im
+ecek tir.
+
+erek , "
+tamam lan
+çalışmalar ı 
+Hüs eyin 
+( D
+M al
+ş em
+iyet i 
+tak ip 
+t ül
+der ece 
+- Son Dakika  Haber
+
+Ü ç
+il k
+ milyon  lir
+müdahal e 
+S adece 
+ k ır
+ g ir
+malar ın 
+öyle  bir 
+kr edi 
+hey ec
+ Mil let
+B ay
+Ö ğr
+an al
+ g etir
+kullan ılan 
+D r.
+M o
+y atır
+ladı k
+güvenlik  güç
+ol sun
+yer leş
+adde si 
+böyle  bir 
+huk uk
+dik ten sonra 
+tan ıt
+gözaltına alın dı.
+
+P r
+b oğ
+b iz 
+p u
+kon u 
+yön etm
+kullan dığı 
+ E konomi 
+Sağ lık 
+d okun
+ün cü 
+dım .
+
+oğlu 'n
+3 3
+de .
+
+ger ek 
+ T r
+Kar ş
+for ma 
+i "
+s ub
+al ç
+ak lan
+ıs ır
+lam ent
+ gör ün
+ hay at
+l â
+s enin 
+lı , 
+dık larını 
+bar ış
+Ankar a'da 
+Prof. D r.
+b itir
+İ yi 
+olm adığı 
+ler  için 
+H er
+i 'de 
+ü ler
+ y er 
+leri  de 
+ K urul
+H ep
+N ew
+V ak
+ab ı 
+mes el
+ ş üph
+tep k
+tak ım 
+bab ası 
+ diye  konuştu.
+
+m it
+Yap ılan 
+or du
+ol sa 
+ d av
+abil iyor.
+
+yıl lık 
+mut lu 
+Genel kurmay
+m uştu.
+
+oyn am
+ olm ak 
+ort adan 
+ f ark
+dığ ında 
+larımız ın 
+S ok
+g ayr
+baş kent
+lu , 
+mış , 
+yer e 
+hastal ık
+edecek .
+
+u cu
+ad ını 
+ Ağ ustos
+B üyük 
+ar , 
+i  de 
+an lığı 
+"  şeklinde 
+yürüt ülen 
+kurt ul
+S aray
+h ak 
+l ac
+t on
+en en 
+ h edef
+laş ık 
+Şeh it
+ pro j
+ey t
+ g üvenlik 
+gör ülen 
+ger il
+vur uş
+oyn an
+gerçekleştir ilen 
+  el
+B al
+s oğ
+gel diği 
+dir ektör
+lığ ına 
+ kon usunda 
+H iç
+b oyunca 
+ak tan 
+ b iz
+" ifade lerini kullandı.
+
+d üm
+d iler.
+
+bil gil
+ S an
+ant aj
+açıl ış
+tör en
+zat en 
+ Dünya  Haberleri
+
+in en 
+ m u
+gel iyor.
+
+ede y
+Gün dem
+  Z
+b üm
+ik at
+alın dı.
+
+6 5
+D ar
+İ Ş
+anlat tı.
+
+ pu an 
+b an
+d o
+m ark
+u dan 
+sak at
+Eğ er 
+ har ek
+T an
+en ek
+yer de 
+hak im
+  Öz
+ın c
+ yıl da 
+kor un
+öldür ül
+ull ahç
+3 8
+B ağ
+K or
+a i 
+yür üy
+T akım
+g em
+ış ık
+ K ul
+R om
+m ah
+ar ama 
+de pr
+or anı 
+ k aç
+etm esi 
+lul uk 
+B ank
+ m o
+ade t 
+ler  de 
+tür lü 
+B ul
+C E
+I L
+m adı
+ak , "
+oy a 
+ sonr ası 
+B ab
+ın a, 
+em ekli 
+ı larını 
+k  ve 
+alan ı 
+tık ları 
+tel eviz
+meye  çalış
+ben im
+M .
+T ek
+T BMM
+ok u
+i ce 
+k op
+ş im
+ine  göre 
+son uc
+ABD 'de 
+det ay
+mağ dur
+karş ısında 
+liğ inde 
+Har ek
+ met re 
+öne  sür
+un da, 
+ön ümüzdeki 
+iler de 
+sın av
+K ılıçdar
+du k.
+
+ B üyük
+ K al
+ yap tı.
+
+hay al
+ Ekonomi  Haberleri
+
+  Örgüt
+D ün 
+K uzey
+s eri 
+kar a 
+iver t
+lid eri 
+müş ter
+on ları 
+ t es
+çıkar ıl
+okr atik 
+B ütün 
+P art
+en ç
+iş ti.
+
+ağ an
+ev r
+erk ek 
+daha  çok 
+ gün ü 
+kö tü 
+u'n a 
+B azı 
+son a er
+olm am
+alan dır
+rak ip
+T eknik 
+k um
+ç eyr
+ar z
+ay i 
+en  az 
+acak larını 
+acak  olan 
+inde y
+İk inci 
+U L
+az alt
+eler le 
+ mil let
+traf ik 
+F ilm
+T ak
+r y
+s ine 
+y o
+ak ter
+iy er
+rek or
+ terör ist
+azir an 
+  alan 
+K oc
+a -
+b ahs
+f en
+s üz
+ k am
+kat kı 
+L ER
+b i 
+m adığını 
+ m emur
+diğ i, 
+alan ında 
+b eni 
+i -
+it ap
+iç in, 
+ede l
+ot el
+göster di.
+
+olur .
+
+zar ar 
+ma aş
+başkan lık 
+bor ç
+AK P
+K ıs
+m ekt
+s ak 
+y ası 
+iş k
+ev  sah
+uştur .
+
+gide c
+  Er
+N az
+T V
+a  ile 
+len me 
+doğ um
+yer leştir
+ sır alarında 
+5 5
+F ak
+im ha 
+mes inde 
+gen eral
+üf us
+siy ah
+E D
+as h
+uyla  ilgili 
+istih bar
+ k ıs
+haf if
+ann esi 
+ terör  örgüt
+plas man
+m is
+da  bu 
+un c
+sev iy
+masının  ardından 
+ kap sam
+telef on 
+  ek
+3 7
+ek iz
+ed av
+sür üc
+pat lam
+elik le 
+" diy erek 
+s  
+ g al
+ p ol
+kam pan
+git ti.
+
+r u 
+ s av
+ yaş an
+ kar deş
+ullahç ı 
+G üvenlik 
+m ur
+Ç elik
+Ç avuş
+ol uyor.
+
+ b en
+etk isi 
+Haber leri - Zaman Gazetesi
+
+kaç ır
+ kad ar
+k up
+t ılı 
+lar dır
+Y az
+an  S
+ yaş ında 
+mak am
+ ay ında 
+kaldır ıl
+dı n 
+ok um
+" de n
+pro blem
+P ort
+,  D
+ k urum
+ab rik
+üz el
+kam p
+Ad an
+' si 
+S ilah
+v ide
+Ç ocu
+ac ılık 
+gör en 
+C er
+M et
+r et 
+i  çek
+ak et
+ak lı 
+iy le, 
+mem n
+men s
+iste diği 
+aban c
+beklen t
+' taki 
+O L
+T ıp
+z er
+ak ç
+ s atış
+av uz
+kiş ilerin 
+  - Sözcü Gazetesi
+
+  oran
+i e 
+u da 
+Ş ır
+er tel
+lar ındaki 
+lığ a 
+şeh r
+hem  
+A V
+C addes
+p eş
+Ç ağ
+as lında 
+ k ent
+çık art
+ilmesi  için 
+  adet
+F in
+T wit
+Ş ampiyon
+dev let 
+san atç
+ f a
+özel lik
+yur t 
+p il
+v en 
+ k i, 
+ ay  
+Em niyet Müdürlüğ
+ihrac at
+ş irk
+em in 
+ab et
+man ız
+gün ey
+dağ ıt
+el i
+el t
+ad res
+ez il
+mas ından 
+belir len
+ G üvenlik 
+miş tir.
+
+hastan eye 
+ivar ında 
+Y üz
+d in 
+g in 
+p az
+Ç in
+ b it
+ t ur
+lık la 
+tık larını 
+adam ı 
+eks ik
+edi p
+4 4
+b iç
+c üsü 
+s ap
+al ay
+ev de 
+mut laka 
+Ağ ır
+Ob am
+ Avrup a 
+altını  çiz
+t or
+at tığı 
+uz ak 
+gün lük 
+yıl larda 
+ileri  sür
+olduk larını 
+kayde den 
+aşır ı 
+PD Y
+an ız
+as ar
+bir  kez
+ları  için 
+alt yap
+yapılan  açıklamada, 
+muhal ef
+E y
+Y ön
+d öv
+ol abilir.
+
+ b oyunca 
+Kay ser
+mült ec
+U kr
+l om
+n ö
+vaz geç
+' teki 
+F .
+s in 
+ort alama 
+ulaş tı.
+
+şik ayet
+S ür
+iler inden 
+gü c
+düş üş
+sah n
+tekn oloj
+ihtiy ac
+4 7
+d ök
+aç ılan 
+ez z
+kon um
+ kon uş
+dün yada 
+b undan 
+ür r
+"  olarak 
+biz i 
+meydana  gelen 
+i Ph
+k i
+ter k 
+19 7
+ted bir
+ yar alan
+zir v
+" ı 
+un la 
+Ar ap
+ren k
+ağan üst
+b eğ
+c em
+t uğ
+ı larının 
+ek er
+ab l
+ b er
+tı , 
+ter n
+oyn anan 
+ı'n dan 
+izin  ver
+Ukr ayn
+Ar tık 
+Ay d
+Atatür k 
+J ap
+n amaz
+İ m
+ol sun 
+on ik 
+uç ağ
+eb o
+gir di.
+
+Açık lam
+M ü
+c ins
+ol uyor
+ k ayn
+ad oğ
+ıs ız
+kat ılan 
+İstanbul 'a 
+eğit im 
+T el
+V er
+i o
+ y etkil
+ d arbe girişim
+ ve  "
+ yap tığı 
+vurgul adı.
+
+kırmız ı 
+tehdi t
+4 6
+G ir
+e ir
+h uzur
+eceğ iz
+nasıl  
+düny aya 
+K ah
+S ez
+e  kadar
+ay ıf
+eb b
+ığ ın 
+ser t
+maç ta 
+harek ete 
+elik op
+Pro j
+O K
+am ayan 
+em ekl
+ k ö
+sun ul
+Yar g
+Ort adoğ
+Su udi 
+V an 
+e diğini 
+y aya 
+baş kanı 
+top u 
+devam  etti
+yet er
+ milyar  
+t en
+al e 
+ul maz
+gerek en 
+ gör üş
+ sor uştur
+adr id
+ s en
+av antaj
+acak , 
+olduğu  gibi 
+eceğ ine 
+maç ında 
+FETÖ /
+trans fer
+" diy en 
+karşı karş ıya 
+A C
+G üm
+ol acak 
+r um
+ın day
+iz met
+iş letm
+belirt ilen 
+As k
+" s uç
+sevk  edildi.
+
+k el
+iş in 
+Cum a 
+fa iz
+dile getir en 
+inş a 
+ Nis an 
+v es
+gün lerde 
+yön et
+mes iyle 
+millet vekil
+organ iz
+ir c
+im in 
+it e 
+Bu  nedenle 
+yol u 
+maç ı 
+ sür ec
+kaldır ıldı.
+
+ maç ında 
+K il
+i '
+on ay
+ül ey
+çalış tır
+Em re 
+tec r
+ sez on
+önetim Kurulu  Başkanı 
+gerekç esiyle 
+g un
+ y ay
+ A B
+leş me 
+Bir liği 
+durum unda 
+ıc ak
+bölg e 
+ Temmuz  
+gal ibiyet
+pek  çok 
+ kilomet re 
+-  Dünya Haberleri
+
+e or
+il diğini 
+ne  kadar 
+ son uç
+takım ın 
+ değil .
+
+Tab ii 
+r est
+ı dır
+ş öyle
+ b üyük 
+Türkiye 'den 
+sor un 
+ığ a 
+Biz im
+yer al ıyor.
+
+Ön c
+yerine  getir
+4 8
+k ey
+ır sız
+ h aber
+mış  
+erb ay
+f iz
+t on 
+Ü r
+bir inci 
+ağ ıt
+ım  ve 
+ının  ardından 
+dış ar
+Bey az
+sas por
+C ar
+H erkes
+in , "
+ek  ve 
+için  de 
+om uz
+maya  devam 
+day an
+Yıldırım , 
+Daha  sonra 
+G ö
+s p
+ac a 
+biz im 
+hayata  geçir
+- beyaz
+d ini 
+olm uş
+Er z
+B öylece 
+O B
+k ıl
+ç ı 
+bir ey
+ac ebo
+yap ar
+ver gi 
+us unu 
+var dır.
+
+gr ub
+hay ır
+lık , 
+yay ın 
+def a 
+0 1
+m at
+İ S
+ş if
+ s on 
+ p lak
+uç uş
+kabul  etm
+mens up
+d ak
+m ec
+m iyor.
+
+karşıl ık 
+part i 
+toplantı s
+person el
+M üz
+N ec
+S uç
+et ik 
+or din
+ıy la, 
+inin  ardından 
+ver iş
+abil eceği 
+sor gul
+miş .
+
+İl çe 
+siz lik 
+adık larını 
+dile getir di.
+
+konuşt u
+B elç
+ü 'nün 
+,  P
+ım ın 
+uyor uz.
+
+4 00
+M ah
+h im
+s e, 
+üzer indeki 
+Bir leş
+Türkiye  Kup
+FETÖ '
+ kur uş
+  J
+0 2
+K urul
+s kor
+ay , 
+ön de 
+ade ta 
+sat ın 
+ yıl  önce 
+Mahall esi 
+cum hur
+Vol kan 
+S avaş
+t in 
+er .
+
+ y et
+ b ilg
+ m ev
+üy esi 
+id in 
+diğ ini, 
+larımız ı 
+Has an 
+anlam da 
+Gündem  Haberleri - Zaman Gazetesi
+
+e ur
+l up
+en  yüksek 
+ür etic
+us una 
+ S üper Lig
+os kov
+15 0
+ın ın, 
+as ım 
+ad li 
+lem eye 
+taş ın
+tutuk landı.
+
+Muh am
+yarar lan
+I ş
+ey alet
+ist eyen 
+geç iş
+En erj
+çerçev esinde 
+M usul
+O S
+a di
+k i, 
+r ag
+il ecek.
+
+ak l
+yar ı 
+ T ur
+mes i, 
+ya 'dan 
+şu  anda 
+internet  sit
+İr an 
+A Z
+K urum
+d er 
+s er 
+ab et 
+ g ec
+ıyor 
+
+Bu  durum
+erk ek
+hazır lanan 
+ n okt
+Terör  Örgüt
+Hastan esi'ne 
+:  S
+F eder
+an lı 
+is mi 
+um ut
+ h iç
+top rak
+say esinde 
+Yıl dız
+Son ra 
+Dern eği 
+T aş
+s ul
+en  fazla 
+iyor lar
+abil eceğini 
+olay  yerine 
+sonr aki 
+kend ilerine 
+bet te 
+dikkat i çek
+Mur at
+FETÖ/ PDY
+M aç
+O kul
+m adde
+ s iyas
+ip , 
+yüz den 
+düş en 
+mak tan 
+  veya 
+D on
+d ı ve 
+iç indeki 
+le de 
+acağ ına 
+kıs m
+bin lerce 
+K er
+o tiv
+ç ağır
+ y ür
+ed ilmesi 
+us uf
+Er k
+maya  başladı.
+
+kö pr
+ yar dım
+Alman ya 
+S en
+iş birliği 
+ b üy
+var , 
+lay arak 
+ödem e 
+E konomi 
+S aldır
+ olm ası 
+güç lendir
+Es ki 
+eks iyon
+bilin en 
+İd di
+K urt
+e ;
+al  M
+ıl dığını 
+em a 
+tem sil
+ ar kadaş
+ kad ar 
+ top lum
+Ç ar
+iyor 
+
+hal de 
+olduğunu  söyledi.
+
+destek  ver
+c ı, 
+e da 
+Ü N
+son una 
+eğ e 
+ov a 
+Gün eş
+ karş ısında 
+n ik
+s aç
+ç al
+ih an
+ yap ımı 
+mesi  için 
+ı"n ın 
+serv is
+Bu ar ada 
+  ülk
+C an 
+G .
+l ok
+ol acağını 
+ok uy
+kat k
+kes in
+ifade  edildi.
+
+Av ust
+Gök han 
+str atej
+A A
+D olayısıyla 
+K art
+S abah
+k eş
+p sik
+ay ak
+ah tar
+önc esinde 
+dönem inde 
+vatandaş ların 
+dol dur
+Vat andaş
+aş ağ
+im ar
+proj e 
+inş aat
+söyl üyor
+v al
+ağ ına 
+ K omut
+edil diği 
+edec ek 
+futbol cu 
+yer al dığı 
+gid erek 
+Par is
+Frans ız
+  '
+ş er
+em eyen 
+ını  yitir
+uk lu 
+taş ım
+sok ak
+tiv al
+taşıy an 
+D üz
+R es
+m adığ
+ak adem
+ik let
+alar la 
+tem as
+örgüt ün 
+kes int
+B ek
+ı : 
+at , 
+ y em
+it al
+it am
+kan al
+dış ına 
+Kar aden
+dav et 
+sistem i 
+yaralan dı.
+
+Osman lı
+Yüks ek 
+bağım sız
+B oz
+d aş
+ar ti
+es in
+im  ve 
+ey h
+ör en
+liğ ine 
+yen il
+Fenerbahç e'nin 
+ Em niyet Müdürlüğ
+, 
+
+:  A
+E C
+z ayıf
+imiz de 
+ f utbol
+liğ in 
+yas al
+çocuk ların 
+akıl lı 
+A ç
+Y ine 
+g ın
+ö de
+ad liy
+alar dan 
+iğ e 
+değil dir.
+
+lid ir.
+
+Cumhuriyet Başsavc ılığ
+D I
+F acebo
+M el
+t ı ve 
+al büm
+ay kır
+et , 
+ek te 
+ün lüğ
+kad ro
+yön ünde 
+mer ak 
+katıl dığı 
+Beşiktaş 'ın 
+Az erbay
+dip lom
+Y eşil
+ın tı
+el i, 
+ m i?
+
+ıs ı, 
+ T oto
+sor u 
+tak dir
+ ol acak.
+
+şöyle  devam etti
+sar ı-
+ullahçı  Terör Örgüt
+b u
+iy di.
+
+ değ iş
+Dün yanın 
+' ın, 
+-  Ekonomi Haberleri
+
+ın dır
+ün lü
+ıyor  ve 
+yoğ un
+yem ek 
+lac ivert
+bir kez  daha 
+0 3
+H af
+d ör
+et bol
+ik , 
+ış tır
+ g üven
+gel diğini 
+lığ ının 
+sen e 
+duk ları 
+cevap  ver
+ has tal
+M üdürü 
+t a
+Ü s
+ş u
+iyor  ve 
+ K urum
+tur ist
+tur izm
+B ugün
+L on
+u du
+iy il
+terör le 
+Ot om
+h us
+i ir
+s lan
+â r
+ak şehir
+at tı.
+
+oy una 
+lık ları 
+ yer inde 
+Cumhurbaşkan lığı 
+ k or
+ s un
+olm adığ
+Bur saspor
+On un 
+Şu  anda 
+B atı 
+F ar
+r om
+de plasman
+em ir
+ağ ında 
+ t al
+kay ıp
+ p er
+ullah  Gül
+yaptık ları 
+U ğ
+k us
+v ir
+ay lık 
+tı lar.
+
+inin  de 
+bil ir
+ h azır
+ K asım
+ecek lerini 
+kullan ıc
+rek ar
+özgür lüğ
+Suudi  Arab
+  öl
+b ıç
+o da 
+Ç ak
+ın ar
+ek ret
+en  az
+ b ak
+kurul an 
+ihtiy acı 
+şem be 
+edey se 
+ plak alı 
+B elediy
+L e
+ı  da 
+ K or
+ T op
+ett in 
+bölg eye 
+me diği 
+Lig i'nde 
+poz isyon
+4 1
+art tır
+diğ ine 
+' da, 
+T SK
+p en
+on lara 
+alar ından 
+ken dim
+kap atıl
+her  zaman 
+huk uk 
+ pro gram
+ ifade lerini kullandı.
+
+M a
+in a 
+lar ını, 
+ s adece 
+ s ilah
+ m ak
+ t ekn
+Öz gür
+iyat ro
+iddi anam
+şüph eli 
+belirter ek, 
+sosyal med ya 
+  öğrenc
+. K
+D air
+S ın
+n eler
+y alı 
+ak tif
+it y
+lem ek 
+ne  yap
+dığ ı, 
+etkil en
+kaydet ti
+duyur du.
+
+Sam sun
+mült eci 
+.  ve 
+P eki 
+S Y
+Y er
+s üt
+ş am 
+er v
+al es
+tat il
+Uz un 
+indir im
+Büyük şehir
+koş ul
+  çek
+A  
+P at
+R amaz
+T er
+itibar ıyla 
+dah i 
+Bin ali 
+Oper asyon
+' inci 
+0 8
+A c
+l int
+v ade
+el inde 
+Suriye 'deki 
+özel  bir 
+prot est
+" de 
+D eğ
+E B
+h oc
+s en 
+s ıcak
+ç ap
+ı d
+an 'a 
+im kan
+tut ul
+anlam ına 
+savun ma 
+ticar i 
+4 9
+ı  ile 
+gör dük
+eğ len
+belir lenen 
+esi .
+
+alı  ve 
+son  derece 
+sın ıf
+dan ış
+olur sa 
+Amerik an 
+forma  giy
+G o
+g u 
+er 'in 
+at a 
+ g enel
+diğ iniz
+yol cul
+Öz el 
+ kon trol
+operasyon da 
+iv as
+ telef on
+F ik
+m ede 
+Ü R
+fa iye 
+teş v
+devlet in 
+Doğ u 
+Ül kem
+Kom isyon
+tern atif
+iy an
+yıl da 
+19 6
+yer al dı.
+
+AT O
+ muh abir
+l ek 
+ t er
+malar ını 
+siz in 
+Os man 
+Bar cel
+esi'n deki 
+Şub e Müdürlüğ
+New  Y
+B ül
+H an
+K ı
+S elç
+g in
+m acı 
+Ö y
+uy r
+ B ur
+lik , 
+Osman lı 
+tehdi t 
+Yak laşık 
+D i
+el em
+bak ım
+lığ ın 
+ilç esi 
+itibar iyle 
+başlat tı.
+
+P ers
+c ılık 
+er ken, 
+ t üm
+ S por
+açık landı.
+
+yaş ay
+tan ın 
+top rağ
+ ay lık 
+fa iz 
+anlı ur
+Araştır ma 
+T C
+l iyor.
+
+ü 'ne 
+lar ı
+et ik
+ek im
+ y as
+lan ıyor.
+
+ g önder
+bel i 
+var sa 
+bulun duğunu 
+mek te 
+ maç ta 
+Çünk ü
+sı cak 
+Kız ıl
+C iz
+y iy
+i  için 
+baş kan 
+olm aya 
+ kiş ilik 
+saldır ıda 
+iste diğini 
+ihr aç
+herkes in 
+başkent i 
+  operasyon
+eler inden 
+kal it
+Türkiye  ile 
+ sır asında 
+Davut oğlu, 
+Li gi 
+4 2
+e  kadar 
+an la 
+le  ilgili 
+20 2
+siz e 
+Biz im 
+İç işleri 
+.  (
+8 5
+M en
+m e, 
+et raf
+sür pr
+, " Bu 
+eb ek
+Türkiye  Cumhuriyet
+od af
+ber aber 
+lerimiz i 
+cenaz e 
+A ile 
+t a, 
+t eb
+ek r
+ y atırım
+ k ol
+yan ına 
+mak  ve 
+açıklam alarda 
+Fenerbahç e, 
+Ör n
+Daha  önce 
+Genel M üdürlüğ
+" Bu 
+d ok
+l isi 
+p ot
+Ü y
+al el 
+bel ki 
+ilg inç
+başlat ılan 
+Hat ta 
+y avaş
+ay da 
+aya  göre, 
+göz yaş
+yet erli 
+rek lam
+Br ezil
+Fet h
+Sar ı-
+Dir ektörü 
+O d
+Y usuf
+es  
+di st
+ b omb
+af et
+uç ak 
+Ar d
+mak ta 
+tük etic
+halk ın 
+ Mart  
+anlay ış
+Oğ uz
+ Kul üb
+ed in
+olar ak, 
+çalış an
+İl k
+kes im
+dığ ımız
+genel inde 
+şunları  kaydetti
+6 00
+O k
+ek ibi 
+bir inin 
+it hal
+kar  yağ
+ok s
+len iyor.
+
+etm ey
+tesp it 
+gar i 
+giz li 
+S il
+p op
+de  "
+ b un
+of ör
+nö bet
+K ol
+S üper Lig
+b on
+Ö dül
+oğ az
+çok  önem
+san at
+düş tü.
+
+est er 
+ilet işim
+M us
+T ah
+z af
+ç ünk
+ey dan
+ b or
+etm e 
+tes is
+Hak an 
+talim at
+güncel lem
+ olmak  üzere 
+iPh one 
+c üm
+Ş anlıur
+ar an
+es as
+lı  terörist
+eler i, 
+ecek , 
+ f ilm
+ask er 
+adık ları 
+Geç tiğimiz
+yayın lanan 
+patlay ıcı 
+r ik 
+t ez
+u 'da 
+il ecek 
+at ur
+'y u 
+yer ini 
+Öz tür
+düzen lediği 
+kr itik 
+Ad alet 
+doğr udan 
+yaşam ını yitir
+süreç te 
+ mens up
+E din
+T ic
+W ash
+i  yap
+lar ın, 
+ıl ım
+bel g
+Ar en
+oyn adığı 
+Tar ih
+mahkem e 
+Sav unma 
+Fır at
+Silah lı 
+4 3
+g isi 
+Ş irket
+ın da.
+
+ür ün 
+du var
+abil ecek.
+
+ D E
+olduğu  için 
+Es kiş
+dikkat çek en 
+Antal ya 
+sıkın tı
+ gerçek leştir
+yu var
+F akat
+P ut
+n üfus
+ k oy
+ası  ve 
+ları  arasında 
+uk ur
+iniz e 
+yüks ek
+kısa  sürede 
+ sın ır
+Wash ing
+' ü 
+h ayr
+v iz
+â y
+is ayar
+bek lenen 
+insan i 
+ulaş tır
+hız la 
+ karş ılaş
+uğr aş
+Oy un
+  ettiği 
+R T
+g önül
+em esi 
+ev len
+ g ib
+bak an 
+sağ lıklı 
+miş  
+şöyle  konuştu
+lul uğ
+teknik  direktör
+ Cez a Mahkem
+anak kal
+A m
+m iyor
+s e
+Ş üph
+ise  "
+gerçek ten 
+kor uy
+çıkar dı.
+
+kazan dır
+geliş meler
+Terör le 
+Terör  örgüt
+istik rar
+:  K
+N us
+Y an
+iy ah
+ol abilir
+ k amp
+oy unu 
+kap alı 
+ ş art
+lantı s
+isti k 
+hey et
+örn ek 
+anayas a 
+ Toto  Süper Lig
+P S
+z ih
+Ç et
+ler indeki 
+ler ince 
+tı p
+eğ i, 
+Er dem
+hal k 
+gen in 
+has sas
+görev li 
+oyunc usu 
+ Bak anı 
+ hap is 
+M ard
+h üc
+a  kadar
+lar ınız
+ün , 
+ağ a çık
+ ed iyor.
+
+ bin  TL
+hen dis
+AK P arti
+adliy eye 
+ir se 
+ün y
+ab ul
+ac il
+oğ l
+ P er
+sınız .
+
+Uğ ur
+ales ef
+D il
+O '
+n umar
+s iyon
+lar daki 
+ken disi 
+ler  arasında 
+ıc a, 
+Es ad
+0 7
+H A
+V odaf
+r ab
+t e
+ak şam 
+gün eş
+lat form
+der n
+tek rar 
+dol andır
+anlaş ma 
+yayın lan
+yarg ılan
+çoğ u 
+ gr up
+ihtim al
+ mo del
+elikop ter
+K ayn
+d alı 
+çok  iyi 
+acak  ve 
+ E kim 
+ Baş kan 
+ag az
+demokras i 
+  l
+:  M
+K aç
+m .
+
+at ar
+ık , 
+çalış ması 
+doğr ult
+Alman ya'da 
+yağ ış
+sini  kullandı.
+
+U M
+a : 
+r . 
+at an 
+alış veriş
+yol a 
+bağ ır
+kes in 
+düşün c
+inde .
+
+Merkez  Bank
+ mes aj
+D İ
+l or
+m eler 
+n ın 
+ün üz
+geç ici 
+abil eceğ
+Avrup a'da 
+his ar
+ dev let
+Dışişleri  Bakanı 
+A il
+T ekn
+b ür
+e '
+al adı.
+
+ek ten 
+ p lan
+yer inde 
+Al ınan 
+ülk emiz
+sev er
+rak ib
+gözaltına alın an 
+ceza  sah
+i'n den 
+Söz  konusu 
+ ber aber
+K o
+T I
+h o
+l ılık
+al ıyor.
+
+du 
+
+yap tığ
+ t ük
+bu  yıl
+eler den 
+kon uk 
+An d
+uştur ucu 
+ say ısı 
+adım .
+
+sey r
+ bin lir a 
+2 50
+k e 
+v et 
+ir , 
+ağ lık 
+um u 
+acak 
+
+ılar , 
+Suriye 'nin 
+ebilir siniz.
+
+alim anı 
+Hay at
+ belir t
+h oş
+or d
+ol du 
+bir ik
+ m üz
+götür üldü.
+
+Ard ından 
+" da 
+B undan 
+S ır
+g u
+g ah
+in li 
+al el
+es inde, 
+esi  ile 
+olduğ unu, 
+ark asında 
+hal a 
+ya 'daki 
+ser gil
+mek , 
+alı .
+
+sığın mac
+teşekkür  ed
+B an
+h ed
+un ca 
+baş l
+gel en
+olduğ umuz
+An n
+sah aya 
+insan ın 
+Başbak anı 
+terör örgüt ü
+müs abak
+  adet 
+5 9
+e 'yi 
+al ma 
+daha  iyi 
+ı'n ı 
+geçen  yıl
+ ken di 
+bir araya  gel
+Ç in 
+ b öl
+dan  sonra 
+kap asit
+gr af
+ milyon  TL
+Dün dar
+ Temmuz 'da 
+incel eme 
+şam ba 
+Bun ların 
+dikkat çek ti.
+
+Ben im
+Ayd ın
+h ac
+y la 
+ş aşır
+der ec
+ebil ecek 
+uygul ama 
+ gör ev
+Avrup a'nın 
+Ad ana 
+tah liye 
+ geç ir
+fer ans
+S oy
+c om
+ü 'n
+ş e 
+es k
+ağ aç
+ B ey
+olan  bir 
+dev am
+tem el 
+üst  düzey
+kabul  edil
+Fet ullahçı Terör Örgüt
+düşünüyor um.
+
+vüc ut
+İbrah im
+Edin ilen 
+l y
+m ıyor
+r az
+ti , 
+ist er
+Bu  da 
+yapıl dığı 
+yaz ar
+Kon yaspor
+ sır ada 
+çocuğ un 
+Diğ er 
+  as
+6 6
+H Y
+J oh
+S İ
+ı '
+ol an
+alar , 
+değ işim
+ınız .
+
+ettik lerini 
+Millet vekili 
+  artış
+b ahç
+r al
+Ç ev
+im kâ
+ger ide 
+ise  yüzde 
+doğ u 
+arac ın 
+dikkat e 
+fes yon
+Yüks ek
+Vak f
+d alg
+z a 
+an ma 
+ s ok
+ b ile 
+taş ı
+liğ inin 
+kim se 
+futbol c
+amaz .
+
+bun ların 
+  W
+ T V
+ası .
+
+Bunun  üzerine 
+ değer lendir
+zarar  ver
+P azar
+T ek 
+ş ub
+at ılan 
+ler  yap
+ler in, 
+mış  ve 
+sor unu 
+tür lü
+nokt ada 
+ettik .
+
+' ,
+S ey
+i 'ye 
+r ast
+at en 
+eler , 
+olm asına 
+maç ın 
+rah met
+geri  dön
+ettik leri 
+büyüm e 
+İbrah im 
+;  "
+N ATO
+o u
+q u
+is inden 
+ul ması 
+ev in 
+ t ek
+olm asını 
+gerek ir.
+
+gr am 
+acak  bir 
+İn san 
+Or du
+larımız a 
+ maç ı 
+gönder ildi.
+
+sorum lu 
+esn af
+şah ıs
+ seç im
+zorunda  kal
+üley man 
+Eskiş ehir
+ir ade
+aya  göre 
+kan ser
+ A d
+yak ından 
+yas a 
+ov ic
+ yön etic
+ılığ ıyla 
+dönüş tür
+çocuğ u 
+Kad ın
+beled iye 
+Port ekiz
+  şeklinde 
+s eyi 
+Ç anakkal
+lar dı.
+
+am et
+us unun 
+ h es
+ladı ğ
+yer i 
+ milyon  Euro
+Cumhurbaşkanı  Erdoğan
+itir af
+bomb alı 
+müz ak
+ hem  de 
+sonuc unda 
+G al
+T E
+a  gel
+as ı'nda 
+'n in, 
+baş k
+lığ ında 
+dığ ını, 
+me diğini 
+kö tü
+lerimiz in 
+sahip  çık
+ Genel  Başkanı 
+Sal ih
+  duy
+O M
+y en 
+İ B
+is im 
+ır , 
+ b unu 
+ b ank
+om p
+pol ise 
+ Y ar
+bağ ış
+millet in 
+olduk ları 
+' in, 
+5 3
+R i
+m i?
+
+ar az
+ük le
+mem lek
+.  haft
+p ort
+ h av
+sür üyor.
+
+sağ layan 
+Bur s
+Galatasaray 'ın 
+ciddi  bir 
+boy ut
+ üy esi 
+İnş allah
+6 7
+G K
+m otor
+ıy dı.
+
+bu  durum
+İstanbul 'un 
+hastan ede 
+mar uz
+Hav aliman
+ fiyat ı 
+ pol itik
+5 7
+k ü 
+m obil
+p o
+ro b
+yer li 
+uğ ur
+dığ ına 
+Br üksel
+ner edeyse 
+toprağ a 
+S em
+t ef
+olduğ unun 
+ot os
+mes af
+olduğunu  belirten 
+düğ ünü 
+hep  
+adık öy
+Mur at 
+'  d
+1 20
+S ivas
+m or
+p iş
+t im.
+
+al ternatif
+ol ma 
+dı lar.
+
+ist ey
+uy k
+ h ız
+kur al
+, b ugün 
+ durum da.
+
+aykır ı 
+Vodaf one 
+agaz in 
+" K
+S ab
+Y avuz
+m ada, 
+a  gir
+di j
+du , 
+ist an'ın 
+ic h
+Or ta 
+sig ort
+" şeklinde  konuştu.
+
+pil ot
+  içinde 
+- Gündem Haberleri - Zaman Gazetesi
+
+1 12
+M art
+Z or
+v ic
+ü de 
+ağ ın 
+yap ım
+üm e 
+laş ma 
+iyet ini 
+Gr up
+taz min
+,  H
+as ız
+ t eş
+iye de 
+yan g
+öğr etim
+gr e 
+ gün ü
+görül üyor.
+
+önceki  gün 
+ kapsam ında 
+ oran ında 
+AA  muhabir
+5 2
+w e
+el al
+ol ağanüst
+ü  ile 
+tan ış
+göz  
+üç ük
+her  gün 
+insan ları 
+Rus  
+dest eği 
+sin ir
+kend ilerini 
+tutuk lu 
+ram an
+tartış ma 
+çatış malar
+B ah
+ülk eye 
+açıklam alar
+duğ umuz
+ığ ında 
+mücade lede 
+ ar aç
+kend ine 
+biri  olan 
+ülkeler in 
+ris k 
+tespit  edilen 
+mak ist eyen 
+söyl üyor.
+
+ kurul uş
+davran ış
+Ağır  Ceza Mahkem
+cins el 
+- ı 
+.  bölüm
+G S
+l ilik 
+Ç ay
+,  C
+is iyle 
+im p
+ıy ız.
+
+lam ası 
+ih al
+kal eci 
+mış  ol
+tan ı
+der n 
+Kar ab
+kaç ın
+tep e 
+eg or
+bab a 
+müz ik 
+E konom
+S iz
+f ak
+v ah
+a  göre 
+her  türlü 
+ O cak
+etmiş ti.
+
+ortadan  kaldır
+Go og
+m üyor
+r ad
+İ dar
+e  gir
+et iyle 
+bu  konuda 
+len diği 
+tar ak 
+ya  ve 
+ne  zaman 
+ E n
+Kar ak
+mem ur
+Em niyet 
+br ıs
+" te 
+T ut
+ş ahs
+ın d
+em iş
+it er
+aç ıldı.
+
+yap ıyor.
+
+ t edav
+op ag
+ S t
+ot op
+kal dığı 
+miş , 
+iniz .
+
+görül dü.
+
+akt adır.
+
+sub ay
+L is
+l ob
+ed iyoruz.
+
+uz man 
+diğ im
+ p ay
+der in
+dü 
+
+yür ür
+ Ar alık
+tük et
+Hol ding
+ayd ın
+ Mil li 
+" den ildi.
+
+M edi
+P ek
+T al
+T uğ
+a ­
+g am
+r eh
+t ac
+es iz
+ur ken 
+un luğ
+on da 
+iz le
+lan ma 
+ük m
+çık tığı 
+ans iy
+ p iyas
+etmek  için 
+uzak laştır
+  en
+  art
+h t
+z e 
+den eyim
+mal ıdır.
+
+men , 
+alg az
+araştır ma 
+ Gün eş
+beğ en
+  iç
+K asım
+r uf
+el 'in 
+un ç
+ g it
+ h üküm
+cez alandır
+Tur izm
+K ir
+S eç
+l ılık 
+m ıyor.
+
+ız a 
+ S ekret
+lar  arasında 
+yön lendir
+hal en 
+kiş iler 
+olay ın 
+okr at
+ko al
+lig de 
+- i 
+m ahall
+ek ç
+adı k.
+
+ist is
+aya  gel
+ B elediye Başkanı 
+çok  sev
+sin .
+
+suç  
+kız ı 
+kür esel 
+belirter ek 
+gerçekleş ti.
+
+T he 
+Z aten 
+b unları 
+z an
+z anlı
+ m ı?
+
+ t at
+sah te 
+lığ ı, 
+, b iz
+sev gil
+ O L
+faaliyet  göster
+8 1
+J os
+M S
+f abrik
+m ül
+s inin 
+ş ar
+ak a 
+ün .
+
+ s ık
+yap mak 
+ d ar
+ h ep
+uk uk 
+ard ından, 
+yapıl acak.
+
+Ben  de 
+Son  güncellem
+tik .
+
+İlç esi'nde 
+Yön etm
+ AB D
+Son güncellem e: 
+! ..
+
+A j
+U ç
+s , 
+t u.
+
+ın da
+leri  için 
+ M ehmet 
+Al bayr
+uyor um.
+
+od rum
+yardım  
+yet iştir
+can landır
+kabul  
+Tur k
+benz er 
+Man is
+B eş
+M ev
+R ob
+f i
+k omut
+o ur
+ar .
+
+ak lar
+ler ini, 
+is yen
+kar akter
+len in 
+son u 
+ yaş am
+yas ının 
+Eğ er
+yüksel t
+Genç ler
+İsv eç
+5 1
+R ak
+g e
+r ez
+ç ök
+iş te 
+du yar
+iler iyle 
+acağ ım
+mal i 
+ ş irket
+ lir adan 
+ası 
+
+kırmız ılı 
+yokt ur.
+
+başlan g
+)  ile 
+b an 
+b edel
+ H ol
+tak v
+tak ımı 
+ gel ir
+As lında 
+nasıl  bir 
+anlaş ıl
+Tar af
+ dönem inde 
+elen dir
+ fark lı 
+Erz urum
+  ik
+S ig
+Y önetim
+k aş
+v ef
+al ıp
+un d
+ad i 
+ad ayı 
+it faiye 
+ib er
+ A b
+acak tır
+açıklam ası 
+ E kim
+, b ur
+göster en 
+ch ester 
+TÜ R
+N o
+b iy
+de k 
+ M üdürü 
+bak an
+sağ lığı 
+ilgil en
+Ak hisar
+ baş vur
+ Temmuz  darbe girişim
+uzun  süre 
+iddia  edilen 
+ihl al
+depr em
+5 6
+A Ğ
+S iyas
+f ez
+en iz
+im am
+ y üksel
+ağ ız
+inde  bulun
+bul du.
+
+ K ay
+ne  de 
+Ay dın 
+görev  yap
+bölg edeki 
+uzun  sür
+tespit  edildi.
+
+yarg ıl
+değişik lik 
+yürüy üş
+deplasman da 
+0 6
+5 8
+E Y
+M erk
+c i, 
+f on
+l iliğ
+en n
+is por
+alar ı, 
+doğ al
+gibi  bir 
+ABD  
+göster iyor.
+
+tü f
+mez .
+
+öğretm en
+ tan e 
+nef es
+Kil is
+F F
+l iyet
+el l
+es ir
+ y orum
+ k ıy
+ver iyor.
+
+ K ö
+etm ez
+ p r
+tekn oloji 
+teş ebb
+ası 'nın 
+sok ağa çık
+yans ıt
+ürr iyet
+cem aat
+  çok 
+'  diye 
+M İT
+f el
+e  karşı 
+am ir
+olarak  da 
+ef er
+yol cu 
+da ir 
+ taraf tar
+kontrol  
+devr eye 
+birbir ine 
+Fil ist
+Abd ullah
+. com
+7 2
+M ac
+t ına 
+ş ut
+ar ab
+ar acı 
+dı k 
+ b ar
+ g id
+ B eşiktaş
+imiz den 
+düş man
+faz l
+ sah ibi 
+etti 
+
+gi dip
+patlay ıc
+hik ay
+rest or
+7 8
+H K
+U st
+iy ade 
+üz ün
+olm as
+devam  edeceğ
+bilg ileri 
+hep si 
+incel en
+aktar an 
+kav g
+Oy sa 
+Af rik
+ Mayıs  
+Silahlı  Kuvvet
+B ana 
+K urulu 
+M ak
+M ısır
+a x
+c er
+r ok
+ar s
+ek ran
+on , 
+yap arak 
+ger ç
+ort aj
+00 0
+inc e, 
+oyn ayan 
+tes t
+fark ı 
+ers in 
+Uz man 
+mev z
+ref orm
+etkin lik
+şunları söyle di: "
+  alın
+â h
+ek .
+
+bir isi 
+av üz
+belirt iliyor.
+
+altına alın dı.
+
+paş a 
+teşv ik 
+ç at
+ı daki 
+ıl acak.
+
+is s
+uz at
+ t eh
+ma  yas
+ S ul
+tr ib
+ılar ına 
+itir az
+yüksel di.
+
+Bar ış
+öp ortaj
+F. Bahç
+" D
+K adın 
+e 
+
+ü beli 
+ol ayı 
+ının  da 
+ K asım 
+ D ış
+dem okratik 
+den etim
+ebil iyor.
+
+has ta 
+ Y ılmaz
+mal iyet
+ben im 
+lul uk
+ kil o
+ doğ r
+Kr al
+dek si 
+"  ve "
+f atur
+h ücr
+m on
+Ö R
+bir  gün 
+polis , 
+iddi asıyla 
+ say ılı 
+çöz ül
+kurtar ıl
+ tut uk
+sebeb iyle 
+fik ir
+düm .
+
+Yarg ıt
+.  m
+B elediye Başkanı 
+L İ
+S ay
+Y ay
+u var
+al ak
+im en
+lam aya 
+kon usu 
+yön el
+ıt ı 
+Bur ak 
+Bur sa 
+ilç e 
+ref er
+I Z
+K öy
+M oskov
+g esi 
+r elik 
+s oh
+lar ım
+ık lı 
+st and
+gel eceğ
+dir en
+mış  bir 
+düz ey
+ortaya  çıkar
+dol u 
+ümüz de 
+ült esi 
+yatırım c
+merkez i 
+med ya 
+Yunan istan
+Belç ik
+N asıl
+P ak
+Y urt
+al ım.
+
+de ks
+am ası 
+ür .
+
+om ez
+ S ok
+sür eci 
+yer el
+üç üncü 
+ kar arı 
+sonr a, 
+ lir aya 
+ v itam
+Büyük elç
+İsv iç
+Jap on
+5 4
+; 
+
+G ar
+ah h
+ağ ab
+ s ene 
+ini  de 
+baş ladığı 
+eğ iyle 
+olan  ve 
+ayr ıldı.
+
+ H aziran 
+etk in 
+Türkiye  ve 
+İs tih
+söz lerini 
+oş k
+H az
+S istem
+Y A
+d am 
+m alı 
+t ey
+ş ef
+an , "
+is i
+ad al
+ b oz
+st at
+baş ından 
+uy uşturucu 
+kal ab
+inc ir
+ilk  yar
+değer li 
+mem iş
+ekip lerinin 
+bilg ilere 
+Demir taş
+Mahall esi'nde 
+mad de 
+ Belediy espor
+ dön üş
+v el
+y alan
+Ş er
+iy a 
+ün el
+ağ ını 
+ad am 
+ t amam
+kal kış
+hak sız
+kaz a 
+hazır lık
+İngilter e 
+' l
+7 6
+et te 
+on s
+lan dığı 
+ m as
+kiş is
+kim lik 
+ say esinde 
+del il
+fir malar
+abilm ek için 
+Kö pr
+Nus ay
+T T
+o '
+al acak
+bul ut
+olm adan 
+ımız da 
+Cum artesi 
+dış arı 
+ABD 'li 
+Or han 
+ baş ar
+ gün lerde 
+görün tül
+Hollan dalı 
+olumsuz  
+N ih
+T es
+U mut
+b uz
+v as
+ler deki 
+ t ab
+lam ış
+bil im
+lı  ve 
+gü ven 
+ilm esini 
+isi  ve 
+düzen lendi.
+
+ V al
+hayatını kayb etti.
+
+üniversit e 
+hesab ından 
+ Büyük şehir
+  dışı 
+c ilik 
+ç ok
+iyor sunuz
+lam ak 
+ı,  "
+kad r
+ Y ıl
+ask etbol
+ecek  olan 
+insan lar
+şirket in 
+kav uş
+satış a 
+ sın av
+ tem silc
+Şim şek
+T ol
+Y em
+s k
+s ıf
+et le 
+ed iler.
+
+alar ıyla 
+ih b
+ep e 
+ yıl dız
+ans ı 
+say ısının 
+bölg esinde 
+kıs mı 
+Far uk 
+E vet
+c oğraf
+ k öy
+ağ ının 
+ti har
+la  birlikte 
+li am
+yak ıt
+ bin  dolar
+har c
+siz i 
+söz lerine 
+aktar dı.
+
+saat lerinde 
+ Belediy esi 
+yu kar
+televiz yon 
+Açıklam ada, 
+Güm üş
+  zaman
+C ih
+D U
+a ve 
+k ı
+el  M
+da  "
+ed iyorum.
+
+af f
+oldu 
+
+kon us
+kan ın 
+karş ısına 
+mal zem
+Kar ar
+gündem e 
+Antal yaspor
+akşam  saatlerinde 
+sayg ı 
+toplantıs ında 
+' de, 
+7 9
+A st
+C ity
+D K
+S iyah
+o  M
+ar alık
+bir  k
+ m an
+ ve  bu 
+ H as
+ P ro
+rol  
+lerimiz e 
+du  ve 
+idar i 
+aş kın 
+ed ilmiş
+ m ey
+ m us
+mal ı.
+
+görüş me 
+mem esi 
+Hak kar
+paylaş tı.
+
+İzmir 'de 
+öğretm en 
+Anad ol
+ne ij
+memn un
+Şır nak
+6 8
+L I
+M esel
+N er
+b is
+g ıda 
+j andarma 
+v il
+en leri 
+iş adam
+ah at 
+iç in
+yan gın 
+san ık 
+ ed erek 
+kiş iye 
+yaz ı 
+" d iyor.
+
+han e 
+haber i 
+farklı  bir 
+Ken di 
+Spor  Toto Süper Lig
+bask ı 
+PKK' lı terörist
+ Millet vekili 
+ gal ibiyet
+pot ansiy
+6 9
+E .
+P arti 
+t ın
+den  sonra 
+av ro
+ver im
+art an 
+ların  da 
+ladı ğını 
+göz altına 
+dol aş
+işlem leri 
+El ek
+mek ten 
+Başbakan  Yardımcısı 
+ı"n a 
+mahkem eye 
+" s öz
+örn ek
+öğ le 
+Müslüm an 
+mis af
+Çocu k 
+-beyaz lı 
+0 5
+L ev
+M ün
+T IR
+de s
+en lere 
+am ış
+ur ken, 
+ıl masına 
+getir ildi.
+
+me  ve 
+)  -
+güç lü
+kil at
+Zir aat 
+ular ak 
+Karaden iz
+Y ah
+Y OR
+ş un
+ar ş
+bir  de 
+ır h
+diğ im 
+düş tüğ
+üç  
+yapılan  açıklam
+Hal k 
+Dem okras
+uygulam ası 
+ı"n da 
+hâ lâ
+şirk eti 
+Muham med
+U n
+i ade 
+n edir
+s aha 
+ö mür
+et tiğimiz
+at es
+ul us
+ b oy
+ b üyük
+gel ecek
+gün de 
+yapıl ması 
+zaman  zaman 
+polis  memur
+ al dı.
+
+çocuk ları 
+ F eder
+Devlet  Başkanı 
+Davut oğlu 
+sef er
+çeyr ek 
+B alık
+D üş
+m av
+n iş
+w w
+il im
+ol  Güneş
+bir  sür
+bir  durum
+aç ıdan 
+ d ah
+ilm ez
+man , 
+lar  ile 
+ yıl ından 
+alan an 
+tan ın
+Al p
+kullan ım
+sah ada 
+liğ i, 
+karar ını 
+haber ine 
+Ben im 
+Anayas a Mahkem
+Bül ent
+" ün 
+R apor
+an e 
+in k
+ir ti
+ A h
+ K ılıçdar
+man lık 
+söy len
+inc isi 
+kullan an 
+Türk  Silahlı Kuvvet
+tedav isi 
+sevk  edilen 
+bilgil er 
+Koc a
+kesin likle 
+Öy le 
+S üleyman 
+T HY
+Y et
+at i
+on lar
+iş im 
+bu  kadar
+kan ıt
+kad ının 
+bak ıl
+devam  etm
+görev i 
+mil yon
+önc eden 
+AR A
+las yon 
+elik li 
+ gerek iyor.
+
+beled iy
+ev sah ip
+Barcel on
+imen kul
+Elek tr
+G ol
+f i 
+k in 
+u dur.
+
+Ü m
+ç ay
+ol acağı 
+bir ini 
+bir leştir
+e,  "
+ M üdürlüğ
+par lament
+şeh ir 
+düzen ledi.
+
+çev res
+çalışmalar ını 
+paylaş ım
+Twit ter
+D an
+H in
+c ir
+l usu 
+el  yapımı 
+in  yuvar
+un cu 
+em e
+um a 
+ yıl ının 
+gerek tiğ
+eden , 
+ f or
+iniz in 
+Ak deniz
+içer en 
+Beşiktaş , 
+adım  at
+İz m
+Başbakan  Ahmet 
+ Tr ump
+ pay laş
+l üks
+el ine 
+aş k
+ b ey
+ m ücade
+ m esel
+kon uyla ilgili 
+san ay
+ef san
+ılar dan 
+bek le
+vat an 
+ sür en 
+hakk ı 
+şu  ifade
+karar  verdi.
+
+karış tır
+sıkın tı 
+soru larını 
+pu an 
+şöyle :
+
+al M adrid
+S O
+Y al
+ö dey
+ik ili 
+du n 
+ m er
+ t r
+Bu  konuda 
+lerin  de 
+olduğunu  ve 
+böl ücü 
+lık tan 
+iler  ve 
+hiç  
+ yar g
+teş em
+ateş kes
+Kan un
+etkis iyle 
+ ser gil
+abl us
+  alan
+E f
+M eh
+Z eyn
+d ö
+e 'den 
+an ını 
+az artesi 
+'n ci 
+ B ar
+olm ak
+olduğ u, 
+yüz ünden 
+pat lama 
+sürdür ül
+kın ma 
+i'n i 
+i'n deki 
+sözleş me 
+şunları kaydetti :
+
+B ilg
+K adıköy
+ö f
+al kol
+lar da, 
+en k
+kon ul
+"  adlı 
+sah ne 
+ f rag
+kaz anan 
+ hal inde 
+laz ım
+Kır mız
+ has tan
+olup  olm
+Osmanlı spor
+  ancak 
+S .
+U Z
+h ırsız
+iy iz.
+
+gel iyor
+ h er
+eğ er 
+inden  sonra 
+dik , 
+ p azar
+ kon us
+Or gan
+Ön ce 
+fiyat ı 
+Hastan esi 
+yakalan dı.
+
+duk larını 
+ kr izi 
+Söz cüsü 
+darbe girişim i 
+ kes im
+Komut anı 
+ mens ubu 
+şunları söyle di:
+
+  - Spor Haberleri
+
+b ec
+an ti
+lar dır.
+
+ler  tarafından 
+yap acağı 
+ K om
+ecek ler
+hak aret
+o  da 
+vatandaş lar
+şu  an 
+amp iyon 
+On ur
+Es ed
+atıl ım
+yaşan dı.
+
+yağ mur
+inter net 
+ha in
+ mağ lup
+soğ uk 
+L AN
+d ü 
+m ara 
+s arı 
+Ç ık
+,  N
+on g
+ y okt
+adı yla 
+baş arı 
+id or
+yer den 
+mak la 
+bek leyen 
+ınız da 
+görev  yapan 
+ifade  ed
+ması gerek tiğini 
+edebil ir
+organiz asyon
+S en 
+ol acaktır.
+
+on ur
+ap ort
+ s por
+av r
+adı 'n
+ıs ın
+bulun dur
+An ahtar
+ülk eyi 
+Ar da 
+ f ir
+diğini  söyledi.
+
+Em niyet
+sen iz
+mayı  başar
+suç lam
+ TL 'den 
+ılması  için 
+ekted ir
+yaralan an 
+ Mart 'ta 
+Sav c
+İY E
+red de
+B ölüm
+i vr
+r ük 
+r öportaj
+t ap
+u ki 
+ü 'nde 
+al ı, 
+de  de 
+ıy ız
+if  
+tal ık 
+ H al
+ley i 
+etkil ey
+müş tü.
+
+uğr ul
+Re al Madrid
+B öyle 
+I s
+T or
+k in
+k afa 
+ s ayı 
+ m i 
+ m al
+ist iyor
+ B ul
+eğ ine 
+ilm esine 
+sür en 
+iyle  ilgili 
+ Y önetim Kurulu Başkanı 
+se  de 
+ baş ka 
+özel liği 
+bur g
+pat lat
+bölüm ünde 
+arac ılığıyla 
+Başbakan  Binali 
+sosyal med yada 
+Fak at 
+ yay ın
+Alınan  bilgiye göre, 
+  asker
+( S
+m ük
+n ez
+al mak 
+al mak için 
+ın ç
+ler de, 
+ib er 
+san tr
+bak ış
+Kar a 
+her  iki 
+maz .
+
+ilişk iler
+Top lum
+gerçekleş en 
+ha in 
+istih dam
+esn asında 
+biç imde 
+! "
+) :
+M ed
+n ak 
+v eda 
+ar y
+al ır
+ik li 
+aç ığa 
+lı ların 
+ h ava 
+lem ek için 
+ ol uştur
+say f
+ett im.
+
+Man chester 
+ tekn oloj
+Türkiye Cumhuriyet i 
+E ge 
+M evl
+s ın 
+t v
+Ö l
+in tihar
+es tival
+em i 
+az en 
+ör gü
+eğ inde 
+Er ol
+maya  başladı
+lid er 
+isti fa 
+başvur u 
+Şanlıur f
+K ent
+U T
+c ivarında 
+n ey
+in d
+iz espor
+ k ut
+ad ı ve 
+ış ık 
+um , 
+ s eb
+kay g
+ort asında 
+üc ü
+kullan arak 
+yol da 
+tut ar
+ser t 
+terör örgüt üne 
+cel l
+bank a 
+ele geçir ildi.
+
+başlam ış
+su ik
+bilgil endir
+7 7
+? .
+
+B oğaz
+a w
+m ahal
+m ı?
+
+s iye 
+as por
+ist an, 
+ K an
+mas ın
+sun .
+
+kaç an 
+yaptığı  konuş
+düşün ül
+DE N
+bes len
+meş in yuvar
+Don ald
+Tic aret 
+O' su 
+  İl
+h e
+l es
+r aman 
+ar asın
+dı y
+ k oş
+ K elim
+İst ik
+larla  ilgili 
+.  -
+Ken dis
+ düş ün
+Bel ki 
+Sin an 
+Üy esi 
+  adlı 
+C I
+O Ğ
+T os
+h id
+l og
+o od
+v oc
+y eşil
+ü 
+
+de li 
+am i 
+ıl masını 
+iş aret
+ağ z
+ b ugün 
+ını  da 
+ d in
+ez ar
+gel eri 
+ler  ile 
+sah ib
+bek lem
+ ar ac
+Cumhurbaşkanı  Erdoğan 
+eder ken, 
+Frans a 
+yarg ı 
+değişik lik
+sık  sık 
+İY OR
+ Mahall esi 
+ Sur iye 
+Şampiyon lar 
+ mak in
+otos iklet
+B öyle bir 
+H ır
+M etin 
+V ar
+V ali 
+g an 
+m i
+n ok
+ş iş
+ak tiv
+bir den 
+bir leş
+ına  göre 
+gör eve 
+Er t
+el  bir 
+gö ğ
+yol cu
+mek  üzere 
+ P KK
+dığını  söyledi.
+
+Ad li 
+operasyon u 
+ yar alı
+Hak im
+Suriye 'ye 
+Par alel 
+sak in
+Ön ümüzdeki 
+ kan at
+İtal yan 
+zeng in
+iyil eş
+ Dış işleri 
+İzm ir 
+O cak 
+P en
+c ak, 
+en t 
+ s al
+ m üdür
+ m iktar
+ B ab
+ülk eler 
+ana  kadar
+mak .
+
+od ol
+kim senin 
+karşıl an
+Türkiye Kup ası 
+Anahtar  Kelim
+M alat
+i  olarak 
+al kış
+et  ve 
+le  birlikte 
+ik  ve 
+af az
+ M ustafa 
+üzer ine, 
+alt ındaki 
+ilk  defa 
+den iz 
+göz lem
+ kon ut
+od aklan
+esinin  ardından 
+ gel iş
+başar ısız
+organ ize 
+serbest bırak ıldı.
+
+televiz yon
+İstih bar
+.  ile 
+:  T
+a "
+d olayısıyla 
+Ö Z
+i  bir 
+an ında 
+il ir
+iz de 
+ey gam
+ik na 
+ıs ındaki 
+ B u 
+ yap ılan 
+ecek leri 
+mes lek
+üç üncü
+ınız  
+Or ada 
+İş leri 
+Gün lük 
+tamam ladı.
+
+Cumhurbaşkanı  Erdoğan, 
+ası "n
+program ı 
+nit ed
+toplan t
+Suriy el
+İnş aat
+Kart al
+Otom obil
+dolandır ıc
+m uyor
+m eli 
+e  de 
+e  ile 
+et leri 
+at an
+ıl ır
+yap tığını 
+uz an
+li 'nin 
+ bir  şekilde 
+getir di.
+
+ecek  bir 
+mesi  ve 
+meye  başladı.
+
+sahip .
+
+Ob ama 
+Genel M üdürü 
+gib i, 
+Terörle  Mücadele 
+teşebb üs
+  ilç
+D in
+F ran
+b et 
+f eder
+l ıyor
+ş eye 
+iz ler
+yap ıyor
+kar iyer
+lı .
+
+gör düğ
+ t ek 
+Bu  yüzden 
+yıl lardır
+gerek tir
+görev lendir
+git tiği 
+PKK 'ya 
+otom atik 
+yaşan dığı 
+otur an 
+avuk atı 
+toplan tı 
+ölç üde 
+Sor uştur
+eyt in
+ kamp an
+  çocuk 
+D ağ
+M as
+S AB
+b ö
+p ark
+t uk
+an  önce 
+or anda 
+st it
+ m ı 
+ h izmet
+etm em
+ p ara 
+ E l
+19 5
+iğ er
+güven li 
+ortaya  çıkan 
+day ız.
+
+Alt ın
+  Türk 
+B it
+G önül
+h elikopter
+u ları 
+at lat
+iş çi 
+iş birliğ
+ k ans
+ k urulu 
+tar z
+ S al
+doğ an 
+Bir çok 
+ABD 'ye 
+pr opag
+uygul anan 
+ılı ğını 
+başlat ıldı.
+
+ der ece 
+antren man
+Enerj i 
+H AL
+K em
+i : 
+m uştur.
+
+s af
+oy unun 
+çık ıyor.
+
+acak ları 
+lu b
+sonra  da 
+, b unun 
+içer is
+Avrup a'ya 
+ ar asındaki 
+bilg isayar
+arkadaş ı 
+Az iz 
+eviz yon
+ milyar dolar lık 
+cin ayet
+güzel  bir 
+tahmin  ediliyor.
+
+Emniyet Müdürlüğ ü 
+Birleş miş
+Lon dr
+Selç uk 
+M ec
+Y ur
+Y ağ
+n eler 
+n etic
+p aket
+aç tı.
+
+ K ap
+ef en
+ H ak
+ser may
+ son ucu 
+ yar at
+ sor un
+öğrenc i 
+Par lament
+araştır malar
+ması gerek en 
+kâ r
+ diy erek 
+ milyon lir a 
+ şüph eli 
+Van  Pers
+Avust ur
+D k.
+
+U nited
+an dan 
+ay akta 
+ k adın 
+lan d
+ t ep
+up , 
+top lu 
+getir en 
+dış ındaki 
+re 'de 
+ saat leri arasında 
+ n umar
+muş .
+
+oluştur ul
+lo gan
+yalnız ca 
+Res mi 
+Örn eğin 
+doğrult usunda 
+8 00
+A lan
+H ac
+Ü Z
+ol ası 
+bir  önceki 
+ab or
+sür ük
+ley erek 
+oc k
+dönem in 
+ gün lük 
+İL G
+AS I
+soruşturma  kapsamında 
+esi'n den 
+Zir v
+Eğitim  ve 
+emez .
+
+Kıs a 
+OB İ
+Fik ret 
+  İstanbul
+0 4
+E Z
+G üç
+L im
+T at
+p ost
+y or
+z ırh
+ö t
+as gari 
+ k av
+ k alan 
+kon ser
+len miş
+ h ey
+ih bar
+ A f
+ T eknik 
+ E ur
+mek  ve 
+ yar ış
+ say f
+halk ı 
+mad di 
+Biz  de 
+tec avüz
+ülkem izin 
+Genelkurmay  Başkan
+( FETÖ
+. tr
+G üzel
+K av
+l ev
+l ov
+r ac
+Ç ift
+ul usal
+ k ir
+ab ını 
+Ar kadaş
+tık tan sonra 
+hav aliman
+Başbak an
+eder .
+
+eks iyon 
+tük etim
+Spor  Haberleri - Zaman Gazetesi
+
+boz ul
+kadın ların 
+görüyor uz.
+
+sokağa çık ma yas
+6 2
+6 3
+B A
+M ersin 
+Y alç
+f aktör
+n ükle
+s ek 
+e  göre 
+an lar, 
+ay ol
+iy im
+bir er 
+iş let
+ik ap
+bil m
+ A tatür
+değ inen 
+top la 
+der b
+ D emir
+terör  
+getir ilen 
+yapıl ıyor.
+
+lık ta 
+19 2
+ kiş iyi 
+insan lar 
+insan lara 
+ gör en 
+konuş ma 
+sin em
+terörist lerin 
+ c ivarında 
+tav ır
+Başkan lık 
+cep  telefon
+Diğ er
+mesinde  bulundu.
+
+AA muhabir ine 
+!  - Sözcü Gazetesi
+
+O z
+an ak 
+it r
+olm uştu.
+
+ıyla  ilgili 
+büy üy
+ebil eceğini 
+has ar
+üst üne 
+o  zaman 
+saldır ılar
+ son unda 
+hazır lık 
+Pro gram
+iyorum , 
+diğimiz  
+Gör üş
+gec ik
+ sonr asında 
+hatırlat an 
+ mü dahal
+Sul h
+zeng in 
+TÜR K
+P an
+T un
+Y atırım
+t uz
+in al
+in di.
+
+el i.
+
+ler in
+gör dü.
+
+esi  de 
+ B oz
+çok  önemli 
+san ık
+tan k
+Öz demir
+sa  da 
+ P ol
+lis ans
+Den iz 
+diz i 
+yürüt tüğ
+kür esel
+Ab dül
+gar ant
+toplantı sı 
+izley ic
+. haft asında 
+maruz  kal
+cer rah
+9 9
+M on
+Y ok
+o  ve 
+ş ir
+ar ken, 
+el iği 
+el idir.
+
+or k 
+ek le 
+iş ler
+ t ah
+imiz , 
+karş ın 
+mek  istem
+lerinin  ardından 
+yas ak
+görev ini 
+ Baş akşehir
+kam yon
+sın .
+
+konuş ul
+doğr ul
+adım  
+Alman ya'nın 
+Bunun  için 
+Kul üb
+önüne  geç
+ Gr ub
+ soruştur ması 
+Joh n 
+stand art
+G ez
+G öl
+Y ür
+` n
+c ivar
+d iler
+l uy
+lar 
+
+ik ram
+ y ine 
+ k m
+ s at
+ K ültür
+var dır
+Türkiye -
+o  R
+değerlendir meler
+ kad ın
+En  İyi 
+oyunc unun 
+Eur o 
+cum a 
+anım sat
+mesinin  ardından 
+vir üs
+Şüph el
+Birleşmiş  Millet
+Z am
+k ök
+s a
+s inde 
+ü "n
+İ ST
+ar i 
+aş ağı 
+iz len
+ası  için 
+gör e;
+ib e 
+ S er
+top lanan 
+ecek  ve 
+pro fesyon
+pr im
+ gün  önce 
+ sın ıf
+ Şubat 'ta 
+Cer ablus
+ Emniyet Müdürlüğ ü 
+6 1
+H oc
+M ic
+al tı
+ay a, 
+bu  kez
+ede li 
+up  
+hal e getir
+AB  
+ilgil endir
+par alel
+kaç ak 
+güven liği 
+Hak em
+Doğ an 
+kardeş i 
+İlç esi 
+kah v
+sig orta 
+yayım lanan 
+B ür
+k a
+ü ler 
+al mış
+el bette 
+ay ak 
+dı !
+
+it an
+eş lik 
+ t ören
+eler iyle 
+kan , 
+ yıl  sonra 
+malar ına 
+larının  da 
+üst eş
+ileri  ve 
+kr ed
+tab l
+hüküm etin 
+sivil  toplum
+tip i 
+biraz  daha 
+ değiş ik
+müzak er
+Hin dist
+'  dedi.
+
+8 2
+D anış
+Ü K
+ö m
+İ  H
+el  kon
+or adan 
+is an 
+em em
+im kanı 
+ d ün 
+ic ra 
+par k 
+lık lar
+yapılan  yazılı 
+polis in 
+ön  plan
+Kemal  Kılıçdar
+Ri eker
+B eni 
+C eng
+C lint
+W il
+b alık
+l af
+p ayı 
+y ayı 
+ş oför
+ek im 
+ y eri 
+du a 
+ad a.
+
+it esi 
+ken t 
+çok  fazla 
+alan ına 
+yön ündeki 
+ley ici 
+yol a çık
+Öz bek
+hay van
+duy urul
+geçen  hafta 
+götür ül
+Bun lar
+Son uç
+ mu ?
+
+mekt up
+G. Saray
+Çak ır
+B ol
+H il
+T ok
+s us
+t im
+ç iç
+ı da, 
+ek len
+di : 
+ed ir 
+ası  ile 
+bul uştur
+ B ölg
+ A L
+ A v
+bulun duğ
+yan sı
+çalış tığı 
+ H av
+Or man 
+ail esinin 
+uğ unu 
+altına alın an 
+tek  bir 
+zaman larda 
+lul uğu 
+ sağ lık 
+ris ki 
+dah il 
+ yan dan 
+ceza evine 
+ Bir liği 
+K üçük 
+M ut
+h am 
+ş ı 
+il ave 
+at  ve 
+en  düşük 
+yap tı
+yar ım
+ ile  ilgili 
+ ol acak
+hak ları 
+Rus ya
+hiç bir şey
+ der ec
+büt ç
+ dest ek 
+Kı brıs
+9 5
+H ey
+M at
+e 'deki 
+t , 
+z incir
+ç ıl
+e  geç
+ek ledi.
+
+ik il
+yap mış
+ d ol
+kar tı 
+bu  tür
+bu  yıl 
+lik te 
+mak  iste
+ecek ler.
+
+açıklam asında 
+rah at 
+Ad voc
+uc uz
+yet en
+Yıldırım 'ın 
+Gül en'in 
+inş allah
+kom isyon
+elektr onik 
+teknik  adam
+Ul usal
+akşam ı 
+toplum un 
+toplum sal
+Zir a 
+Cen ev
+ Eylül  
+ihtim ali 
+(D k.
+
+oynan acak 
+Samsun g
+H en
+l ezz
+t ım
+u  ile 
+iş ini 
+ad alet
+lan mış
+lı ca 
+ması  bekleniyor.
+
+hal ka 
+kap an
+böl ün
+göz altı 
+kiş iyi 
+iğ it
+har cam
+dav et
+kıs ıt
+Ankar a'ya 
+takım a 
+kazan dı.
+
+üretim i 
+" ifade sini kullandı.
+
+Yun us
+ sistem i 
+zorun lu 
+kulüb ün 
+ fa aliyet
+B oy
+C İH
+T im
+c an, 
+f eri 
+g en 
+m eni 
+r an 
+r üz
+el inden 
+et ki 
+on dan 
+iş  yap
+ık ları 
+inde  bulunan 
+eş y
+ok ol
+ter ap
+çok  büyük 
+lara  karşı 
+dön dü.
+
+tüm  dün
+anlat tı
+ sor um
+dağ , 
+yatırım  yap
+Tur g
+ bil dir
+çatış ma 
+ ser v
+istih dam 
+cenaz esi 
+parç ası 
+Alt ın 
+şans ı 
+Düz en
+O T
+T ör
+f ayda 
+l av
+o  dönem
+o  kadar 
+y e
+ın  ardından 
+ s es
+ t asar
+leri  tarafından 
+el  olarak 
+ayr ılan 
+uyor uz
+erb er
+eli  bir 
+İn ter
+insan lık 
+mez ar
+ etm ek 
+sey ahat
+tab ii 
+ kr iz
+ bur ada 
+adli  kontrol
+  uçak
+' a, 
+F ir
+K ış
+M A
+U K
+a okul
+g ü 
+k ok
+k oz
+s ön
+ı b
+aş a 
+ine  ilişkin 
+st a
+ g en
+ g ece 
+ de vr
+bel geler
+ M ar
+kur  R
+ecek tir
+ bin  kişi 
+Bak ır
+, b un
+ınız a 
+maç  
+dis ip
+ağır  
+uc usu 
+kaldır ılan 
+As lan
+toplantı da 
+ihtiyaç  duy
+bağlan tılı 
+tih ar 
+Vodafone  Aren
+örgü te 
+8 9
+B I
+G üven
+M in
+P ark
+R ah
+Ş ük
+al eyh
+aş ı 
+ k it
+ t ür
+ de m
+eğ inin 
+ A K
+alış kan
+doğ algaz
+ana  kadar 
+Kar deş
+dü , 
+ gel di.
+
+genel likle 
+tespit  edil
+ yak ın
+amaç lı 
+ Nis an'da 
+Cez a
+stratej ik 
+şöyle devam etti :
+
+Zeyn ep
+  çık
+?  
+C in
+P et
+S akar
+ş unu 
+ar asına 
+es t 
+en  son 
+ y ok 
+ad yum
+bu  sezon 
+der in 
+sağ lık
+ ed ilmesi 
+enin  ardından 
+şey i 
+ıc ı, 
+Par ç
+elek om
+ ken dis
+ko ordin
+ticar et
+sig ara 
+durdur ul
+dokun ulmaz
+ordu s
+Kayser ispor
+fiz ik
+Mah mut
+dij ital
+. Ş
+7 1
+D olar
+P iyas
+T asar
+a ul
+r ic
+t uzak
+lar  yap
+el im.
+
+'n ın, 
+ b öyle 
+neden i 
+gerçekleştir diği 
+mek an
+ber g
+terör örgüt ünün 
+nokt asında 
+ yüz den 
+atç ı 
+huk uki 
+şid de
+taleb i 
+AC AK
+ gec esi 
+Çar şamba 
+Turk cell
+C ev
+K ül
+l ine 
+r u
+v ize 
+ç aba 
+er lendir
+ın cı 
+lar a, 
+in  de 
+di ?
+
+em an
+ y üks
+ev den 
+ d ir
+kan ser 
+ A merik
+açık ça 
+Baş ar
+sor unları 
+alın arak 
+tür k
+Bir  sür
+İstanbul 'daki 
+kim i 
+acağını  söyledi.
+
+ikinci  yar
+ ken d
+ bulun uyor.
+
+sanız , 
+enf l
+ücr et 
+altını çiz en 
+FETÖ' cü
+E dir
+E sen
+Q uar
+n iye 
+r em
+ar ak, "
+ek leri 
+bir  grup
+ec iler 
+ine  karşı 
+eş liğinde 
+ist asyon
+aya  çalış
+kal ıcı 
+An ne 
+mak  istem
+düz elt
+bağ lantı
+zor lan
+raf ik 
+plan lanan 
+Hak k
+öğrenc ilerin 
+Hav alimanı 
+Geç miş
+mo dern 
+çevr esinde 
+Fet ullah Gül
+uzak laş
+ diy en 
+telefon la 
+Mahkem e 
+buluş an 
+Twit ter 
+Ramaz an 
+Fırat  Kal
+ Hol ding
+? '
+A teş
+B C
+E V
+O f
+l ib
+ç if
+,  L
+ad landır
+ t az
+olm ayı 
+Bu  sırada 
+ro id
+ans iyon
+abil en 
+üs abak
+kap say
+Ar slan
+tem in 
+yas ına 
+Ün lü
+okr at 
+Avrupa  Birliği 
+Antal ya'da 
+çoğ un
+ gr ub
+ kan al
+Öte  yan
+güçlü  bir 
+Ask eri 
+ sezon unda 
+şif r
+önde  gelen 
+. A
+. D
+A kar
+F lor
+am adığı 
+ k ıl
+ b ilen 
+üz ül
+yak al
+ D er
+taraf tan 
+vur gu 
+ail esine 
+İş letm
+ekip lerince 
+ ver di.
+
+çalışmalar ına 
+Şeh it 
+hastal ık 
+Gaziantep spor
+Hüküm et
+zer siz
+Facebo ok 
+ Sul tan 
+Mesel a 
+CİH AN
+B i
+B asın 
+c a, 
+k oc
+o ları 
+bir i.
+
+aç tığı 
+ g enç
+iyor sunuz.
+
+baş lıyor.
+
+ ve  S
+kal b
+kad ros
+değ er 
+kay yum
+olduğu  ve 
+yapıl an
+sav cı 
+edec eği 
+Ün lü 
+ ç ap
+Terör ist
+kolay laştır
+enf lasyon 
+şampiyon luk 
+endiş e 
+Çocu ğ
+İstik l
+Quar es
+G ülen 
+T eş
+ş iir
+ay 'ın 
+en di.
+
+ek ler
+is abet 
+bir  başka 
+Türk men
+yar alı 
+'y la 
+gir diği 
+ D evlet 
+ son uc
+Ancak  bu 
+tek  başına 
+suz luk 
+ılığ a 
+Bil im
+bayr ak
+bilin ç
+korum a 
+red det
+bah ar
+Part isi 
+Fin ans
+ yür üt
+keş f
+ dönüş üm
+Donald  Trump
+  ağr
+' lık 
+T FF
+t aç
+y ede
+il irken, 
+at or
+en  de 
+ör fez
+ k i
+gel miş
+gel eceği 
+ilm iştir.
+
+ yap tır
+sağ lıyor.
+
+dim , 
+ett i 
+yaptığı  açıklamada 
+vatandaş ı 
+ Ş ampiyon
+kapsam ında, 
+iyoruz " dedi.
+
+şirk et 
+key if
+sonuna  kadar
+Şube Müdürlüğ ü 
+ Başkan  Yardımcısı 
+misaf ir
+  az
+C ey
+P as
+U S
+f iyat 
+n ik 
+al dıkları 
+bir  tan
+ k om
+kon sol
+mes l
+iz  de 
+" de ğ
+çev re 
+ ç ünk
+İngil iz 
+Olay , 
+lı bir  şekilde 
+benz eri 
+Milli  Eğitim
+sabah  saatlerinde 
+işaret  eden 
+ladık ları 
+Can  Dündar
+) .
+
+7 00
+H edef
+S elim
+e "
+Ç am
+ıy an 
+üst ünde 
+sır a 
+yaz dı.
+
+may acak.
+
+Dün yada 
+neden  olan 
+sürdür dü
+ değil , 
+herkes e 
+şehit  olan 
+Dir ektör
+hik ây
+olsun .
+
+ Ağustos  
+" suç undan 
+tecr übeli 
+açıklamalarda  bulundu.
+
+ceza sah ası 
+Çay kur R
+  nedeniyle 
+c i
+e " 
+ı larda 
+ş en
+ak .
+
+es s
+oğ ul
+ist iyorum.
+
+tar if
+çek iliş
+Baş ka 
+tür .
+
+pol  Başakşehir
+düzen li 
+zor lu 
+yet iş
+Bakan lar
+of f
+Mar mara 
+Allah 'tan 
+dam ar
+çiz g
+ doğ um
+Çelik , 
+7 3
+F ed
+M av
+Z ar
+f uar
+r ot
+ş ük
+ k uş
+ b az
+öz ür
+üş ter
+olm aktan 
+Ar aç
+siz  kal
+met rekar
+cez asına 
+ulaş an 
+bur adan 
+Mustafa  Koç
+mağ az
+istik amet
+PYD 'nin 
+Dur sun 
+vüc ud
+Fer n
+ Gr ubu 
+ üst e 
+imp iyat
+yürür lüğ
+8 6
+D ön
+F u
+s ek
+y asında 
+Ç iç
+al ıyor
+ol og
+ür ken, 
+iş ar
+bir  açıklama 
+ s ey
+ b ütün 
+ m ahkem
+oğ un 
+ist iyoruz.
+
+ h iss
+le x
+'y le 
+yak alama 
+yüz lerce 
+lara  göre 
+eli  ve 
+durum da 
+dön en 
+ı'n daki 
+Biz e 
+rağ men, 
+Fat ma 
+ticar et 
+tasar ruf
+cin sel
+İspan yol
+nes il
+App le 
+ gir işim
+Hiç bir 
+ harek et
+lacivert l
+ mus unuz
+Öte yan dan, 
+m ik
+n uv
+r ı 
+s ip
+s at 
+ç avuş
+el ini 
+em edi.
+
+ad il
+ına  kadar
+id i 
+olm adı.
+
+yar alı
+çek en 
+ G ök
+ecek 
+
+üs s
+etk isini 
+ ed er
+vur du.
+
+görev den 
+önc elikle 
+sel am
+alı dır.
+
+yok sa 
+üf ür
+ pu anla 
+Yun an 
+Per şembe 
+sı v
+ yen iden 
+hap is 
+ism ini 
+memn un 
+Facebo ok
+hed iye 
+sıf ır
+- G
+8 3
+Y önetim Kurulu Başkanı 
+a " 
+k üç
+n ih
+o graf
+t ok
+z ehir
+on sor
+on larca 
+em r
+ b ana 
+ b ask
+ıs rar
+uk uk
+ot urum
+lik leri 
+alın dığı 
+ ile  birlikte 
+istem iyle 
+çıkar ılan 
+iler  için 
+mez un 
+ing öl
+kendis inin 
+sey irc
+ Bak anlığ
+Sah il
+kar yağ ışı 
+k uz
+t etik
+z i 
+al maya 
+ön gör
+ında  da 
+ok ur
+ger eği 
+çek im
+önem  taş
+ yıl a kadar
+ımız , 
+ans ız
+kiş iler
+devam  etti.
+
+ail enin 
+Rus ya, 
+dığını  ve 
+ yer inden 
+evl ilik 
+ Ar en
+ilg isi 
+yüksel en 
+Uz manı 
+dönüş üm
+Olay  yerine 
+şehit  düş
+Polis , 
+ks üz
+Şu  an 
+Val isi 
+gur ur
+sürpr iz
+ as ist
+Sem ih
+Adli  Tıp
+L az
+O HAL
+T .
+T unc
+U lu
+Y ayın 
+d iyor
+h ow
+p latform
+t is
+en ter
+ler dir.
+
+ k ah
+ b azı 
+ed erken 
+ g em
+ A z
+değ eri 
+lık  ve 
+'ın  da 
+ p at
+göz den 
+Kar ac
+insan ı 
+ yer de 
+ran dev
+Cumhurbaşkanı  Erdoğan'ın 
+ yön tem
+hız landır
+Kay seri 
+Diyarbakır 'da 
+Komut anlığ
+ sav un
+Azerbay can 
+ Ocak 'ta 
+ Sekret eri 
+Taraf tar
+  ayrı 
+"  baş
+( K
+B u, 
+D iz
+E c
+K uş
+p lak
+İ t
+ak en
+im et
+ul uk 
+ap ol
+gel işim
+ A li 
+ S aray
+öğr etim 
+olduğunu  söyleyen 
+pol isi 
+yaz ık 
+Kon gr
+ TL 
+
+hayatını kayb eden 
+siy on 
+Uy gul
+İh rac
+Mu hal
+kayn ak 
+O P
+R ab
+T am
+g üm
+h az
+i ade
+y  C
+ş ampiyon 
+ol an, 
+di t
+im le 
+iz  ve 
+ g üc
+ları  tarafından 
+yar al
+değil  
+leri 'nde 
+Kon ya 
+bırak tı.
+
+eks ik 
+sey ir
+genç  kız
+eğitim i 
+ma alesef
+bayr am
+Gör ün
+başlay acak.
+
+O  zaman 
+aralarında  bulunduğu 
+ kayn ak
+Washing ton
+suç  duyur
+SAB AH
+6 4
+D AN
+H z
+M or
+T ay
+T elekom
+l ise 
+s kan
+z ek
+in tik
+ol a 
+ın  ve 
+on ar
+ul u 
+ s osyal
+ s efer
+ b üt
+ m ut
+ t artış
+lam  
+ h ast
+öl en 
+erk esi 
+acağ ımız
+uyor du.
+
+ilk  olarak 
+ ol uyor.
+
+hak aret 
+ebil eceği 
+19 4
+dön üm
+ett iler.
+
+hazır ladığı 
+alı ğı 
+Frans a'da 
+tav siye 
+küçük  bir 
+ gol  at
+özgür lük
+henüz  
+duyg u
+ortam da 
+Sul tan
+fayd alan
+ınc a, 
+dör dün
+rez erv
+irti bat
+' lı 
+( B
+D e
+c unun 
+p it
+Ü L
+ç ağ
+İ pek 
+ş ok
+ b ine 
+lan arak 
+ih mal
+olm uştur.
+
+geç er
+üzer e, 
+Er men
+ayr ım
+olduğunu  belirtti.
+
+yer  verildi.
+
+hayat ını 
+operasyon larda 
+değerlendir en 
+Son r
+tasar ım
+cil t
+ev sah ibi 
+Edinilen  bilgiye göre, 
+refer an
+adı'n da 
+- C
+N um
+d akika 
+f üz
+h ükm
+z a
+ k abul
+ b ize 
+ile  görüş
+üy eleri 
+kon uyu 
+ A s
+çek ti.
+
+yaş adı.
+
+vur ul
+ f otoğraf
+ gibi  bir 
+mut f
+Galatasaray 'da 
+kapsam da 
+sık ı 
+kil it
+halk ının 
+cam i
+İngilter e'de 
+şiddet li 
+ahat tin 
+Birleş ik 
+eur o
+psik olojik 
+ayak kab
+New Y ork
+istis mar
+başlang ıç
+ Kö pr
+yapılan açıklam aya göre, 
+ev sahip liği 
+  okul
+B odrum
+J o
+J am
+K OBİ
+n an 
+ç el
+er al 
+is yen 
+ b iç
+ev inin 
+eş inin 
+ver g
+oy unda 
+le diğini 
+yak alam
+top rak 
+bak ar
+yer lerde 
+kap ı 
+Bir liğ
+söyle diği 
+iliş ki 
+ baş ta 
+Kon ut
+sin yal
+ gel iştir
+yaklaş ım
+As ya 
+isti f
+Milli  Takım
+ork u 
+gazetec ilerin 
+Mu har
+Şen ol Güneş
+ ay  önce 
+terörle  mücadele 
+ tal eb
+haberine  göre, 
+K as
+k er
+k elim
+Ö ksüz
+el  ve 
+bir  daha 
+ k art
+dur an 
+belir siz
+Er gen
+sor g
+sor unun 
+göster diği 
+zor luk
+FETÖ 'ye 
+geçir di.
+
+adığ ımız
+ses len
+muh afaz
+Yılmaz , 
+Kam u 
+Atatür k
+Mal iye 
+uyr uklu 
+ Yar dım
+sorularını  yanıt
+B elediye 
+F I
+K af
+K oz
+M em
+S A
+b atı 
+d iniz
+m otosiklet
+as p
+ak rab
+aş k 
+bir  dönem
+ac h
+ b oş
+baş sağlığı 
+acak lar.
+
+ G ülen 
+rak ibi 
+On u 
+neden  oldu.
+
+sınır lı 
+ kay de
+ merkez ine 
+istan 'da 
+düşür ül
+Fatih  T
+gazetec ilere 
+yılın  aynı 
+Sosyal  med
+ Mahall esi'nde 
+lacivert li 
+suik ast
+Eğitim ve  Araştırma 
+Çaykur R izespor
+  işlem
+' üncü
+)  Başkanı 
+d at
+k uc
+in le 
+in tihar 
+,  son 
+ini  ve 
+lan ması 
+if tir
+ort alam
+alan a 
+isi  de 
+AB 'nin 
+AB ER
+mey ve 
+iğ in 
+hayat ı 
+ milyar  TL
+bas it
+ kat ıldı.
+
+ yak alan
+ımız  var.
+
+Başkan lığı 
+ bölg esinde 
+ şüph el
+şim di
+yolcul uğ
+ mey dana 
+  oy
+( M
+D ep
+N e
+R uh
+S ch
+Z ey
+d üst
+i 'den 
+j ant
+p ah
+,  A
+ak ış
+un u
+is ar
+ap art
+ır  ve 
+inde  de 
+ m ark
+ut an
+ist iyor.
+
+için  bir 
+eler i ve 
+ K ı
+geç erli 
+ic k 
+eceğ im
+olay  yerinde 
+sev g
+söz de 
+mü hendis
+hedef i 
+şirket lerin 
+konu larda 
+ateş  
+zaman la 
+Amerik a 
+Bakanlığ ı, 
+ milyon dolar lık 
+göç men
+antren ör
+do -
+vide o
+" H
+' ü
+B y
+E  
+E fen
+G ec
+P al
+S ak
+S tr
+s omut
+y  
+Ş iş
+al dık.
+
+ın  da 
+iz lem
+ d am
+oldu , 
+ K AR
+ yıl dan 
+and il
+ ol ur.
+
+ebil ecek.
+
+tut um
+düzen leme 
+Rus ya'ya 
+tamam lay
+day anış
+biri  de 
+otom otiv
+şöyle  sürdürdü
+Hay van
+ Bak anlığı 
+Kul üp
+muhalef et 
+akadem isyen
+New Y ork 
+Akhisar  Belediyespor
+G ü
+ş et
+al acak.
+
+en ler, 
+ac i
+ti 
+
+bil iyor
+ K ur
+ladı 
+
+malar a 
+devam  ettir
+larına  göre 
+durum unun 
+Ak s
+ilişk ileri 
+geçir diği 
+mücade lenin 
+las ik 
+El az
+luğ a 
+kil o 
+Uz man
+CHP 'li 
+dikkat li 
+ An ad
+Cumhuriyet çi 
+Erdoğan 'a 
+lig in 
+haline  getir
+istihbar at
+Mevl üt
+zırh lı 
+1 30
+C addesi 
+D arbe girişim
+S a
+S om
+c o
+h an, 
+m aş
+o  kadar
+t iyatro
+z ul
+Ö N
+iy ice 
+ y avaş
+ab ilmesi için 
+ s abah
+ında  bir 
+An a 
+ G alatasaray
+şeh idin 
+ebil ir 
+, b unu 
+aray ış
+saldır ıya 
+saldır ıyı 
+özel  sektör
+oğlu  ve 
+ekonom i 
+sürdür üyor.
+
+asker lerin 
+Kur '
+Per eir
+Bayr am
+AV M
+ yaralan dı.
+
+Tekn oloji 
+Portekiz li 
+Elaz ığ
+8 8
+B öyl
+D oktor
+Z af
+b er 
+h or
+n em
+ç et
+ş ok 
+am acı 
+ur , 
+ k as
+ad ir
+ed ir.
+
+alar ca 
+kan lı 
+Türk çe 
+ S ar
+mas ı.
+
+ayr ıca, 
+lığ ıyla 
+devam  ediyor
+belirt iyor.
+
+çıkar ıldı.
+
+ gün dür
+haber ine göre 
+ F ak
+gönder ilen 
+eg zersiz
+ülkeler de 
+edeceğ iz.
+
+ces edi 
+ug ay
+ Cez a 
+App le
+Karş ılaş
+ terörist  
+döv iz
+dikkati çek en 
+Ker ry
+yenil en
+ şeklinde  konuştu.
+
+ zaman lı 
+neij der
+ yaralı 
+
+Y a 
+am ıyor
+ıl mıştı.
+
+ k af
+ k od
+iler leyen 
+ t on 
+bu  kadar 
+alt ının 
+ort ada 
+dev ir
+yıl dır
+say iş
+yapıl andır
+mey dan
+erb est 
+yapılan  aram
+sin ema 
+ hal e gel
+gönder di.
+
+tab i 
+yürüt en 
+yürüt ül
+Bun lar 
+fotoğraf ı 
+Erdoğan , "
+iddia  edildi.
+
+Ber at
+Cez a 
+Trump 'ın 
+ bek len
+dakik alarda 
+Gö ç
+Avust ral
+Terör örgüt ü 
+oğl unun 
+ Ah met 
+Advoc aat
+sta gram
+Fern and
+  çalış
+  adına 
+F a
+N eden 
+S ol
+T ayyip 
+U laştır
+d ak 
+i er 
+l en 
+r on
+Ç ek
+ah ür
+iç inden 
+iç  savaş
+ g eri 
+yap ı 
+ver diğini 
+gör düğü 
+çek ilen 
+Er kan 
+yol unu 
+da,  "
+mey v
+par ayı 
+Erdoğ an ve 
+dığ ım
+edil ecek.
+
+benz er
+önlem leri 
+kıy afet
+sabah  
+mekte  olan 
+olağanüst ü 
+sön dür
+" i 
+T RT
+b iyat
+m art
+n av
+ü be 
+es idir.
+
+bir  çok 
+yap arken 
+ut a 
+ver ilmesi 
+bil et
+op ol
+iye 'de 
+çek il
+Er en 
+acağ ım.
+
+böl genin 
+ABD  Başkanı 
+dön ük 
+ gör ül
+karşıl ıklı 
+vatandaş ın 
+Ün al
+mek tir.
+
+tutuk lanan 
+sık ış
+ateş  aç
+inan ç
+ sah ip
+Av uk
+Gr ub
+sağlam ak 
+ il a 
+ hat t
+yaptır ım
+bölgeler de 
+Sok ak
+Obam a'nın 
+ böl geler
+vic dan
+Mün ih
+İLG İL
+  rejim
+E kr
+M uğ
+il la 
+al ev
+ır k
+ s u 
+ b eni 
+aç an 
+ g ünde 
+ül üğ
+ m a
+bil iyoruz.
+
+dur ul
+alın ması 
+ D ur
+den et
+kiş ilik 
+19 1
+yaz dığı 
+ baş lat
+- S ağlık 
+kö ken
+araç ların 
+tek  tek 
+millet vekili 
+ağr ı 
+bağlı  olarak 
+çarp tır
+ürün leri 
+Polis  
+AY M
+IŞİD 'in 
+ sez on 
+Sev gil
+Üst elik 
+çünk ü 
+Uzman  Çavuş
+" e 
+H ürriyet
+T A
+m ini 
+o cak 
+z ann
+İ  
+İ pek
+,  R
+ler di.
+
+ y at
+iç eri 
+ed iyorum
+ev inden 
+iler imiz
+bu  şekilde 
+bil im 
+dir ?
+
+alan larda 
+kur duğu 
+ p oz
+açıklam asını 
+den g
+sun , 
+ baş kanı 
+git tik
+bar ikat
+Yar ış
+proj enin 
+Par ti
+gazet eci 
+Merkez i 
+mek ist eyen 
+Futbol  Feder
+başta  olmak üzere 
+Cumhuriyet Başsavc ılığı 
+mah kum
+olursa  olsun 
+şöyle konuştu :
+
+ülkemiz de 
+ Aralık 'ta 
+ax y
+  lideri 
+- Spor Haberleri - Zaman Gazetesi
+
+P etrol
+S u 
+T uz
+Y orum
+b üny
+ş ak
+da  da 
+baş landı.
+
+ B ay
+etm eyi 
+ması  sonucu 
+açık layan 
+tak s
+sal on
+yol unda 
+İl işk
+yaz ıl
+ kiş iden 
+ kar akter
+kim liği 
+mücade leyi 
+uygulam aya 
+mev k
+ekipleri  tarafından 
+kamer a 
+UEFA  Avrupa 
+Vak ıf
+Dar b
+ hapis  cezası 
+And roid
+7 4
+D V
+H ız
+K ut
+b o
+c eb
+l iyor
+p l
+ç ant
+as us
+am ak 
+ad de 
+st res
+ver mey
+lı lar, 
+ü  de 
+öz üm
+oy ol
+ib üs
+belir ledi.
+
+erk an 
+let ic
+Bir  de 
+sun ulan 
+devam  edecek.
+
+Ay şe 
+Ak ıl
+may ın.
+
+mil let 
+karar a 
+bur aya 
+Kon uş
+Kon sey
+çocuk lara 
+bey in 
+fiyat ları 
+ kullan ıl
+ham ile 
+dünyanın  en 
+finans al
+ per son
+zaf er
+faaliyet göster en 
+Fırat Kal kanı 
+F i
+m ahs
+m arka 
+iy iz
+iy ot
+aş an 
+bir ine 
+inde  bir 
+esi  için 
+uyor lar.
+
+say ıl
+par ator
+mesi  üzerine 
+hayat i 
+FETÖ  ile 
+ekip lerine 
+Galatasaray , 
+El  Bab
+mez , 
+Başbak anlık 
+hat t
+mu ay
+ V E
+ top lantı
+veril ecek.
+
+Mar mar
+Rusya  ile 
+İç er
+boş an
+yaptık .
+
+yük lü 
+Hava  Kuvvet
+adi kal
+şöyle devam etti : "
+A F
+N it
+f et
+s ak, 
+ı 'da 
+an o
+lar  tarafından 
+el li 
+ay ağa 
+am ıyor.
+
+ler 'in 
+iş ten 
+ y olu 
+eş  zamanlı 
+baş rol
+ından  sonra 
+kan un
+diğ iniz 
+Baş akşehir
+mes inden 
+mes lek 
+ bir  şey
+ ol sun 
+üst len
+devam  ettiği 
+may la 
+Or general
+operasyon lar
+ hal ine 

@@ -1,0 +1,10030 @@
+#version: 0.2
+  a
+s z
+e l
+t  
+ a  
+e n
+g y
+,  
+e t
+s  
+e r
+k  
+i  
+. 
+
+a n
+a t
+a l
+a  
+o r
+z  
+á r
+i n
+e m
+o n
+o l
+á l
+e g
+n y
+e  
+  m
+e z
+á s
+  k
+e k
+é s
+ a z 
+é r
+a r
+é g
+a k
+e s
+e gy
+h o
+c s
+á n
+o t
+b b
+en  
+ü l
+i k
+á g
+í t
+é s 
+o k
+é l
+i l
+  t
+a p
+e k 
+b an
+k ö
+sz er
+i s
+  v
+e d
+ho gy
+é n
+á t
+  f
+,  hogy
+o s
+a gy
+o z
+i s 
+é k
+a k 
+sz t
+a d
+u t
+n em
+,  a
+o m
+A  
+et t
+i t
+a m
+ó l
+  sz
+s ég
+i g
+é t
+e t 
+in t
+m eg
+ a z
+u l
+el l
+ó  
+o g
+s ág
+á ny
+e s 
+a j
+ál l
+é ny
+l e
+é p
+  h
+i z
+a z
+el y
+a g
+ot t
+é sz
+,  a 
+é v
+,  m
+t ö
+á z
+i d
+el ő
+n i
+o k 
+o s 
+b en
+f el
+ő  
+a s
+kö z
+a i 
+á m
+h at
+en t
+b en 
+-  
+k or
+b e
+j a
+en d
+k i
+l eg
+v al
+ a l
+et t 
+u n
+in d
+ot t 
+ő l
+h et
+a t 
+c i
+ö n
+á s 
+j el
+i k 
+ban  
+á k
+, a m
+ m eg
+t t
+o d
+ál t
+il l
+ér t
+an  
+í r
+é t 
+ a  m
+v ez
+t a
+r e
+A z 
+r a 
+on d
+ a  k
+r e 
+ k ö
+ar t
+b er
+u d
+  n
+  p
+in t 
+r end
+t er
+u r
+el m
+ol t
+a b
+á t 
+el  
+ö l
+ol y
+nem  
+, hogy  
+ö r
+:  
+on t
+v et
+sz ág
+2 0
+n ak 
+t e
+án  
+egy  
+agy ar
+i r
+n ak
+s sz
+bb  
+o v
+á k 
+k ez
+or szág
+S z
+ a  v
+t a 
+on  
+ a  h
+i v
+al  
+n ek 
+,  d
+ a  f
+ö k
+j a 
+r a
+ár  
+n ek
+un k
+e j
+ú j
+,  h
+u s
+em ber
+á b
+ü n
+e v
+e sz
+ a d
+ a  t
+ú l
+ a  sz
+u k
+ol g
+ü gy
+p r
+,  és 
+al m
+t t 
+í v
+t at
+á bb
+m ány
+er ül
+a szt
+ho z
+á j
+e p
+  - 
+ kö z
+a sz
+é d
+ál y
+u m
+ a k
+n ap
+t .
+
+h ely
+a v
+n agy
+é z
+i sz
+ő r
+k oz
+s em
+b iz
+o t 
+tö r
+f or
+i t 
+m er
+ö ssz
+sz ám
+j ár
+i szt
+ a  p
+ f or
+i  k
+i m
+t et
+vez et
+ól  
+on y
+ö v
+t el
+ell en
+jel ent
+ér t 
+, am ely
+ci ó
+el s
+z et
+aj d
+ó d
+i at
+ill i
+r ész
+c h
+él y
+,  az 
+ü k
+a .
+
+í n
+ő k
+ sz áz
+m ény
+es t
+á ban
+l en
+ít ás
+v ár
+k i 
+ér d
+ a r
+szer int
+t art
+ig  
+é m
+s or
+t  m
+al ék
+f og
+e z 
+k ed
+é k 
+ f el
+, d e 
+j át
+n ál
+e bb
+o bb
+szer int 
+u g
+u s 
+  (
+k ép
+z ő
+és  a 
+p or
+m ű
+gy  
+ó r
+e szt
+ó k
+gy an
+ol t 
+ a  b
+y  
+t al
+v is
+ száz alék
+sz ak
+l át
+el n
+e .
+
+ő s
+i  m
+t ár
+le het
+cs ak 
+er  
+ut at
+20 0
+t ek
+il ág
+a ság
+t  a 
+tö bb
+v agy
+  -
+  év
+ut án
+  egy
+v ény
+e h
+hat ó
+ m illi
+k ül
+, hogy  a 
+ k i
+b e 
+  és 
+l et
+ö tt
+e  a 
+á d
+án ak 
+ig az
+en y
+  d
+s t
+o b
+g at
+ik ai 
+í z
+á val
+a , 
+én t 
+ur ó
+ut ó
+v ég
+i c
+k al
+z és
+v olt
+ol d
+em ény
+le sz
+  b
+a c
+kor mány
+1 9
+h áz
+é ben
+ár t
+an g
+áll am
+z s
+v ál
+ az on
+M agyar
+id ő
+ég  
+a s 
+k ap
+kö vet
+og at
+az d
+ít ott
+b ől
+ al ap
+ás i 
+f ő
+t , 
+r ól
+r ől
+é ben 
+v as
+en g
+v an
+a  m
+p ed
+t an
+ t ud
+l an
+ m ind
+il y
+n i 
+ek et 
+)  
+ok at 
+én  
+e i 
+én z
+el em
+kö r
+v er
+l ó
+ek et
+él et
+cs ap
+el t
+biz t
+ő j
+es et
+ k or
+ül et
+t én
+á ban 
+n é
+) ,
+els ő
+ a n
+j ák
+ az t 
+  s
+d ön
+p ont
+jel en
+ö tt 
+e b
+cs ak
+és i 
+u gyan
+a bb
+ét el
+ár a 
+á sz
+d í
+a  a 
+por t
+a i
+N em
+v éd
+á ció
+is mer
+f i
+ó k 
+ö z
+ t ö
+ett e 
+j án
+t ak
+g azd
+én ek 
+ for int
+j og
+b a 
+e , 
+, m er
+ár om
+és e 
+, a k
+an y
+aj n
+n él
+0 0
+  is 
+er es
+b el
+  l
+ond ta
+t ud
+e c
+A n
+ért ék
+  el
+A z
+ál is 
+ol it
+ő d
+c s 
+ő k 
+es en 
+E gy
+eln ök
+o sz
+f oly
+ok at
+ az  a
+ad ás
+20 1
+k ell
+aj t
+t e 
+h et 
+o p
+  ez
+A  m
+ni .
+
+öl d
+ov ább
+sz ab
+ol n
+h al
+? 
+
+ár d
+á v
+hoz z
+.  
+ho z 
+E z
+em el
+m ind
+sz ín
+o szt
+ al k
+er ed
+u k 
+ér e 
+ik or
+ill et
+m ag
+v el
+ü z
+A  k
+in iszt
+ás t 
+ó s
+an i
+uró p
+o  
+v e 
+ű n
+ k ap
+, a z
+áll al
+l ak
+b ól
+ f og
+S Z
+alm az
+szer ep
+f ej
+i a 
+f él
+ny ug
+ú gy
+ít és
+r an
+iz s
+, hogy  az 
+v on
+in g
+cs ol
+C s
+ü k 
+k ol
+eg ész
+n e
+ó ság
+at koz
+rend szer
+ó t
+ul t
+i p
+ün k
+ás a 
+v ált
+sz em
+dí j
+ a  s
+ k ell
+ v al
+l t
+rend őr
+ek ed
+l at
+ar ad
+iz et
+ny il
+ed d
+ tö bb
+c í
+ t ör
+ő z
+m iat
+és  az 
+h ol
+ár m
+ált al
+ő ség
+k el
+  K
+is .
+
+O r
+ett e
+be sz
+in k
+g ond
+r á
+er m
+ v ég
+en ny
+ez et
+ó z
+i  t
+kö d
+í g
+u p
+ a  leg
+k ént 
+ö s
+ás ok 
+un k 
+  M
+ t art
+és t 
+át .
+
+G y
+is t
+h ez 
+gazd aság
+l ap
+ás ár
+e x
+ét er
+ v olt
+for m
+dön t
+ú t
+al om
+i , 
+oz at
+le het 
+ö g
+j obb
+v án
+k ét 
+k ész
+, a ki 
+1 0
+ás od
+  B
+et .
+
+él d
+, a ki
+d ul
+h ar
+om b
+izs g
+ök k
+het ő
+ár s
+ sz ám
+an d
+ily en 
+  r
+érd ek
+n e 
+k od
+e f
+ö k 
+p énz
+d olg
+val am
+v a 
+ az  egy
+A  t
+l am
+ n agy
+ m ár
+es ít
+ját ék
+- es 
+ a  B
+h asz
+k erül
+u sz
+j ut
+szer ű
+ol l
+iv at
+ez t
+í gy
+áll ít
+k al 
+j ák 
+n ő
+i b
+er c
+p i
+il m
+ sz em
+ al at
+ a m agyar
+l en 
+en c
+ v ál
+oz tat
+bizt os
+á cs
+ut án 
+l al
+úl y
+, m int
+ás ok
+es ség
+vál aszt
+Magyar ország
+ny om
+r i
+j öv
+s ik
+vis sz
+t ak 
+tör tén
+ül és
+ó g
+ő s 
+. .
+cs ökk
+o f
+v e
+ik us 
+i um
+j egy
+on t 
+ny er
+ál at
+ a  F
+ k ez
+id esz
+vár os
+p olit
+I n
+g g
+v oln
+ben .
+
+ m ond
+r am
+1 5
+ a  r
+ h ely
+os ság
+t ől
+int éz
+év el
+  nem
+c ég
+a -
+ban .
+
+old al
+cs al
+c él
+ v an
+nak .
+
+m ár
+ter m
+s ok
+ milli árd
+er ős
+gy ű
+i  sz
+os t 
+"  -
+ám ogat
+j ó
+t ák
+em l
+E l
+csol at
+ m ag
+,  ez
+A l
+oly an
+ered mény
+ a m
+h on
+csap at
+en i
+ó b
+el j
+eg ít
+ped ig
+o h
+u b
+, h a 
+t  az 
+s eny
+a  az 
+es ter
+ v agy
+elő tt 
+ a  n
+ a  köz
+v ilág
+ét .
+
+ud ap
+, d e
+A  f
+ül t 
+ ak kor
+, hogy  m
+et i 
+kez d
+áll ap
+hat ár
+ v olt 
+s úly
+an em
+ó s 
+ik .
+
+ó ta 
+om ány
+áb or
+el v
+ül  
+, mer t 
+vis elő
+t or
+k er
+o cs
+ö t
+ó n
+m ér
+al l
+oz ás
+p ár
+ú  
+ajn ok
+p ály
+b ír
+is sz
+v isz
+ün k 
+av az
+egy ed
+oly an 
+ember  
+szer ző
+uróp ai 
+et len
+i  h
+as s
+z el
+igaz gat
+ a  l
+els ő 
+sz olg
+tár s
+ m ég
+elő tt
+j an
+ a  d
+úl t 
+M N
+v ány
+ün tet
+or v
+en  k
+ér f
+, am ikor
+o gy
+og ram
+elm i 
+ m ű
+cs o
+s ér
+ek .
+
+rend el
+, h anem
+iniszt er
+en .
+
+v étel
+ett .
+
+, m ajd
+besz él
+t ól
+hasz nál
+m ad
+ás s
+t ek 
+" .
+
+  S
+sz int
+ük ség
+ind ul
+3 0
+nem zet
+á z 
+ü gg
+ott ság
+al ál
+lt ség
+o c
+á ul
+b et
+gy ak
+fel elő
+rend ez
+e bb 
+mer ikai 
+l ét
+ h at
+os an
+biz ony
+  T
+o bb 
+as on
+érd és
+en t 
+ül ön
+m ell
+m ég
+,  s
+dolg oz
+in ek 
+t ovább
+or s
+A  v
+! 
+
+el .
+
+ép p
+ a  M
+1 8
+et len 
+éld ául
+f öld
+ az  M
+i gy
+ol vas
+e i
+szer et
+, m int 
+kö n
+ó v
+ ak ar
+hozz á
+f izet
+é b
+in cs 
+ ad at
+ m ár 
+er n
+ny v
+ik us
+l ép
+1 2
+ját sz
+m unk
+nek .
+
+ó nap
+ált at
+os sz
+tel j
+ped ig 
+ kez d
+er g
+h ány
+ú z
+ p ed
+ év es 
+N agy
+r u
+es s
+,  vagy
+sz or
+ köz öl
+sz ör
+  F
+,  illet
+MN O
+miat t 
+am at
+ö vet
+en n
+gy őz
+j uk
+r ól 
+t ák 
+kormány z
+u szt
+ a h ely
+ad ó
+ok oz
+ek  köz
+ho ssz
+t r
+egy ik 
+i ai 
+, ak kor
+os an 
+t ér
+ milli ó
+i  f
+or d
+nyug díj
+, a hol
+t ag
+ a  fel
+er ek
+v izsg
+egy ü
+jelen leg
+szer vez
+í gy 
+áj ék
+ir ány
+ez és
+udap est
+,  k
+  P
+követ kez
+s egít
+csal ád
+  H
+- ben 
+t  meg
+h ét
+er ő
+kül ön
+ér kez
+szer d
+ azon ban
+val ó
+iv el
+jel öl
+tör vény
+ásod ik 
+p ar
+ak .
+
+ a utó
+it el
+m ent
+v állal
+d r
+tö tt
+ú gy 
+ja .
+
+v esz
+on .
+
+ az  E
+  L
+MNO  - 
+ügy i 
+le szt
+ez ő
+ér ől
+ k ész
+e uró
+h ez
+tal ál
+ kö r
+ n ap
+tör tö
+sem  
+ü törtö
+ azon ban 
+ja  a 
+it k
+v olt 
+h árom
+at i 
+ m int 
+m ond
+g el
+on ság
+ö s 
+, h isz
+h ív
+o ci
+ul ajd
+1 6
+b ól 
+is  meg
+kor ább
+ k ét 
+ivat al
+2 5
+at on
+ott .
+
+áb ól
+csökk ent
+p olg
+h ang
+sem m
+ k erül
+rendőr ség
+ al ak
+el és
+i ó
+i .
+
+ot .
+
+ az t m
+) .
+
+h a 
+g ól
+ k ép
+E r
+kö ltség
+ájék oztat
+ű  
+gond ol
+ész et
+z ár
+m ajd
+ol óg
+r eg
+k én
+is kol
+en ek
+1 1
+al ak
+el et
+l e 
+k eres
+aj át 
+g ép
+t ó
+t am
+ol c
+nem  tud
+pr ogram
+re .
+
+p er
+ít ott 
+össz e
+n öv
+ép ít
+ kor mány
+b ajnok
+szab ály
+ ar ra
+m ár 
+l ag
+h i
+ alat t 
+cs ütörtö
+m agyar
+lehet őség
+szab ad
+at .
+
+cí mű
+h u
+ kap csolat
+,  és
+ás a
+en  a 
+) 
+
+ v ezet
+ sz ól
+, m i
+t ett
+nyil atkoz
+es t 
+és ő
+-  és 
+ a v ál
+szerző d
+ v ár
+ tör tén
+ulajd on
+a bb 
+én ek
+cs at
+M ind
+ m agyar
+ mond ta 
+gy al
+d i
+ú r
+ p r
+el ek
+ f oly
+áb a 
+h agy
+ü t
+ m ég 
+á bb 
+ü r
+M eg
+K öz
+cí m
+fi gy
+ ez er
+id e
+ kor ább
+p l
+on g
+ v issz
+köz l
+nyil ván
+  G
+utó bb
+ut ol
+ra .
+
+N y
+ m unk
+, am i 
+l ó 
+jan u
+1 7
+ v ált
+án d
+eng ed
+A r
+ít ó
+ul l
+a , a 
+d él
+ül t
+ív ül
+és s
+1 4
+oz z
+b r
+M i
+a cs
+f ont
+l y
+övet ség
+p éldául
+f r
+é j
+m illi
+ni  a 
+as sz
+ár ól
+ért elm
+eml ék
+i  a 
+m ás
+gyű l
+ek kel
+A m
+egy en
+nem  t
+  egy 
+Sz er
+szerint  a 
+ n é
+j t
+lal koz
+ter ület
+er j
+or osz
+ja vas
+  nem 
+is ta 
+gyak or
+ ar ra 
+ő v
+ű z
+ ad ó
+ab d
+, aki k 
+s p
+ az ért 
+jöv ő
+ for int 
+és ek 
+es ebb
+n ém
+r at
+cso port
+e -
+id ej
+én tek
+ik  a 
+l ás
+l in
+ár nap
+ a v ilág
+es en
+n ev
+e  az 
+A  sz
+hat ó 
+ p ont
+é szt
+ az t
+  C
+l őd
+emel ked
+elm últ 
+Nem zet
+it t 
+es sz
+ok kal
+fő n
+er t
+ob l
+pr ób
+nél kül
+r ó
+h at 
+é  
+ alk ot
+5 0
+l ov
+ú sz
+ez ett
+,  s 
+, m ely
+áll ítás
+ran ci
+ez tet
+nagy obb
+ít ani
+Á l
+ sz ak
+an t
+,  egy
+is ég
+z ő 
+for dul
+r ég
+ó i 
+fog ad
+őj e 
+  R
+ k il
+1 3
+ett ék
+ható ság
+. ,
+,  valam
+a  meg
+el jár
+bizt onság
+v él
+om m
+gazdaság i 
+pi ac
+n éz
+vezet ő
+ul t 
+in form
+t ék
+,  így
+a 
+
+B r
+ar c
+szer vezet
+obl ém
+egy ei 
+ú ja
+it ány
+at lan
+köz i 
+elm ondta
+ a ny
+iat al
+igazgat ó
+k r
+áll ás
+ az  új
+  leg
+h aj
+ny olc
+ajt ó
+v en
+ar d
+ a m unk
+h át
+mű v
+"  - 
+t úl
+utol s
+ában .
+
+ az  ország
+it .
+
+i  meg
+a in
+, m íg
+mű köd
+ében .
+
+gy erek
+val y
+j e 
+, am i
+ m ás
+be .
+
+ú s
+ az z
+e urópai 
+por t 
+m ód
+- ben
+2 7
+ százalék os 
+án ak
+H a 
+k is
+E n
+gy ors
+  D
+ér int
+ér z
+tal an
+j ó 
+m in
+h ír
+ál is
+SZ P
+l i
+ban k
+ h ét
+I st
+ot or
+lan d
+et em
+re p
+áz at
+össz eg
+szem ély
+oll ár
+ál t 
+f ek
+elő re 
+t ámogat
+:  a 
+ö t 
+edd ig
+év el 
+  be
+kör ül
+ő t 
+b al
+gy erm
+i  és 
+19 9
+s ok 
+ al á
+es ég
+né gy
+ar k
+sik erül
+ a merikai 
+új t
+rendel kez
+ás át 
+on c
+ p erc
+í z 
+Or b
+és e
+iat t 
+ ar ról
+in cs
+l ő
+kö nyv
+is m
+a y
+E z 
+j uk 
+oz ó
+ne vez
+ h árom
+ő zés
+szín ű
+ a  meg
+l év
+áss al
+tek int
+ a ján
+ver seny
+m ég 
+r om
+"  
+F idesz
+ny it
+ sz ab
+sz ól
+en et
+v ásár
+ni , 
+ mind en
+p árt
+:  "
+el ég
+n egyed
+ m arad
+Z s
+ár os
+v an 
+eh ér
+j án 
+biz ottság
+or t
+te  a 
+enny i
+ily en
+l ett
+ek , 
+hely zet
+egy  k
+id eg
+2 4
+i on
+or n
+er seny
+c ik
+sz áz
+ór i
+  szerint 
+k el 
+ít ett 
+ít él
+am p
+év es 
+" ,
+sz ükség
+ön kormányz
+együ tt
+a f
+egész ség
+ut c
+h az
+árm ester
+b ar
+u ni
+s en
+el t 
+köz ött
+  V
+el eg
+t iszt
+ül ő
+v it
+en  az 
+ér e
+ít an
+a z 
+ta  a 
+óv iv
+ a bb
+ut as
+köz el
+ogy aszt
+át , 
+r ossz
+r aj
+b űn
+ik , 
+ek ben 
+ f ő
+ h ónap
+b a
+ó t 
+oc k
+  és a 
+e w
+ó  t
+tat ás
+os t
+át lag
+ja v
+er eszt
+for r
+tel en
+á ja 
+ an ny
+  J
+oszt ály
+ ped ig
+u c
+v a
+ir od
+ alap ján
+ad at
+E uróp
+h ason
+ű r
+ az  A
+követ ő
+on n
+any ol
+m utat
+ok ban
+ mind en 
+h am
+, m ind
+pr oblém
+ér fi
+ az  állam
+lam ent
+ak kor
+ t ovább
+2 6
+án .
+
+  A
+ugyan is 
+eln ök 
+á cs 
+sz ön
+ter vez
+ell em
+ a f ő
+ék eny
+ett ek 
+ alk almaz
+n eh
+ m ondta
+tö bb 
+ a m ag
+s ő
+ az  elő
+A  B
+ val ó
+és ek
+köz ött 
+ec cs
+eket .
+
+T I
+ t elj
+ink ább
+r ak
+ár a
+ m ell
+ja , 
+e cs
+j ön
+leg es 
+ás t
+for g
+l ik
+et , 
+ez te
+ milli ó 
+any ag
+ö m
+né hány
+f ilm
+hal l
+ a  P
+ mű köd
+-  közöl
+i -
+iz m
+ch n
+ú g
+ m ajd
+kör ny
+j át 
+ a  K
+ az  ember
+har mad
+k ev
+áció s 
+4 0
+k ét
+aszt al
+on z
+a h
+or m
+ér ium
+ít ó 
+orv os
+tö tt 
+ azt m ondta
+I I
+os abb
+eb ru
+m arad
+ez t 
+v eszt
+éső bb
+ív án
+oz ott 
+, illet ve 
+m ás 
+egy éb
+ó , 
+fej leszt
+ip ar
+n ép
+n ep
+és ét 
+Sz ab
+t étel
+voln a 
+költség vet
+, am it 
+i f
+ kö vet
+n incs 
+an n
+ a k ét 
+mind en
+ö d
+ a  T
+C h
+b or
+en ci
+  szerint
+l ub
+er r
+öv id
+2 2
+alm as 
+k utat
+k it
+leg al
+ f ej
+bír óság
+ig ény
+vissz a
+b üntet
+és re 
+ből  
+ál d
+intéz mény
+b íz
+ an nak 
+at ív
+ m ód
+z ett 
+kö l
+g áz
+o j
+s aját 
+él kül
+meg .
+
+er enc
+okat .
+
+Egy es
+- as 
+em ok
+ k ev
+ f él
+ ad ott 
+  N
+n ök
+a  (
+, d e a 
+iniszt érium
+s ért
+kö tel
+ban , 
+ a  H
+v íz
+- f
+in ál
+r em
+ség  
+t em
+k ér
+ a  S
+áll ított
+ün nep
+es , 
+ azz al
+M ar
+ó gy
+ az  első
+ for dul
+2 1
+r ek
+le p
+Ál lam
+Or szág
+i ac
+k őzés
+t ám
+ v él
+en v
+  elő
+í l
+ v isz
+ik a 
+gyerm ek
+ált al 
+ az  ügy
+ott , 
+i ch
+ett ék 
+ m ér
+iv el 
+érf i 
+nagy obb 
+ec ember 
+ az ok
+t iz
+en ek 
+h ajt
+ci ó 
+. hu
+ok .
+
+id erül
+B al
+sz avaz
+szolg áltat
+en z
+ez ett 
+A  leg
+ t alál
+oz ó 
+üz let
+D e 
+f öl
+von al
+bet eg
+2 3
+j ól
+mind en 
+al ap
+ell en 
+város i 
+ás ra 
+inform áció
+j ának 
+ben  a 
+int ern
+or g
+án t
+rész let
+b ár
+ k is
+nak  a 
+,  meg
+ar mad
+1 00
+ép viselő
+l ány
+gy árt
+csap at 
+o w
+v el 
+E gy 
+tó ber
+polit ikai 
+p al
+fek tet
+ t er
+en , 
+ász ló
+f ut
+ százalék kal 
+ h ang
+áb ól 
+csütörtö kön
+es ély
+ott ak 
+cs er
+oz g
+rész t 
+em utat
+on , 
+ellen őr
+ köz l
+en cs
+ k ülön
+án os 
+ milliárd  forint
+L e
+ut az
+el ér
+ta .
+
+hi ány
+játék os
+árs aság
+ any ag
+ség et 
+ap itány
+ra  is 
+t itk
+en nek 
+env ed
+- e 
+J obb
+r ány
+ül et 
+ t an
+cs ú
+ v ilág
+, m ég
+ val am
+h áz 
+l ég
+at ok 
+mell ett 
+en erg
+, ak ik
+ a vál aszt
+g ar
+ez te 
+ t áv
+kö t
+d et
+a  és 
+ság  
+ával  
+ a p énz
+ sz int
+.  - 
+i  s
+foly am
+gy ógy
+ százalék kal
+í m
+tö n
+k om
+ a sz ak
+e it 
+i a
+gy eng
+ az  el
+al k
+nem  is 
+  c
+és t
+ell át
+én .
+
+á hoz 
+cs om
+ar ács
+ém et
+ít vány
+, hogy  meg
+f ok
+p art
+z en
+új  
+ a F idesz
+os ítás
+sor án
+arács ony
+p éntek
+i  b
+és ét
+öl t
+visz ont 
+Gy ör
+ó  k
+ó zs
+ar ab
+oz ás 
+r t
+szerep l
+et eg
+ki .
+
+növ eked
+ár t 
+bel ül
+on  k
+vesz ély
+ vál aszt
+oci al
+en s
+Magyar  
+e in
+it t
+jelent ős 
+s ék
+ó val
+ a  kormány
+polg ármester
+ tör vény
+  ór
+ok , 
+ap asztal
+ed v
+g al
+av ar
+javas lat
+l el
+at t
+ár a.
+
+u ház
+ok tóber
+l em
+á p
+í sér
+R end
+j obb 
+l egy
+köz ül
+ről  
+tan ul
+esít mény
+ az  id
+for d
+ked d
+-  t
+ur g
+vezet ő 
+In d
+tal ált
+kén t
+ség i 
+a it
+re c
+ór ház
+.. .
+ez er
+szám ol
+intern et
+ a  V
+edd ig 
+ a  D
+end ég
+An dr
+- ban
+ír óság
+volt .
+
+hall gat
+ol cs
+ér vény
+pr il
+kö szön
+os tan
+össz e 
+2 8
+áll ó 
+sz e 
+ez z
+ t úl
+be jelent
+ k ét
+ a  ki
+idő szak
+ millió  forint
+ alkot mány
+társ aság
+- én
+ szem ély
+é ből
+ék ony
+od ell
+szám ít
+kész ül
+utols ó 
+,  K
+ut al
+ a m ű
+ó ra 
+ú t 
+erős ít
+l ott
+ek ben
+adás ul
+e , a 
+p erc
+en i 
+A  M
+érd em
+Ú j
+nagy on 
+r el
+cs up
+l og
+r ál
+nagy  
+üz d
+kész ít
+ az egy ik 
+- K
+v á
+, hogy  h
+ köz ött
+A  h
+udapest i 
+amp ány
+ter em
+ a p ar
+ ar ány
+esz köz
+ügy m
+fog lal
+  elnök
+e it
+z et 
+gy il
+G ábor
+, amely ek 
+l ett 
+te sz
+utóbb i 
+ v esz
+ ped ig 
+en  meg
+- k
+I tt
+több  mint 
+gyakor lat
+ol asz
+éss el
+a  - 
+állap ot
+ az  elmúlt 
+alm i 
+sik er
+eng er
+vizsg ál
+  I
+val y 
+ m int
+ t ag
+os , 
+ett , 
+ta valy
+prób ál
+be fektet
+r észt
+g ol
+janu ár 
+nak , 
+Nemzet i 
+  is
+b a.
+
+Orb án 
+fél e 
+r án
+ák .
+
+g el 
+ter v
+ők et 
+foly amat
+oz ott
+véd elmi 
+Z olt
+ny elv
+dönt ő
+Egyes ült 
+o u
+ít ás 
+  "
+b all
+ep t
+i k ell
+V ik
+il ag
+sor ozat
+i  fel
+N ew
+ad ó 
+hely ett
+, ez ért 
+O l
+ás .
+
+acs ony
+ej t
+m en
+A k
+M SZP
+ol im
+st r
+l om
+ész ak
+K V
+ok ban 
+át or
+ott hon
+u h
+u z
+is s
+S t
+a  is 
+as árnap
+eres ked
+, hisz en 
+von atkoz
+t , a 
+alm as
+6 0
+ur cs
+, mer t
+ugyan akkor
+üz em
+ség e 
+meg felelő
+te h
+tel en 
+ánd or
+f ügg
+t ék 
+ v éd
+egy re 
+-  mondta 
+ m utat
+ör ög
+ák at 
+sz k
+cs elek
+  Sz
+v eg
+ul ás
+ni  az 
+M ik
+n á
+An t
+omb at
+nemzet közi 
+r övid
+es ek 
+ kör ül
+á pril
+V ilág
+b ocs
+jelent ette 
+I g
+j ük
+P éter
+ n ev
+est e 
+épp en 
+m ai 
+, valam int
+eg ed
+elő ször
+hoz .
+
+i  p
+ellen e 
+ az a utó
+polg ár
+el ep
+szerep el
+k il
+i  K
+il t
+be vétel
+ fog lalkoz
+úja bb
+bar át
+am er
+pénz tár
+omm un
+Ist ván
+t áv
+ h asz
+ ak ad
+t ól 
+ h al
+kön ny
+szervez et 
+k érd
+er d
+  le
+e 
+
+un d
+ ez er 
+vél emény
+nem  volt 
+ők et
+intéz ked
+ n ő
+r áj
+id éz
+ - ,
+igy elm
+V al
+ét ől
+l ist
+er re 
+om éter
+csökk en
+ét , 
+s port
+, hogy  k
+fel é
+2 9
+D F
+f al
+m el
+egy ver
+ v an 
+iz ál
+ ak t
+ az a merikai 
+ez ek
+es emény
+r ád
+ind ok
+P r
+in ak 
+il eg
+a it 
+h e 
+v ev
+-  ír
+ja  az 
+é z 
+ f ont
+Egyesült  Állam
+  ellen
+a x
+f ed
+j ól 
+ér e.
+
+ci us 
+het ő 
+sz ig
+ész ség
+h ir
+ő  t
+i  az 
+történ et
+k ívül
+gyan ús
+lin e 
+é cs
+vizsg álat
+áll ó
+ az M TI
+emok rat
+b ér
+in an
+ sz ükség
+új ra 
+nem  k
+köz ép
+erül et
+Vik tor
+B iz
+j ú
+.. .
+
+ a  G
+ért .
+
+visz ony
+eg et
+ek kel 
+árm az
+ a magyar  
+csom ag
+e vez
+f t
+l et 
+bajnok ság
+sor ban
+b uk
+n a 
+t  és 
+an at
+ek re 
+ember ek 
+ n ov
+f ő 
+í ció
+ef on
+az ai 
+tel ep
+kor i 
+kép p
+sz él
+együ tt 
+ö bb
+ás ával
+ik  az 
+ir at
+len ne 
+szabad ság
+i ra 
+, amely nek 
+ tö bb 
+ulajdon os
+at árs
+nagy on
+Z rt
+gyil k
+er ős 
+egy  év
+ény eg
+, a  m
+áss al 
+ol aj
+ben , 
+ egy ik 
+ás át
+kép zel
+hozz át
+v ér
+ő , 
+án c
+súly oz
+er s
+án k
+t est
+te v
+nek  a 
+ic s 
+g et
+és ének 
+olg áltat
+foly tat
+- ban 
+vezet őj
+l an 
+um ent
+lát ogat
+term észet
+jelöl t
+f ér
+ köz ött 
+ugyan is
+ette  hozzá
+ foly tat
+ fog almaz
+uni ós 
+í p
+ok kal 
+ az  al
+vas árnap
+in n
+közl eked
+ez zel
+es et 
+A  F
+színű leg
+Itt hon
+os s
+ec ember
+ró f
+S ch
+ár ul
+on i 
+A m agyar
+és ére 
+ köz el
+hossz ú
+ár gyal
+egy szer
+kell ett 
+t  is 
+, hogy  a k
+, amely  
+ő t
+em  
+ül és 
+- re 
+3 5
+B udapest
+R e
+gyű jt
+é hez 
+meg  
+azd aság
+ják .
+
+ber uház
+ózs ef
+h ivatal
+egy es 
+ok ument
+ter j
+jelent ős
+ranci a 
+ár folyam
+ek nek 
+ul at
+össz esen 
+segít ség
+ szab ad
+sz enved
+ism ét 
+U gyan
+cik k
+köz öl
+Nem  
+U ni
+b emutat
+d ig
+i j
+r al
+szer encs
+te chn
+ a f or
+új ság
+ né gy
+ k ül
+ f ilm
+Ind ex
+m int
+ek sz
+ a h ét
+állap od
+janu ár
+ok ra 
+ett e a 
+tt il
+. ),
+ a ut
+,  ám
+tak .
+
+3 1
+tan ács
+kép viselő
+sz ület
+  és
+v áj
+ön t
+áld ozat
+be cs
+T am
+ek t
+vis el
+ap ír
+ v állal
+het etlen
+ek kor
+Itthon : 
+en ni
+unk .
+
+lév ő 
+h  
+véd elm
+es .
+
+egy előre 
+án t 
+ett  a 
+ás ára 
+ad alom
+in gat
+el fogad
+on f
+ a m ásodik 
+ m ost 
+, m ivel
+rep ülő
+rész vény
+cselek mény
+ott  a 
+ön ny
+k ocs
+ország i 
+hason ló
+ü d
+,  M
+ ak ár
+ a sz em
+Rend őr
+szeret n
+l abd
+el  a 
+egy szerű
+4 5
+ó .
+
+ók at 
+k ett
+t űn
+ú tt
+át ól
+ d ollár
+B ar
+h úz
+v ar
+in f
+ f ügg
+r o
+ós ság
+j ában
+ek en 
+ik ai
+ a k is
+- kor
+és  m
+ép ület
+ta b
+ny újt
+úl t
+l ám
+gy el
+  sem
+e inek 
+h ib
+P -
+b őv
+szer zés
+ p énz
+ó ja 
+ő i 
+ők apitány
+:  az 
+j ellem
+v e a 
+ v erseny
+voln a
+k ín
+,  és a 
+iz en
+áz s
+éd i
+r ag
+ott a 
+ta  meg
+É s 
+érdek lőd
+h ónap
+r it
+N émet
+ír ás
+enn tart
+ abb an
+j ai 
+ott ak
+olim pi
+ok nak 
+ség es 
+ alap ján 
+ól ag
+tek .
+
+iniszter elnök
+ek köz ött 
+,  nem
+al ék 
+es ül
+ek  a 
+ t al
+erős öd
+h itel
+am ar
+M ár
+külön b
+in c
+ sz ín
+értelm ű
+8 0
+h ábor
+csú cs
+sz ír
+t  ki
+ m ás 
+ követ kez
+ir ől
+né gy 
+ném et 
+at , 
+szerint  az 
+fog lalkoz
+é .
+
+egy ik
+A  s
+ás , 
+Az  E
+in  
+k ar
+e um
+é  t
+ö ző
+év ek 
+bocs át
+k a 
+A  b
+ a p olit
+ez ő 
+at aszt
+ad ás 
+le vel
+ny i 
+len n
+omány os 
+lét re
+d ob
+, hogy  n
+i k épviselő
+föld i 
+ vissz a
+szer ez
+besz éd
+ra , 
+e  (
+, a hogy
+inan szír
+é be 
+k ért
+z ék
+ k edd
+ik öz
+ok on
+ellen ére 
+ot , 
+vár os 
+ém et 
+ k iv
+m ost 
+dön tött
+nő tt
+talál koz
+ol ta
+ít s
+ét er 
+lát sz
+ink ább 
+N ép
+i m unk
+ogat ott 
+o ur
+ás t.
+
+ut y
+ja  meg
+19 8
+ ak art
+armad ik 
+l ass
+p an
+er v
+ügy nök
+An d
+  Y
+d ollár
+ a v ég
+ás okat 
+ k om
+cs ill
+vál asz
+csak  a 
+v ét
+ol og
+és ével
+z és 
+szak asz
+tak ar
+sz ív
+es ebb 
+vállal koz
+o x
+p ont 
+szolg ál
+okument um
+m i
+ő en 
+  után
+egy  f
+hat atlan
+ n élkül
+ob il
+E d
+l u
+, a n
+vár ható
+hossz abb
+MNO -  K
+z ett
+ot ó
+ t erm
+sp anyol
+k érdés
+t ény
+ok tat
+ v izsg
+felelő s
+ed ző
+hasz n
+ezt ék
+tiz ed
+M int 
+ir t
+polit ik
+k ény
+kell  
+" -  mondta 
+eg ény
+ás ának 
+B er
+ m iatt 
+ f izet
+s al
+id ék
+illet ve 
+ataszt róf
+  g
+ar úg
+jár mű
+jelent kez
+pár t 
+ kezd őd
+, illet ve
+F erenc
+i cs
+k an
+i ány
+Györ gy
+O n
+ország  
+er t 
+ t ámogat
+is , 
+re , 
+szám ára 
+Orbán  Viktor
+v án 
+án ál
+hét főn
+és  meg
+, valam int 
+ékeny ség
+ a  C
+, hogy  "
+, h a
+Ország os 
+b árm
+obb an
+ an gol
+G azdaság
+ a h
+- i 
+m a 
+á gy
+jár at
+ kell  
+szerződ és
+ h ír
+jelenleg i 
+váj c
+el i 
+A  T
+ból .
+
+ock ázat
+mag as
+úja bb 
+ h agy
+hez .
+
+szak ért
+éss el 
+rá adásul
+r id
+ben  meg
+har c
+b ek
+r eng
+ban  is 
+u gy
+ a  g
+es ítés
+cs od
+ész eti 
+ő sz
+ a f ej
+, amely et 
+enged ély
+, am it
+korább i 
+ingat lan
+n al
+ett el
+ kész ül
+q u
+ a  "
+ a k érdés
+ör tön
+telj es 
+s eb
+á ja
+l ás 
+ k it
+ak , 
+kül d
+keres ked
+el ev
+ az  első 
+lak osság
+sikerül t 
+9 0
+g a 
+an ak 
+ár os 
+vagy  
+ alat t
+F el
+n er
+á ig
+sz ok
+ol v
+pr of
+e ur
+f ogyaszt
+t ett 
+t ént 
+ez on
+ép ítés
+id én
+köz pont
+nek , 
+jobb an
+H ír
+b urg
+szolg álat
+ain ak 
+j on
+o y
+ m éter
+term ék
+gyűl és
+körny ezet
+ a h áz
+ek köz ött
+ más ik 
+L ászló
+ny ár
+eset ben 
+7 0
+d e 
+u ális 
+ az MTI -
+A  K
+p anyol
+en k
+an i 
+ m in
+s el
+is  el
+jöv ő 
+as h
+ász ló 
+ek ről
+val ak
+ m ent
+nál  
+ az ért
+elő ny
+igaz ság
+at eg
+oz at 
+ sz ármaz
+év e 
+len ne
+a y 
+ak or
+cso port 
+n ov
+ország ban
+ több  mint 
+,  S
+egy  t
+fel tétel
+ő  k
+eb rec
+olvas ható
+z aj
+ett ek
+val ós
+jog szabály
+r ab
+ó  f
+el követ
+szer v
+nem  v
+ben  az 
+mell ett
+En nek 
+e ik
+ba  kerül
+ös en 
+ am ely
+ kapcsolat os 
+, a  k
+ kell ett 
+éj szak
+  ember
+t ő
+ó ban
+  E
+at al
+vez ér
+miat t
+. :
+p oz
+ h a 
+ebru ár 
+J ózsef
+a u
+egy  h
+él i 
+ad ék
+ell ent
+nem  lehet 
+ a sz ám
+szint e 
+, hisz en
+ alak ul
+l er
+hal ál
+orv át
+nevez ett 
+K or
+ás ik 
+polit ikus
+  lesz
+f aj
+áll at
+Jobb ik 
+ sz avaz
+ p olit
+ száz alék 
+a hely
+ al acsony
+ur ális 
+ a p ály
+ an nak
+közl emény
+T an
+f ény
+In ter
+nyilván osság
+P er
+ez ért 
+köszön hető
+R om
+s e 
+rend kívül
+ered et
+p ill
+d arab
+ a k ül
+igaz ol
+oh a 
+Index  - 
+szerd án
+-f őkapitány
+első sorban
+eni .
+
+z avar
+sz övetség
+el és 
+S ándor
+a valy
+t om
+,  B
+id ő 
+be foly
+iv atkoz
+an c
+ m egy
+i m ag
+úz eum
+int erj
+ej én
+udap est 
+b -
+r ad
+at ér
+zet es 
+ ar ról 
+korább an
+izm us
+ meg jelen
+ n ek
+ a p iac
+ülön b
+ hasz nál
+j ából
+r ög
+ás ú
+, a  B
+elt e 
+ Y or
+ ak ció
+MNO -  P
+s on
+end ő
+ kil ométer
+k in
+as t
+szem pont
+íg ér
+Ig az
+É r
+elő re
+ter h
+tár gyal
+ebru ár
+ü tt
+egy etem
+ológ iai 
+ennyi re 
+legal ább
+milli ó
+A ttil
+ a k ap
+ n éz
+Magyarország on
+d al
+ber g
+" -  mondta
+N ap
+p éld
+ö kö
+lát ható
+ szem ben
+ereszt ül
+t  el
+egy -
+ az  alap
+ korább an
+biztonság i 
+k ot
+es ed
+ al ig
+tab il
+L eg
+er s 
+ k iderül
+A  P
+össz es 
+sor án 
+ig en 
+dönt és
+ut ball
+mér sék
+következ ő 
+l op
+ sz ület
+ik  meg
+rendez vény
+i val
+j ában 
+Or osz
+f ehér
+ell eg
+önkormányz at
+A d
+j ával
+re form
+győz t
+ az M SZP
+urcs ány
+H ozz
+i  ki
+ál óz
+ m ásod
+t m ár
+ b el
+Szer int
+ al kal
+, mer t a 
+ünk .
+
+ánd ék
+  csak 
+K r
+j ég
+ho m
+hal ad
+c ég 
+í t 
+ek  meg
+ ak ár 
+elek tr
+űz olt
+B ár
+f f
+r ang
+ín ai 
+lehet ett 
+F ő
+,  sz
+ak at 
+ hat ár
+n év
+ sz óviv
+ a mag án
+ó c
+tö meg
+ük .
+
+ról .
+
+oszt r
+neh ez
+- től
+ az  év
+om  
+ n öv
+ n eh
+áj át 
+Egy etem
+ker et
+5 00
+e het
+l ez
+elő l
+köz ben 
+ a v áros
+dí ja
+ranci a
+cs inál
+ent e 
+port ál
+ö tö
+New  Yor
+j e
+er re
+ek  szerint 
+ a sz ab
+több ség
+hir det
+h a
+ott ák
+ a b r
+. )
+
+a ch
+ok  és 
+ebb en
+egyéb ként 
+l öv
+l ényeg
+áll om
+C ar
+s ő 
+ind ex
+ szab ály
+szer k
+  és az 
+i  el
+egy etlen 
+ v ez
+enny iség
+T öbb
+ n incs 
+-főkapitány ság
+on al
+ez er 
+ mag as
+, mi után
+L aj
+a ik
+i ó 
+z öld
+ az  O
+ac k
+áb l
+3 00
+an cs
+len ül
+csat lak
+íp us
+t án
+ocial ista 
+, m iköz
+ajt ót
+Gy urcsány
+vel  ez
+n incs
+ző d
+reg gel
+  át
+  által
+- én 
+ százalék a 
+3 2
+a : 
+ör ös
+csat orn
+n ok
+v ág
+án i
+sor s
+b usz
+p ad
+ellen i 
+ított ák
+ s ik
+ ah hoz
+i ek 
+v il
+,  f
+er es 
+öv eg
+jöv ed
+ept ember
+h ull
+j ött
+et  a 
+or r
+is  fel
+tart almaz
+t m ind
+tanul mány
+d erül
+állam titk
+ismer t 
+a utó
+, hogy  a t
+követő en 
+ez és 
+tö z
+kor lát
+L M
+er ről
+ól .
+
+ ar any
+ d olg
+elnök e 
+l at 
+ny al
+ a k ez
+biztos ítás
+ kö nyv
+rész e 
+est i 
+hoz  kép
+ ezer  forint
+K i
+R o
+nyugdíj pénztár
+ó -
+ t ér
+ek  és 
+ák  meg
+pr ém
+mag uk
+ateg óri
+  euró
+t év
+át  a 
+ill .
+
+hozz áj
+jó val
+sz áll
+tö lt
+pr oj
+ek int
+lak ás
+E bb
+g r
+ny i
+ny íl
+ a f ilm
+hoz ott 
+ló s 
+ a hely szín
+A  köz
+h ivatkoz
+,  H
+ van  sz
+ul  
+El ő
+ommun ik
+m al
+an ak
+, a  sz
+ország ban 
+ ar c
+raj z
+)  - 
+l ott 
+t  fel
+ek v
+ p ár
+vál ság
+, majd  
+csup án
+ a par lament
+le .
+
+ta  az 
+nemzet i 
+ c ent
+,  így 
+ m i
+elő z
+ ki cs
+osz k
+ volt .
+
+ pr ób
+h ess
+k ék
+n ő 
+te .
+
+nap i 
+ők et.
+
+font os
+köl cs
+energ i
+3 4
+t apasztal
+ér i
+ebb ől
+Cs ab
+ip lom
+l áb
+ az  ad
+, a  f
+őr izet
+3 6
+ k érdés
+áz is
+állam i 
+ az E urópai 
+ k er
+köz ös
+bel ül 
+s -
+s ajtó
+ v ád
+elm ond
+össz et
+bel i 
+D un
+N é
+z el 
+sz óviv
+sok kal
+- án
+- ig
+M ég
+r ed
+ak ar
+is s 
+A  d
+hely en 
+ját .
+
+figy elm
+egy ház
+éső bb 
+Zolt án
+ben n
+ber t 
+ azt m ond
+p at
+ad ott 
+ír t 
+a m ár
+alak ítás
+ajtót ájékoztat
+A  fel
+Í gy
+ított a 
+egy más
+ p éldául
+össz ef
+ a hely zet
+per sze 
+ű v
+ban k 
+eml ít
+, de  az 
+D SZ
+v ett 
+el képzel
+ v asárnap
+hely i 
+ né hány
+eur ó 
+S port 
+j ük 
+z at
+hogy  
+, hogy  a m
+köz vet
+B L
+egy értelmű
+ni a 
+ a f igyelm
+Szab ó 
+jelent és
+,  P
+és b
+uk ció
+dél után
+;  
+U -
+Az t 
+E m
+p ót
+ér m
+id én 
+nak  az 
+vált ozat
+ápril is 
+b i
+v ill
+ű t
+ a  L
+tö l
+köz t
+tt ól
+vég ül
+ajn ok 
+nép szerű
+M ad
+an k
+év ben 
+ a k ép
+ mind ig 
+enny i 
+o od
+ t iszt
+is ta
+nem  h
+hely szín
+h it
+kap csolat
+s eg
+elt ér
+gondol kod
+oz ik
+ki r
+ked v
+ísér let
+ig o
+ügy elet
+i ak
+t il
+ár am
+ a h ír
+haz ai 
+-  mondta
+a il
+ő  h
+en ed
+or ú
+A  H
+ az t a 
+lesz  
+ják  a 
+par lament
+A  meg
+G éz
+es ek
+ított a
+ult urális 
+ist ák 
+súly os 
+- os 
+m otor
+er enci
+an ad
+t m ár 
+volt ak
+Hozz át
+3 7
+ol ás
+br it 
+: 
+
+sz áz 
+át um
+K ét 
+M ag
+a ir
+ez ni
+ell ett 
+nek  az 
+elem ző
+bizt os 
+ szól ó 
+Orb án
+l ék
+A  S
+pr od
+ a b al
+h ét 
+fel .
+
+milli árd
+i  (
+ m érték
+ov ács 
+csill ag
+k íván
+on tt
+ k önny
+v a.
+
+sz állít
+ked vez
+nyilatkoz at
+újság ír
+on a 
+én i 
+fel adat
+ a sz ín
+et ek 
+il ap
+ a p árt
+Biz ottság
+- t
+.  d
+ő .
+
+lesz .
+
+19 7
+bizony ít
+ közl emény
+internet es 
+. -
+ a h azai 
+győz elm
+n a
+ál m
+és  k
+, hogy  a f
+ör ök
+ a t an
+csol ód
+teh át 
+On line 
+szerk eszt
+B C
+ó ta
+es ett 
+forg alom
+Rendőr -főkapitányság
+s okat 
+in a 
+ban  a 
+A  p
+Az  M
+csak  az 
+I m
+s on 
+és eket 
+körül mény
+ visz ont 
+b aj
+i h
+om p
+Sz övetség
+rendőr ök 
+elj es 
+3 3
+t uk
+ az ok 
+van .
+
+vált oztat
+p p
+ak ad
+ t űn
+ kö ltség
+sér ül
+ellen zék
+öz ő 
+ nagy obb
+jegy zés
+ talál koz
+gy er
+ az okat
+ száz ad
+tovább i 
+Mi ch
+terem t
+- e
+et e
+ m úl
+ja , hogy 
+ebb en 
+miat t.
+
+ közöl te
+A  kormány
+l ít
+ak ént 
+id ei 
+ország os 
+old og
+nél  
+Gy őr
+ellenőr zés
+á ció 
+sz ül
+or igo
+és ben 
+ut t
+on  is 
+legal ább 
+t ét
+ek ez
+egy  sz
+j elleg
+ak ció
+is  a 
+ség ek 
+ával .
+
+ mind ig
+úgy nevezett 
+jut tat
+kezd őd
+V ar
+m os
+m éter
+t  kap
+ál ó
+egy  p
+it ív
+be  a 
+több ször
+bizony os 
+uszt rál
+Am ikor
+min c
+f iatal
+v ád
+ h át
+hat ás
+un g
+izm us 
+J el
+ mell ett 
+ár ól 
+él t
+te het
+ for g
+ kép viselő
+ológ i
+harmad ik 
+ fordul ó
+J ános 
+ci vil
+ milliárd  forint 
+P  
+a valy 
+í d
+jelent ette
+ők ént 
+iniszter elnök 
+együtt működ
+en er
+ t ájékoztat
+it al
+győz elem
+ a p
+szerd án 
+száz alék
+D N
+e y
+p apír
+szt ráj
+év i 
+ a v erseny
+- ,
+-  a 
+- s 
+e  és 
+te szt
+mű sor
+van nak 
+bal eset
+á hoz
+meg old
+ a h árom
+vég én
+őj e.
+
+és t.
+
+val ó 
+st rat
+19 5
+m érték
+ a gg
+ott  az 
+be vezet
+ős ít
+ecs k
+L ig
+U n
+sz av
+el ni
+in él
+ur kol
+ók .
+
+[ origo
+strat ég
+v en 
+ár is 
+, hogy  nem
+áb a
+tel efon
+vár ium
+ib or
+való színűleg
+T V
+,  nem 
+ az  adó
+szám l
+jelent i
+és ét.
+
+illet ék
+kot mány
+T im
+b ont
+, hogy  t
+re ag
+ a v állal
+vezet ője 
+előtt i 
+J oh
+P ál
+h ad
+i e 
+om at
+eset leg
+jog os
+által án 
+- A
+és .
+
+ alkal omm
+U S
+gy ár
+ig en
+ul cs
+ a f oly
+árt y
+gazd ag
+nyug at
+ a  Sz
+Ant ik
+.  kerül
+k onc
+A  G
+fel vétel
+leg nagyobb
+ög ött
+ am ikor
+és  a k
+elő d
+hat nak 
+av állal
+eny eget
+ fog ad
+ szem ben 
+bűn cselekmény
+K ín
+l egyen
+Az  A
+art óz
+eljár ás 
+, a  M
+úl i
+emel t 
+  óta 
+r on
+ m ásodik 
+ez ek 
+szám os 
+ vál asz
+gyűl és 
+I d
+én ny
+ki fej
+ezt ék 
+gyógy szer
+ügynök ség
+r up
+el vény
+ban  meg
+, az t 
+idesz es 
+ nov ember 
+. B
+V agy
+t h
+á ki
+hat .
+
+ason ló
+ipar i 
+ügym iniszter
+T E
+t ájékoztat
+ m iat
+ek tor
+szer kez
+le x
+,  L
+ok nak
+, a d
+ta valy 
+asz kod
+ a b íróság
+et  is 
+áj át
+közöl te
+összef ügg
+ v it
+im éter
+kel et
+lov áki
+befoly ás
+,  T
+ban 
+
+ott ák 
+ev iz
+- közöl te
+Antik várium
+  W
+. c
+ssz ony
+éd iat
+iszt án
+Ez t 
+3 8
+ol ni
+ok  meg
+rendőr ök
+Online  Antikvárium
+Online Antikvárium  - 
+in k 
+aj át
+ajn al
+ker eszt
+d ék
+ely ik 
+ör vény
+ a f öld
+Al kotmány
+erj ed
+érdem es 
+er eg
+ot rány
+, h a a 
+úgy  vél
+tól .
+
+ kész ült 
+ v on
+ sz él
+új ra
+épp en
+oci ális 
+b ajnok 
+k ik
+ug uszt
+telj esítmény
+érkez ett 
+ korább an 
+C ím
+Ö n
+fel használ
+:  M
+eket , 
+kötel ezett
+jú ni
+  első
+z i
+an ch
+ a t árs
+sér ülés
+arc el
+kom oly
+j ött 
+ k utat
+elm i
+öl cs
+jut ott 
+- ra 
+c ig
+ed vez
+ben z
+ák at
+lát vány
+lehet őv
+be  v
+let artóz
+visz ont
+e  meg
+es nek 
+ t árs
+kap itány
+a m ár 
+ azt  is 
+hez  kép
+választ ás
+E g
+r ont
+t y
+z i 
+ül d
+od a
+uk .
+
+ alk alm
+lam ent 
+Ny ug
+ közl eked
+- t ette hozzá
+óz kod
+jobb an 
+ nagy on 
+H a
+ k ésőbb
+le vél
+hely ett 
+ában , 
+vár i 
+ magyar áz
+ötö d
+c el
+f g
+h ass
+é ig
+ál kod
+it ás
+öl gy
+ről .
+
+ anny ira 
+P et
+i har
+án os
+ett e.
+
+et  kap
+ni  fog
+ani .
+
+P ar
+á ig 
+on kr
+Az  első
+ran k
+korább an 
+egészség ügyi 
+V as
+ a  rendőrség
+es e 
+ép ül
+jel zés
+, amely ek
+tart ás
+elt ék
+ai val
+ kap ott 
+ing t
+15 0
+b a, 
+á f
+ez t a 
+ az  egész
+A  Fidesz
+ az óta 
+ul ó 
+áb a.
+
+m eccs
+A  D
+ki adás
+jár a 
+jár ul
+áról ag
+súlyoz ta
+tev ékenység
+L ászló 
+b ár 
+m ondta
+ár oly
+00 0
+állít ólag
+biztos ít
+  című
+O b
+én t
+om sz
+ug r
+idő ben 
+, az on
+" -
+B el
+ a  nagy
+es él
+et  és 
+év tized
+font os 
+ t erület
+ir ály
+ szól ó
+d ecember 
+t ette 
+á c
+szer zett 
+ett em
+ogat ott
+ a  cs
+19 6
+üz emel
+ vár ható
+f egyver
+t  k
+iz árólag
+ a m últ 
+ov ább 
+ s ajtó
+vált oz
+- án 
+K ar
+f érf
+A  rendőrség
+, hogy  egy 
+ d önt
+.  század
+m oz
+ő  f
+,  D
+ellen .
+
+idő jár
+a m iatt 
+ a r ég
+ült ség
+idej én
+e chn
+vég re
+A k ét 
+Ist ván 
+költségvet ési 
+T ud
+d okumentum
+A  C
+érdek ében
+szerd a 
+reg ény
+irod alom
+Cím kék
+V ég
+g al 
+r obban
+v endég
+sz ó
+ok on 
+ul mány
+eres ég
+okat , 
+ vég én
+sok kal 
+sen ki 
+gyilk osság
+5 5
+kö v
+én tek 
+ítás a 
+ a B KV
+én k
+ a h armadik 
+tart ott 
+be  kerül
+ből .
+
+érint ett 
+( a 
+után .
+
+telj esen 
+ korább i 
+font osabb
+ítani .
+
+, hogy  egy
+H orvát
+I ly
+i ós 
+Az  új
+iv ál
+i t ag
+ már cius 
+I l
+at ot 
+elő  
+ki cs
+t m ég
+ók at
+. )
+i o 
+et e 
+on lap
+ t ám
+ h áz
+el  is 
+ ki fej
+ adat ok 
+figy elem
+Nemzet közi 
+lov ák 
+cser él
+ú ra 
+,  ez 
+ett  az 
+os  k
+olt ak 
+N A
+t 
+
+leg nagyobb 
+ p ar
+, akkor  
+ kev esebb
+sz ak 
+ek ént 
+cég ek 
+mér kőzés
+szint én
+i ak 
+v ad
+sz ol
+, m ivel 
+állam polgár
+ hét főn
+l assz
+el fog
+ak t
+ak oz
+olt ák
+eset ében 
+, az az 
+ a s aját 
+B íróság
+I s
+a , az 
+g l
+r og
+sz al
+er ej
+kö lt
+hat ja
+ meg old
+ug ál
+a m ind
+út i 
+h av
+Ú gy
+e  is 
+ez  a 
+ kö tel
+ p éntek
+ azon nal
+op er
+óg ép
+  él
+- es
+j ap
+ít ő
+ h ivatal
+tat iszt
+of f
+, ez ért
+  óra 
+t unk 
+É n
+or s 
+sem  tud
+fog almaz
+m an
+u j
+en ki 
+,  és az 
+, hogy  a sz
+be szerzés
+Az  ügy
+ör ül
+elev íz
+K ap
+és re
+ent r
+od a 
+ kör ny
+ár a, 
+elő bb
+ön ség
+ év e 
+, hanem  
+utols ó
+Tam ás 
+d or
+e ch
+u zs
+ for m
+19 4
+SZ DSZ
+ nagy on
+nemzet köz
+en ként 
+leg jobb
+ci us
+előtt .
+
+Világ : 
+ugy an 
+rá ci
+- M
+ü veg
+sz ór
+ság ot 
+iniszt er 
+ mint egy 
+inf l
+omsz éd
+f esz
+i  jog
+án ak.
+
+ít élet
+ h az
+hely ez
+eddig i 
+at lan 
+ál at 
+ az  a 
+st íl
+eset én
+D e
+r áz
+án  k
+ig et
+K ft
+m ozg
+szer b
+uk t
+jelöl t 
+Zrt .
+ az  él
+ell y
+ük et 
+, ak inek 
+omb aton
+jövő re 
+t al 
+É szak
+sz ich
+el ismer
+ d él
+a m iat
+jut ott
+igazgató ja 
+Hozzát ette
+S port
+o  (
+ás át.
+
+ír ta
+ a h át
+ün et
+kap cs
+ akkor  
+beszél get
+semm i 
+el h
+és éről
+gyan ú
+pénz ügyi 
+Európ a 
+t ulajdon
+ő mérsék
+t  (
+in gy
+iz g
+év ekben 
+, m ár
+ben  is 
+ki  a 
+ált ák
+ a v íz
+us ok
+szín ész
+In t
+j ából 
+ó m
+sz ép
+sz ob
+het i
+ált ak 
+ör öm
+ták .
+
+körny ék
+ vesz ély
+ akad ály
+B udapest 
+d er
+l a
+r ám
+ p ály
+I r
+k őz
+ált a 
+ország ok 
+lak ó
+4 00
+D él
+M F
+u kor
+or vég
+ér ség
+cs úsz
+hat nak
+end ő 
+ony ol
+, mer t az 
+érz ék
+tám ad
+függ eszt
+ellent ét
+s s
+ö ny
+olt a 
+Sz eged
+ivat al 
+ vár os
+lep et
+3 9
+e ci
+ő  sz
+ a ttól
+el , 
+ol  
+csütörtö k 
+j úli
+s ó
+t íz 
+an élkül
+ m eccs
+ t íz
+én él
+os kod
+ a t est
+ külön b
+l eked
+n i kell
+o og
+el te
+több i 
+te  meg
+ező ny
+kis ebb
+át  és 
+áj ának 
+össz eh
+ az a ny
+dr ág
+ol ó
+is  k
+ik  majd
+lehet ne 
+T ibor
+a el 
+d ig 
+r ist
+ad almi 
+ért es
+olg ár
+szám a 
+pont i 
+7 5
+S im
+e it.
+
+i an
+r ág
+et  az 
+in ek
+interj ú
+osztr ák 
+r os
+v ár 
+ f ok
+le veg
+esz prém
+H at
+f iz
+ál ó 
+ek től
+, m ond
+ása  szerint 
+ a r om
+indul t 
+tiz en
+Andr ás 
+felelős ség
+ash ingt
+t en
+t , hogy 
+él emény
+ t esz
+szt ár
+ák kal
+kép es 
+ezt ek 
+kezd emény
+Joh n
+H ar
+sz űn
+az il
+ köz ép
+által ános 
+ arra , hogy 
+műv ész
+  rész
+E urópai 
+á ci
+ a b
+el  az 
+en  fel
+ett ől
+ a p ár
+eny h
+tovább ra is 
+ foly amat
+. d ecember 
+u t 
+ru h
+ mér kőzés
+ az id ei 
+n orm
+ a  R
+ic c
+van  szükség
+eket e 
+iskol c
+ kapcsolat ban
+jellem ző
+od ern
+ a k ét
+olg ármester
+An gel
+anch ester
+- m
+e y 
+an  meg
+ol ja
+egy m
+áll and
+MNO -  BL
+emlék eztet
+4 4
+f enntart
+l áz
+kö ny
+Magyar  K
+nyom oz
+ azz al 
+onf erenci
+i an 
+en nél
+an k 
+és é
+es t.
+
+át  is 
+uk at 
+ köz ep
+i k ap
+ór um
+terj ed
+.  év
+m egy
+r át
+ a hogy
+van nak
+of őr
+ism ét
+ostan i 
+d ecember
+en s 
+or  
+i m iniszter
+elmi szer
+Ob am
+Á r
+en nek
+ k eres
+áll t 
+nál .
+
+bel e
+ l it
+ a leg jobb
+K ovács 
+d iplom
+m ar
+ f igy
+het .
+
+Gy ul
+bajnok i 
+ kis ebb
+.  perc
+t ette
+egy es
+szerd ai 
+önkormányz at 
+beteg ség
+t unk
+iz ra
+ja i
+őj e
+fej lőd
+olimpi ai 
+ a  nap
+em p
+ k m
+es  k
+ott a
+ben ne
+het etlen 
+ismer tet
+ arra , hogy
+A  V
+ben ne 
+for gat
+4 2
+ás os 
+vég ig
+ s egít
+hon lap
+R T
+ az  ár
+án k 
+am  
+ vagy  
+ F erenc
+J an
+r év
+ek nek
+ak at
+elő zetes 
+ud var
+, hogy  nem 
+:  B
+éd es
+ an t
+  új
+oz ni
+ell ép
+ben y
+ók nak 
+pill anat
+d emokrat
+ek nél
+ h iány
+ ad ta 
+elt űn
+k ellene 
+o pr
+sz ent
+el ik
+i  M
+ad alm
+ut at 
+ó  és 
+az in
+ra f
+eb o
+abd arúg
+4 8
+f érfi
+r emény
+s k
+v iz
+ú d
+ m egyei 
+ f öl
+id ős
+ír ó
+ a m ér
+ond oni 
+gazd álkod
+telj esít
+F C
+c ar
+ó ban 
+sz eg
+egy eztet
+ik a
+év e
+kor  
+ind ult
+ért e 
+ber end
+ ad ósság
+elem zés
+oll ár 
+ minden ki 
+neh éz 
+ szint e 
+irt ok
+Sport  Géz
+4 6
+r itk
+es k
+os ok 
+het nek 
+ a hely i 
+erő szak
+piac i 
+péntek en 
+Sport Géz a - 
+b l
+ü sz
+en ő
+, m ilyen 
+hat almas 
+ hely zet
+fok ú
+kir ály
+üzemel tet
+stíl us
+.  hely
+M egyei 
+T ör
+s oha 
+ű , 
+ a n émet 
+öt let
+milli ó 
+Ugyan akkor
+s tabil
+es -
+ l ak
+ult úr
+H o
+I z
+i , a 
+m enet
+ k i 
+A  szak
+áll omány
+köz ös 
+ ki alak
+Cs ak
+voln a.
+
+- közöl te 
+október  
+H ogy
+K  
+ a uguszt
+ál koz
+leg  
+ a p árt 
+ tör tént 
+ham ar
+n al 
+ű köd
+on s
+en  is 
+ v er
+ci on
+re jt
+Br it
+e  M
+tart alm
+nyer t 
+i sz int
+ anny it 
+gyanús ított
+ít ja
+il abd
+le v
+hat ja 
+kez elés
+szerep lő
+, mint  a 
+használ at
+ideg en
+m el 
+ó bb
+,  F
+,  G
+él ő 
+ f elm
+ h alál
+i t ámogat
+Magyarország on 
+ mű sor
+gép kocs
+tervez ett 
+v idék
+ m oz
+fel j
+ a m ai 
+ur al
+mer ikai
+ l ét
+érték esít
+erm észet
+polit ikus 
+- közöl te a 
+M ivel
+b ék
+v itel
+el k
+,  egy 
+elm arad
+ellen fel
+en k ívül
+aton ai 
+eljár ás
+ombat on 
+écs i 
+l ig
+é  vál
+tal án
+ló s
+, ahol  
+ológ us
+Alkotmány bíróság
+  élet
+t , és 
+,  R
+er -
+ok ból
+jár műv
+Az  a
+ az M DF
+ezz el 
+szig et
+  után 
+. H
+r el 
+el i
+elő ző
+ l ép
+mód osítás
+csup án 
+4 9
+ az  Egyesült Állam
+én k 
+, m i 
+len ni
+vagy on
+áv ol
+nyug ati 
+d ik
+f inanszír
+j e.
+
+ő n
+ny új
+ok ról
+uk at
+okoz ott 
+ az elő ző 
+emok ráci
+oktat ási 
+rög z
+és  a t
+fel ső
+ azt  is
+felelő s 
+neh éz
+4 1
+A -
+B or
+e im
+s ereg
+ü v
+,  ki
+ik , a 
+ind ítvány
+zs id
+of t
+ek 
+
+es ett
+ t eh
+elég ed
+5 6
+ a  W
+,  csak 
+e  szerint 
+ az  élet
+ t árgyal
+it y
+ nov ember
+Mad rid
+P ed
+d olog
+ k üzd
+ az  euró
+on  belül
+fi ú
+tovább á
+ aján lat
+f érfi 
+v ide
+ a  cég
+ja , a 
+ n ép
+:  K
+jelen t meg
+jog i 
+pály áz
+ kerül t 
+hatóság ok 
+ax im
+Nép szabadság
+elkövet ett 
+  előtt 
+- Sz
+S C
+T ovább
+ol t m
+és  a m
+egy ű
+is k
+ fel adat
+hábor ú
+ k ar
+ut h
+ön mag
+isz ap
+ött .
+
+ján .
+
+A k utat
+Cs ak 
+ével .
+
+e ai 
+ t íz 
+ad t 
+ásár a.
+
+következ ő
+ide ig
+kr it
+ápril is
+v ész
+ö szt
+ü s
+on str
+ val ak
+ásár ól
+usz on
+P éter 
+ek  - 
+ v el
+hat ékony
+ a f iatal
+rész , 
+egyed ül
+ munk atárs
+kedd en 
+z ott 
+ek ből
+ v íz
+sor ban 
+rem él
+képp en 
+reng eteg
+Orosz ország
+" a 
+Ö ssz
+ö nyv
+ t ette hozzá
+be , 
+új ítás
+volt ak 
+ac ebo
+ház y 
+ót h
+gyakorlat ilag
+ás  után
+Az  O
+mer ik
+, illet ve a 
+rek ord
+terj eszt
+jelentős en 
+proj ek
+)  -
+6 5
+S te
+t ar
+ö p
+egy ség
+ell ett
+hat alom
+üz enet
+, aki t 
+LM P
+- helyett
+M inisztérium
+ó ra
+egy et
+ v is
+ható .
+
+ajn os 
+sok szor
+között .
+
+- európai 
+v ir
+ó  sz
+ár ny
+in om
+ t ény
+is  az 
+ben 
+
+ügy véd
+i k ép
+bizony talan
+forg alm
+ügym inisztérium
+járul ék
+á ért 
+,  J
+at art
+ho w
+át ól 
+a m ag
+elep ülés
+D ebrec
+el efon
+ h aj
+us s
+ a b eteg
+ic k
+út on
+Re al 
+A lap
+f áj
+s im
+,  el
+ k ett
+ér e, 
+is  ki
+re f
+nak  tart
+ők .
+
+Ny om
+" -  nyilatkoz
+  gól
+g örög
+ m áj
+cs eh
+oz s
+ forint os 
+Ez zel
+nyer t
+ millió  forint 
+Györ gy 
+i  H
+és ével 
+él ő
+ h ív
+, és  meg
+i m agyar
+ismer etlen 
+ val ó 
+, amikor  
+ font os 
+ cent iméter
+O ly
+ez en 
+, m ás
+ív ül 
+Magyar  T
+oldal i 
+fr iss
+elmondta :
+d ek
+h ord
+ a  jövő
+et sz
+ez d
+ a k ülönb
+ a sz avaz
+II I
+Jobb ik
+  hogy
+M ost 
+b elő
+o -
+z al
+Á V
+eg atív
+ej én 
+len gyel
+volt  a 
+ered eti 
+, hogy n e 
+a , hogy 
+p uszt
+r . 
+t ur
+an ci
+a  k
+ett e, 
+áz s 
+fel eség
+egyik  leg
+j on 
+l us
+ít hat
+am b
+ a v ád
+vel .
+
+von ul
+útt al
+F rancia
+at ol
+ok s
+él et 
+ában 
+
+ór ium
+csütörtö ki 
+Mind en 
+eresked elmi 
+4 7
+G D
+L en
+h úsz
+h álóz
+es szor
+ f iatal
+hoz am
+all gat
+ür d
+negyed év
+Zs olt
+költségvet és
+Int éz
+- sz
+H ol
+H am
+J ános
+r ét
+ér zés
+os .
+
+A  R
+Sz ak
+ a f org
+rész ét 
+erc ed
+ a szem ély
+elektr on
+b án
+m odell
+os abb 
+be fizet
+ ak i 
+össz ek
+i m ér
+hozzát ette
+- -
+T O
+i er 
+ k isz
+én z 
+ont a 
+jár ó 
+ac k 
+ van .
+
+ a vál ság
+hason ló 
+Ol asz
+Un it
+.  november 
+v a a 
+ a v issz
+, amely et
+fog ás
+elnök ség
+Mi h
+szervezet ek 
+lév ő
+szükség es 
+ítan i 
+ telj es 
+föl dön
+- ír ja a 
+seb esség
+ü ssz
+e  van
+szerű en 
+25 0
+erj eszt
+lem ond
+MNO - K A 
+államtitk ár
+  idő
+B  
+b örtön
+k ésőbb
+l emény
+r ajt
+,  V
+Az  elmúlt 
+övet kez
+F otó
+h isz
+ü tt 
+et r
+egy általán 
+ t izen
+ék .
+
+nem  sz
+meg  a 
+be számol
+ a f érfi
+lát hat
+lehet .
+
+eh hez 
+elt ek 
+játék os 
+igazgat óság
+, vagy is 
+lő tt
+ tovább i 
+, an nak 
+. rész, 
+R á
+p o
+ h onlap
+ja , hogy
+ a v izsg
+kap ott 
+ a köz ép
+Er d
+ a fő város
+And re
+ vez ér
+öszt ön
+M int
+b onyol
+e iről
+s í
+ok ból 
+il enc
+át , a 
+ad ók 
+, m ost 
+ét  és 
+ d e 
+ alap vet
+száz ad
+ millió  euró
+kölcs ön
+édiat örvény
+a ut
+f est
+l ek
+t , hogy
+ő városi 
+em et
+ás ra
+val óság
+ n evez
+következ t
+ kil enc
+útt al 
+B e
+c a 
+f ot
+nem  kell
+elő adás
+ond on
+tár gy
+zs d
+hu ny
+Mik lós 
+ másod perc
+D av
+H árom
+v egy
+ t est
+us i 
+ milliárd  dollár
+jan ak 
+osan  meg
+munk atárs
+ aján dék
+Zs olt 
+Gazdaság : 
+- t 
+- ös 
+a w
+d eviz
+ü m
+gy el 
+ít eni
+fel mér
+as ság
+d ől
+m i 
+sz ét
+en 
+
+ f ut
+tö k
+ok  is 
+ív  
+ köz ös
+sor ozat 
+kerül t 
+Zolt án 
+4 3
+f ogy
+p ár 
+É v
+ok tatás
+, a  K
+elő ző 
+ind ított
+ a k utat
+ód ott 
+, hogy m i
+rak ció
+orm a-
+oszk v
+l ett.
+
+er ék
+at órium
+ m odell
+ít ják
+, a r
+ h et
+elő fordul
+ák , 
+, am íg
+, ak ár
+szerep et 
+ függ etlen
+a , hogy
+t ulajdonos
+ a  N
+ok 
+
+ az  alkotmány
+nek i
+ a t eljes 
+ szám ára 
+Nagy -
+ költség vet
+S E
+S h
+szeret né
+forr ás
+l es
+l án
+ a gy
+szer z
+ v et
+et  meg
+ük et
+választ ási 
+győzt es 
+S ok
+a it.
+
+ó nak 
+ol ó 
+ k ik
+val a
+sem .
+
+ for r
+ a b el
+kormány  
+ismer et
+ is  meg
+ L ászló
+labd arúg
+kény szer
+b oly
+r oh
+ö z 
+ügy észség
+tart oz
+vál ogatott 
+eset ében
+ugyan az
+enek ül
+ ter vez
+-  m
+m ásodik 
+z ét
+é be
+on line 
+egy ar
+cs ont
+nem  m
+ber t
+ter r
+Sz ám
+iat al 
+A m ásodik 
+A v ilág
+jelenleg  
+alk ot
+V an
+j e, 
+ol f
+ás ban 
+egy ez
+ék es
+köz ben
+ent ő
+ind ított 
+ köz vet
+rész ben 
+omb at 
+ szám ol
+ kom oly
+k órház
+z ió
+egy  m
+ sz áz 
+ag óg
+ a v áros 
+kész ítés
+alál koz
+onz erv
+Német ország
+ésb é
+kötelezett ség
+-  az 
+M ester
+f enn
+ü st
+köz ep
+ir án
+ százalék ra 
+vált ozás
+oll ég
+Var ga 
+Unit ed
+el kerül
+cs in
+val l
+ a f og
+ód ik
+abb an
+véd ő 
+ r eg
+üt em
+ném et
+mód os
+kev esebb
+Ak kor
+ fogalmaz ott
+nov ember
+  ország
+em pl
+ás , a 
+ a h aj
+ több ször
+állás pont
+ereszt ény
+1 20
+b oldog
+d in
+k éz
+l és
+s ó 
+t us
+Á g
+ek re
+ak  a 
+be fej
+ p er
+ot  is 
+ egy ütt
+ tart ott 
+szint én 
+üt köz
+mint egy 
+cig ány
+Rá adásul
+  ló
+( M
+r iv
+ű k
+és  a sz
+ág az
+nem  akar
+ h ét 
+kez elő
+iv ár
+idő s 
+ pr ogram
+orosz  
+foglalkoz tat
+.  forduló
+A b
+F ran
+g um
+t án 
+ f igyelm
+om oly
+te hető
+ a t ovább
+éd ia 
+áv id
+fordul ó
+részt vev
+a  szerint 
+ v oln
+ sz ép
+meg állapod
+i m ind
+eml ített 
+ mag án
+part ner
+. V
+M DF
+t ük
+ár ad
+ k im
+om .
+
+A  lap
+het ett 
+ab in
+ történ et
+ vállal koz
+takar ítás
+s el 
+s ug
+ k ér
+ar át
+ni a
+vég ez
+a m ég
+ M egyei 
+ub lik
+szerződ és 
+ magyar  
+követő en
+szerepl ő 
+MNO - P L
+r úg
+z a 
+el ég 
+ár i
+ár k
+em .
+
+ít ő 
+, mint  am
+intéz et
+ális an 
+I MF
+M art
+P ort
+s ajtótájékoztat
+ a pr
+ a  kor
+ik ént 
+ v ásár
+én ek.
+
+it ás 
+, hogy  ez
+ek köz ül
+más ik 
+ megjelen t 
+ a figyelm et
+p il
+ö b
+ok nál
+ n e 
+áj ában
+ése  szerint 
+Az  amerikai 
+ nem zet
+jó vá
+, vagy  
+egy kori 
+szt al
+ sz olg
+ány i 
+ény szer
+év  
+köz é
+ta v
+te hát
+ember t 
+av éd
+eset ben
+munk a
+rek lám
+h öz 
+ez őd
+él mény
+ f ebruár
+szám olt
+ a b űn
+fő i 
+világ bajnokság
+Mih ály
+F K
+w eb
+ö vezet
+at a 
+ed ik 
+nem  lesz
+ov ic
+állít ott 
+nyilvánosság ra 
+- ig 
+N ov
+T h
+a ul
+j ö
+eg nap
+en  belül
+A  L
+szerint .
+
+ház tart
+fő leg
+eset leges 
+dí sz
+ a s port
+Er ed
+magyar  
+üzem anyag
+e a 
+f ű
+t im
+t íz
+t uk 
+,  Sz
+ig  tart
+es  és 
+het nek
+ellen ére
+ció s 
+ec cs 
+emel te
+dönt és 
+ mag as 
+magas abb
+Brit an
+- n
+M at
+l ő 
+sz üntet
+el ad
+ p árt
+ra v
+ebb en az 
+vissz av
+rendez ett 
+é t esz
+- B
+- nek 
+. F
+g ent
+on 
+
+át y
+-  olvasható
+ügy ész
+ köz ös 
+szól al
+ a br it 
+z árt
+cs őd
+ f ebruár 
+nem csak 
+, a  leg
+ a k lub
+ában  is 
+ai ak 
+usz  
+ vezet ő
+ azt án
+információ k
+ hal ad
+i  alap
+k ár
+ó an
+ás a.
+
+év vel ez
+ám adás
+öl töz
+, hogy  ez 
+ov ics 
+idő pont
+áról .
+
+gyerek ek 
+ az állam i 
+hull ám
+ötöd ik 
+  illetve 
+g át
+ek en
+ta  fel
+, h a az 
+hely zet 
+eszt ivál
+.  január 
+ex ik
+valam int
+tám adás
+T he 
+k üzd
+cs end
+ett el 
+Cs eh
+ szem ben.
+
+játsz ott
+való színű
+óri ási 
+Nagy- Britan
+s e
+s ch
+á  vál
+á pl
+á hoz.
+
+ k íván
+él elmiszer
+ h itel
+köz el 
+het i 
+Az  egyik 
+jár t 
+szerint e 
+véd elem
+ forint ot 
+átlag os 
+ polit ikai 
+Kr iszt
+New Yor k 
+ontt al
+Jel en
+í j
+ü tött
+ar n
+ sz eptember
+áll t
+ni e 
+hat n
+ kö t
+ják  az 
+gond olt
+ volt ak 
+tavaly i 
+H ét
+T al
+r al 
+gy ors 
+ett ség
+ százalék át 
+ a leg nagyobb
+érdek ében 
+határ ozat
+ológ ia 
+iskol a 
+telep ülés
+ a ki
+er ny
+ m otor
+és nek 
+ f öld
+nem  tart
+ n egyed
+ran d
+lét ez
+hát rány
+legy en 
+egy év vel
+New Yor k
+ a szab ad
+F ehér
+b otrány
+h ű
+m ann
+r an 
+ a  család
+,  "
+ok ba 
+ad al
+, m it 
+ p ont 
+ov j
+ a h ang
+, amely ben 
+igazgat ási 
+ fej leszt
+lel k
+E h
+J os
+i ába 
+w w
+ás nak 
+ni e
+ n év
+ta  el
+ a sz él
+jelen t 
+ forint ra 
+di ák
+ millió  dollár
+ecsk em
+:  m
+k os 
+y -
+ a sszony
+ k is 
+-  B
+od or
+ azt  jelenti
+Ez ért 
+ vál ogatott 
+Mind en
+vá gy
+Laj os 
+oft ver
+5 7
+C l
+G r
+g er
+ t avaly
+év ente 
+ált a
+ a v éd
+tör tént 
+tud at
+mag át
+Európ a-
+Inter n
+ van sz ó
+L ev
+e  volt
+ok a
+ t ár
+szám ára
+ni  kezd
+up er
+ják  meg
+pály ázat
+ kapcsolat ban 
+ szak asz
+ term észet
+S p
+i ban
+t ál
+ör ny
+, h ol
+erül t 
+ult ak 
+ások kal
+ason ló 
+éb ként 
+ történ elmi 
+gyal og
+vásár ol
+önkormányz ati 
+jav ul
+ között i 
+ a for int
+ növ eked
+D i
+k o
+k elt
+v g
+ez en
+nem  fog
+leg felj
+sik eres
+sp eci
+vonatkoz ó 
+Mich ael 
+k up
+s áv
+és ű
+él vez
+on  és 
+eln i 
+vissz a 
+ pr oblém
+ visz ony
+ kics it 
+arcel on
+benz in
+- j
+,  fel
+ m ozg
+ság i 
+hat ott 
+ meg állap
+ált ák 
+ azon os
+tud omány
+op p
+mag án
+semm is
+raj ong
+ nő tt
+8 5
+V ál
+Á m
+el ején
+ m iniszterelnök
+ a t ársaság
+nő i 
+err ar
+)  és 
+G u
+N SZ
+d em
+g ener
+ér j
+ t onn
+aj án
+év ekben
+nap ilap
+kap csolód
+úgy  tűn
+figy el
+javas lat 
+T isz
+k óz
+z a
+en , a 
+ény i 
+ki alak
+ a m in
+nem  lát
+szak mai 
+tud om
+ex uális 
+sok an
+ették .
+
+repülő gép
+vg .hu
+5 1
+l it
+l ánc
+t ém
+t enger
+es e
+isz ony
+ód ott
+kép zés
+ mind össze 
+hosszú  táv
+  is.
+
+N B
+P E
+S -
+é bb
+ez r
+oz ási 
+-  jelentette 
+ a v ár
+ők nek 
+igaz i 
+ismer ős
+ip p
+ist ák
+egészség ügy
+költségvet és 
+kil enc
+ingy en
+% -
+us t
+szak i 
+csak nem 
+etlen ség
+dolgoz ó
+nyolc ad
+rom án
+att int
+poz íció
+állom ás
+ az Európai  Uni
+bizonyít ék
+F ej
+el kezd
+en ek.
+
+et ű
+ k érd
+ek  az 
+és e.
+
+ok k
+ban  az 
+ett ek.
+
+ h at 
+ci p
+ás  miatt 
+jel en 
+ért e
+ör eg
+ód szer
+A f ő
+par ancs
+ kész ít
+semm i
+teh er
+K ároly
+P ár
+i o
+t él
+sz ed
+sz im
+ál ni
+ny ereség
+, hogy  a h
+ott h
+id olg
+ a f érf
+i k ész
+nő tt 
+Magyarország  
+, s ő
+legy őz
+T ermészet
+d ám
+l él
+ny ar
+ez ért
+ig h
+ p éld
+őj e, 
+ög ött 
+reg gel 
+táv ol
+ígér et
+fg an
+onkr ét 
+  O
+l er 
+ a  törvény
+nem  f
+nem rég
+Az  első 
+nagy ság
+ azon os 
+ szám ít
+sér ült 
+ából .
+
+éj jel
+S panyol
+a im
+b log
+ít és 
+it y 
+ h av
+Sz il
+ a f rancia 
+ep ció
+ic k 
+elt ék 
+ szám olt 
+Szab olcs
+eszköz ök
+buk kan
+ a szab ály
+H al
+v a, 
+ok  - 
+ír ja
+tak  a 
+ a s ajtó
+elv esz
+össze csap
+ a munk a
+társaság i 
+uh an
+sztráj k
+letartóz tatás
+oog le 
+onzerv atív
+6 00
+I tt 
+c o
+p h
+t ípus
+án túl
+ban , a 
+ed zés
+ni , hogy 
+ud ai 
+jelent őség
+tal an 
+ d ön
+ s ok
+and átum
+ommunik ációs 
+! !
+D ávid
+Z al
+r ák
+el eti 
+ sz ív
+ész re
+jel ezte
+ a f ogyaszt
+ a t ud
+pont os 
+ásár a
+ nagy  
+, mi után 
+fr ikai 
+ telj esít
+ akt ív
+e ink
+i on 
+s újt
+e  B
+es te
+bb an
+ v as
+nem  kap
+A  W
+meg állap
+ a v ált
+Nem zet 
+fok ozat
+szeretn ék 
+  lehet 
+s ej
+ü szk
+ok ra
+ t avaly 
+ig .
+
+ét , a 
+ni k 
+ a m ásik 
+rész vétel
+t m ag
+ajn ai 
+hető .
+
+, mint  az 
+éről .
+
+, mi ért 
+ az új  
+onf lik
+9 8
+F T
+ó t.
+
+ m os
+os  Angel
+fel ügy
+ a k ar
+ köz el 
+fél  év
+ása  szerint
+cél ja
+ kezd emény
+hossz ú 
+ né gy 
+ a polit ikai 
+poz itív
+faj ta 
+terr or
+- as
+n  
+t  ad
+z ik
+,  C
+ér ez
+ t ekint
+ut ak
+ör ös 
+ot  kap
+jár t
+, az  A
+, de  nem 
+következ mény
+ének es
+esen  meg
+fejleszt ési 
+ellenzék i 
+a  M
+es en k
+ember ek
+élet ét 
+egész en 
+ a s panyol
+oh ány
+lép ett 
+külön ös
+ivatal os 
+repülő tér
+kőz és 
+h alm
+ m ély
+ a m ás
+ony i 
+lehet ős
+ ez r
+biztos an 
+ a n ev
+ mód os
+m úl
+sz e
+sz elvény
+ez eket
+és , 
+ér e a 
+19 3
+beszél t
+bal eset 
+negyed ik 
+Kor ább
+  Al
+M i 
+j ós
+hogy an
+meg bíz
+fel ül
+ a b ajnok
+től .
+
+ aján l
+ alkalomm al
+5 2
+5 8
+e ik 
+m ély
+z ó 
+em , 
+ t av
+og tat
+, h árom
+ók kal
+st ad
+ított ák 
+ tud ós
+ a d él
+Ar sen
+on k ívül
+gyűlés i képviselő
+Per sze 
+K at
+i er
+k ockázat
+r áció
+t ábor
+ő re 
+ar ag
+ az  angol
+, m ár 
+ a m otor
+uk r
+, és  m
+vég én 
+ b ajnok
+nyug od
+ az E U
+gyűl ési 
+A ki 
+d a 
+f agy
+t  egy 
+ás t, 
+ar r
+ p iac
+ a v endég
+éz ilabd
+vezet és
+kép esség
+ver eség
+ szám os 
+állít ás 
+vállal at
+utc ai 
+veszt eség
+létre hoz
+vájc i 
+DN P
+9 5
+G örög
+b ú
+i ú
+w it
+on  meg
+ol ják
+ok  a 
+ut ód
+tan ú
+orv át 
+reg iszt
+ telj esítmény
+lez ár
+Né hány
+Iz ra
+. K
+P h
+k és
+l or
+é h
+é hez
+al ép
+ k edv
+ k ellene 
+ni , hogy
+ov  (
+ver s
+ors od
+ adat ai 
+uszt ri
+gondol at
+ szak ért
+óri ás
+büntet ő
+derül  ki
+szerkez et
+  által 
+] -
+d  
+ás 
+
+és ére
+és  sz
+ban  van
+os od
+meg határ
+elő k 
+ni uk
+köz ül 
+zs er
+o  R
+ alak ult 
+ négy zet
+ ker et
+ szóló  törvény
+G ól
+e  szerint
+ot , a 
+szt or
+ h ib
+ész et 
+ír ó 
+biz alm
+ők kel
+lét szám
+rossz abb
+A  ki
+f utó
+ó 
+
+ f érf
+ét  a 
+ki fizet
+ a h itel
+ a t art
+igaz án
+ nagy obb 
+közös ség
+til tak
+fgan isztán
+S em
+k lub
+a  P
+ol um
+, a l
+ az  adat
+leg inkább
+áj át.
+
+i k apitány
+volt , 
+kör zet
+jelen ség
+által ában
+ták  a 
+ T am
+hét en 
+akad ály
+d e
+l ím
+s őség
+és eket
+egy  másik 
+ik i
+szer es 
+it a 
+ h amar
+iz t
+, m ag
+, m ikor
+ n incs
+ tud om
+A m unk
+által ában 
+érkez ő 
+ táv ol
+ aut omat
+Tan ács 
+gyer ek 
+ete or
+m ennyiség
+t űz
+sz án
+ a  be
+ k elet
+ f ény
+it , 
+ön ként
+ont r
+ügy fel
+ milliárd  euró
+ a n egyed
+öt ven
+szeret ne 
+tag ja
+irány ítás
+nev ű
+ körül mény
+Gyurcsány  Ferenc
+  Z
+R ich
+i án
+m ester
+ak od
+egy más 
+en  el
+kor ú
+ellen es 
+nyer te
+ autó pály
+ nap pal
+ mell ett
+ vél emény
+ vizsg álat
+jöved elem
+  ill.
+
+E szt
+H agy
+R ó
+n ők 
+t ábl
+z ón
+Á dám
+sz ék
+at ék
+il leg
+ v eszt
+A  N
+év é
+ill anat
+ber ális 
+Sz lováki
+uk at.
+
+ór ák
+ított a a 
+ mind két 
+ kor lát
+ l ap
+A m ásik 
+ mag am
+ vált oz
+orvos i 
+Real  Madrid
+6 4
+D om
+V an 
+m it
+m an 
+i  B
+at os 
+ az  utolsó 
+ t apasztal
+elő k
+nak , a 
+igaz án 
+vég re 
+idő ben
+enc e 
+" -  tette hozzá
+ az elő ző
+K ülön
+f ur
+i , hogy 
+l ad
+Ü gy
+en  (
+ t erjed
+ad ósság
+og rá
+ s ok 
+ése  után
+ a leg több
+voln a a 
+ a l ég
+éből .
+
+-kor eai 
+5 3
+T óth
+i 
+
+l o
+m it 
+t enni
+sz ándék
+et , a 
+ez s
+ás ban
+ az  adott 
+tö m
+Sz ín
+ ad dig
+i m ajd
+any ar
+rendszer vált
+gond oskod
+út on 
+ telj esen 
+gyűjt emény
+eredet ileg
+j ét 
+t i 
+v i
+v ette 
+a  B
+ny úl
+ik et 
+be  az 
+iv er
+ a t ag
+ily en k
+, hogy m ilyen 
+ilyen kor
+üzlet i 
+- t ájékoztat
+ a vállal koz
+leveg ő
+Q u
+g árd
+n ék
+ít ja 
+szer elm
+szer te 
+át  az 
+ev íz
+tel evíz
+, az az
+ügg etlen 
+így  is 
+hozzáj árul
+e : 
+n et
+n er 
+v ent
+Ö r
+ a  nyugdíj
+at ion
+kor ong
+ai , 
+gyak ran
+, s őt 
+Nagy on 
+család i 
+úgy  döntött
+három  
+ a világ  leg
+haj land
+ális an
+parlament i 
+ékes fehér
+t ovább 
+ú ra
+szer ző 
+ a h ol
+ a f al
+us ban
+tal án 
+lehet séges 
+ forint tal
+tud ós
+vissz atér
+ kép es 
+főn ök
+ tovább ra is 
+Magyar  Nemzet 
+beny újt
+h ős
+v ív
+ő en
+os ár
+id e 
+Az  MSZP
+ több et 
+ mód on
+jöved elm
+.c om
+értes ülés
+ural kod
+G e
+W ashingt
+b es
+t üntet
+y om
+ k ésőbb 
+ek , a 
+ot a 
+át 
+
+leg jobb 
+ kö l
+ör g
+szám ú
+vezet ők 
+egész  
+kormányz ati 
+rep ül
+ vizsg ál
+b őr
+r ov
+,  A
+er et
+ál  
+ál ás
+ek  szerint
+A  l
+ir det
+illi am
+zs ák
+ s ér
+ nem  tud
+erg ely
+  szerint a 
+C ap
+v e.
+
+é ig 
+ m ennyiség
+ít ható
+és  után
+ sz ok
+ő  és 
+ a k arácsony
+us k
+ját ék 
+én  is 
+ai .
+
+ az a ut
+gyű j
+ennyi ben 
+Szab ad
+Ország gyűlés 
+E U-
+i P
+or od
+em leg
+ol ás 
+ m i 
+ek hez 
+iz ár
+ért ék 
+ont in
+t m ond
+ház i 
+min őség
+onn an
+ min őség
+Attil a 
+őmérsék let
+G er
+v íz 
+ek tár
+es ő
+en  és 
+ f érfi
+ad ta
+ig ur
+tat ási 
+szak ad
+ker ék
+rendel et
+ S t
+olvas ó
+szk y 
+anc ou
+D em
+K is
+a ur
+i ban 
+m at
+o hol
+p ir
+v in
+el é
+ a  cél
+om ment
+ség es
+, a  P
+ a k ész
+ün ch
+19 2
+bel ép
+, mint ha 
+Ch els
+, hogy h a 
+f elől
+em iatt 
+ny ak
+ az  orosz
+ek  is 
+áll .
+
+, m ég 
+ni , és 
+ a f él
+ a t ár
+uk rán
+fő bb 
+ az a ján
+pénz t 
+tett ék 
+if jú
+ akt iv
+nyíl t 
+  úgy
+c k
+m énny
+v at
+on véd
+A  nagy
+ét  is 
+ a k ocs
+ a k ínai 
+Sz al
+unk , 
+ot  és 
+vis elet
+lesz nek 
+vel e 
+ünk , 
+pedig  a 
+cso por
+ alá ír
+ion ális 
+M ás
+j en 
+p al 
+in ősít
+ed ék
+elm élet
+ ad óz
+tart ó 
+ark et
+ való színűleg
+ nev ű
+keresked elmi 
+- kormány
+O s
+c ent
+k ó
+s üt
+ás ról
+án s 
+oz ók 
+ sz olgáltat
+kor rup
+ért ek 
+ a h agy
+um  
+ for d
+lesz  a 
+o  M
+erc eg
+ vált ozat
+idej e 
+jövő  év
+tök élet
+  állam
+E k
+M unk
+Í r
+á i 
+el adás
+on k
+on  a 
+és ről
+ f utball
+id ény
+un gar
+, am elly
+őr iz
+ód i 
+ugyan csak 
+ajnok ok 
+bír ság
+ason l
+semm ilyen 
+ ór akor
+segítség ével
+Tan ács
+Nyug at
+Dav id
+b ázis
+i  adat
+j ak
+p oszt
+u x
+z enek
+ó f
+sz állított
+et  ad
+an ap
+on at
+és  miatt 
+ sz övetség
+össz egyű
+fő város
+ette  meg
+egész ít
+ akkor i 
+M W
+N ek
+V ill
+v áz
+é ért 
+ar minc
+aj nál
+ák  a 
+:  H
+éd ia
+av atkoz
+ór ak
+dön tet
+ismer te
+gól t 
+gondol om
+ezett en 
+Ár p
+atol ikus 
+ár a a 
+ az  idő
+egy éni 
+A  Sz
+ a h az
+nek i 
+esz ély
+jelent ést 
+t m ég 
+ d arab
+oln ár 
+illet ve
+ing  
+In di
+érkez ett
+ arra , hogy a 
+ür g
+atasztróf avéd
+, miköz ben
+végre hajt
+i kap csolat
+- S
+n egatív
+é gy
+en é
+em at
+ k arácsony
+ak ter
+án s
+, hogy  fel
+ az on 
+ a m ent
+nap okban
+ór ház 
+című  
+hu z
+ven ni
+  előtt
+J am
+M ár 
+i et
+v id
+Í gy 
+á ja.
+
+an s
+az on
+re  a 
+ a h ét 
+, amely eket 
+els ej
+len ül 
+ év es
+vég ül 
+hoz  hasonló
+ alk ohol
+föld  - 
+ei .
+
+par k
+ hasz n
+ a for int 
+MNO - K N
+Car l
+C -
+i  a
+s ít
+s véd
+cs oly
+ap p
+ott  meg
+Sz int
+t m utat
+ock áz
+energ ia
+Ér dek
+díja s 
+kics it 
+' s 
+5 4
+6 8
+8 00
+F öld
+R FK
+e , hogy 
+j ének 
+k ísér
+r ob
+áll ás 
+ a k épviselő
+nap os 
+obb ant
+har minc
+jegy ző
+, mely nek 
+ abb an 
+közt ük 
+rév én
+Fotó : 
+Ered mény
+B ank 
+j unk 
+k iderül
+y n
+i  rész
+ot  a 
+ad ék 
+int eg
+fel ett
+ki vál
+ a m ind
+ n émet 
+egy  olyan 
+ása  után
+ az ember ek 
+kötel ező
+természet esen 
+ neh éz 
+B KV
+b irtok
+Ú gy 
+int enz
+ köz ül
+ for gat
+ fel tétel
+vég zett 
+ el ején
+foly ó
+ri aszt
+ták  meg
+ vezet ő 
+lep ő
+fut ball
+ a mű sor
+Hír ek - 
+ prób ál
+- tette hozzá .
+
+ajnokok  Lig
+5 9
+k ampány
+o z 
+ az  [origo
+es i 
+egy etlen
+án , 
+ f ed
+év ek
+hat alm
+hat ály
+nak  meg
+ a sz ocial
+, de  m
+ók ént 
+eln evez
+ b r
+ése  szerint
+ elnök e 
+köszönhető en 
+kapitány ság
+vad ász
+" A 
+p át
+ó an 
+s  (
+ás on
+ k ívül
+ h ol
+ h úz
+ban  és 
+ált ak
+vez et 
+ a k órház
+, az  E
+ tö meg
+ások ra 
+igy ek
+, mind en
+valak i 
+) :
+b o
+r et
+at ott 
+nem csak
+old al 
+olvas hat
+, hisz en a 
+ vált oztat
+lov én
+ a kap csolat
+O k
+b első
+c z
+m ásod
+ a  csapat
+en a
+es c
+egy ven
+ik , hogy 
+, a  C
+ért esít
+ab or
+ a sz ül
+ob ális 
+omb ati 
+történ et 
+ítan ak 
+nyújt ott 
+elektr om
+, miköz ben 
+6 7
+f i 
+s al 
+ez ár
+ás okat
+ak s
+egy kor
+ f inanszír
+ki elég
+ki bocsát
+, am inek 
+ír ta 
+ a m eccs
+re j
+nem  csak 
+áb a, 
+kép visel
+ százalék ot 
+ a leg jobb 
+ri ch
+ vissz atér
+egy k is 
+telen ség
+, mind en 
+Bal ázs 
+ milliárd forint ot 
+díja t 
+üsz öb
+  sor
+" 
+
+M c
+S om
+T ar
+U kr
+u f
+ az  I
+ab ri
+ a v ásár
+ több ség
+i t iszt
+ már cius
+elv eszt
+igy eksz
+juk .
+
+gyors an
+gyors an 
+rögz ít
+Ág n
+G ord
+N ic
+d up
+u  
+sz ánt 
+t  - 
+gy üm
+hogy an 
+ép ület 
+év ben
+ki j
+ a h alál
+áj ában 
+ van nak 
+af ut
+között i 
+ekkor a 
+L -
+a , és 
+t ol
+el ked
+ok tól
+il tak
+, a  Fidesz
+ok  között 
+fel  
+ al ul
+egy  olyan
+ a v élemény
+eket  is 
+érték el
+ vég én 
+ván dor
+ hely ett 
+öt ét
+ G ábor
+Ny ír
+eljár ást 
+atlan ul
+bejelent ette
+előre jelzés
+ szóviv ője 
+örös iszap
+6 6
+L áz
+N incs 
+h egy
+k is 
+r ett
+en i, 
+in ak
+ez  az 
+át , és 
+ul t.
+
+ott a a 
+os  és 
+nek em
+ a t érség
+szak ember
+ében , 
+, ak it
+Ez ek
+Ez ek 
+hol land
+ezt em
+gyak ran 
+Köz ponti 
+jav ítás
+ való színű
+ aut ó 
+. kerül et
+ecskem ét
+L ar
+P énz
+el hagy
+ a  bank
+ok ban.
+
+ad vány
+ki , 
+ a m ár
+ep p
+, de  ez 
+ százalék os
+több et 
+idő n
+ték .
+
+ellenőr iz
+indok ol
+becs l
+Im re 
+ alkalomm al 
+p assz
+ho vá
+ül ly
+át alakítás
+ f ogyaszt
+ind ít
+ás  és 
+od ik 
+us ban 
+ a t ény
+ók erület
+ított ak 
+ vég ül
+érdek es 
+ alat t.
+
+ akar ja 
+ekkel .
+
+idej én 
+ millió forint ot 
+Biz t
+B ár 
+K B
+M il
+M últ
+b ány
+b olt
+k amat
+ k onc
+ar di
+ t öl
+át alak
+it ársaság
+év re 
+ok  szerint 
+ért  felelős 
+19 1
+ volt , 
+jegy ezte
+ a n ép
+ábor ú
+megfelelő en 
+szenved ett 
+csatlak oz
+O tt
+S ok 
+c e 
+n i k
+or k
+és ére.
+
+ al ig 
+ meg .
+
+vagy unk
+ver zió
+An tal
+ alk almas
+hang ulat
+ szak ember
+vásár l
+ítan ak
+kil ométer
+infl áció
+Len gyel
+s os
+s ír
+s burg
+ó  m
+al i
+or l
+ t ulajdon
+ v endég
+ a sz olgáltat
+im ir
+ők én
+tart ani
+st b
+ni  és 
+véd ő
+and r
+mond ani
+ert őz
+uc at
+ azt mondta :
+Állam i 
+siker es 
+hivatal os 
+vét el 
+tény leg
+ származ ó 
+nov ember 
+ szület ett 
+onal d
+nyi re 
+lék talan
+tav asz
+- e a 
+i rend
+É s
+et ő
+er  (
+i  V
+on et
+és ben
+ed  B
+áb ító
+hoz ta 
+hely ezett 
+több sége 
+érték ű
+, az tán
+tovább ra 
+szerződ ést 
+acs k
+emlék ez
+ szint én
+olcs óbb
+folyamat osan 
+szerencs ét
+berend ezés
++  
+- amer
+ér v
+ik l
+jel ző
+re al
+olt ák 
+Sz ent 
+ a f érfi 
+ a t árgyal
+szám ára.
+
+elt ség
+kel eti 
+állít ani
+ mond ja 
+erős ebb
+MN B
+ kész ített 
+onn al
+ tan ul
+rendkívül i 
+rög tön
+. kerül eti 
+jap án
+PE H
+  ügy
+  oldal
+ó ja
+,  ill.
+
+és éhez 
+ok r
+ok , a 
+A  "
+am os
+ag u
+ a k ülön
+ kö tött 
+ter vezet
+ir ánt
+ a t ém
+len gyel 
+tek  a 
+ d ecember
+lan ul
+ mind ent 
+ette  az 
+pi h
+sok an 
+igazgat ó 
+hagy omány
+vásár lás
+fut am
+veszély es 
+biztosítás i 
+ekv ő 
+anélkül iség
+anchester  
+T or
+j ót
+k at 
+z ak
+el ind
+et , és 
+in  (
+ás hoz 
+és t, 
+ül y
+ h armad
+ki  az 
+ált .
+
+re  is 
+olg álat
+ők ép
+rendszer esen 
+egyen súly
+gyors abb
+ alkalmaz ott
+egyet ért
+I F
+k árty
+l av
+m eleg
+ű nik 
+an ak.
+
+in i 
+ar ch
+be von
+ meg felelő
+egy  rész
+ a v olt 
+i k érdés
+ a b udapesti 
+ic a 
+ s port
+pénz ügy
+határ ozott 
+i h ír
+kén t a 
+ a forg alom
+Árp ád
+a id
+s incs 
+ar t 
+szer  
+ sz or
+ám  
+het ik 
+ kö tet
+nak  és 
+jelent és 
+volt  az 
+szín vonal
+ tart ózkod
+Nagy  
+ kedd en 
+ alacsony abb
+Ro bert 
+rét eg
+lehetős en 
+Múlt -kor
+.  március 
+6 9
+8 8
+sz ezon
+a  szerint
+ez i
+ a sz ív
+nap ján
+ük et.
+
+ év re 
+követ ő 
+kör ében 
+ése  miatt 
+nyugdíj rendszer
+tag jai 
+ással .
+
+onz or
+gar anci
+Zrt . 
+pan asz
+ox id
+portál  - 
+Címkék :
+ történelmi  portál - 
+Ukr ajn
+Múlt-kor  történelmi portál - 
+D r. 
+f ék
+t it
+t ilt
+z ék 
+en j
+ez red
+ak kal
+egy eb
+cs k
+int er
+ur n
+kez el
+áb ráz
+pr essz
+nap ja
+ a b ér
+ s úly
+intéz et 
+csat ár
+gar ant
+köt vény
+péntek en
+vezetőj e.
+
+ szín ész
+proj ekt
+fontos abb 
+stratég i
+gyanú ja 
+  első 
+-  amely
+B ul
+H ajd
+R eg
+ü h
+sz ár
+el huny
+ok ol
+nem  ad
+ud arc
+:  S
+ fel elő
+ór ás 
+ával , 
+ic it
+által án
+ tart oz
+ a F ővárosi 
+br azil
+ a pénz tár
+techn ikai 
+, ad dig
+júni us 
+ körny ezet
+Nagy-Britan ni
+huz am
+  csapat
+J u
+T r
+b ab
+k arácsony
+t ők
+ú , 
+gy ő
+er kölcs
+e  C
+fel el
+ában  és 
+mind ig
+mind ent 
+ip tom
+választ ás 
+, ez zel
+például  
+rossz ul
+ magas abb
+édes any
++  K
+K edd
+er em
+on  túl
+ét , és 
+ h azai 
+ni , de 
+hat nak.
+
+ köz zét
+pont osan
+elnök e.
+
+választ ások 
+ei ben 
+játsz ott 
+külön ösen 
+való ban 
+ munk ahely
+ azt án 
+mód szer
+ marad t 
+, akik nek 
+Jelen leg
+P al
+b udapesti 
+h ő
+h ideg
+m al 
+s ofőr
+y k
+z ott
+sz ün
+ak ozás
+il ozó
+ p art
+ter n
+nak  majd
+tart ózkod
+ók at.
+
+ év vel ez
+ azon nal 
+ján ak
+op tim
+enny it 
+út vonal
+ r ossz
+dr ám
+Köz ép
+vizsgál at 
+Mik lós
+kín ál
+várható an 
+vájc i f
+hoz kép est 
+reag ál
+- Z
+.  (
+G al
+T ö
+X -
+s tatiszt
+el et 
+ a  lap
+a  S
+a  és a 
+és  a f
+ít va 
+ t ev
+ t ulajdonos
+ul ás 
+, am i m
+ír ja a 
+ta , hogy 
+ kö b
+ a t úl
+szám ítás
+ór ól
+ egy ütt 
+történ t
+erős en 
+en k eresztül
+tev ékeny
+ múl va 
+jelleg ű
+anchester  United
+M ég 
+M íg
+a ik 
+f ell
+ k in
+ot  ad
+ t echn
+A  cég
+ a m egy
+ a sz ezon
+i m inisztérium
+let ölt
+" -  fogalmaz
+ vissz av
+ay ern
+Zs uzs
+lik k
+olv aj
+seg ély
+leked ési 
+Múlt-kor történelmi portál -  Hírek - 
+D -
+e , hogy
+k aton
+s ár
+ö zés
+sz egény
+án ia 
+ki állítás
+ind iai 
+jár ó
+ód os
+ók nak
+több ek között
+eket  és 
+An g
+An n
+ hely en 
+ón  
+ arról , hogy 
+ a par lament 
+ept ember 
+tapasztal at
+ a társ adalom
+beszerzés i 
+Mester házy 
+P at
+in e 
+ny al 
+ás i k
+ k és
+ h úsz
+ta , 
+erül eti 
+, amely ben
+ni  tud
+tak , 
+dönt ő 
+eredmény ek
+talan ul
+Bal og
+ font os
+szakért ők 
+iki Le
+V ol
+a ink
+h id
+o ch
+e  el
+ az  európai 
+ek  fel
+ sz enved
+ az t az 
+áz z
+köz önség
+kor csoly
+val lás
+ör d
+ a b üntet
+követ el
+ fog lal
+hozzá .
+
+leszt ési 
+éről  
+ozz a
+rég i 
+nyit ott 
+átlag osan 
+ fej lőd
+rem ek
+str ukt
+kedvez mény
+( K
+- nyugdíjpénztár
+.  és 
+6 2
+A merik
+B él
+k inek 
+m a
+s h
+a  van
+ az  utóbbi 
+ az  összes 
+szer ezte 
+át us 
+, a  T
+be avatkoz
+jel z
+ország gyűlési képviselő
+unk ció
+össz e.
+
+vezet és 
+ában  a 
+ K ft
+től  
+i h át
+épít ett 
+utas ítás
+Ch rist
+részvény ek 
+vezér igazgató
+őrizet be v
+prod ukció
+Eg észség
+7 00
+i ben 
+i re 
+j á
+a  után
+a  volt
+ás ai 
+ k ampány
+egy én
+án 
+
+ h isz
+, a  F
+ő  is 
+ meg bíz
+nak  is 
+ a sz ükség
+tart ozó 
+ fel é
+ók , 
+ b or
+okat  is 
+ l ett
+kol lég
+valam i 
+ a köz el
+par kol
+tó bb
+dél után 
+fr akció
+- ír ja
+Mint  mondta
+öny ör
+D áni
+K ét
+f enyeget
+l és 
+l ondoni 
+r ug
+és  a p
+es t m
+ t ett 
+am u
+le ír
+hat ják
+ban  lévő 
+pr om
+hely re
+im n
+ milli ós 
+kül föld
+idő k 
+eset re 
+ anny i 
+ mód on 
+hez kép est 
+egyar ánt 
+ed B ull
+V ár
+V eszprém
+c áf
+d isz
+s aját
+t , hogy a 
+sz enny
+a  fel
+nem  fel
+ent rál
+:  L
+egy  új
+nagy követ
+ük  a 
+eszt end
+i t ulajdon
+ szem pont
+, hogy m i 
+ kormány z
+jövő ben 
+fejleszt és
+ mód osítás
+Egyesült Állam ok 
+közleked ési 
+ bel ül
+ km /
+7 2
+W illiam
+b em
+f ebruár 
+h ajnal
+sz öveg
+sz ombaton
+t  jelent
+ m iniszterelnök 
+át ad
+ f enyeget
+og n
+, hogy  el
+nek  meg
+unk at
+alm at 
+ellen fél
+tek , 
+eny eg
+árt ér
+hon n
+orv os 
+ mű v
+hang súlyozta
+zár ó
+fek v
+gyerm ek 
+Új p
+folyamat osan
+ véd elm
+ alatt i 
+illeték es 
+wit ter
+ontr oll
+- ben.
+
+J ap
+m erül
+s é
+t ánc
+er k
+on st
+ás -
+egy  hónap
+ik , hogy
+ad sereg
+ h ajnal
+ért , 
+ab izt
+nem  ismer
+esz m
+mer ény
+tet sz
+több en 
+a m ellett 
+tak  az 
+választ ások
+talál ható
+épít ő
+pl usz
+vissza es
+ tan ulmány
+figyelm eztet
+izra eli 
+6 3
+= "
+P aul
+V íz
+ű z 
+ k edvez
+egy  v
+ás  meg
+on  (
+ja  el
+ód ó 
+vég z
+első sorban 
+ s aját 
+jelen et
+ l ett 
+tér ség
+semm it 
+ munk a
+dél előtt 
+min im
+vásár ló
+ tan ács
+ a szín ész
+, azon ban
+onflik tus
+Görög ország
+  áll
+X I
+g omb
+s ter
+í li
+er ény
+cs ő
+ az  az 
+ben , a 
+ir at 
+eh et 
+nyom án
+gyeng ül
+hozzát éve
+bőv ül
+ term ék
+Szerint e 
+ontt al 
+utt ó 
+kapcs án
+üssz el
+J ul
+M al
+p ul
+t on
+á  vált
+ő leg
+gy ar
+a  el
+ás ú 
+ v ette 
+át sz
+ h ektár
+ben  van
+ p olgármester
+ a v ér
+ a v as
+, az  MSZP
+ját ssz
+nál  is 
+csak  egy 
+ b űn
+kormány fő
+vál ogatott
+)  Gól
+nél .
+
+ vál ság
+nyom ozás 
+ a köz lemény
+dolgoz ó 
+ anyag i 
+-K or
+szolgál at 
+Csab a 
+jap án 
+júli us 
+-amer ikai 
+- nak 
+6 1
+E ur
+k ai 
+s ajnos 
+ár ia 
+ az  olasz
+ t ölt
+is ebb
+ut ak 
+ az , hogy 
+ h asonló
+elő .
+
+ön g
+ a v ill
+tat ott 
+fi a 
+érték e 
+ hat almas 
+tag ja 
+zár t 
+ százalékkal  csökkent
+tanács adó
+Laj os
+b üszk
+l az
+p szich
+í k
+ a  következő 
+ez ent
+ot al
+ni , a 
+val  
+Az  el
+el  és 
+ra , a 
+us ok 
+A m ag
+nyom ozás
+szor os 
+ L ászló 
+növ ény
+ ezer  forint 
+font osság
+Szer encs
+ leg al
+ow n
+gyeng e 
+techn ik
+Az E urópai 
+ommunik áció
+Horvát h
+onet áris 
+  olyan
+0 9
+D A
+K ol
+U tóbb
+b ul
+c ukor
+i  al
+ a  több
+al íció
+ k éz
+ent i 
+ik  el
+tart omány
+ -  mondta 
+ b et
+ec k
+történ elem
+indul ó 
+tett ék
+terület én
+onn an 
+egyszerű en 
+Címkék : 
+RT L
+előzetes  letartóztatás
+elektron ikus 
+emleg et
+gyüm ölcs
+  A 
+  csak
+8 7
+V er
+b ak
+a  T
+ás ában
+cs úz
+ok hoz 
+ f ős 
+ék hely
+ az  ar
+aj on
+iz z
+as tr
+hat unk 
+ja  majd
+áj uk
+i k ét 
+zet es
+ fel használ
+ egy szer
+st áb
+már cius 
+ akar t 
+ikus an
+iskol ai 
+ a munk ahely
+érz ékeny
+cik k 
+, még is 
+jelentette  be
+keret ében 
+anad ai 
+elemző k 
+rank fur
+bajnoki  cím
+sug ár
+- en 
+e ivel
+s incs
+w ood
+e  - 
+ m a 
+ak tor
+es s 
+od r
+nak  tűn
+ja  fel
+vezet ék
+ében  a 
+ló szelvény
+Az ért 
+rá .
+
+polit ika 
+, ez t 
+kezd et
+dolgoz ók 
+Mi ért 
+köl töz
+Kap usok
+. perc ben 
+1 30
+L os Angel
+a ci
+l ök
+x c
+x d
+ő zsd
+ás a, 
+ak s 
+él ked
+ni a.
+
+kor a 
+ter ület 
+te j
+ fel ett
+ év ben 
+gat óság
+elt ávol
+Ez  a 
+szerű  
+tak  meg
+ még  nem 
+párt ok 
+forg almaz
+ visz ont
+ hang súlyoz
+ein k 
+ ellen i 
+különb öző
+ésb é 
+Vég ül
+Jan u
+erced es 
+- jelölt
+i át
+p ap
+el vár
+ az  is
+ f érfi 
+ad ém
+ség gel
+le f
+év vel
+val lom
+ák at.
+
+ a k ampány
+ir k
+, h ely
+ a b aj
+18 0
+zár kóz
+emelked ett
+okkal .
+
+inform at
+harmad os 
+szig orú
+idő  szerint 
+méter es 
+befolyás ol
+Francia ország
+ábító szer
+  Cs
+A  következ
+S al
+h árm
+i  adó
+r ap
+t , az 
+ó könyv
+ a gr
+ar s
+ar ány
+kö tött
+nem .
+
+, am i a 
+ fel hív
+ének  meg
+oldal on
+csapat ok 
+Er re 
+ pr of
+fr ont
+telen ül
+err el
+csütörtökön  
+Andr ás
+vonatkoz ó
+lassz ikus 
+ lét re
+iver po
+  ez 
+8 6
+A hogy
+B ajnai 
+N e 
+X V
+b omb
+h íd
+r y
+r essz
+ü sp
+,  N
+er i 
+ik , és 
+it ális 
+ag n
+Az  állam
+nem  sikerül
+t m ajd
+idő t 
+mind ig 
+mind két 
+hető en 
+világ bajnok
+, hogy m ég
+ozz ák
+Elő ször
+ülly ed
+) ;
+M úzeum
+i  ad
+j ában.
+
+t ass
+v ettek 
+en isz
+gy önyör
+ k ín
+ar i
+ok nak.
+
+ek  szám
+én , 
+le h
+ki t 
+ik  és 
+át  meg
+nem  ért
+ev er
+ a t enger
+áj án
+hely ezés
+sem  volt 
+len y
+sor ol
+ a leg nagyobb 
+A t an
+határ oz
+jan ak
+lép és
+ A ttil
+két szer
+kutat ó
+elér hető
+növeked és 
+ az egyik  leg
+hosszabb ítás
+okr os 
+8 9
+a :
+i x
+l end
+m et
+m án
+m iniszter
+m ezőny
+n ék 
+r ik
+v b-
+sz ombaton 
+le y
+fel függeszt
+ált am
+nek  tart
+ök élet
+ a sz omszéd
+után i 
+zs ír
+okat  és 
+ forint on 
+ vég ig
+történ elmi 
+Al ons
+assz ony
+körül belül 
+ennyi ben
+közel ebb
+Magyar  Nemzeti 
+elfogad ott 
+egy- két 
+ dolg oz
+Ped ig
+H a a 
+R em
+S eb
+U X
+V B
+d án
+m ent 
+r én
+és  a h
+cs el
+ t el
+ f r
+, hogy an 
+ az után
+ta s 
+nem  áll
+te  az 
+ a p olgármester
+im már
+be  is 
+idő re 
+érték elés
+hal aszt
+mind össze 
+ az egy es 
+ a n éz
+ hat ály
+rég ió
+közel ít
+először  
+Ily en 
+Obam a 
+Ho gy 
+zenek ar
+E U
+K ev
+R og
+n ők
+o ut
+p ak
+t el 
+u ny
+á  t
+gy ök
+ik r
+kö tet
+oz íció
+A  német 
+ja it 
+leg es
+ev ecs
+nap  
+ai -
+ el ér
+ a B BC
+ri erj
+visz on
+tett ek 
+együtt es 
+ a választ ási 
+Budapest en 
+ mi ért 
+ kelet kez
+0 8
+M os
+S V
+b ol
+d emokráci
+e an
+e id
+n ának
+ű k 
+en e 
+gy ull
+ k ategóri
+él ett
+áll od
+ h armadik 
+iz áció
+elő ír
+ja 
+
+leg end
+egy  ilyen 
+ják , 
+Ez t
+társ adalmi 
+ még is 
+Mi után
+ arra  is
+forr ások 
+ milliárd forint os 
+lu x
+ méter es 
+stad ion
+7 6
+? ?
+G ar
+R ad
+S ar
+T P
+e i m
+p éntek 
+sz ó 
+at h
+es e.
+
+ sz ó
+ra  és 
+nak 
+
+ a t ámogat
+um or
+mű vel
+volt ak.
+
+ mag a 
+gép jármű
+haj tan
+ abb ól
+ a polit ikus
+ az MTI- vel.
+
+ellent mond
+Ebb ől
+Intéz et 
+d ef
+j en
+m ail
+ő t.
+
+ár ver
+em ellett 
+ás t a 
+es ked
+cs uk
+, a  S
+ meg hal
+ir ág
+nek ik 
+ a t ér
+ügy fél
+ős ítés
+állam ok 
+jelen lét
+Az tán
+ az a merikai
+ran k 
+von z
+kész ült 
+valam int 
+biztos ító
+választ ott 
+ a n öv
+ a l abd
+MNO -  W
+kén t.
+
+lehetőség et 
+rendelkez ő 
+if ik
+ hang súlyozta
+ az id én
+befektet ők 
+ kül d
+hoz kép est
+Em lék
+ körny ék
+ech an
+háztart ási 
+L i
+e e
+h ó
+i ba 
+k ísérlet
+m on
+z uhan
+és ében 
+ az  át
+ik at 
+szer ény
+is ág
+ f enn
+, hogy an
+ut a
+het ik
+tt est
+nap okban 
+y  M
+eset én 
+érték esítés
+ el ej
+Az on
+hozzá fér
+kormányz at
+ vezet ője 
+egészség es 
+ham is
+ millió forint os 
+ommun ista 
+prof esszor
+tehet ség
+ független ül
+  nyelv
+C ol
+i ák
+k ategóri
+t o
+É let
+ű zés
+or b
+ k ir
+és ük
+is h
+ f iz
+oz itív
+is  lehet
+ét kez
+ás  után 
+ért esül
+ra  kerül
+ev es 
+aszt ási 
+fog adás
+elnök e
+ az a gy
+" -  jelentette 
+verseny ző
+ azok nak
+ a D un
+prod uk
+ auguszt us 
+A  több
+A  törvény
+T om
+n ök 
+s ejt
+gy őr
+cs ön
+ t év
+ v ide
+ad ar
+ h arc
+fel hív
+ra szt
+jár ól
+ony h
+ával  és 
+utó bb 
+jobb oldal
+oll y
+oldal án
+elv et 
+nem tud ott 
+ elő ször
+gyárt ó 
+árfolyam a 
+becs ül
+lehetőv é tesz
+illeg ális 
+  Magyarország
+1 10
+7 8
+M it 
+d ivat
+d öbb
+i bb
+k ál
+k izárólag
+l ista 
+,  úgy
+ár i 
+ m ilyen 
+ez ők 
+es ő 
+il d
+ sz ét
+ság a 
+ meg kérd
+öl tö
+av art
+csap adék
+ el ég
+ivat ty
+nyer t a 
+ akkor  is 
+tor n
+rendez ő
+okoz ott
+Ny il
+ pont ot 
+műv észeti 
+tekint et
+erősít ette
+ázs iai 
+erősöd ött
+  jog
+-  tud
+B l
+H ivatal
+K om
+h old
+j eg
+t , amely
+v e, 
+é cs 
+er vez
+i  szám
+ m er
+ m essz
+ás on 
+ek ezés
+ik at
+ik um
+és  és 
+oz ása 
+ul ó
+ a m egyei 
+ a m ostani 
+rend ű
+:  F
+20 2
+ a sz ok
+, hogy a  kormány
+ic e 
+Az  al
+ alk almas 
+ a r eg
+Al eksz
+ a köz ös
+társ adalom
+ azonban  nem 
+nyilatkoz ott
+ a vál asz
+br onz
+Val ó
+Nap i 
+ a kez d
+stratég iai 
+opr on
+" - nyilatkoz ta 
+-  vagy
+J ack
+M olnár 
+f inom
+í nek
+ a  gyerek
+at már
+ az  "
+ér em
+oz ód
+ul .
+
+ a p ont
+ai ra 
+op ter
+szerep elt
+díj az
+ vég re
+pály ás 
+ező gazdasági 
+nyolc van
+működ tet
+sen y 
+ J ózsef
+ a fő városi 
+olim p
+oss uth
+atasztróf a 
+ azért , mert 
+index  
+isk un
+ Megyei  Rendőr-főkapitányság
+ancou ver
+K önyv
+f ürd
+k ésőbb 
+r okon
+s m
+t ap
+t lét
+ó ján
+ö köl
+ő bb
+sz ellem
+,  bár
+és ei 
+am in
+ meg  is 
+őr ől
+iszt ikai 
+i k utat
+vég zett
+élet e 
+csak  akkor
+Ez zel 
+egész en
+világ bajnok 
+Szer et
+, ami ért 
+bank ok 
+enet rend
+cik lus
+ a fő város 
+kev ésbé
+ ter h
+viszony lag
+gyilk os 
+reng és 
+jövő  évi 
+űzolt ók 
+NA TO
+d onság
+d leges 
+i ós
+t , de 
+v ett
+É pp
+é be.
+
+ö szön
+sz ög
+el ej
+er o
+ül tet
+ét 
+
+ész ek 
+hat ják 
+ meg lepet
+ért elem
+elm últ
+vagy ok
+ tart omány
+dönt őj
+gyű r
+pály án
+ fő város
+próbál koz
+ foglalkoz ó 
+különb öző 
+mi ért 
+bek erül
+qu e 
+ van sz ó.
+
+töl tött
+Magyar K öz
+Olasz ország
+jóvá hagy
+9 6
+j ár 
+j ekt
+l agy
+r obbant
+s how
+Ú ja
+,  sem
+eg ély
+ m it 
+ez előtt 
+és e, 
+ t ípus
+ad ász
+am at 
+ben  és 
+olt ak
+tart alék
+idő szak 
+kap ott
+ított a meg
+ alap ító
+élet len
+ások nak 
+ vagy ok 
+dr og
+di cs
+ a munk avállal
+Bal aton
+információ k 
+ a pénz ügyi 
+veszély eztet
+könny ű
+lenn e a 
+várható an
+Rom áni
+óc e
+ideig len
+A usztri
+B ud
+C har
+N e
+i a, 
+j unk
+j enek
+v öz
+sz ál
+sz kij
+i  rendszer
+ k g
+ér ia 
+ot 
+
+ik , hogy a 
+ t ém
+ t ársaság
+nem  az 
+A  három
+ sz ül
+ sz ig
+meg jelen
+ h all
+ni e.
+
+ok  miatt 
+het őség
+ a h ib
+ember i 
+szám ított
+ ki jelentette
+ád ió
+tan ács 
+ból , 
+miat t a 
+A f érfi 
+hossz abb 
+ a fel adat
+ása it 
+fr ik
+ majd  
+kedd en
+ akt uális 
+ egyik  leg
+évek  óta 
+Igaz gatóság
+üggetlen  Hír
+Jam es 
+- d
+E SZ
+ó nak
+el f
+i  T
+ek ul
+ek re.
+
+am ion
+int egy 
+le  a 
+ h ajt
+ni ai 
+ki sz
+ind ítás
+, de  még
+lehet ő 
+csak  egy
+ vég éig
+ az egy etlen 
+ezt  az 
+A f ilm
+nyugdíj as
+ment es 
+rendőrség .
+
+ológ us 
+, mi re 
+Mar k 
+visel ked
+hoz kép est.
+
+ a foly amat
+elik opter
+F M
+T avaly
+a ) 
+l ok
+l im
+r ém
+s w
+t lan
+í sért
+ a  jog
+ít ési 
+meg valós
+ul at 
+ p l
+oly g
+ a sz int
+őr zés
+tör öl
+im ád
+ében  meg
+zs ar
+ l abdarúg
+ az egy etem
+El ső
+óv od
+ éves  kor
+öt  év
+rem ek 
+itt hon
+óval  
+ford ult
+szület ett 
+lenn e.
+
+lu enz
+rad ik
+ szóviv ője.
+
+ mérték ben 
+esk üv
+7 4
+V asárnap
+d ollár 
+f ellép
+h öz
+i án 
+n om
+ a  nemzetközi 
+a  K
+or e 
+ez üst
+ek ing
+cs ek
+ek  mellett 
+ban ki 
+ék ely
+leg utóbb
+het jük
+re , a 
+Sz em
+Sz ombat
+ azt  állított
+esség ében 
+ kez el
+A v izsg
+okoz ta 
+műv észet
+, míg  
+együtt es
+uc k
+att al 
+áp ol
+beruház ás 
+ kilométer es 
+ neh ez
+[origo ]
+nyúj tan
+osár labd
+0 5
+P an
+S A
+V élemény
+a új
+f ebruár
+á ja, 
+ m en
+ot , és 
+ f enntart
+os nak 
+A  g
+it ől
+fel  a 
+fel ed
+fel ejt
+be vet
+nek  tűn
+rész esed
+ély es 
+tart ott
+több ek között 
+ b emutat
+elt ilt
+ri er
+ hely ett
+ akkor  is
+i h ang
+ S ándor
+óv at
+, hisz en az 
+utc a 
+Európ ában
+gyanús ított 
+techn ológi
+éjszak ai 
+Megyei  Rendőr-főkapitányság
+Erd ély
+empl om
+- Ber
+7 7
+C  
+e , az 
+j enek 
+m ilyen 
+r ez
+el -
+el d
+i  ár
+ az  internet
+ot enci
+ül öp
+ t ehet
+hat van
+ta , hogy
+nem  csak
+ a v it
+ a sz övetség
+uk ra 
+éd ium
+őr ök 
+össz e a 
+a m ég 
+, ak ár 
+tud ományos 
+ünk et
+által a 
+ B r
+jegy bank 
+ milliárd os 
+ S ch
+, vagy is
+kormányz at 
+erő mű
+egyen lít
+ más fél
+ működ ő 
+ az id én 
+emokrat ikus 
+atal in
+őmérsék let 
+-  vél
+:  h
+K ül
+k on
+m int 
+m ögött
+á ért
+é c
+sz állítás
+s  - 
+ás ra.
+
+ az  is 
+ok  alapján
+ v ett 
+ír ja 
+nek , a 
+19 0
+ne vet
+ hely szín
+csapat a 
+épít kez
+nyilván való
+haz a
+, akik et 
+ford ít
+rád ió
+kett en 
+kezdőd ött
+civil  
+elh ár
+  ellen 
+- a
+- nél
+l is
+r ég 
+ k rit
+ot h
+ek  el
+ v ill
+ f egyver
+ja , hogy a 
+het ünk 
+ meg állapod
+re akció
+ a v agy
+lát tam
+ egy előre 
+tud ott 
+ ez t 
+ vég re 
+ r észt
+érdek ében.
+
+ az egy ütt
+ a n émet
+mér et
+ a l ány
+ei re 
+elmondta : 
+információ i 
+nem k íván
+inf luenz
+rag ad
+szolgálat i 
+nyár on
+ költségvet ési 
+ovj et 
+tern atív
+  cím
+( B
+.  február 
+L ap
+M ert 
+R ég
+T iszt
+e i, 
+á h
+i  A
+ k eresztül
+ek tr
+A  hét
+áz ott 
+ni ük
+ja inak 
+jel ez
+rész ben
+ b al
+ b örtön
+ése  után 
+Cs ütörtö
+ a B udapesti 
+szervez ett 
+elet -
+, ami re 
+kis ebb 
+ a választ ások 
+men ed
+üd zs
+9 00
+K iss 
+L u
+M er
+M ond
+i ek
+l a 
+t ük 
+é ch
+,  ráadásul
+szer zett
+ed ül
+iz árt
+köz pont 
+ki vétel
+ al ól
+ban  él
+ált a a 
+ a h al
+tart ó
+ ki fizet
+lesz  az 
+zs eb
+ azt  írta
+elnök e, 
+ B udapest
+történ tek
+erg om
+ pont on 
+nélkül  
+min ősít
+személy es 
+ítél t 
+ünnep ség
+érvény es 
+számít ógép
+válasz ol
+MNO - P K 
+töl tött 
+Tö bb 
+" Az 
+9 9
+J ó 
+h ab
+m ez
+z k
+ö kor
+ál om
+ k ény
+ít i
+ f rakció
+ól yom
+ell op
+ kö szön
+nap pal
+i k ar
+sor rend
+lát ható 
+zs de 
+ról , 
+tan ár
+bel e 
+A m ű
+ták , 
+öt ven 
+ogram m
+16 0
+össze foglal
+című  film
+14 0
+gyűl öl
+terület i 
+talan ság
+nevez te
+tiszt elet
+Sch m
+nincs enek 
+ sik erül
+riv ális
+Ge org
+Láz ár 
+3 50
+O p
+S c
+k ulcs
+s ar
+t len
+ő ssz
+i  C
+in am
+ t itk
+ut am
+end v
+ meg  
+ a k is 
+, de  nem
+Egy előre 
+ajt ó 
+mag át 
+ják  majd
+, hogy m it 
+ón .
+
+játsz ani
+ azt m utat
+ vezet őj
+ven es 
+ism étel
+két ség
+Bal ázs
+edv es 
+időszak ban
+ akart a 
+hivatkoz va 
+reag ált
+projek t 
+i mér kőzés
+, hogy mi ért 
+speci ális 
+D V
+T eh
+V elvet 
+b um
+u ra 
+ a  gazdaság
+et 
+
+em elte 
+it u
+fel fed
+ a m ostan
+Sz ent
+ a v asárnap
+ebb en a 
+gazd ász
+ l em
+vel e
+ vég zett 
+ások .
+
+rendel et 
+Nagy on
+gazdasági  válság
+érz elm
+ mód szer
+rem űköd
+ mér sék
+.hu 
+
+ szint én 
+ mutat koz
+szok ott 
+Ér ték
+ hivatal os 
+roh am
+Hét főn
+ökor szág
+7 3
+A ir
+b ánt
+k ov
+n orvég
+p u
+ a tom
+ár az
+ál ja
+és ből
+és re.
+
+án i 
+ok ról 
+ap csol
+szer elés
+ v ág
+ az , hogy
+le y 
+, a  magyar
+ok  közül
+ a m ásod
+ p éntek 
+ország gyűlési 
+ b őv
+állal koz
+ran sz
+rendszer  
+ hat óság
+, mi szerint 
+, mely ek 
+Zs ig
+kom p
+ a szak ért
+intézked ések 
+ a kis ebb
+izra el
+ segít ség
+Spanyol ország
+arket ing
+Ang li
+( P
+C z
+F ont
+k e 
+n a.
+
+é ből 
+ő vel
+ny ira 
+ az  utc
+ok  az 
+ f al
+ó  Péter
+, a  H
+:  P
+:  T
+:  V
+:  A 
+hoz atal
+for int
+ítás i 
+ egy en
+o  S
+úgy  tud
+ex port
+irány ító
+segít séget 
+jövő ben
+rég óta 
+ hét fő 
+ való ban 
+ölt ség
+on k eresztül
+lám p
+győzt es
+onkr ét
+rám utat
+cion ális 
+regiszt r
+Nyír egyház
+A  választ
+D zs
+E x
+d ok
+j ut 
+l al 
+t egy
+á szt
+á it 
+ó ni
+ a  le
+ez úttal 
+ás ba 
+ az  N
+ett ó 
+ni , hogy a 
+nap on
+ők , 
+fog ja 
+ fel ül
+ző k 
+tár ca 
+lak át
+ásár ól 
+biztos an
+választ ott
+súly os
+sér ült
+ arra , hogy az 
+hatóság i 
+ az ország os 
+, míg  a 
+ítél et 
+-k up
+különb öz
+MNO - P K
+gl obális 
+J öv
+M át
+M űv
+n ák
+ő ben 
+el utas
+e  W
+ez ést 
+ér vel
+egy  hét
+egy ven 
+cs emp
+ít ése 
+ít ette
+ét terem
+, a  V
+, am ivel
+re ál
+ a t év
+ a t elj
+ a t alálkoz
+ a p ort
+ b árm
+ismer etlen
+ az a b
+mag a 
+term el
+ közöl te 
+összeg et 
+rendelkez ésre 
+kötel ező 
+Le het
+osztr ák
+mérték ben 
+ agg ód
+Tim es 
+tük r
+ a más ik
+Arsen al
+jót ékony
+ a szükség es 
+- tól
+7 9
+K irály
+T otal
+c ell
+l ik 
+m él
+r is
+en  ki
+ak i 
+ap iac
+ f ok 
+ sz av
+le hess
+hat juk
+ák kal 
+ a k eresked
+ir ól
+ a f ehér
+ a t iszt
+eszt in
+ult úra 
+ a B al
+ub l
+ a n ők 
+ker t
+ a M ÁV
+ kapcsolat ban.
+
+nyilván tartás
+javas ol
+ C h
+ések or
+ két szer
+ügym iniszter 
+Német h
+ tal án
+ vissza él
+Ir od
+összeh asonl
+áci ai 
+ref er
+következt ében 
+ reg gel
+gent in
+lagy imir
+A  könyv
+D ob
+m ed
+p énz 
+u ch
+sz fér
+ a  Magyar
+an á
+an a 
+il veszt
+hat unk
+ír us
+Az  idei 
+nek  és 
+áj ával
+ot  meg
+ fel eség
+ának  meg
+ében  az 
+ már  meg
+eredmény t 
+, mint  például
+ a fel használ
+való ban
+ az E uróp
+ pont os 
+igazgató ja.
+
+szolgáltat ás 
+Népszabadság  - 
+Ek kor
+  este 
+M TI
+R os
+T avaly 
+g it
+h ús
+r ón
+t op
+x e
+al izál
+ol ód
+ás k
+en  át 
+ t elepülés
+szer elvény
+is , a 
+nem  a 
+hat atlan 
+ban  (
+áj uk 
+, amely eket
+kép eszt
+né ha 
+ajn os
+SZ Á
+ a s ik
+i h ivatal
+, s őt
+következ tet
+úgy  gondol
+emlék ezet
+néhány  
+Ország gyűlés
+szempont jából
+elképzel hető
+Ily en
+egym ással
+ika ilag
+vir r
+" .
+8 1
+8 4
+A  közlemény
+E R
+r ong
+s ét
+,  csak
+er ek 
+ér e az 
+egy  nagy
+ít ette 
+A  program
+ét  az 
+ a k edd
+elm ér
+ügy ben 
+szám ító 
+im m
+ők et, 
+)  gól
+áv á
+úgy  fogalmazott
+ünk et 
+vissz a a 
+történ elm
+öt ét 
+ hat ékony
+Nagy díj
+ az E U-
+nyilván os 
+27 0
+En d
+ark as 
+tekint ve 
+játékos ok 
+talált ak 
+tét lenül
+hálóz at
+örny ezet
+Ph il
+ forinttal , 
+kielég ítés
+ali for
+éch eny
+J og
+R ész
+b ok
+f er 
+h ál
+i ért 
+o us
+an ta
+al .
+
+ol and
+ér  
+és  f
+ t eszt
+ f est
+ett ős 
+ h allgat
+fel é 
+:  A
+nap irend
+biz alom
+ ( B
+után a 
+ped agóg
+ l ég
+ünk re 
+ volt  az 
+pály ára 
+ür es 
+büntet ést 
+lég itársaság
+szig or
+ szabad ság
+fény kép
+onstr ukció
+Fran c
+legfelj ebb 
+ tav asz
+F él
+F orma-
+I T
+L ondon
+M a 
+M iskolc
+P l
+S véd
+V G
+k ívül 
+n e.
+
+r op
+gy újt
+et es 
+ár uház
+on , a 
+és  az
+és  fel
+A  bíróság
+am .
+
+ a m édi
+ a v eszély
+nek  is 
+alm a 
+áj ára 
+éd ul
+tet len 
+rész én
+lát ott 
+ egy éb
+eh hez
+ós a 
+kész ített 
+jegy ezte 
+vállal at 
+magyar áz
+szabad ul
+cím védő 
+nyolc  év
+intézmény ek 
+részlet es 
+lem ez
+egyszer re 
+haszn ált
+derül t ki
+Né gy
+arcel ona 
+ az any ag
+Vál asztási 
+bú csúz
+7 1
+?  - 
+v ak
+z ó
+z ás 
+é bb 
+at ik
+in s
+ny í
+A  harmadik 
+it s 
+iz ód
+re  az 
+ n ál
+ ad omány
+ köz ösen 
+hely et 
+im pi
+ ar at
+ ( M
+eln ökö
+ kor a 
+ba  lép
+nyug tat
+ r ég
+csal ód
+avaz ás 
+ mű vész
+ikus an 
+nem t úl
+ szak mai 
+raj ta 
+ereszt ül 
+öm b
+orvos ok 
+ az ügy észség
+segítség ével 
+szeretn énk 
+különb ség
+lass an
+letartóz tat
+. év i 
+ számolt  be
+elektrom os 
+ felelő s
+L ak
+S  
+S a
+v a az 
+el ején 
+an t 
+at y
+ár pát
+e  nem 
+ez ési 
+és  K
+ t he 
+szer elem
+ed ik
+om in
+, m agyar
+ a k ésőbb
+iv el.
+
+össz esz
+ők nek
+ob or
+ an d
+port ugál
+mag as 
+ kell em
+nyom ás
+voln a meg
+ vagy ok
+pály afut
+üt között 
+őv el 
+vezető i 
+ az ország  
+helyzet ben 
+ alkalmaz ott 
+vissza él
+ között .
+
+Ak adém
+uh ász
+látsz ik
+ teh át 
+-- --
+évvel ez előtt 
+W e
+W al
+h űt
+j on.
+
+n őj
+an nyi
+is , de 
+le jár
+fel tár
+hat ott
+ért e a 
+unk at 
+, és  ez 
+áj án 
+, amely  a 
+ük , 
+lesz nek
+ai ak
+ l egy
+ az a p
+szem l
+ások kal 
+bet art
+ossz ú
+csökkent .
+
+ong ressz
+ették  a 
+titk ár
+befektet ési 
+Ant al 
+ileg  
+emokrat a 
+közös ségi 
+ par lament
+szol id
+elevíz ió
+Sim on 
+Sport Géza -  F
+erék pár
+ a negyed ik 
+  január
+g el.
+
+j ét
+k v
+k áros
+l ot
+o ul
+t on 
+ol ni 
+ t ur
+ v egy
+, hogy  a b
+ely ik
+ meg valós
+elm ény
+:  R
+ellen kez
+est ület 
+eh éz 
+vál ogat
+ azt  közölte
+te  el
+ult ság
+ szám ú
+El len
+, majd  a 
+A v ád
+ern and
+ a fel ső
+úgy  lát
+úgy  érz

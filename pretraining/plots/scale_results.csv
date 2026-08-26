@@ -1,0 +1,33 @@
+language,tokenizer,model_size_M,perplexity,sentiment_accuracy,pos_f1,ner_f1,dep_las
+# Instructions:
+# language         : one of  eng / hin / tel
+# tokenizer        : one of  bpe / sslm-bpe
+# model_size_M     : parameter count in millions  (e.g. 2 | 12 | 30)
+# perplexity       : lower-is-better (leave empty if not measured)
+# sentiment_accuracy: 0–100 percentage
+# pos_f1           : 0–100 percentage
+# ner_f1           : 0–100 percentage
+# dep_las          : 0–100 percentage (Labelled Attachment Score)
+# Lines beginning with '#' and blank lines are ignored by plot_scale.py
+#
+# ── English ──────────────────────────────────────────────────────────────────
+eng,bpe,2,25.40738805,77.752,89.16,70.786,0.54777
+eng,bpe,12,9.45524865,85.55,95.08966667,89.983,0.75644
+eng,bpe,30,7.079335165,88.417,95.973,91.65,0.80286
+eng,sslm-bpe,2,9.074878576,76.95,88.048,56.175,0.50993
+eng,sslm-bpe,12,3.911926642,85.665,95.09233333,88.932,0.749
+eng,sslm-bpe,30,3.098660744,86.009,96.134,91.593,0.80199
+# ── Hindi ────────────────────────────────────────────────────────────────────
+hin,bpe,2,19.36640764,65.966,92.567,75.903,0.74118
+hin,bpe,12,7.047831635,76.673,97.153,90.68933333,0.88202
+hin,bpe,30,5.86434033,78.011,97.643,91.907,0.90445
+hin,sslm-bpe,2,9.89530102,58.891,91.276,76.607,0.72379
+hin,sslm-bpe,12,3.870717924,77.055,97.182,91.03066667,0.87472
+hin,sslm-bpe,30,3.263303416,78.011,97.451,92.718,0.89875
+# ── Telugu ───────────────────────────────────────────────────────────────────
+tel,bpe,2,30.39870473,59.15,62.215,86.146,0.56042
+tel,bpe,12,9.691895298,62.847,88.40866667,94.721,0.66314
+tel,bpe,30,7.925219369,65.434,92.821,95.66,0.72961
+tel,sslm-bpe,2,7.085567722,59.889,61.757,83.366,0.53625
+tel,sslm-bpe,12,2.978857983,64.695,88.41966667,94.38266667,0.66767
+tel,sslm-bpe,30,2.576649728,64.695,92.783,95.70,0.70091

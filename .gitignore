@@ -1,0 +1,28 @@
+tokenized_data*
+morphscore_data*
+/SaGe*
+segmented_outputs*
+/superbpe/
+/boundlessbpe/
+/picky_bpe*
+/pathpiece/
+/morphscore/
+/tokenization-scorer/
+
+# Large trained tokenizer binaries (regenerable via training scripts)
+morfessor-tokenizers-bin/
+myte-tokenizers-bin/
+sage-tokenizers-bin/
+
+# Stale / generated / scratch output
+pre-training-old/
+plots_combined_saved/
+morphscore_outputs/
+temp_out.txt
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Clone of the public release repo (github.com/SakethReddyVemula/what-tokens-are-learned)
+what-tokens-are-learned/

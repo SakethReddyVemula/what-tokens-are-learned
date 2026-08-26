@@ -1,0 +1,3732 @@
+#version: 0.2
+e n
+t a
+i s
+i n
+a n
+  k
+l l
+. 
+
+  o
+t t
+s a
+s i
+  j
+v a
+  m
+  p
+  t
+k a
+i t
+e s
+e l
+ä n
+e r
+u t
+u o
+  s
+  h
+u s
+i k
+  v
+u n
+  e
+o n
+a l
+a s
+t i
+  l
+ j a
+o i
+t ä
+ o n
+i l
+ll a
+e t
+m a
+  a
+u k
+  va
+l i
+e en
+j a
+o s
+ä ä
+  n
+r a
+u u
+tt ä
+is t
+  ta
+ll e
+u l
+k o
+a r
+k i
+is ta
+t e
+s ä
+d en
+m m
+is i
+  y
+ k o
+a a
+tt i
+ j o
+in en
+t o
+ll ä
+r i
+y ö
+va t
+ k a
+k si
+v ä
+  S
+ m u
+y s
+  si
+y t
+k e
+l e
+u r
+k s
+  sa
+ v i
+h d
+ta a
+m i
+ e ttä
+v i
+p a
+e i
+ka an
+ä än
+k in
+ e i
+uk s
+i h
+is sa
+ut ta
+is en
+ s e
+m p
+k u
+ o li
+l a
+  r
+ä h
+  K
+in a
+u h
+as sa
+es sa
+j o
+ m a
+i e
+  M
+o p
+ta an
+ k u
+ k er
+d e
+y n
+i m
+ v uo
+  en
+o r
+e e
+  T
+i r
+t u
+ h än
+  P
+ä r
+  H
+un n
+us ta
+  al
+an n
+o t
+it ä
+uo m
+ t e
+t y
+es ta
+k ä
+ t o
+m ä
+is tä
+i a
+ p ää
+tt u
+yö s
+i in
+a t
+tt el
+ l a
+j an
+  V
+v an
+ o le
+  ra
+ mu kaan
+m an
+ma an
+o it
+ä l
+ k ä
+  L
+  A
+y y
+ t ä
+al a
+as ta
+ p o
+ä i
+j ä
+i ka
+os sa
+ll is
+  -
+  R
+o in
+vä t
+p p
+ p a
+ v oi
+2 0
+m is
+ h a
+si a
+uo l
+ m yös
+ k es
+s e
+us sa
+ s an
+n e
+es ti
+ p er
+n a
+s sa
+  J
+ k an
+r e
+o a
+t en
+j en
+o l
+el ä
+i en
+u i
+ n ä
+  E
+ k un
+s ta
+ va l
+  N
+ o l
+es sä
+ o vat
+uks en
+ik e
+u p
+ll ut
+  I
+t ta
+ h y
+s in
+h e
+u a
+ m utta
+er i
+an a
+ t oi
+s sä
+m in
+o o
+el i
+e h
+ l i
+es tä
+ y h
+ö n
+tti in
+ p al
+o m
+  as
+  B
+ l äh
+is sä
+ m i
+t oi
+i tt
+is e
+ ta r
+ sa a
+ik ka
+k ka
+ t ul
+h a
+ta ja
+us t
+im e
+os ta
+ p el
+r o
+ ker to
+  il
+ e si
+l ta
+s tä
+v in
+k en
+H än
+ta n
+it en
+mm e
+ik o
+m en
+l o
+0 0
+k k
+ p ar
+ik si
+e et
+  ih
+v e
+ p it
+i den
+ S uom
+t ö
+ o llut
+et ta
+d a
+y ks
+h ti
+u ra
+k y
+k on
+t ka
+ j äl
+ist en
+ t uo
+k een
+r in
+is ä
+ ta i
+ ku in
+ k uu
+ kerto o
+m er
+  er
+isi a
+it se
+ t u
+ jo ka
+ k i
+ a r
+o h
+  C
+t een
+ma a
+v än
+y tt
+u ut
+  (
+u us
+  O
+ t i
+en ä
+h in
+t in
+m än
+ p uol
+ ta pa
+mm in
+ va r
+il a
+va a
+: n
+ h e
+i ta
+ik ä
+v o
+m inen
+ t ie
+  "
+hd o
+ s en
+ma t
+v uo
+ jäl keen
+ va s
+ m en
+d i
+ o sa
+s ti
+n na
+u un
+ik ki
+is in
+an ta
+is et
+tt y
+ll een
+is esti
+ vi ime
+m ista
+ kan ssa
+u d
+k ö
+  U
+r an
+ p uh
+un ut
+r it
+ n a
+j än
+ n iin
+e lla
+ e d
+mm ä
+20 2
+ s o
+k an
+  us
+ m aa
+ k ir
+in n
+y h
+ h uo
+mm en
+t on
+v oi
+ s uo
+p ä
+ t yö
+ v ä
+tä än
+m ään
+i lla
+uu d
+s en
+  F
+d o
+m e
+k il
+i lle
+ l op
+jo it
+k ko
+ ko r
+ ol isi
+S e
+tt o
+ en si
+j on
+es t
+är j
+  Y
+as ti
+a an
+ k e
+ka a
+ p äi
+ san oo
+ a si
+ vuo nna
+il i
+va l
+ist o
+ sa i
+e llä
+e lle
+s o
+k ra
+  G
+T ä
+u den
+uk ku
+  D
+ m in
+m assa
+ te h
+ ko l
+ ku iten
+ t il
+  is
+ j ul
+uu ta
+ y li
+y ttä
+ s el
+h ta
+ k y
+ks en
+ e ur
+ o lla
+ei ta
+j oi
+ k ul
+k un
+ s uu
+uom ala
+ a ik
+v el
+ k os
+o li
+ k ys
+ l uo
+K a
+e a
+ en n
+ h al
+tt e
+h an
+isi in
+ se kä
+al i
+ik ko
+r ä
+k ki
+ja t
+uk sia
+n i
+os en
+si den
+ a ika
+o ja
+re siden
+ V enä
+ n i
+ vi elä
+ h en
+ ker toi
+mp i
+ ha ll
+ j ä
+tä ä
+is ti
+ po li
+un a
+ p i
+ut taa
+ hän en
+p u
+ tapa h
+ yh te
+ o ike
+  uu
+ y ksi
+ v er
+ S a
+g in
+in ä
+ s u
+ ko ko
+ist e
+u va
+ vuo den
+p i
+ k il
+ n yt
+  ul
+ Suom en
+ma lla
+ mi el
+al ta
+r u
+it e
+ se ura
+it ta
+ti in
+ t ur
+m isen
+ va in
+ut o
+p äi
+än yt
+ja a
+k oi
+mer k
+E n
+ l ö
+ei den
+e d
+l an
+ si itä
+u si
+ l ä
+ hy vin
+u lla
+ kuiten kin
+ n o
+yn yt
+a ll
+ar i
+v ää
+ik en
+- vuo
+ v äh
+  W
+n ut
+ka s
+ ja t
+ s y
+as t
+u e
+i v
+a p
+tt ää
+ ma hdo
+u v
+  f
+oi ta
+ v an
+ ti et
+ih e
+  an
+el e
+1 9
+ l e
+n ä
+ys tä
+ k uo
+ si tä
+ o s
+hd e
+ t ut
+  ri
+? 
+
+k unn
+merk iksi
+a m
+ t unn
+  elä
+de lla
+k ään
+mi a
+ m on
+ o h
+h taja
+-vuo ti
+ h ar
+ist u
+ ka t
+d än
+ hy vä
+ va sta
+ll inen
+ p residen
+hd ys
+tt en
+m o
+ ensi mmä
+ann e
+ j ossa
+ ka ikki
+ san oi
+min ist
+y r
+ll o
+ kes k
+ n e
+  b
+ aik ana
+d ä
+ m yö
+ j on
+it us
+ t un
+ j os
+ k ann
+ n oin
+ a ina
+  itse
+d in
+l ä
+uk si
+up un
+ p r
+ ko h
+e mm
+tt ei
+ih in
+el in
+ll oin
+yt y
+tti a
+n yt
+ pal jon
+ k as
+o on
+il ta
+t un
+er ä
+ul a
+j el
+pa il
+ m ie
+ va ik
+ enn en
+isä ksi
+ s yy
+V i
+kil ö
+tu i
+ ei vät
+ l o
+v er
+k is
+ si tten
+us te
+tan ut
+vi a
+uks essa
+ k iin
+uu den
+ r e
+S a
+20 1
+ p ys
+ s uomala
+p al
+i g
+ a i
+ e pä
+ si llä
+ää rä
+ kä y
+ti o
+ va a
+ ka ksi
+ut u
+ U kra
+ te ke
+ kuu l
+ll ista
+ o ttel
+S uom
+ k eh
+ v äl
+es k
+el sin
+ kes ki
+ il m
+ mu un
+ j ärj
+jo htaja
+ot ta
+  eri
+u utta
+c h
+ ma an
+ e ttei
+  ään
+ik on
+ mu assa
+ M ar
+ A n
+ la p
+ j ää
+l in
+ m il
+t uu
+la is
+ru mp
+s on
+ m e
+mi en
+ tu li
+ m er
+el ta
+isi ä
+ l as
+ik ke
+va lta
+ ku va
+uo t
+minist eri
+is a
+ esi merkiksi
+ vas taan
+ vä li
+ h ä
+s an
+v en
+ytt ää
+ M a
+ pel aa
+o jen
+u ka
+j e
+ll isen
+l en
+er in
+k kä
+ li itt
+va lla
+is een
+ v oit
+o lla
+ e de
+ L a
+on en
+ toi min
+ to te
+ tul ee
+ttel i
+un ta
+ tul e
+o ku
+ K a
+ n uo
+o ike
+ a ie
+ l is
+ur he
+llis esti
+ pr osen
+00 0
+ hen kilö
+ust el
+p an
+ maa il
+uks et
+ ih m
+k sa
+ pit ää
+ h yö
+ ko mmen
+it i
+ toi mi
+ oli vat
+i an
+ m itä
+e ksi
+T a
+ ul ko
+h den
+ k unn
+ si ja
+ h el
+yks en
+va sti
+a lla
+ll i
+T o
+ist ö
+ta r
+ ma al
+ eur oa
+ l uk
+s si
+m ma
+s t
+ al u
+o ma
+ v e
+es een
+ h et
+ te hd
+in an
+er a
+ik an
+ttu a
+ytt ö
+ a sia
+ p ien
+ vuo tta
+ k ut
+ti a
+J os
+ m uu
+ pa ika
+ h ei
+ jul ka
+in g
+ jo tka
+it s
+p o
+  el
+V a
+ t er
+uo mi
+än ä
+ Venä jän
+h o
+ k är
+ ar vi
+emm än
+d er
+ mi es
+ n el
+tt om
+ va h
+j ien
+  uh
+K un
+ty i
+ toi m
+O n
+ y le
+el tä
+uu ri
+ur o
+  uut
+kon a
+it y
+ee lla
+ a jan
+ jon ka
+  eli
+d an
+u ta
+en n
+ma tta
+ jo h
+ ka upun
+uud essa
+y yn
+uks een
+ki a
+ e ikä
+ll an
+it o
+mp ia
+ a ihe
+P oli
+ m et
+ sa an
+anta ina
+k er
+ kan sa
+ t uk
+ tur va
+ar r
+ k on
+ih en
+ s op
+ kä si
+ o p
+vi ä
+ jo ukku
+L a
+ y hd
+lla an
+ks een
+ti l
+al e
+ h i
+p ää
+in ta
+K o
+ ko ul
+jo on
+ vuo si
+ T rump
+mis een
+b b
+ ka u
+- a
+ e t
+h en
+ y llä
+uks esta
+oi hin
+an sa
+y ky
+sa r
+ttä vä
+is essa
+N ä
+vi en
+ va ikka
+n n
+" .
+
+d ot
+ lis ää
+ tä män
+ a ut
+an o
+är ke
+ti on
+ H elsin
+ kos ka
+ si ir
+an s
+ise ksi
+ p uo
+ ra ken
+ ole van
+k ke
+va r
+ist el
+ m it
+ne et
+r en
+ l aa
+ t or
+ su unn
+k el
+ust us
+ seura a
+oi den
+ t ö
+ te ki
+ si l
+ku ussa
+k ul
+ttel e
+p aa
+ va ih
+op e
+g el
+ T a
+uk ka
+ a ja
+i ä
+ mil joon
+in o
+1 0
+J o
+ri a
+ p itä
+ ta lo
+mis esta
+u m
+ s yn
+p e
+t el
+ aie mmin
+er g
+ si ihen
+ m iten
+p uol
+ Y hdys
+ vi r
+M yös
+oi tti
+ki r
+u ja
+as to
+oi lla
+y ys
+ til an
+ann ut
+ tapah tu
+llä än
+e tt
+ n äh
+ jo ta
+mm an
+ pää tö
+ en emmän
+ tut ki
+tu bb
+g a
+ k ar
+ m uuta
+us ti
+ tä llä
+jan ta
+e ttu
+ S al
+ tä mä
+it uksen
+ mu ut
+t er
+y m
+llis uus
+oit ta
+ j uo
+j assa
+  in
+ kir joit
+ tar ko
+ I lta
+it taa
+ presiden tti
+1 5
+ut ui
+ maail man
+ l isäksi
+Suom en
+ kes ä
+al u
+yt ö
+n an
+ke a
+än n
+Tä mä
+m asta
+d on
+20 0
+ti la
+ R o
+o issa
+ik u
+it si
+es te
+ I n
+h i
+ y rit
+ty y
+ no us
+y i
+y ksi
+ m äärä
+ y l
+to a
+ kol m
+ puh een
+k uu
+e in
+o ta
+p el
+k esk
+jan a
+os ti
+ ha asta
+ ker taa
+ kann at
+jo ukku
+ va an
+ lop p
+ m ikä
+uk ana
+j ärj
+äh kö
+kunn an
+uro op
+in e
+da an
+P a
+ Suom essa
+N yt
+ ta ka
+ ko hd
+E i
+een sa
+ mit ään
+isi lle
+ nä y
+tt ö
+m us
+ke llä
+S i
+ t ärke
+K uva
+ kys e
+een sä
+ en t
+es taan
+ l en
+s ina
+ tie do
+  d
+ pää s
+os t
+s ra
+ J o
+ m ei
+ R a
+ a va
+M a
+ va ra
+ la u
+pp i
+o ista
+  urhe
+- S
+3 0
+ ko ti
+u tti
+ku un
+kun ta
+ s yö
+v on
+ jo pa
+t ys
+ suo si
+ t äh
+ik in
+unn unta
+mä ssä
+la inen
+o sa
+ kol me
+ P a
+ ih an
+ kommen toi
+ osa ll
+mi in
+ s ää
+ k is
+ s isä
+ us ko
+ päi vä
+i c
+ prosen ttia
+-vuoti as
+ul un
+ n yky
+ista a
+1 2
+v oin
+v it
+m ää
+ sai ra
+ esi in
+ va ike
+ M M
+ vas taa
+ tehd ä
+ per janta
+ kil pail
+ul ta
+il e
+n te
+is u
+vä l
+an i
+ en ää
+y d
+ll in
+ kuu ka
+ k aa
+Poli isi
+ s is
+g en
+g ra
+ v o
+ a uto
+ y mp
+jo is
+it on
+ j uh
+ll en
+ h ui
+ s uh
+ti en
+H L
+ ker ro
+ y ri
+ vi ikon
+h aa
+ut in
+u ri
+ Venä jä
+pal vel
+ks an
+ se lla
+ läh es
+ise lla
+ er ity
+H e
+usta ja
+ ta l
+äl ä
+ m o
+ ki er
+it el
+ p ala
+to ja
+ m uo
+ läh e
+ol o
+k kin
+ t y
+yt yy
+ uu si
+k uuta
+j ia
+ut us
+ m ukana
+op p
+ li ik
+ ter ve
+lle et
+ s ähkö
+ ky mmen
+ sa at
+ ko ke
+ ih mis
+ vi de
+ke ä
+ vaa ti
+ ol y
+t ynyt
+ tar v
+ l u
+is esta
+t ik
+S en
+m mat
+ po is
+j u
+ v en
+ e hdo
+ kat s
+ al ku
+ to della
+s u
+ ke llo
+ saan ut
+ tilan te
+ h o
+R a
+ j al
+as e
+ma r
+ h an
+ jo ul
+ po l
+ o ma
+M i
+ ri i
+y ä
+to on
+ R uot
+il u
+ H a
+ N e
+m istä
+t taa
+yn n
+ p y
+ arvi oi
+ pit kä
+tä vä
+vän ä
+mp aa
+u vo
+ vuo ksi
+- l
+e taan
+k it
+V uo
+uk ko
+  ik
+ r uo
+ aika a
+ise lle
+ poli isi
+ po h
+ as e
+ s unnunta
+y llä
+ per uste
+ttä in
+ist ui
+ ma t
+i d
+ ra tka
+m on
+ ja tka
+v oit
+ h uol
+ist on
+k ku
+ hal u
+va ssa
+1 8
+ tä ys
+ j äi
+ yle is
+ t uh
+ kut en
+ti iv
+ ka utta
+essa an
+van sa
+Vi ime
+ ka ik
+l u
+j et
+ ol en
+ä jä
+f f
+in i
+ puo li
+V enä
+ tä ssä
+ väh än
+ Ukra inan
+ann a
+ yhte is
+ j uuri
+te ttiin
+ per us
+ ti ista
+tt een
+ tor sta
+ suu r
+to jen
+ on n
+p or
+isen a
+h ar
+ E uroop
+un sa
+ sa r
+j ö
+ ai kaan
+5 0
+vi ik
+men taja
+ri ä
+ tar jo
+J a
+k os
+ vo isi
+ a lle
+ L e
+ N a
+p er
+  de
+ val ta
+Hän en
+ liitt y
+c e
+ks in
+: lle
+ ra uh
+ nel jä
+ n im
+ k en
+ tuo mi
+ tu llut
+us ten
+on sa
+ läh te
+i va
+ s ä
+t yn
+ kiin ni
+kka a
+os taa
+a si
+ttel ee
+ vah v
+oit taa
+L isäksi
+k us
+r on
+iko lla
+el en
+ S tubb
+ si inä
+u lle
+ s in
+ pal vel
+ ed us
+m issa
+ al koi
+ hyö kkä
+is ista
+ l in
+k ana
+ e h
+ jo ten
+an tun
+mm är
+ L i
+ra a
+et o
+ mu ist
+yy ttä
+ t yös
+jä t
+ a v
+ pa in
+ hal ua
+ ma tka
+ o tta
+ n ope
+uks ista
+ A r
+al in
+  ä
+j asta
+ suu ri
+ kä yttä
+ il man
+ mu r
+ el oku
+y l
+t unut
+ yh teen
+ikka a
+ö ssä
+ on gel
+ so sia
+ta l
+V al
+ kä yttö
+il ee
+u sa
+al an
+he mmin
+est el
+1 7
+uud esta
+ ka uden
+ttel ussa
+nä kö
+ T o
+ par ha
+ei lla
+" 
+
+e ttiin
+uo le
+ sel vi
+ saa da
+g i
+oh jois
+ ta as
+ het kellä
+ l isä
+ li iken
+om et
+1 6
+! 
+
+ ede lleen
+on a
+O len
+l aa
+ki e
+ par e
+ei lle
+ huo mi
+ ta kia
+ kuiten kaan
+ T ur
+pp u
+n o
+ I sra
+j är
+ vuo d
+ r o
+ kat so
+ttä mä
+ l ää
+ pitä isi
+kk ää
+y hti
+kk ö
+ to inen
+  /
+ko hta
+v isi
+ K i
+ lö y
+ Helsin gin
+1 1
+is issa
+oi m
+ kesk ustel
+ik os
+L i
+ko r
+ nuo r
+ on ne
+ S uomi
+ h ie
+ ta valla
+ka sta
+ke e
+den näkö
+ V al
+ttel u
+b er
+s son
+ p u
+c k
+ jä sen
+A l
+antun ti
+ll on
+va sta
+tu a
+M utta
+oh jel
+isen ä
+ vi e
+: ssä
+ki in
+ E U
+ per ä
+ aina kin
+valta in
+u ttu
+ja an
+is s
+te tty
+ voi tti
+ää r
+ko h
+ il ma
+el a
+ut un
+ me di
+  un
+uo n
+ ta sa
+ o lleet
+ N or
+ k ään
+ as ti
+K ys
+es tö
+ t ila
+ san o
+1 4
+uk u
+pa an
+in väl
+mi es
+ut ki
+ee lle
+pp o
+ks et
+ val m
+i ll
+y den
+ mer ki
+ kiin n
+ut unut
+ e ten
+ yhd essä
+ r as
+ tö r
+ va ka
+nte ki
+h oit
+ei llä
+ perjanta ina
+le hti
+tt änyt
+ K o
+ uu den
+ nä in
+ r iko
+ pi de
+as taan
+ vi era
+ p iste
+ast us
+1 3
+ uut is
+ kan san
+ to de
+ä ri
+ puheen johtaja
+ mahdo llis
+is essä
+ P utin
+  g
+j ää
+-S ano
+k et
+ lau antaina
+on i
+ per h
+ p yö
+te et
+ se ur
+ty ä
+P er
+E si
+ is o
+ hall itus
+uk o
+M in
+s ky
+ kil omet
+ tiedo tte
+ sa man
+itt o
+is ka
+ y mmär
+päi vä
+ m ar
+its ee
+ til anne
+viik kona
+ur in
+ a mp
+a ika
+ sop im
+il tä
+ ha va
+ kaupun gin
+  Z
+ää ri
+va an
+ h er
+te taan
+ per in
+l tä
+isto ri
+ kirjoit taa
+) .
+
+ ky llä
+es tin
+sta gra
+ lä mp
+- kis
+ jo hta
+ yh den
+ presiden tin
+u ma
+ to isen
+ ed usta
+ miljoon aa
+ kau della
+ pää stä
+r es
+ va li
+ hall ituksen
+ kuin ka
+N a
+ he ti
+ ky l
+im o
+ pa h
+uk i
+iku ussa
+ er ila
+ta lo
+ ni itä
+ al ka
+ hie man
+us si
+ p an
+vän sä
+ t än
+K or
+ut uu
+uk e
+ täys in
+it os
+ ka hden
+ al kaa
+ väli llä
+  X
+ e päi
+ v äi
+ si is
+ yh tä
+ r yh
+ vi ikolla
+ vas t
+ jat ku
+b a
+ala inen
+ nä ky
+uut een
+te ttu
+ teh nyt
+ er iko
+ O r
+ va i
+ y stä
+ hei dän
+ t änä
+ miel estä
+ kor ke
+ S e
+ In stagra
+ hän tä
+ran oma
+äjä oike
+  i
+yy d
+ mie hen
+2 5
+P ää
+ n or
+ pal j
+  its
+u li
+ka r
+uks issa
+ A le
+ vi er
+vi r
+ myö hemmin
+n in
+ ma ksa
+uk kaan
+ var m
+vi in
+ m issä
+än i
+ jatka a
+ h uu
+ us eita
+ pää si
+il ä
+ ker ran
+ttu i
+ pit i
+ s ur
+is uus
+es ty
+uksi in
+ ed es
+ a am
+k kaan
+ epä il
+ to dennäkö
+ len to
+ H e
+ sosia al
+l as
+mi eh
+esta r
+ miel en
+ torsta ina
+ p uu
+ll isia
+ p yy
+ va al
+ joukku e
+vin to
+jo hta
+ nä hd
+ men i
+ jul k
+I lta
+hd elle
+-vuoti a
+ s uun
+is k
+utta nut
+ kys ym
+k än
+ ta voi
+) ,
+ kuo le
+ Ukra ina
+ o man
+ eur on
+ H arr
+Nä in
+ nä yttää
+ ar vo
+ Trump in
+ si v
+T uo
+ h erä
+ ta va
+yty i
+h än
+es in
+eh to
+tt una
+k ossa
+ myö n
+ tul o
+ maan antaina
+ tiista ina
+h er
+tt uu
+ po ikke
+ oh jel
+ ai van
+illa an
+ud essa
+ voi vat
+ huo li
+ p eli
+y vä
+Va ikka
+ keski viikkona
+ al ussa
+ saa p
+ v oin
+ mu ka
+oi lle
+ o mista
+ per he
+r yh
+ H ar
+ E s
+ kuo li
+ j oita
+ mahdo llista
+ hän et
+ tie dot
+ men e
+ us ein
+ s ul
+ puol estaan
+ ven älä
+ist un
+ kos kaan
+v issa
+men ta
+ p ro
+ kä ytö
+ alu eella
+ la in
+ o tti
+ar in
+-l uv
+ t uu
+si vat
+ l ei
+ P ohjois
+" ,
+u ista
+ k ie
+ yksi ty
+p erä
+ sunnunta ina
+ a mma
+llis et
+k ut
+ A l
+ vi esti
+ ma ks
+ mie h
+ kä vi
+ o dot
+ no usi
+ys sä
+te e
+ ka mp
+A r
+ P e
+ h oi
+i ra
+ksi a
+joukku e
+p uole
+ L in
+ise llä
+ o ttaa
+va ksi
+ V ir
+van a
+joi den
+ peruste ella
+as taa
+N e
+is estä
+ al a
+ jul kis
+Ka ikki
+pa ika
+mi ä
+ tote aa
+  ir
+u de
+ut een
+ si ellä
+ p ur
+ a iko
+g an
+ puol ustus
+Y ksi
+ vä ki
+äl tä
+ B iden
+ huo ma
+l y
+ to ista
+ tä tä
+va al
+ asi asta
+19 9
+itt ää
+il y
+ p e
+ yh ä
+ p or
+ K ar
+H a
+en sa
+ta li
+Y hdys
+ s yks
+ tä lla
+ R e
+d ia
+ si lloin
+p pa
+ hyvä ks
+li ig
+o la
+it ys
+ka t
+ka pa
+ vi h
+ll ik
+il ja
+4 0
+ksi ä
+mis eksi
+ Ilta le
+hd ot
+ raken n
+g e
+ ar v
+tt oa
+ j ään
+on n
+ul o
+i llä
+än si
+ma al
+to in
+ N HL
+mo kra
+ vi ikko
+ p ä
+yhti ö
+K es
+r y
+ha ll
+ van he
+ työs ken
+  uud
+ää llä
+il un
+ ymp äri
+ kä yt
+t elä
+t ur
+ s uk
+ a p
+ f ina
+esta ri
+ työ nteki
+ mukaan sa
+ kansa inväl
+ as u
+ ensimmä inen
+än eet
+issa an
+ eh kä
+ tie d
+ kir ja
+ teh ty
+En si
+ p oi
+inn an
+ tiedotte essa
+K i
+n ö
+ saat taa
+ t yy
+ ilm oit
+ sija an
+A si
+ti et
+ist unut
+mp er
+ ihm istä
+uo r
+k är
+te ita
+ K e
+mis estä
+ r an
+ee ksi
+  do
+L ue
+ t ien
+ mu ita
+ih to
+ J a
+ pys ty
+ei hin
+ jo issa
+ v el
+a ta
+ G a
+ jo lla
+uks e
+ suo ra
+ kas v
+er aa
+uh a
+ en na
+ sel vä
+ m el
+Kys e
+ py sä
+ eri ttäin
+ jo tta
+ kes ke
+b erg
+va s
+ il ta
+ jä lleen
+ j osta
+it taja
+I l
+ala is
+ihe essa
+ o do
+ke m
+j ille
+ a jo
+ tapah tui
+ tän ään
+V ar
+pa h
+on al
+ men n
+ Ne w
+i o
+m äärä
+ ko kona
+ oly mpia
+k ti
+p ol
+hin g
+ vaik uttaa
+ Suom een
+kil pail
+te tään
+joit us
+ teke e
+ tä y
+er s
+ nel jän
+yd essä
+ pit kään
+ks e
+op im
+ lop ulta
+ jota in
+ taka isin
+ili ja
+ täh än
+M ar
+ poli itt
+s tö
+ Euroop an
+r os
+ lap si
+A n
+ ka hde
+s uomala
+ kuul u
+2 2
+ so til
+  it
+ pi dä
+ tut kin
+yks essä
+ an taa
+ järj estä
+ ka up
+ kä ynn
+ m yy
+p on
+P el
+ se itse
+ kä yttää
+i mi
+ a in
+ vuo sina
+ker ta
+ myö tä
+S al
+ yhte ist
+ul u
+ sija itse
+ ma in
+ tule va
+ aut on
+ ni iden
+ H aa
+ p yr
+os in
+ sy ys
+ ensimmä isen
+ koh taa
+ suo rit
+S uomala
+pä in
+r een
+uks ella
+ ottel un
+ järj este
+U kra
+ ka i
+  ur
+ sa malla
+ voi daan
+arr as
+p ar
+ hän elle
+ puol u
+ las ten
+järj estel
+ huoli matta
+ut kin
+li iton
+s er
+ o pp
+ a jat
+2 4
+ lap sen
+t it
+an en
+ll yt
+joi tti
+  anta
+k usta
+T i
+ist uu
+ y ö
+ turva llisuus
+ nope asti
+ voi ma
+ hyvin voin
+ lo ukkaan
+ans ka
+ e teen
+ maa han
+te essa
+ kär äjäoike
+ Yhdys valtain
+ halu aa
+Esi merkiksi
+mä t
+s y
+ voi tto
+ li ian
+K u
+ed ia
+ elä män
+ vaih to
+m et
+ pää tty
+ tu lla
+an der
+ p ud
+m u
+ö l
+ot taa
+ huo n
+istä ä
+ j är
+mm i
+ir e
+yksi ä
+ h uh
+ va pa
+la isen
+ jo utui
+mpi ala
+ lä pi
+ puh u
+Mi es
+in na
+ kes ken
+ lö ytyy
+2 3
+j ista
+on in
+ki ä
+t uo
+tt ila
+ erity isesti
+is o
+p it
+ uu de
+ jo ukko
+ol ta
+ura a
+ ihm isiä
+P ar
+ot us
+ la us
+va ra
+tt eet
+mp pan
+  ikä
+ I l
+i i
+a lle
+ut ua
+vi lle
+ ko hta
+ks ua
+ kerro taan
+2 1
+-Sano mat
+ luo nn
+ pa ik
+ toi v
+ h oit
+to r
+ viikon l
+ teh tä
+ yhteen sä
+ ra ja
+ puo le
+ kymmen en
+ jo lloin
+ na inen
+val mentaja
+ yhte ydessä
+ ään estä
+h y
+ ta n
+ol m
+ läh ti
+ kuul uu
+r ik
+ asi aa
+k ön
+u issa
+ to si
+) 
+
+ va paa
+ poli isin
+ aihe utta
+Venä jän
+H all
+ val tion
+ suunn itel
+va llan
+- ilta
+us taa
+ kansan ed
+ vi isi
+ nä k
+ var sin
+tta in
+ li ig
+n en
+ ka hd
+v es
+ osa a
+ yli op
+ j oiden
+p uh
+ H o
+b an
+ lap s
+ttä vän
+ ker ton
+ val mista
+ tä stä
+ hel p
+pel aa
+il an
+et e
+ko a
+ M ä
+ Ruot sin
+c o
+ m itta
+er o
+ vaik utta
+i aa
+si in
+ mei dän
+ist us
+ kil pa
+h ä
+ti lan
+ty ksen
+k inen
+tan en
+ terve ys
+ m yyn
+ttä jä
+Tä män
+ tiet o
+ ta usta
+ttä mään
+ ni mi
+v y
+ h istori
+ l yh
+ri in
+P al
+voi ma
+pah tu
+v ista
+is ko
+is uudessa
+ kul jet
+ ihmis et
+llis uuden
+ ymp är
+ K an
+ k oi
+ s ään
+een a
+R o
+si v
+ vi ranoma
+ saa v
+m uksen
+ö y
+ka up
+ R i
+ ja ks
+ väh en
+ kannat taa
+t ele
+tti en
+b o
+ mu si
+eh ti
+ par i
+ ruo ka
+T e
+ k rit
+ m arras
+ E l
+ kier ro
+ut on
+ks ella
+ E n
+at on
+ka upun
+K ä
+ val tio
+ tul isi
+uv os
+ito ksen
+ vaike a
+ h ien
+as in
+ O ulun
+ nä yttä
+ mo le
+ on ko
+ y ksin
+Suom essa
+ toimin ta
+l äh
+kon en
+la ista
+ r unsa
+ I tä
+ kir joitti
+kan en
+ osall istu
+us to
+f i
+ ta so
+e hdo
+tty ä
+tt unut
+ lämp ö
+ er ä
+H elsin
+yks estä
+ min kä
+  ura
+ri en
+ K or
+ kos ke
+uu r
+ na isten
+ ilm oitti
+s issa
+ p rin
+än sä
+ks esta
+1 00
+ale issa
+j un
+t änyt
+joi ta
+a tt
+ E M
+ päi vän
+ k al
+ma tto
+ih a
+ r ikos
+ so ta
+ suu rin
+onal d
+ky mmen
+ mon i
+än en
+N i
+ te k
+ kol men
+ista an
+ lo ka
+k ää
+ ratka is
+L ap
+tt eita
+ja r
+ jo ista
+ pää lle
+ työ n
+R uot
+ Isra elin
+K e
+ kesk usta
+k issa
+et in
+6 0
+isi lla
+ ko hti
+tti vät
+ ka iken
+ tun te
+d y
+ja lla
+ tuk e
+ ra vinto
+ tote si
+p s
+ o lleen
+yö n
+ yh ti
+yks et
+- P
+v issä
+ r is
+ ma ali
+ Ukra in
+h te
+ie mi
+ann etta
+ julka isi
+ po hti
+ ka pp
+ ul os
+r ö
+ttel un
+ V ar
+ as un
+ uutis oi
+ V e
+ hel m
+in een
+- p
+yn ä
+palvel u
+t is
+ik ku
+ va iheessa
+ mu iden
+ teh tävä
+ onne ttom
+ pa ko
+ met sä
+ n ime
+ suu re
+ ver ran
+järj estö
+- Suomen
+as ton
+ei jon
+ pää tt
+ so dan
+ ne uvo
+ oike us
+  uutta
+va li
+ka l
+ V a
+ ta mm
+mp p
+ vaik ut
+ s om
+ma tka
+ jo uk
+vä li
+ vi estin
+s el
+ vi iden
+mä ki
+ he inä
+ muist uttaa
+O l
+ ka h
+ mu uto
+un d
+t etta
+mp ien
+ C h
+ oike in
+ ve si
+antunti ja
+os e
+ J oh
+L äh
+ik i
+i hd
+ jo ku
+  elin
+ ta kana
+mä stä
+ maal is
+- sar
+L e
+ h ir
+ttä vät
+ D a
+ttävä sti
+oi li
+ sil ti
+ perin te
+ us e
+ muo d
+g issä
+ m iksi
+ko k
+ asi oita
+ haasta ttelussa
+ka uden
+ sa ir
+ L eh
+ ed essä
+Tä llä
+ kär si
+ perh een
+M e
+uksen a
+ui lla
+is uuden
+es s
+ van ke
+ta va
+man a
+ka u
+ jo htaja
+vi o
+kan sa
+est ys
+ medi assa
+V ir
+ hän ellä
+ nä kö
+ varm asti
+ al ue
+ ulko ma
+c up
+ liiken ne
+ oh j
+ tuo lloin
+V an
+2 7
+pa ikka
+ asi an
+ Ale x
+ läh tö
+mä llä
+ tiet oa
+- ar
+ik s
+ pa ikka
+up er
+p in
+ö r
+as si
+ist ön
+ an toi
+ann in
+ seitse män
+ t äällä
+ le ikka
+ juh li
+ y kkö
+ kamp an
+h on
+ oly mpiala
+ pää ministeri
+ mi eli
+yh te
+ lop pu
+-ilta na
+O sa
+t issa
+ol in
+ päi vänä
+ päätö s
+ tarv itse
+T ur
+ pel asi
+mat on
+T rump
+ h aa
+ E telä
+ enn ä
+ ottel ussa
+ Sal on
+astus la
+la isia
+residen tti
+t sa
+mp ää
+man sa
+ I S
+ toim itus
+puole lla
+ tapah tun
+ de mokra
+ V an
+- ta
+en kin
+ jal kapa
+- A
+v ina
+is uutta
+T ar
+ y hde
+ te ko
+ika a
+p oli
+ra ken
+ K r
+ mies ten
+llik kö
+u mer
+as te
+oi v
+im en
+ mar kkin
+g o
+ va se
+v et
+oit us
+tteli jä
+h uo
+ liik ku
+Vuo nna
+M on
+ et si
+ L ap
+ las ke
+  ääri
+ki er
+yks een
+ ke vä
+ luk i
+ joh on
+ Ro van
+l uo
+aa t
+ ka ikke
+  inn
+ri tan
+ P er
+ tarko itus
+S o
+u jen
+ p ist
+ti e
+ us ea
+j etta
+ T he
+Venä jä
+Tä ssä
+h oi
+ luk e
+ kut s
+ talo us
+I S
+ la j
+19 8
+ joukku een
+ suunn i
+ sis äl
+pol iti
+O li
+ L o
+ pi an
+ vaa ra
+t än
+K ir
+ H ä
+s uo
+ kerton ut
+K yllä
+T V
+en a
+ta vat
+ K os
+in tään
+kk os
+ C ar
+ ver kko
+ väl ttämä
+ Ta mper
+ k r
+ k ri
+ki en
+mi lle
+tte ja
+ttel y
+ suomala is
+ t uom
+ist er
+ to d
+di o
+ ava us
+S itt
+ h inta
+oi min
+j ala
+ läh ellä
+ m istä
+ kuo llut
+T T
+m it
+p en
+u ll
+ M ikko
+essä än
+ hyvinvoin ti
+ tar p
+. )
+j alta
+ ku vaa
+oit u
+ val mi
+ko t
+ k isa
+ S M
+ suora an
+i mm
+ tie dä
+ y din
+si t
+O ike
+ ta paa
+P uol
+S uomi
+hti in
+ toimi i
+M aa
+al o
+ys ti
+oh jan
+ tiet ojen
+n een
+ il mi
+ er o
+tto ri
+ voin ut
+ t yh
+ Y le
+ poi ka
+S iin
+ur s
+hd ist
+la men
+ M e
+ B a
+ F or
+ et elä
+2 6
+ san oa
+ kuu si
+h yö
+ h ur
+ h ilja
+K ar
+t inen
+tt un
+ a lla
+tti ä
+ Iltale hdelle
+ t v
+ kun ing
+ud u
+c an
+mis essa
+ton en
+ mel ko
+ty ks
+e itä
+kä ri
+ V i
+ kor ja
+ olevan sa
+ se ksua
+ uu sia
+ syy tä
+ saira ala
+ par as
+ r ea
+ä t
+ al koh
+ ent inen
+ todennäkö isesti
+ Ga z
+i vo
+ teke mään
+olo g
+ P ari
+  di
+ T e
+ken ut
+  isä
+O le
+ll y
+ t ee
+ ole mme
+ puh el
+ van h
+ pelaa ja
+llis een
+ vuosi en
+ urhe il
+Siin ä
+ei dän
+ al usta
+joit ta
+ va ali
+ n osta
+ tu ttu
+ Yhdys val
+us e
+ y ön
+ la h
+ mil jar
+joukku een
+ kuuka uden
+g issa
+ as et
+ min uu
+ lö yt
+ jää kie
+ lau anta
+g n
+ oike uden
+ mei llä
+ kilomet rin
+2 9
+k tiiv
+ maal in
+ie men
+ al oitti
+ An tti
+ mer kit
+ tie tää
+as en
+änn össä
+Ensi mmä
+y rit
+T ie
+ puol esta
+ hyökkä ys
+ uude lleen
+ Na to
+e or
+te iden
+ uh ka
+ näk yy
+ yrit ys
+Y le
+ul e
+le hden
+ osa lta
+ eur o
+ko ko
+ Lin d
+i p
+uk oku
+ yleis ö
+ka ri
+o lle
+ k ei
+ as unn
+ kor va
+mar kkin
+si en
+ hall in
+ met rin
+Ko ko
+j uo
+ r uu
+in in
+ist oim
+äi ri
+ men ee
+ lö ytyi
+ m edia
+al is
+ ta ppi
+ menn essä
+tt or
+ma lle
+ puol ue
+ ensimmä istä
+ nim en
+ m estar
+ ku van
+ pää tti
+ N o
+oo li
+ Instagra m
+ päi v
+ hui pp
+2 8
+ ole va
+ kyse essä
+ m äär
+ poikke ukse
+n assa
+mi r
+m uut
+ ympär istö
+3 5
+yy den
+ F a
+ paika lla
+R e
+ tehd ään
+ tilante essa
+f or
+it in
+ na isen
+N or
+ lopp uun
+ vaati i
+ kahde ksan
+ui ta
+ miel tä
+y tti
+  up
+L op
+mi lla
+ ker ä
+ ih me
+ kann alta
+tä mään
+ en sin
+ kuva ilee
+uo li
+ S o
+estä än
+ käyttö ön
+H ar
+e esta
+ M er
+ har r
+ selvä sti
+j al
+ o sta
+ist eri
+ar an
+ ko vin
+B C
+e ista
+un i
+ r uot
+ läh et
+ aik u
+ pyr ki
+ vast usta
+l on
+ ha ke
+ pit änyt
+ Y or
+ nor maal
+li itto
+s essa
+ud esta
+ jat kuu
+ll istä
+Ka ksi
+s ää
+ ra a
+ ra h
+ tuo tan
+ kaikki en
+T yö
+b i
+ tapa uksessa
+ ik ään
+ll isten
+ise mmin
+ op et
+ ä iti
+ja lle
+I sra
+m usta
+tä hti
+ikko ja
+ett eri
+i vi
+ k lo
+el ma
+ pal aa
+ läh tien
+ päi vää
+ jon kin
+ vuod esta
+ m ihin
+te issa
+ näh tiin
+ P or
+uksi en
+ perus suomala
+P S
+ n aa
+ per ust
+ do lla
+Sitt en
+ v et
+ul ussa
+ ko va
+ tarko ittaa
+M eillä
+h to
+isi vat
+op ea
+ir in
+ al oit
+ pol iti
+H y
+ v il
+tä vät
+pa ikan
+ ke vää
+ ver ra
+h taa
+tt uuri
+c a
+ j uttu
+etta va
+ tärke ä
+ ty yty
+ eten kin
+ o maa
+ ko tiin
+ vi i
+ pää se
+ poli is
+M o
+e si
+ina an
+in sa
+ne ksi
+ D onald
+N iin
+ sa ta
+b ri
+p eli
+iken ne
+ asia kka
+  u
+ paika lle
+d el
+ j oilla
+ma ri
+taja t
+ en erg
+va llo
+et un
+de ksi
+ H en
+ har joit
+ pare mmin
+mä ttä
+ tuo re
+stä än
+ ni istä
+ päätty i
+r is
+ans kan
+ Isra el
+ yhteist yö
+K at
+ ta voit
+men n
+-vuoti aan
+ministeri ön
+an in
+ui den
+ var ten
+en s
+is aa
+ k ur
+ista n
+ luo n
+9 0
+voi mien
+ suh teen
+- ti
+v eri
+ ra por
+ga ist
+ par is
+ aik oo
+ suun taan
+m ur
+ men nä
+kunn assa
+ N aton
+opp una
+- o
+v istä
+. .
+t s
+ r y
+ B o
+  uk
+8 0
+g l
+al issa
+ tärke ää
+d yn
+ar en
+ M o
+ tä ytyy
+ is ku
+v ist
+ läh i
+ mi lla
+ jat ko
+ tun tuu
+mm ista
+ min uut
+ vase mm
+os uh
+ ta a
+la iset
+ ra haa
+ kas va
+ yl eensä
+p rin
+äh än
+ kan taa
+ saap ui
+5 00
+r än
+ka ssa
+ it sen
+t ra
+v os
+is ku
+ en iten
+äiri ö
+s ut
+ hy vää
+ juo n
+m y
+is yys
+ T im
+ kerto vat
+ Alex ander
+ks ista
+ vi ra
+Poli isin
+g as
+T il
+er ia
+ oh i
+oike us
+ aihe uttaa
+ urhe ili
+ sella inen
+mi el
+ par an
+de lle
+al ia
+V oi
+ pää llä
+h ka
+ite tty
+ ihm isten
+ av ulla
+P o
+ p ot
+ nä mä
+pää tö
+va lle
+at in
+ voit tanut
+: 
+
+ M i
+ hall it
+ jat koi
+istel ee
+  ui
+7 0
+an d
+ r un
+ tapah tunut
+ jään yt
+ll isi
+ U n
+ jat kossa
+Ole mme
+te eseen
+ la itt
+ teh o
+ lä hde
+ nuo ri
+a uto
+ m ik
+ n ostaa
+kki ä
+- s
+M itä
+ min ulle
+ Tur un
+ kapp al
+ k usta
+ten ä
+ tuo tta
+ pah oin
+u ttua
+ik oi
+ne ttom
+ luk u
+yt een
+ nuor ten
+ toista iseksi
+ seksua al
+ si joi
+ koh taan
+t ön
+ e tu
+ P ar
+ kor kea
+kesk us
+ ko ton
+ lop ussa
+ pien i
+ kolm ann
+K esk
+P it
+S itä
+tt eiden
+ist ua
+ epäi llään
+K os
+ S u
+ näh ty
+ m ö
+ epäil ty
+us kin
+ kan ta
+ää rin
+ pää valmentaja
+ol an
+V ä
+ ta s
+ nähd ään
+  anne
+m ei
+ P al
+ ra hoit
+ pääs ee
+Helsin gin
+vali o
+h un
+ti lais
+ luo tta
+ p una
+ to ukoku
+ til annetta
+ministeri ö
+ piste ttä
+l assa
+ sa ma
+ suh ta
+E d
+K är
+ist eli
+utta maan
+ C o
+ huo matta
+päi vän
+ miljoon an
+U l
+ a ino
+ tuk i
+ sa maan
+ välttämä ttä
+- liig
+al assa
+ l änsi
+kan ut
+ nähd ä
+k r
+ m ä
+ ka usi
+la isten
+ val mis
+ U r
+ An der
+d otta
+m een
+ P o
+ saa kka
+ esi t
+ kiin te
+ pääs s
+ sä il
+ minuu ttia
+ M ika
+H ä
+b li
+si tiiv
+va ik
+ O y
+ julka is
+ tapahtu ma
+en e
+ o m
+ sa la
+ K at
+ pa kka
+ hal unn
+ttu ja
+ B ar
+jon e
+ Y len
+ sai vat
+ritan ni
+as tu
+ puh e
+ ottel ua
+ suk up
+ P i
+ Sa ksa
+ esiin ty
+ jä tti
+ usko o
+ puole lla
+E s
+h et
+el oku
+ alu een
+ sop i
+ toimitus johtaja
+g er
+ sisä llä
+er e
+ y lä
+ koko on
+ väh intään
+H o
+t yö
+tt inen
+ r ä
+vallo issa
+t eli
+ kunn ossa
+ Helsin gissä
+ raken ta
+johta jan
+ l ie
+tä r
+ min ä
+ vir ka
+S tubb
+ r ik
+ väh emmän
+ kaikke a
+l ää
+ll ist
+ut ettu
+ill ia
+ Putin in
+ va hing
+ hal usi
+ kannat ta
+I h
+ttel ua
+kon aan
+ joul uk
+ sosiaal isessa
+ t yttö
+hd on
+ ku kaan
+ H am
+ olla an
+ koko om
+d c
+z z
+ut e
+al ue
+ pää ssä
+ ki el
+ joh taa
+ va ku
+ mu ista
+ur an
+ puol is
+ lin ja
+ S ch
+est ön
+ toim itta
+ K iin
+ päätö ksen
+ lyh y
+ut i
+ik k
+ a joi
+ ka p
+ytt änyt
+ pys y
+S A
+vi lla
+ tar vi
+lo ri
+ tek n
+h u
+ppo si
+to ista
+ saa ta
+ saa tu
+ pel annut
+ liitt o
+ liitt yy
+ sar ja
+U s
+ va im
+la di
+ H i
+ maailman m
+- ma
+pu bli
+ toim ittaja
+isk eli
+ odot taa
+ri lla
+M ikä
+S ie
+yt ys
+n on
+oi da
+istä än
+ toi vo
+ li ike
+ eteen päin
+- Kor
+ h u
+ik ö
+ v ei
+yn eet
+ I s
+Si lloin
+ Pe kka
+Kyse essä
+publi kaan
+I n
+si vät
+ e hdot
+Sa malla
+kesk uksen
+ ko konaan
+ ma assa
+ toimin ut
+ll ia
+ke in
+o tto
+ki el
+ K es
+at ta
+ li ikke
+ talo ude
+ kohd alla
+ kevää llä
+e an
+ kes än
+toi hin
+maa lla
+  itä
+h ei
+vi ttä
+ann an
+ te htiin
+-luv un
+ m oo
+il man
+ala isen
+ pel a
+ ih misen
+ pit kän
+ hi ih
+ kesä llä
+kkää jä
+E uroop
+l ö
+ S TT
+st rö
+mieh en
+m uka
+ e hti
+il pail
+ko ja
+ sa m
+ust on
+iste ttu
+ vasta si
+ks än
+ mat kusta
+ v är
+ V il
+ voit ta
+ kut su
+pää llikkö
+l än
+p ur
+ s eli
+  es
+ L u
+han sa
+ K u
+ V er
+voi m
+ joh to
+ tapah tuu
+ ykkö s
+j ään
+ar d
+  c
+ ta istel
+ te o
+ la ula
+ järj estel
+4 5
+ saa daan
+ suo r
+19 7
+ prosen tin
+ C har
+ huo no
+-vuotia ana
+ P etteri
+ nä kem
+ tar kas
+I s
+ turva llis
+ muut os
+ viikonl oppuna
+ pääss yt
+K an
+P äi
+m itta
+ T or
+ san on
+ an si
+ juh la
+us in
+utu vat
+jär vi
+ S ano
+inn on
+ olisi vat
+ mahdo llisuus
+ yksity is
+ Ukrain assa
+ B r
+ pä in
+ ap ua
+ ruot sa
+A ie
+M ie
+ik kaan
+ma ttom
+ kä ynyt
+ saa vat
+En nen
+ sin ne
+ h in
+ oh ja
+ tuk ea
+ tilan teen
+ käyt ännössä
+k elä
+in ti
+ n äi
+ P ur
+sar jan
+O h
+ p ih
+ on kin
+ suo ja
+ kansaned ustaja
+N yky
+ D e
+ra lla
+ tun tia
+ra h
+ P uol
+ il o
+ ri ittää
+tteen a
+ladi mir
+ e mme
+oi vat
+ist ossa
+ sar jan
+L ä
+S u
+p ot
+si lle
+ Suom ea
+mer ikka
+ tun tu
+ tule vat
+ met riä
+ alka en
+T utki
+an t
+ l uva
+ S i
+uud et
+Vi de
+ sil tä
+ ain oa
+ vuo teen
+ mi estä
+valla t
+ ta kaa
+ po sitiiv
+ elä mä
+To inen
+ kon ser
+ näy tti
+te lla
+te eksi
+issä än
+Ilta lehti
+ va u
+pa in
+ kys el
+ hä tä
+ erity isen
+ Es pan
+ jär ky
+istoim isto
+ e x
+ttä vää
+to la
+ kun in
+ keh itt
+m b
+ma ksi
+ r ooli
+ Haa v
+os oit
