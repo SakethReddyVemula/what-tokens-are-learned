@@ -1,9 +1,14 @@
-# TokTrainSuite
+# What Tokens are Learned when Tokenization is Optimized Jointly with Language Modeling?
 
-Training, evaluation, and analysis code for a multilingual study of subword
-tokenizers: how different tokenization algorithms segment 18 typologically
-diverse languages, and how those differences propagate to downstream language
-model quality.
+> **Accepted to [Findings of EMNLP 2026](https://2026.emnlp.org/).**
+
+Saketh Reddy Vemula, Parameswari Krishnamurthy — IIIT Hyderabad, India
+[[arXiv:2608.17325](https://arxiv.org/abs/2608.17325)]
+
+Official code release. Training, evaluation, and analysis code for a
+multilingual study of subword tokenizers: how different tokenization algorithms
+segment 18 typologically diverse languages, and how those differences propagate
+to downstream language model quality.
 
 The suite covers the full experimental pipeline:
 
@@ -63,9 +68,35 @@ BoundlessBPE, PickyBPE, PathPiece, SaGe, MyTE, plus morphologically-informed
 Requires Python 3.10+ and [Git LFS](https://git-lfs.com) (tokenizer binaries in
 `tokenizers-bin/` are LFS-tracked).
 
+> **Heads-up: a full clone is ~5.5 GB across ~55,000 files.** This is
+> deliberate — the repository ships the complete experimental record so every
+> number and figure in the paper can be traced back to its source without
+> re-running the pipeline:
+>
+> | Directory              | Size   | What it is |
+> | ---------------------- | ------ | ---------- |
+> | `evaluation_results/`  | 3.5 GB | Raw per-metric JSON for every language × tokenizer × vocab-size cell (52,957 files) |
+> | `tokenizers-bin/`      | 2.1 GB | All 1,718 trained tokenizer binaries, so evaluation is reproducible without retraining |
+>
+> Everything else — code, figures, aggregated CSVs — is about 60 MB. If you only
+> need those, skip the bulk:
+>
+> ```bash
+> # code and figures only; no LFS binaries, shallow history
+> GIT_LFS_SKIP_SMUDGE=1 git clone --depth 1 \
+>     https://github.com/SakethReddyVemula/what-tokens-are-learned.git
+> ```
+>
+> The aggregated CSVs behind the paper's tables and plots live in
+> `evaluation_csv_results/` (~140 KB) — for most readers those are enough, and
+> the raw JSON is only needed to recompute them.
+
+For the full artifact:
+
 ```bash
 git lfs install
-git clone <repo-url> && cd TokTrainSuite
+git clone https://github.com/SakethReddyVemula/what-tokens-are-learned.git
+cd what-tokens-are-learned
 git lfs pull
 ```
 
@@ -233,6 +264,9 @@ Face Hub under [`SakethVemula`](https://huggingface.co/SakethVemula).
 | [`hnet-morphscore-segments`](https://huggingface.co/datasets/SakethVemula/hnet-morphscore-segments) | H-Nets |
 
 ## Citation
+
+Citation of the Findings of EMNLP 2026 version TBA once it appears in the ACL
+Anthology. Until then, the arXiv preprint:
 
 ```bibtex
 @misc{vemula2026tokenslearnedtokenizationoptimized,
